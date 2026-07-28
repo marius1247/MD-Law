@@ -74,4 +74,4 @@ updated: 2026-07-28
 
 ## Sources
 
-Uploads/Codul transportului feroviar 19-2022.md — pending migration to `10 Acte normative/`.
+Uploads/Cod transport feroviar 19-2022.md — pending migration to `10 Acte normative/`.

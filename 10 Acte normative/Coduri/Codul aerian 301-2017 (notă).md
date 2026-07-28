@@ -74,4 +74,4 @@ updated: 2026-07-28
 
 ## Sources
 
-Uploads/Codul aerian 301-2017.md — pending migration to `10 Acte normative/`.
+Uploads/Cod aerian 301-2017.md — pending migration to `10 Acte normative/`.

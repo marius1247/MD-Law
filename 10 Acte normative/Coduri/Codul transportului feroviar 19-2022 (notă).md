@@ -7,7 +7,7 @@ enabling_act: "[[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice 
 analysis_tier: law-house
 tags: [act-note, analysis, uploads-pending]
 status: draft
-upload_source: "Uploads/Codul transportului feroviar 19-2022.md"
+upload_source: "Uploads/Cod transport feroviar 19-2022.md"
 created: 2026-07-28
 updated: 2026-07-28
 ---

@@ -7,7 +7,7 @@ enabling_act: "[[Legea 1194-1997 — transporturi (text)]]"
 analysis_tier: law-house
 tags: [act-note, analysis, uploads-pending]
 status: draft
-upload_source: "Uploads/Codul aerian 301-2017.md"
+upload_source: "Uploads/Cod aerian 301-2017.md"
 created: 2026-07-28
 updated: 2026-07-28
 ---

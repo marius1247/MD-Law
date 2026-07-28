@@ -1,0 +1,179 @@
+---
+title: "HANRE 261-2026 — modificare Metodologie tarife transport EE (text)"
+type: act-text
+act_type: act-anre
+nr: "261"
+an: 2026
+domeniu: [energetică, energie-electrică, tarife]
+in_vigoare: true
+legis_id: "154024"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=154024"
+continut: text-integral
+text_complet: true
+articole_numarate: 0
+tags: [act, text]
+created: 2026-07-26
+updated: 2026-07-26
+source_ingest: manual-browser-download
+---
+
+# HANRE 261/2026 — modificare Metodologie tarife transport EE
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md**, doc_id [154024](https://www.legis.md/cautare/getResults?lang=ro&doc_id=154024).
+> Descărcare manuală din browser (bypass plafon ~96 KB). Articole normalizate ca `### Articolul N.` pentru ancorare wikilink.
+> Analiză: [[HANRE 261-2026 — modificare Metodologie tarife transport EE (notă)]].
+
+---
+
+## Republica Moldova
+## AGENȚIA NAȚIONALĂ PENTRU REGLEMENTARE ÎN ENERGETICĂ
+HOTĂRÂRE Nr. HANRE261/2026
+din 16.04.2026
+privind modificarea Metodologiei de calculare,
+aprobare și aplicare a tarifelor reglementate pentru
+serviciul de transport al energiei electrice, aprobată
+prin Hotărârea Consiliului de administrație al Agenției
+Naționale pentru Reglementare în Energetică nr. 626/2023
+Publicat : 23.04.2026 în MONITORUL OFICIAL Nr. 176-179 art. 316 Data intrării în vigoare
+În temeiul art. 9 alin. (1) lit. l) și art. 129 alin. (2) lit. b) din Legea nr. 164/2025 cu
+privire la energia electrică (Monitorul Oficial al Republicii Moldova, 2025, nr. 437-440, art.
+598), Consiliul de administrație al Agenției Naționale pentru Reglementare în Energetică
+## HOTĂRĂŞTE:
+- Metodologia de calculare, aprobare și aplicare a tarifelor reglementate pentru
+serviciul  de  transport  al  energiei  electrice,  aprobată  prin  Hotărârea  Consiliului  de
+administrație  al  Agenției  Naționale  pentru  Reglementare  în  Energetică  nr.  626/2023
+(Monitorul  Oficial  al  Republicii  Moldova,  2023,  nr.  430-432,  art.  1098),  înregistrată  la
+Ministerul Justiției cu nr. 1859 din 13 noiembrie 2023, se modifică, după cum urmează:
+1) La punctul 5 în explicațiile componentei „ET”
+j
+din formula (1) cuvintele „estimată a
+fi” se exclud;
+2)  La  punctul  8  textul  „În  cazul  reevaluării  mijloacelor  fixe  și  a  imobilizărilor
+necorporale  amortizabile,  Metodologia  stabilește,  că  valoarea  maximă  de  creștere  a
+amortizării în urma reevaluării, acceptabilă în tarif, nu depășește valoarea cumulativă a
+indicelui prețurilor în industria construcțiilor înregistrat de la anul ultimei reevaluări și
+până în anul reevaluării curente, publicat anual de Biroul National de Statistică al Republicii
+Moldova. În cazul reevaluării, nu se admite includerea in calculul tarifului a amortizării
+activelor complet amortizate, valoarea amortizării cărora deja a fost inclusă în tarife.” se
+substitute cu textul „La determinarea costului de intrare al mijloacelor fixe şi imobilizărilor
+necorporale se ia in considerare valoarea de proiect a investițiilor în lucrările de construcție
+a obiectelor rețelelor electrice de transport, declarate lucrări de utilitate publică de interes
+național, din momentul debursării mijloacelor financiare pentru finanțarea proiectului.”
+3) La punctul 10 cuvintele „SNC „Cheltuieli”” se substituie cu textul „standardele
+naționale de contabilitate și/sau internaționale de raportare financiară.”;
+4) La punctul 16 după cuvintele „cuantumul salariului minim,” se completează cu
+
+cuvintele „coeficientul complexității din ramură,”;
+5) La punctul 22:
+în prima propoziție cuvintele „necesară a fi” se exclud;
+formula (10) va avea următorul cuprins:
+## CE
+j
+## = CTE
+j
+## × PE
+j
+## + RFD
+j
+## ,lei (10)
+textul:
+## „W
+dez,j
+– cantitatea de energie electrică necesară a fi procurată în anul „j” pentru
+acoperirea dezechilibrelor provocate de operatorul sistemului de transport, care nu poate
+depăși 3% din valoarea consumului tehnologic şi pierderile de energie electrică efectiv
+înregistrate în anul „j-1”, kWh”;
+## „PE
+dez,j
+– preţul mediu ponderat al energiei electrice de echilibrare achitat în anul „j-1”
+de către operatorul sistemului de transport, lei/kWh.”
+se exclud;
+se completează cu următorul text:
+## „RFD
+j
+–  costurile  pentru  dezechilibrele  provocate  de  operatorul  sistemului  de
+transport  în  calitate  de  participant  al  pieței  energiei  electrice,  lei.  Costurile  pentru
+dezechilibrele acceptate în scopuri tarifare se determină după cum urmează:
+unde:
+## W
+def,j
+## ,  W
+ex,j
+–  energia  electrică  de  deficit,  respectiv  energia  electrică  în  excedent,
+aferentă anului „j”, kWh;
+## PE
+def,j
+## , PE
+ex,jn
+– prețul mediu ponderat al energiei electrice pentru deficit și excedent în
+anul „j”, lei/kWh;
+Υ–  plafonul  dezechilibrelor  înregistrate  de  operatorul  sistemului  de  transport
+acceptate în scopuri tarifare, stabilit în cuantum de 0,1. În cazul în care W
+def,j
+, și/sau W
+ex,j
+rezultă în valori mai mici decât produsul Υ× CTE
+j
+, valoarea financiară a costurilor pentru
+dezechilibrele  în  deficit  și/sau  veniturilor  pentru  dezechilibrele  în  excedent  se  acceptă
+integral.”;
+6) La punctul 23 textul:
+„În cazul în care operatorul sistemului de transport nu utilizează integral alocația
+aferentă  fondului  de  rulment  pentru  plata  dobânzilor,  comisioanelor  şi  taxelor  aferente
+creditelor contractate pe termen scurt, Agenția, la actualizarea tarifului pentru serviciul de
+transport al energiei electrice, diminuează valoarea venitului reglementat cu cuantumul
+
+alocației utilizate în alte scopuri sau neutilizate.”
+se substituie cu textul:
+„În cazul în care operatorul sistemului de transport nu utilizează integral alocația
+aferentă  fondului  de  rulment  pentru  plata  dobânzilor,  comisioanelor  şi  taxelor  aferente
+creditelor contractate pe termen scurt, Agenția, la actualizarea tarifelor pentru serviciul de
+transport al energiei electrice, diminuează valoarea venitului reglementat aferent tarifului
+pentru  anul  următor  cu  50%  din  cuantumul  alocației  utilizate  în  alte  scopuri  sau
+neutilizate.”
+7) La punctul 25 textul:
+„În cazul reevaluării mijloacelor fixe, valoarea netă a activelor luată în calcul la
+determinarea rentabilității, se determină conform formulei:
+unde:
+## VNA
+r,j
+– valoarea netă a mijloacelor fixe după reevaluare, lei;
+k – coeficientul modificării valorii contabile a mijloacelor fixe după reevaluare.”;
+se exclude.
+la  explicația  componentei  „Re”  aferentă  formulei  (16)  abrevierea  „CAMP”  se
+substituie cu „CAPM”;
+formula (17) și explicațiile componentelor acesteia vor avea următorul cuprins:
+unde:
+rf  –  rata  lipsită  de  risc,  care  corespunde  mediei  ratelor  fixe  a  dobânzilor  la
+obligațiunile de stat cu maturitate de 10 ani, emise până la finele anului 2025, publicate de
+## Ministerul Finanțelor;
+βd – riscul sistematic al industriei ajustate la gradul de îndatorare, care se determină
+după cum urmează:
+unde:
+β – riscul sistematic al industriei (lipsit de îndatorare), care corespunde valorii medii
+utilizate de instituțiile de reglementare pentru operatorii sistemelor de transport, publicat în
+raportul CEER pentru anul 2024, în cuantum de 0,4;
+rm – prima de risc caracteristică pieței, determinată în ianuarie 2026 ca media
+geometrică începând cu anul 1928 pentru bondurile de trezorerie SUA (Stock-T. Bonds) și
+
+publicată  în  sursa:  http://pages.stern.nyu.edu/~adamodar/  la  compartimentul:  Data  Sets,
+Historia Return on Stoks, Bonds and Bills, Geometric Average, Risk Premium, în cuantum de
+## 5,48;
+t – rata impozitului pe venit aplicată întreprinderii pentru anul „j”;
+E – capitalul propriu al operatorului sistemului de transport;
+D – capitalul împrumutat de operatorul sistemului de transport.
+Metodologia  stabilește,  că  structura  investițiilor  efectuate  utilizată  la  calculul
+rentabilității  este  la  nivel  de  50  %  din  surse  proprii  şi  50  %  din  împrumuturi.
+În acest caz  și  sunt egale cu 0,5.
+Rd–  costul  capitalului  împrumutat  al  întreprinderii.  Valoarea  anuală  a  capitalului
+împrumutat a întreprinderii. Valoarea acestuia corespunde ratei medii la creditele acordate
+în  valută  străină  în  anul  precedent  anului  aprobării  Metodologiei,  publicate  de  Banca
+Națională a Moldovei la compartimentul: Statistica monetară, Ratele medii ale dobânzilor,
+Rata medie la creditele acordate în valută străină/persoane juridice/ peste 12 luni/2025.
+- Prezenta hotărâre intră în vigoare la expirarea termenului de o lună de la data
+publicării în Monitorul Oficial al Republicii Moldova.
+DIRECTORI Constantin BOROSAN
+Eugen CARPOV
+Violina ȘPAC
+Nr. 261. Chişinău, 16 aprilie 2026.

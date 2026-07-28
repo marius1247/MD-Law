@@ -1,0 +1,1010 @@
+---
+title: "HANRE 383-2026 — modificare Regulile pietei energiei electrice (text)"
+type: act-text
+act_type: act-anre
+nr: "383"
+an: 2026
+domeniu: [energetică, energie-electrică, piață]
+in_vigoare: true
+legis_id: "155151"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=155151"
+continut: text-integral
+text_complet: true
+articole_numarate: 0
+tags: [act, text]
+created: 2026-07-26
+updated: 2026-07-26
+source_ingest: manual-browser-download
+---
+
+# HANRE 383/2026 — modificare Regulile pieței EE
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md**, doc_id [155151](https://www.legis.md/cautare/getResults?lang=ro&doc_id=155151).
+> Descărcare manuală din browser (bypass plafon ~96 KB). Articole normalizate ca `### Articolul N.` pentru ancorare wikilink.
+> Analiză: [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (notă)]].
+
+---
+
+## Republica Moldova
+## AGENȚIA NAȚIONALĂ PENTRU REGLEMENTARE ÎN ENERGETICĂ
+HOTĂRÂRE Nr. HANRE383/2026
+din 25.06.2026
+cu privire la modificarea Regulilor pieței energiei
+electrice, aprobate prin Hotărârea Consiliului
+de administrație al Agenției Naționale pentru
+Reglementare în Energetică nr. 283/2020
+Publicat : 30.06.2026 în MONITORUL OFICIAL Nr. 284-287 art. 512 Data intrării în vigoare
+În temeiul art. 9 alin. (3) din Legea nr. 164/2025 cu privire la energia electrică
+(Monitorul Oficial al Republicii Moldova, 2025, nr. 437-440, art. 598), pct. 13 lit. d) din
+Regulamentul de organizare şi funcţionare a Agenţiei Naţionale pentru Reglementare în
+Energetică,  aprobat  prin  Hotărârea  Parlamentului  nr.  334/2018  (Monitorul  Oficial  al
+Republicii  Moldova,  2019,  nr.  13-21,  art.  81),  Consiliul  de  administrație  al  Agenției
+Naționale pentru Reglementare în Energetică
+## HOTĂRĂŞTE:
+-  Regulile  pieței  energiei  electrice,  aprobate  prin  Hotărârea  Consiliului  de
+administrație  al  Agenției  Naționale  pentru  Reglementare  în  Energetică  nr.  283/2020
+(Monitorul Oficial al Republicii Moldova, 2020, nr. 247-257, art. 882), se modifică după cum
+urmează:
+1) Pe tot parcursul textului, cuvintele „piața energiei electrice pe parcursul zilei” și
+„piața  pe  parcursul  zilei”  la  orice  formă  gramaticală,  se  substituie  cu  cuvintele  „piața
+intrazilnică”, la forma gramaticală corespunzătoare, iar abrevierea „PPZ” se substituie cu
+abrevierea „PI”;
+2) Pe tot parcursul textului cuvintele „participant la piața energiei electrice” la orice
+formă gramaticală se substituie cu cuvintele „participant la piață” la forma gramaticală
+corespunzătoare;
+3) Pe tot parcursul textului sintagma „piața energiei electrice de echilibrare” se
+substituie cu sintagma „piața de echilibrare”, „energia electrică de echilibrare” cu sintagma
+„energia  de  echilibrare”  și  „partea  responsabilă  de  echilibrare”  cu  sintagma  „partea
+responsabilă  pentru  echilibrare”,  la  orice  formă  gramaticală;  iar  abrevierea  „PEE”  se
+înlocuiește cu abrevierea „PE”;
+4) Punctele 1 - 3 vor avea următorul cuprins:
+„1.  Regulile  pieței  energiei  electrice  stabilesc  principiile,  regulile  și  mecanismele
+referitoare la formarea prețurilor și relațiile comerciale pe piața angro de energie electrică
+
+între participanții la piață de energie electrică, reglementează termenele și condițiile de
+organizare și funcționare a pieței energiei electrice, inclusiv piața organizată a contractelor
+bilaterale de energie electrică, piața contractelor bilaterale de energie electrică negociate
+direct, piața energiei electrice pentru ziua următoare, piața intrazilnică de energie electrică,
+piața de echilibrare și piața serviciilor de sistem, drepturile și obligațiile producătorilor de
+energie electrică, furnizorilor de energie electrică, operatorilor sistemelor de distribuție,
+precum și a operatorului pieței de energie electrică, a operatorului sistemului de transport
+privind gestionarea piețelor menționate.
+- Operatorul pieței energiei electrice (în continuare – OPEE) este responsabil de
+organizarea și gestionarea pieței zilei următoare (în continuare – PZU), a pieței intrazilnice
+(în continuare – PI), a pieței organizate a contractelor bilaterale (în continuare – POCB),
+precum și de înregistrarea contractelor bilaterale negociate direct, încheiate de participanții
+la  piața  energiei  electrice,  în  conformitate  cu  prezentele  Reguli.  OPEE  înregistrează
+contractele bilaterale negociate direct încheiate de participanții la piața energiei electrice,
+indiferent de clauzele contractuale prevăzute de acestea.
+- Participanții la POCB, la PZU și la PI, precum și participanții care înregistrează la
+OPEE contractele bilaterale negociate direct încheiate de participanții la piața energiei
+electrice,  în  conformitate  cu  prezentele  Reguli,  au  obligația  să  plătească  OPEE
+contravaloarea serviciului de operare a pieței energiei electrice, conform tarifului aprobat
+de  Agenție.  În  acest  sens  OPEE  emite  facturi  lunare  participanților  la  piața  energiei
+electrice pentru contravaloarea serviciilor prestate.”;
+5) La punctul 12 după cuvintele „participant la” se completează cu textul „POCB,”;
+6) La punctul 19 după cuvântul „bilaterale” se completează cu textul „negociate
+direct, POCB,”;
+7) La punctul 22:
+La dispoziția introductivă de la pct. 22 cuvintele „termenii definiți în” se substituie cu
+cuvintele  „noțiunile  din”  iar  cuvintele  „următorii  termeni  și  definiții”  se  substituie  cu
+cuvintele „următoarele noțiuni”;
+se exclud noțiunile: „caracteristici tehnice”, „cod de identificare pe piața energiei
+electrice de echilibrare”, „costuri de pornire”, „declarație de disponibilitate”, „dispoziție de
+dispecer”, „echipament de măsurare a energiei electrice pe interval”, „energie electrică
+disponibilă  pentru  echilibrare”,  „furnizor  de  servicii  de  echilibrare”,  „interval  de
+echilibrare”, „notă de decontare lunară”, „notificare fizică aprobată”, „oră de închidere a
+pieței energiei electrice de echilibrare”, „perioadă de achiziție” ,
+„perioadă de pornire”, „pornirea unității de producere, „poziția netă contractuală a
+unei PRE/grup de echilibrare”, „poziția netă măsurată a unei PRE/grup de echilibrare”,
+„prețul pentru deficit de energie electrică”, „prețul pentru excedent de energie electrică”,
+„procesul  de  restabilire  automată  a  frecvenței”,  „procesul  de  restabilire  manuală  a
+frecvenței”,  „procesul  de  stabilizare  a  frecvenței”,  „producție  netă”,  „sistemul  pieței
+energiei de echilibrare”, „unitate de furnizare a rezervelor (UFR) ”, „valoare măsurată”,
+
+„viteză de variație a sarcinii”;
+la noțiunea „ore de tranzacționare” textul „08:00” se substituie cu textul „07:30”, iar
+textul „16:00” se substituie cu textul „15:30”;
+după noțiunea „pereche preț-cantitate” se completează cu noțiunea „piața organizată
+a contractelor bilaterale” cu următorul conținut:
+„piața organizată a contractelor bilaterale - piață organizată pentru încheierea între
+participanții la piață, în mod transparent, prin licitație publică, a contractelor cu livrare
+fizică de energie electrică, organizată și administrată de operatorul pieței energiei electrice,
+având ca bază ofertarea publică și nediscriminatorie, cu scopul de a contracta energia
+electrică pe termen determinat, la un preț transparent, rezultat din echilibrul cererii și al
+ofertei;”;
+8) Punctul 23 va avea următorul cuprins:
+„23. Pe piața angro de energie electrică, participanții pieței energiei electrice sunt în
+drept să se angajeze voluntar în tranzacții pe piața organizată a contractelor bilaterale sau
+în tranzacții de vânzare-cumpărare a energiei electrice directe, inclusiv în tranzacții de
+export sau import de energie electrică, încheind contracte bilaterale, inclusiv de export sau
+import de energie electrică în conformitate cu prevederile Legii nr. 164/2025 cu privire la
+energie electrică și prezentele Reguli.”;
+9) Punctul 25 va avea următorul cuprins:
+„25.  Tranzacțiile  de  vânzare-cumpărare  a  energiei  electrice  pe  piața  contractelor
+bilaterale se efectuează de către participanții la piața energiei electrice prin încheierea unor
+contracte bilaterale cu durate determinate, care se formează ținându-se cont de cerere și de
+ofertă,  ca  rezultat  al  unor  mecanisme  concurențiale  (piața  organizată  a  contractelor
+bilaterale) sau al negocierilor (contracte bilaterale negociate direct).”;
+10) Punctul 26 va avea următorul cuprins:
+„26. În scopul implementării unor mecanisme concurențiale, tranzacționarea în regim
+concurențial a energiei electrice de către furnizorii serviciului universal, furnizorii de ultimă
+opțiune, alți furnizori desemnați pentru îndeplinirea obligației de serviciu public în condițiile
+art. 17 din Legea nr. 164/2025 cu privire la energia electrică și operatorii de sistem este
+realizată prin intermediul POCB, PZU și PI.”;
+## 11) Punctele 27 – 28
+## 3
+se abrogă;
+12) Titlul II se completează cu Capitolele I
+## 1
+## – I
+## 8
+cu următorul cuprins:
+„Capitolul I
+## 1
+Prevederi generale privind piața
+organizată a contractelor bilaterale
+## „32
+## 1
+. OPEE organizează și administrează piața organizată a contractelor bilaterale pe
+baza principiilor de nediscriminare, transparență, caracter public.
+
+## 32
+## 2
+.  Regulile  POCB  creează  un  cadru  de  piață  pentru  folosirea  mecanismelor
+concurențiale pentru atribuirea contractelor, la un preț transparent, rezultat din echilibrul
+cererii și al ofertei.
+## 32
+## 3
+. Principiile care stau la baza atribuirii contractelor pentru livrare de energie
+electrică sunt următoarele:
+a) transparenţa și caracter public – prin publicarea în avans, conform termenelor
+precizate în Procedura privind tranzacționarea pe piaţa organizată a contractelor bilaterale,
+a informațiilor referitoare la contractele ce urmează a fi tranzacționate și la sesiunile de
+licitație aferente, precum și prin publicarea rezultatelor;
+b)  nediscriminare  și  obiectivitate  -  prin  aplicarea  în  mod  nediscriminatoriu  a
+criteriilor de selecție și a criteriilor pentru atribuirea contractelor astfel încât participanților
+la licitații să li se acorde șanse egale de atribuire a contractelor.
+## 32
+## 4
+. Participarea la POCB este voluntară și este permisă întreprinderilor energetice
+care  au  contract  de  echilibrare  încheiat  cu  OST  și  au  fost  înregistrate  de  OPEE  ca
+participanți la POCB, respectă Contractul cadru de participare la POCB și reglementările
+aplicabile.
+## 32
+## 5
+. OPEE publică pe pagina web proprie, în consultare publică, Procedura privind
+tranzacționarea  pe  piaţa  organizată  a  contractelor  bilaterale,  Contractul  cadru  de
+participare la POCB, precum şi Contractul cadru de vânzare/cumpărare energie electrică pe
+Piața Organizată a Contractelor Bilaterale, iar documentele rezultate în urma procesului de
+consultare publică pot să prevadă și alte obligații pentru participarea la sesiunile de licitație
+organizate pe POCB.
+## 32
+## 6
+. OPEE publică pe pagina web proprie documentele rezultate în urma unui proces
+de consultare publică, avizate de către ANRE, respectiv Procedura privind tranzacționarea
+pe piaţa organizată a contractelor bilaterale, Contractul cadru de participare la POCB,
+precum şi Contractul cadru de vânzare/cumpărare energie electrică pe Piața Organizată a
+## Contractelor Bilaterale.
+## 32
+## 7
+. Ofertele pe POCB se fac la nivel agregat pe portofoliul de vânzare/cumpărare al
+fiecărui participant la POCB.
+## 32
+## 8
+. Un participant la POCB poate încheia tranzacţii pe pieţele organizate de energie
+electrică  la  termen,  individual  sau  pe  baza  participării  agregate,  în  conformitate  cu
+prevederile  prezentelor  reguli,  precum  şi  cu  Procedura  de  înregistrare,  suspendarea  și
+revocarea/retragerea  la  piețele  de  energie  electrică  organizate  de  OPEE.  În  cazul
+participării agregate, agregatorul este participantul care tranzacționează energia electrică
+şi căruia îi revin integral toate responsabilitățile şi drepturile prevăzute în Contractul cadru
+de participare la POCB.
+## 32
+## 9
+. Executarea tranzacțiilor încheiate pe piața organizată a contractelor bilaterale
+administrată de OPEE este garantată prin intermediul clauzelor privind garanțiile de bună
+execuție/plată prevăzute în contractul propus de inițiator, publicat de către OPEE anterior
+
+sesiunii de tranzacționare, cu respectarea Contractului cadru de vânzare/cumpărare energie
+electrică.
+## Capitolul I — ## 2
+Transmiterea ofertelor inițiatoare pe POCB
+## 32
+## 10
+. În vederea tranzacționării pentru încheierea contractelor bilaterale de energie
+electrică, Participantul inițiator transmite la OPEE, împreună cu adresa de înaintare, oferta
+inițiatoare ce urmează a fi publicată, precum și, în format electronic, clauzele specifice ale
+Contractului cadru de vânzare/cumpărare, care se referă doar la termenele de plată şi
+modalitățile de plată, garanţii de bună execuție, garanții de bună plată (inclusiv modalitățile
+de  constituire  a  garanțiilor  financiare)  şi/sau  penalitățile  de  natură  financiară.  Oferta
+inițiatoare va fi publicată în secțiunea dedicată POCB pe pagina web a OPEE, iar termenele
+de  primire  a  ofertelor  coinițiatoare/modificare  a  prețului  și  al  celor  de  răspuns  vor  fi
+specificate  în  anunțul  de  organizare  sesiunii  de  licitație  referitoare  la  fiecare  ofertă
+inițiatoare.
+În adresa de înaintare transmisă de Participantul inițiator la OPEE, împreună cu
+oferta inițiatoare ce urmează a fi publicată și cu clauzele specifice ale Contractului cadru de
+vânzare-cumpărare, Participantul inițiator poate solicita inclusiv garanții de participare la
+sesiunile de licitații și/sau, după caz, poate preciza o listă de eligibilitate a participanților
+respondenți.
+## 32
+## 11
+. Ofertarea pe POCB cuprinde următoarele etape:
+1) acceptarea contractului - cadru;
+2) fiecare participant inițiator/coinițiator își definește oferta proprie de vânzare sau
+de cumpărare de energie electrică, care trebuie să conțină următoarele caracteristici:
+(i) durata livrării, respectiv data de începere şi data de finalizare a livrării; durata
+livrării trebuie să fie de minimum o lună; durata maximă a livrării poate fi oricât de mare,
+conform ofertei inițiatoare;
+(ii) puterea pe interval de decontare de energie electrică, profilul zilnic de livrare și
+subsecvent cantitatea totală de energie electrică;
+(iii) profilul zilnic de livrare poate fi:
+- livrare în bandă la putere constantă (luni - duminică, 0.00 - 24.00 EET);
+- livrare la putere constantă, la ore de vârf de sarcină (luni - duminică, 6.00 - 22.00
+## EET);
+- livrare la putere constantă, la ore de vârf de sarcină (luni - vineri, 6.00 - 22.00
+## EET);
+- livrare la putere constantă la ore gol sarcină (luni - vineri, 0.00 - 6.00 EET şi 22.00 -
+24.00 EET, şi sâmbătă - duminică, 0.00 - 24.00 EET);
+- alte profiluri de livrare zilnică, şi anume orice perioadă din zi formată din minimum
+
+3 ore succesive de livrare la putere constantă în conformitate cu prevederile Procedurii
+privind tranzacționarea pe piața organizată a contractelor bilaterale; perioadele zilnice de
+livrare aferente fiecărui profil de livrare sunt clar definite ca oră de început și oră de sfârșit
+de către OPEE, iar acesta poate introduce sau elimina de la tranzacționare un profil de
+livrare zilnică în funcție de cerințele pieței, conform unor criterii cuprinse într-o procedură
+proprie rezultată în urma unui proces de consultare publică.
+## 32
+## 12
+.  Ofertele  inițiatoare  de  energie  electrică  sunt  oferte  cu  caracteristici  ferme
+stabilite în momentul introducerii lor în piață, privind durata livrării, respectiv data de
+începere și data de finalizare a livrării, cantitatea de energie electrică totală oferită spre
+cumpărare/vânzare precum și puterea pe interval de decontare de energie electrică/profilul
+zilnic de livrare, prețul solicitat, precum și următoarele opțiuni:
+a) opțiunea dintre tranzacționarea integrală cu un singur participant și cea parțială
+și/sau cu mai mulți participanți a cantității ofertate;
+b) opțiunea privind utilizarea unei formule de ajustare a prețului de atribuire a
+contractului,  în  funcție  de  evoluția  unui  indice  bursier  public  din  domeniul  energiei
+electrice, inclusiv formula aferentă;
+c) opțiunea privind procentul de variație maximă a cantității pe interval de decontare
+față de valoarea prevăzută în ofertă.
+## 32
+## 13
+. Ofertele inițiatoare de energie electrică pot fi de următoarele tipuri:
+a) ofertă de vânzare cu preț minim (Pmin), publicată în vederea organizării unei
+sesiuni de licitație pentru atribuirea contractului cadru de vânzare-cumpărare propus;
+b) ofertă de cumpărare cu preț maxim (Pmax), publicată în vederea organizării unei
+sesiuni de licitație pentru atribuirea contractului cadru de vânzare-cumpărare propus.
+## 32
+## 14
+.  Fiecare  ofertant  inițiator  își  definește  oferta  proprie  fermă  de  vânzare  sau
+cumpărare de energie electrică, respectând contractul-cadru.
+## 32
+## 15
+. Ofertele inițiatoare de energie electrică trebuie să precizeze cantitatea totală și
+puterea pe interval de decontare de energie electrică și profilul zilnic de livrare, prin
+alegerea uneia din variantele următoare:
+a) livrare în bandă la putere constantă;
+b) livrare la putere constantă, la ore de vârf de sarcină;
+c) livrare la putere constantă, la ore de gol de sarcină.
+Profilurile zilnice de livrare aplicabile în vederea ofertării sunt actualizate de către
+OPEE și publicate pe pagina web a acestuia. Preţul propus prin oferta inițiatoare este
+exprimat în MDL/MWh, nu include TVA și în funcție de sensul ofertei inițiatoare este:
+a)  preț  minim  (Pmin)  -  în  cazul  licitațiilor  organizate  pentru  oferte  de  vânzare
+publicate;
+
+b) preț maxim (Pmax) - în cazul licitațiilor organizate pentru oferte de cumpărare
+publicate.
+## 32
+## 16
+.  Ofertele  inițiatoare  de  energie  electrică  vor  preciza  opțiunea  privind
+tranzacționarea,  și  anume:
+a) integrală, cu un singur participant câștigător, a întregii puteri ofertate;
+b) parțială, cu unul sau cu mai mulți participanți câștigători, a puterii pe interval de
+decontare ofertate. Tranzacționarea parțială implică păstrarea profilului de livrare propus și
+a duratei livrării. Pentru puteri pe interval de decontare mai mari de 10 MW, nu este
+permisă decât opțiunea de tranzacționare parțială, cu unul sau cu mai mulți participanți
+câștigători. Alegerea opțiunii de tranzacționare parțială cu mai mulți participanți câștigători
+nu exclude posibilitatea tranzacționării integrale cu un singur participant câștigător, dacă
+așa rezultă în urma aplicării regulilor de corelare.
+## 32
+## 17
+. Ofertele inițiatoare de energie electrică pot preciza opțiunea privind utilizarea
+unei  formule  de  ajustare  a  prețului  de  atribuire  a  contractului/contractelor  (prețul  de
+închidere a licitației). Formula de ajustare a prețului va conține ca singură variabilă evoluția
+unui indice bursier public din domeniul energiei electrice, care se specifică clar în cadrul
+anexelor contractului și este acceptată de către părți prin semnarea contractului. Formula
+de ajustare a prețului se aplică lunar, începând cu prima zi de livrare. În cazul atribuirii unei
+oferte  inițiatoare  cu  formula  de  ajustare  a  prețului,  acceptarea  de  către  respondent  a
+opțiunii se consemnează de către părți la semnarea contractului și constituie angajament
+ferm privind condițiile de derulare a contractului.
+## 32
+## 18
+. Ofertele inițiatoare de energie electrică pot preciza opțiunea privind procentul
+de variație maximă a cantității pe interval de decontare față de valoarea prevăzută în ofertă.
+Procentul maxim de variație a cantității pe interval de decontare față de valoarea prevăzută
+în ofertă, nu poate depăși 25%, respectiv 100% pentru ofertele inițiatoare transmise de
+producătorii de energie din surse regenerabile. Procentul maxim de variație a cantității pe
+interval de decontare se specifică clar în cadrul anexelor contractului. În cazul atribuirii
+unei  oferte  inițiatoare  cu  opțiune  de  variație  a  cantității  pe  interval  de  decontare,
+acceptarea de către respondent a opțiunii se consemnează de către părți la semnarea
+contractului și constituie angajament ferm privind condițiile de derulare a contractului.
+## Capitolul I — ## 3
+Transmiterea ofertelor coinițiatoare pe POCB
+## 32
+## 19
+.  Ofertele  coinițiatoare  de  energie  electrică  sunt  de  același  tip  cu  oferta
+inițiatoare pentru care se organizează sesiunea de licitație. Ofertele coinițiatoare de energie
+electrică pot fi de două categorii:
+a) Ofertă coinițiatoare de vânzare cu preț minim (Pmin) la oferta de vânzare (codul
+ofertei din anunţ), publicată împreună cu oferta inițiatoare de vânzare pentru atribuirea
+contractului de vânzare-cumpărare propus prin oferta inițiatoare;
+b) Ofertă coinițiatoare de cumpărare cu preț maxim (Pmax) la oferta de cumpărare
+(codul ofertei din anunț) publicată împreună cu oferta inițiatoare de cumpărare pentru
+atribuirea contractului de vânzare-cumpărare propus prin oferta inițiatoare.
+
+## 32
+## 20
+.  Ofertele  coinițiatoare  de  energie  electrică  vor  preciza  aceeași  cantitate  de
+energie electrică, același profil zilnic de livrare și aceeași durată a livrării, aceeași opțiune
+privind  tranzacționarea  integrală/parțială,  același  sens,  de  vânzare  sau  de  cumpărare,
+aceeași  opțiune  privind  utilizarea  unei  formule  de  ajustare  a  prețului,  aceeași  opțiune
+privind procentul de variație maximă a cantității pe interval de decontare cu a ofertei
+inițiatoare publicată și implică aderarea la același contract cu aceasta.
+## Capitolul I — ## 4
+Oferte de răspuns pe POCB
+## 32
+## 21
+. Ofertă de vânzare - răspuns la oferta de cumpărare (codul ofertei din anunț)
+lansată ca răspuns la o ofertă de cumpărare inițiatoare publicată.
+## 32
+## 22
+. Ofertă de cumpărare - răspuns la oferta de vânzare (codul ofertei din anunț)
+lansată ca răspuns la o ofertă de vânzare inițiatoare publicată.
+## 32
+## 23
+. Ofertele de răspuns sunt oferte ferme care răspund întocmai cerințelor unei
+oferte inițiatoarea și/sau coinițiatoare (dacă este cazul) publicate și conțin cantitatea oferită,
+prețul-limită acceptat și opțiunea privind tranzacționarea.
+## 32
+## 24
+. Ofertele de răspuns vor preciza opțiunea privind tranzacționarea:
+a) integrală, caz în care se va tranzacționa doar toată cantitatea ofertată;
+b) parțială, caz în care se va putea tranzacționa cel mult cantitatea ofertată.
+## Capitolul I — ## 5
+Contractul cadru de vânzare/cumpărare
+## 32
+## 25
+. Contractul-cadru utilizat în tranzacționarea pe POCB este elaborat de către
+OPEE, în urma unui proces de consultare publică, cu reținerea sau respingerea argumentată
+a propunerilor și observațiilor primite în urma consultării publice, și sunt publicate pe
+pagina web proprie a OPEE.
+## 32
+## 26
+. Contractul propus de iniţiator, utilizat în tranzacționarea pe POCB, poate fi
+completat fată de contractul-cadru cu clauze specifice, privind exclusiv termenele de plată şi
+modalitățile de plată, garanţii de bună execuție, garanții de bună plată (inclusiv modalitățile
+de constituire a garanțiilor financiare) și/sau penalitățile de natură financiară.
+## 32
+## 27
+. Este interzisă modificarea, ulterior tranzacției, a clauzelor specifice referitoare
+la prețul de tranzacționare, durata livrării, cantitatea pe interval de decontare de energie
+electrică, profilul de livrare, precum și adăugarea altor servicii, prin înțelegerea părților în
+mod tacit sau pe baza unor acte adiționale, a prevederilor contractului-cadru propus. Este
+interzisă introducerea în contractul-cadru sau în contractul propus de inițiator a clauzelor
+privind denunțarea unilaterală.
+## 32
+## 28
+. Pentru utilizarea opțiunilor aferente pct. 32
+## 17
+și 32
+## 18
+acestea se specifică clar în
+cadrul anexelor contractului și sunt acceptate de către părți prin semnarea contractului.
+## 32
+## 29
+.  Ofertarea  se  realizează  pe  baza  transmiterii  la  OPEE  a  ofertelor
+inițiatoare/coinițiatoare  și  a  contractelor-cadru  propuse  de  inițiator,  cu  respectarea
+
+contractului-cadru,  publicat  pe  pagina  web  a  OPEE.
+## 32
+## 30
+.  OPEE  verifică  conformitatea  cu  prevederile  RPEE  a  oricărui  tip  de  oferte
+propuse de oricare participant şi a contractului, le acceptă pe cele conforme şi le respinge
+pe cele neconforme, publicând pe pagina web proprie lista ofertelor respinse şi motivația
+acestei acțiuni.
+## Capitolul I — ## 6
+Organizarea și desfășurarea sesiunilor de licitații
+## 32
+## 31
+.  După  acceptarea  ofertei  inițiatoare  şi  a  contractului-cadru  propus,  OPEE
+programează câte o sesiune de tranzacționare pentru fiecare ofertă inițiatoare de vânzare
+sau de cumpărare acceptată şi asigură desfășurarea următoarelor activități preliminare:
+a) aducerea la cunoștința participanților la piață a ofertei inițiatoare, prin publicarea
+acesteia pe pagina web a OPEE, inclusiv a identității inițiatorului, împreună cu formatul de
+contract propus;
+b)  depunerea  la  OPEE  a  ofertelor  coinițiatoare  și  publicarea  lor,  imediat  după
+depunere, până la o dată prealabilă celei de începere a sesiunii de tranzacționare, publicată
+odată cu oferta inițiatoare;
+c) depunerea la OPEE a ofertelor de răspuns ferme, conținând cantitatea oferită, dacă
+aceasta este diferită de cea din oferta inițiatoare, în cazul în care inițiatorul a optat pentru
+tranzacționarea parțială/cu mai mulți participanți, opțiunea privind tranzacționarea parțială
+și  prețul-limită  acceptat;  până  la  deschiderea  sesiunii  de  tranzacționare,  acestea  sunt
+supuse procesului de verificare și nu sunt dezvăluite altor participanți sau publicului.
+## 32
+## 32
+. În intervalul de timp cuprins între termenul de la pct. 32
+## 31
+lit. b) şi deschiderea
+sesiunii de tranzacționare, participantul inițiator şi cei cu oferte coinițiatoare pot modifica o
+singură dată prețul ofertei proprii, doar în sensul facilitării încheierii de tranzacții, și anume
+în creștere, în cazul ofertelor de cumpărare, respectiv în scădere, în cazul ofertelor de
+vânzare, şi nu cu mai mult de 5% fată de oferta inițiatoare/coinițiatoare cu cel mai bun preț;
+aceste modificări nu sunt dezvăluite altor participanți sau publicului înainte de deschiderea
+sesiunii de tranzacționare.
+## 32
+## 33
+. Sesiunea de tranzacționare începe prin publicarea concomitentă a celor mai
+recente  oferte  ale  participantului  inițiator/participanților  coinițiatori  şi  a  ofertelor  de
+răspuns.
+## 32
+## 34
+. În cazul retragerii unei oferte inițiatoare publicate sau de răspuns până la
+începerea sesiunii de tranzacționare, participantul va fi suspendat de la tranzacționare şi
+este obligat să plătească o sumă penalizatoare; nivelul penalității, precum şi modul de
+repartizare a acesteia se stabilesc în cadrul procedurilor operaționale elaborate de OPEE, şi
+publicate pe pagina web proprie.
+## 32
+## 35
+. Încheierea tranzacțiilor pe POCB se realizează conform următoarelor reguli:
+a) ofertele se ordonează în sensul crescător al prețului, pentru cele de vânzare,
+respectiv în sensul descrescător al prețului, pentru cele de cumpărare;
+
+b) în cazul ofertelor cu obiect identic, şi anume de vânzare, respectiv de cumpărare
+care au același preț, acestea se ordonează în ordine cronologică, în funcție de data şi ora la
+care au fost depuse/modificate;
+c) succesiv:
+(i) oferta de vânzare iniţiatoare/coiniţiatoare cu preţul cel mai mic sau, în cazul
+ofertelor cu opţiunea de tranzacţionare parţială, o parte din cantitatea aferentă acesteia,
+dacă intersecţia curbelor cererii şi ofertei conduce la secţionarea cantităţii ofertate, se
+corelează cu oferta de cumpărare de răspuns cu preţul cel mai mare şi care este mai mare
+sau egal cu cel al ofertei iniţiatoare/coiniţiatoare de vânzare sau, în cazul ofertelor de
+răspuns cu opţiunea de tranzacţionare parţială, o parte din cantitatea aferentă acesteia,
+dacă intersecţia curbelor cererii şi ofertei conduce la secţionarea cantităţii ofertate; sau
+(ii) oferta de cumpărare iniţiatoare/coiniţiatoare cu preţul cel mai mare sau, în cazul
+ofertelor cu opţiunea de tranzacţionare parţială, o parte din cantitatea aferentă acesteia,
+dacă intersecţia curbelor cererii şi ofertei conduce la secţionarea cantităţii ofertate, se
+corelează cu oferta de vânzare de răspuns cu preţul cel mai mic şi care este mai mic sau
+egal  cu  cel  al  ofertei  iniţiatoare/coiniţiatoare  de  cumpărare  sau,  în  cazul  ofertelor  de
+răspuns cu opţiunea de tranzacţionare parţială, o parte din cantitatea aferentă acesteia,
+dacă intersecţia curbelor cererii şi ofertei conduce la secţionarea cantităţii ofertate;
+d) în situaţia în care intersecţia curbelor cererii şi ofertei conduce la tranzacţionarea
+parţială a unei oferte de răspuns cu opţiunea de tranzacţionare integrală, aceasta este
+îndepărtată şi înlocuită cu următoarea ofertă cu acelaşi obiect, şi anume de vânzare sau de
+cumpărare, iar procesul se reia cu verificarea respectării condiţiilor corespunzătoare noii
+oferte.
+Pentru  fiecare  cuplu  corelat,  ofertele  de  răspuns  declarate  câştigătoare  în  urma
+corelării determină obligaţia respectivului participant la POCB de a încheia contractul în
+forma propusă de participantul iniţiator cu participantul cu a cărui ofertă a fost corelat,
+pentru  cantitatea  rezultată  din  corelare  şi  la  preţul  de  închidere  a  licitaţiei,  aflat  la
+intersecţia dintre curba ofertei de vânzare şi curba ofertei de cumpărare.
+## 32
+## 36
+. Preţul de închidere se determină după următoarele reguli:
+a) curbele ofertei de vânzare şi ale celei de cumpărare sunt rezultate din unirea prin
+linii verticale a reprezentării ofertelor ordonate în funcţie de preţ şi prin terminarea fiecărei
+curbe printr-o linie verticală;
+b) dacă există un singur punct de intersecţie sau dacă toate punctele de intersecţie au
+acelaşi preţ, acel preţ este preţul de închidere a licitaţiei;
+c) dacă există mai multe puncte de intersecţie, iar acestea au preţuri diferite, preţul
+de închidere este media aritmetică a preţului minim şi a celui maxim corespunzătoare
+punctelor de intersecţie.
+## 32
+## 37
+.   OPEE   verifică   încheierea   fiecărui   contract   rezultat   din
+tranzacţionare/conformitatea contractului semnat cu cel propus de participantul iniţiator. În
+
+cazul nerespectării acestei condiţii sau dacă se constată erori de redactare a contractului,
+OPEE anunţă părţile contractante în vederea corectării şi retransmiterii contractului în
+decurs de o zi lucrătoare, iar în caz de refuz sau neîncadrare în termen, OPEE solicită plata
+sumei penalizatoare de la fiecare participant în culpă, anunţă public identitatea acestuia şi
+lipsa valabilităţii contractului, suspendă participanţii în cauză de la tranzacţionare pe o
+perioadă  care  se  termină  la  10  zile  calendaristice  după  data  plăţii  penalizării,  publică
+informaţii despre suspendare şi informează ANRE; nivelul penalităţii, precum şi modul de
+repartizare a acesteia se stabilesc în cadrul procedurii specifice pieţei, rezultată în urma
+unui proces de consultare publică desfăşurat de OPEE şi publicată pe pagina web proprie .
+Prin  excepţie,  un  participant  poate  refuza  semnarea  contractului  fără  aplicarea
+vreunei măsuri penalizatoare în cazul în care, în termen de 3 zile lucrătoare, acesta prezintă
+OPEE documente din care să rezulte că partenerul de contract face parte dintr-o listă de
+persoane fizice/juridice cu care este interzisă, prin reglementări naționale/ale UE, derularea
+de activități comerciale în domeniul energiei.
+## Capitolul I — ## 7
+## Transparența
+## 32
+## 38
+.  După  încheierea  fiecărei  sesiuni  de  tranzacționare  organizate  pe  piața
+produselor flexibile la termen, OPEE publică pe pagina web proprie, în plus fată de cele
+prevăzute la pct. 32
+## 5
+, pct. 32
+## 10
+și pct. 32
+## 35
+, o sinteză cuprinzând următoarele informații
+privind rezultatele înregistrate pe POCB:
+a) caracteristicile ofertei iniţiatoare: numele participantului iniţiator, obiectul ofertei,
+vânzare sau cumpărare, şi codul ofertei iniţiatoare, cantitatea pe interval de decontare şi
+profilul zilnic al livrărilor, opţiunea de tranzacţionare integrală/parţială, perioada de livrare
+(data de început şi de sfârşit a livrării), preţul de deschidere, contractul propus;
+b) preţul de închidere a licitaţiei;
+c) pentru fiecare tranzacţie încheiată, numele vânzătorului, numele cumpărătorului,
+cantitatea pe interval de decontare, cantitatea totală de energie electrică tranzacţionată şi
+existenţa condiţiilor de actualizare de preţ şi variaţie a puterii pe interval de decontare;
+d) preţul şi cantitatea aferente fiecărei oferte, inclusiv ale celor netranzacţionate;
+e)  statistici,  rapoarte  periodice  şi  indici  calculaţi  în  baza  rezultatelor,  în  scopul
+stabilirii unor referinţe corecte de preţ pentru piaţa de energie electrică.
+## Capitolul I — ## 8
+Proceduri de urgență
+## 32
+## 39
+. Sesiunea de licitaţie poate fi întreruptă de către reprezentanţii OPEE autorizaţi
+în astfel de situaţii, în cazul unui eveniment sau a unui complex de condiţii de natură să
+împiedice desfăşurarea sesiunii de licitaţie. Aceste evenimente şi condiţii includ, dar nu sunt
+limitate la defectarea Platformei de tranzacţionare POCB din diverse cauze, cum ar fi:
+defecţiuni ale Platformei de tranzacţionare, avarii ale sistemului de alimentare cu energie a
+Platformei de tranzacţionare sau ale unor subsisteme componente (internet, reţea internă).
+## 32
+## 40
+. În cazul în care sesiunea de tranzacţionare se întrerupe de către reprezentanţii
+
+OPEE sau Platforma de tranzacționare este oprită forţat din cauze tehnice (distinct de
+oprirea Platformei de tranzacționare de către reprezentanţii OPEE), reluarea tranzacţiilor se
+realizează de îndată ce condiţiile permit desfăşurarea normală a sesiunii de tranzacţionare.
+## 32
+## 41
+.  Participanţii  la  POCB  sunt  anunţaţi  în  cadrul  sesiunii  de  licitație  asupra
+deciziilor luate în situaţiile speciale enunțate în Procedura privind tranzacționarea pe piața
+organizată a contractelor bilaterale.
+13) Punctul 33 va avea următorul cuprins:
+„33. Toate contractele bilaterale de vânzare/cumpărare a energiei electrice, inclusiv
+contractele de vânzare-cumpărare a energiei electrice încheiate pe POCB, precum și orice
+modificare a acestora trebuie înregistrate de către OPEE. Copia contractului se prezintă
+OPEE cu excluderea clauzelor referitoare la preț și plata energiei electrice. Înregistrarea de
+către OPEE este realizată în conformitate cu prezentul titlu, prin depunerea de către părțile
+semnatare  a  solicitărilor  de  înregistrare  a  contractului  în  termen  de  cel  mult  5  zile
+lucrătoare din momentul semnării și cu cel puțin 3 zile lucrătoare înainte de începerea
+livrărilor de energie electrică conform contractului.”;
+14) Punctul 37 va avea următorul cuprins:
+„37. Perioadele de livrare a energiei electrice corespunzătoare contractelor bilaterale
+încheiate de părți trebuie să fie stabilite pentru fiecare interval de tranzacționare şi zi de
+livrare, începând cu ora 00-00 a fiecărei zile. Partea semnatară care transmite contractul la
+OPEE în vederea înregistrării acestuia, este obligată să transmită următoarele informații:
+1) puterea contractată a fi livrată pentru fiecare interval de tranzacționare (ora), din
+perioada de derulare a contractului;
+2) cantitatea de energie electrică care va fi livrată în fiecare zi de livrare din perioada
+de derulare a contractului;
+3) cantitatea totală de energie electrică care va fi livrată în perioada de derulare a
+contractului.”
+15) Punctul 44 va avea următorul cuprins:
+„44. OPEE informează părțile privind notificările validate în termen de o oră de la
+termenul limită de transmitere a notificărilor stabilit în pct. 39.”
+16) La punctul 45 cuvântul „acceptă” se substituie cu cuvântul „validează”;
+17) La punctul 46 textul „90 de minute” se substituie cu textul „3 ore” iar cuvintele
+„și OST” se exclud;
+18) La punctul 48 cuvântul „validate” se substituie cu textul „primite până la ora
+12-00 inclusiv,”;
+19) Punctul 96 va avea următorul cuprins:
+
+„96. În conformitate cu pct. 176 din Liniile directoare privind alocarea capacității și
+gestionarea congestiilor, aprobate prin Hotărârea Consiliului de administrație al ANRE nr.
+641/2025,  până  la  realizarea  cuplării  unice  a  piețelor  pentru  ziua  următoare,  OPEE
+stabilește ora de închidere a porții pieței pentru ziua următoare la ora 09:30 ora pieței din
+ziua anterioară zilei livrării. Un participant la PZU poate transmite oferte pentru ziua de
+livrare la OPEE înainte de ora de închidere a porții pentru ziua următoare prevăzută în
+prezentul punct. Transmiterea ofertelor este posibilă cu maxim 6 zile în avans față de ziua
+de livrare corespunzătoare şi numai în timpul orelor de tranzacționare.”
+20) Se completează cu punctul 96
+## 1
+cu următorul cuprins:
+## „96
+## 1
+.  După  realizarea  cuplării  unice  a  piețelor  pentru  ziua  următoare,  ora  de
+închidere a porții pieței pentru ziua următoare este ora 12:00 ora pieței din ziua anterioară
+zilei livrării.”
+21) Denumirea Titlului IV va avea următorul cuprins: „Regulile pieței intrazilnice”
+22) Punctul 231 va avea următorul cuprins:
+„231. Realizarea fizică a obligațiilor contractuale necesită transmiterea la OST de
+către fiecare PRE și responsabil al grupului de echilibrare a notificărilor fizice privind toate
+schimburile  de  energie  electrică  între  PRE-uri,  respectiv,  grupuri  de  echilibrare,  în
+conformitate  cu  Regulamentul  privind  clauzele  și  condițiile  pentru  părțile  responsabile
+pentru echilibrare elaborat de OST și aprobat de Agenție prin Hotărârea Consiliului de
+administrație nr. 853/2025.”;
+23) Punctele 232 – 237 și 243 – 249 se abrogă;
+24) Punctul 251 va avea următorul cuprins:
+„251.  Activitatea  pe  piața  de  echilibrare  se  realizează  în  conformitate  cu
+Regulamentul  privind  clauzele  și  condițiile  pentru  furnizorii  de  servicii  de  echilibrare
+elaborat de OST și aprobat de Agenție prin Hotărârea Consiliului de administrație nr.
+## 853/2025.”;
+25) Punctele 252 – 256 și 258 – 271 se abrogă;
+26) Punctul 273 va avea următorul cuprins:
+„273. Ofertele de energie electrică de echilibrare pe PE trebuie să se încadreze între
+valorile prețurilor minime și maxime. Limita minimă poate fi o valoare negativă și nu poate
+fi mai mare decât valoarea prețului maxim.”;
+27) Se completează cu pct. 276
+## 1
+cu următorul cuprins:
+## „276
+## 1
+. Înregistrarea unui participant la PE se revocă din oficiu cu efect imediat, dacă
+licența respectivului participant la PE a fost retrasă, caz în care Agenția anunță OST,
+precum și participantul la PE în cauză, inclusiv în conformitate cu Regulamentul privind
+clauzele și condițiile pentru furnizorii de servicii de echilibrare elaborat de OST și aprobat
+
+de Agenție prin Hotărârea Consiliului de administrație nr. 853/2025.”
+28) Secțiunile 2, 3, și 4 ale Capitolului II din Titlul VI se abrogă;
+29) Capitolele III, V și VI ale Titlului VI se abrogă;
+30) Punctul 410 va avea următorul cuprins:
+„410. Piața serviciilor de sistem este o piață organizată de energie electrică prin
+intermediul căreia OST asigură achiziția unei cantități suficiente de servicii de sistem, în
+conformitate cu Regulamentul privind clauzele și condițiile pentru furnizorii de servicii de
+echilibrare  elaborat  de  OST  și  aprobat  de  Agenție  prin  Hotărârea  Consiliului  de
+administrație nr. 853/2025.”;
+## 31) Punctele 410
+## 1
+– 415 și 422 – 423 se abrogă;
+32) Secțiunile 1 și 2 ale Capitolului II Titlul VII se abrogă;
+33) Punctul 451 va avea următorul cuprins:
+„451. Părțile responsabile pentru echilibrare activează pe piața energiei electrice în
+baza  Regulamentului  privind  clauzele  și  condițiile  pentru  părțile  responsabile  pentru
+echilibrare,  elaborat  de  OST  și  aprobat  de  Agenție  prin  Hotărârea  Consiliului  de
+administrație nr. 853/2025.”;
+34) Se completează cu punctele 451
+## 1
+## – 451
+## 7
+cu următorul cuprins:
+## „451
+## 1
+.  Toți  participanții  la  piața  angro  de  energie  electrică  sunt  obligați  să  fie
+înregistrați la OST în calitate de PRE și să transmită notificări fizice conform prevederilor
+## Titlului V.
+## 451
+## 2
+.  Numai  participanții  la  piața  angro  de  energie  electrică  care  au  semnate
+contracte de echilibrare cu OST au dreptul să se angajeze în tranzacții pe piața angro de
+energie electrică.
+## 451
+## 3
+. În cadrul procesului de înregistrare în calitate de PRE, operatorii instalațiilor de
+stocare,  inclusiv  în  cazul  în  care  aceștia  dețin  și  calitatea  de  producători,  furnizorii,
+agregatorii, traderii, OSD-urile urmează se încheie contractul de prestare a serviciului de
+transport al energiei electrice.
+## 451
+## 4
+. La etapa de înregistrare în calitate de PRE, solicitantul va prezenta documente
+confirmative privind dreptul de proprietate asupra centralelor electrice, dreptul de operare
+a  instalațiilor  de  stocare  și  licențele  eliberate  de  Agenție,  corespunzătoare  genului  de
+activitate.
+## 451
+## 5
+.  OST  revocă  înregistrarea  unei  PRE,  în  cazurile  prevăzute  în  Regulamentul
+privind clauzele și condițiile pentru părțile responsabile pentru echilibrare, elaborat de OST
+și aprobat de Agenție prin Hotărârea Consiliului de administrație nr. 853/2025, inclusiv în
+cazul în care PRE nu își îndeplinește obligațiile de plată în raport cu OST.
+
+## 451
+## 6
+.  Transferul  responsabilității  de  echilibrare  se  realizează  în  conformitate  cu
+Regulamentul privind clauzele și condițiile pentru părțile responsabile pentru echilibrare,
+elaborat de OST și aprobat de Agenție prin Hotărârea Consiliului de administrație nr.
+853/2025 și în condițiile îndeplinirii obligațiilor de plată în raport cu OST de către PRE-urile
+implicate.
+## 451
+## 7
+. FCEE redistribuie costurile sumare corespunzătoare dezechilibrelor provocate
+de centralele electrice eligibile și centralele electrice de termoficare urbane proporțional
+dezechilibrelor  individuale  a  fiecărei  părți  responsabile  pentru  echilibrare  din  cadrul
+grupului de echilibrare.”;
+35) Punctele 452 – 455 se abrogă;
+36) Capitolele II și III ale Titlului VIII se abrogă;
+37) Titlurile IX și X se abrogă;
+38) Punctul 616 va avea următorul cuprins:
+„616.  Producătorii  eligibili  mari  sunt  obligați  să  comercializeze  pe  piaţa  angro
+energia  electrică  din  surse  regenerabile  din  momentul  încheierii  contractelor  pentru
+diferențe la îndeplinirea condițiilor prevăzute la art. 38
+## 1
+alin. (1) a Legii nr. 10/2016 privind
+promovarea utilizării energiei din surse regenerabile.”;
+39) Punctul 617 va avea următorul cuprins:
+„617.  Producătorii  eligibili  mici  sunt  exonerați  de  obligația  de  a  comercializa
+individual energia electrică produsă pe pieţele angro ale energiei electrice. La întrunirea
+condiţiilor menționate la art. 381 alin. (1) a Legii nr. 10/2016 privind promovarea utilizării
+energiei din surse regenerabile, furnizorul central de energie electrică achiziţionează de la
+producătorii  eligibili  mici  energia  electrică  generată  de  aceștia,  în  baza  contractelor
+reglementate pentru achiziționarea energiei electrice, şi o vinde pe piaţa angro a energiei
+electrice.”;
+40) Capitolele V – X ale Titlului XII se abrogă;
+41) Punctul 644 va avea următorul cuprins:
+„644. OST include în contractul de participare la PE și în contractul de echilibrare
+prevederi cu referire la determinarea necesarului, tipurile de garanții solicitate și termenul
+de valabilitate al acestora, realizarea și verificarea depunerii garanțiilor și suplimentării
+acestora, dacă este cazul, precum și utilizarea disponibilului rămas din garanția depusă de
+participanți.”;
+42) La punctul 653 penultima propoziție va avea următorul cuprins:
+„Pentru obligațiile nete de plată totale înregistrate de un participant la PZU, la nivelul
+zilei de livrare, OPEE transmite la Banca cont central ordinele de plată de debitare directă
+în ziua de tranzacționare, dacă aceasta este o zi bancară lucrătoare, sau în prima zi bancară
+lucrătoare după ziua de tranzacționare, în celelalte cazuri; termenul maximal de executare
+
+și de creditare a contului central al PZU este prima zi bancară lucrătoare după ziua bancară
+lucrătoare în care au fost transmise ordinele de plată de debitare directă; termenul maximal
+de executare nu restricționează Banca cont central de a executa ordinele de plată de
+debitare directă în ziua bancară lucrătoare în care acestea au fost primite. Pentru drepturile
+nete de încasat totale înregistrate de un participant la PZU, la nivelul zilei de livrare, OPEE
+transmite  la  Banca  cont  central  ordinele  de  plată  de  transfer  credit,  în  ziua  bancară
+lucrătoare în care au fost încasate în contul central PZU ordinele de plată de debitare
+directă.”;
+43) La punctul 654 subpunctul 5) va avea următorul cuprins:
+„5) la nivel de zi de livrare, valorile obligațiilor nete de plată totale/drepturilor nete
+de încasat totale ale participantului la PI, determinate ca sumă algebrică a valorii totale a
+tranzacțiilor de cumpărare a energiei electrice și a valorii totale a tranzacțiilor de vânzare a
+energiei electrice; Pentru obligațiile nete de plată totale înregistrate de un participant la PI,
+la nivelul zilei de livrare, OPEE transmite la Banca cont central ordinele de plată de debitare
+directă în prima zi bancară lucrătoare care urmează zilei de livrare; termenul maximal de
+executare și de creditare a contului central al PI este prima zi bancară lucrătoare după ziua
+bancară lucrătoare în care au fost transmise ordinele de plată de debitare directă; termenul
+maximal de executare nu restricționează Banca cont central de a executa ordinele de plată
+de debitare directă în ziua bancară lucrătoare în care acestea au fost primite. În cazul în
+care banca de decontare a participantului la PI a comunicat refuzul la plată a ordinului de
+plată de debitare directă, OPEE solicită executarea garanției financiare de acesta. Pentru
+drepturile nete de încasat totale înregistrate de un participant la PI, la nivelul zilei de
+livrare, OPEE transmite la Banca cont central ordinele de plată de transfer credit, în ziua
+bancară lucrătoare în care au fost încasate în contul central PZU ordinele de plată de
+debitare directă.”
+44) La punctul 656 după cuvântul „facturi” se completează cu cuvântul „lunare”;
+45) La punctul 726 se completează cu subpunctele
+6) – 10) cu următorul cuprins:
+„6) agregatorii de energie electrică;
+7) traderii de energie electrică;
+8) operatorii instalațiilor de stocare;
+9) comunitățile de energie a cetățenilor;
+10) comunitățile de energie din surse regenerabile.”;
+46) Punctul 739 va avea următorul cuprins:
+„739. OPEE monitorizează activitatea zilnică a participanților la POCB, PZU și PI prin
+analiza a cel puțin următorilor indicatori privind funcționarea pieței:
+1) cantitatea de energie electrică tranzacționată în cadrul PZU;
+
+2) cantitățile de energie electrică tranzacționate pe POCB;
+3) - abrogat;
+4) cantitatea de energie electrică tranzacționată pe PI;
+5)  cotele  piețelor  organizate  de  energie  electrică  din  totalul  energiei  electrice
+tranzacționate;
+6) numărul participanților specificat pentru fiecare din POCB, PZU și PI;
+7) cotele energiei electrice tranzacționată de fiecare participant la piața angro de
+energie electrică în cadrul fiecărei piețe organizate (POCB, PZU, PI);
+8) - abrogat;
+9) statistica tranzacțiilor și cantităților de energie electrică tranzacționate pe fiecare
+interval de tranzacționare;
+10) - abrogat;
+11) alți indicatori de monitorizare stabiliți de Agenție în scopul identificării poziției
+dominante a unui participant.”;
+47) Punctul 740 va avea următorul cuprins:
+„740. Indicatorii privind funcționarea pieței stabiliți la pct. 739 sunt publicați de către
+OPEE pe pagina web oficială pentru fiecare lună/zi de livrare sau interval de tranzacționare
+al zilei de livrare, după caz. Informația publicată pe pagina web este agregată la un nivel
+care să nu permită identificarea situației unui singur participant la piață. Rapoartele privind
+POCB, PZU și PI trebuie actualizate ori de câte ori informațiile se modifică.”;
+48) Secțiunea 1, Capitolul IV a Titlului XIV se abrogă;
+49) Secțiunea 2, Capitolul IV a Titlului XIV se redenumește în „Stabilirea prețurilor
+plafon pe PZU”;
+50) Punctul 768 se abrogă;
+51) La punctul 770 cuvintele „La etapa de lansare a PZU” se exclud;
+52) Punctele 777 și 783 se abrogă;
+53) Punctul 780 va avea următorul cuprins:
+„780. Până la constatarea unui nivel suficient de lichiditate în cadrul PZU consemnat
+de Agenție în cadrul raportului privind piețele de energie electrică prevăzut în art. 101 din
+Legea nr. 164/2025 cu privire la energia electrică, în locul PIP, OST utilizează în procesul de
+decontare al dezechilibrelor PRE prețul mediu ponderat al energiei electrice achiziționată
+de furnizorii de energie electrică care furnizează energie electrică la prețuri reglementate
+în  luna  pentru  care  se  decontează  dezechilibrele,  fără  a  considera  energia  electrică
+
+achiziționată de la beneficiarii de scheme de sprijin și cea generată de centralele electrice
+de termoficare urbane. În scopul determinării de către OST a prețului mediu ponderat al
+energiei electrice, furnizorii serviciului universal și de ultimă opțiune transmit lunar către
+OST, în termen de 15 zile de la începutul lunii următoare lunii de livrare, informațiile
+privind cantitățile de energie electrică achiziționată și prețurile acesteia, specificate pe
+fiecare tranzacție / contract, cu excepția energiei electrice achiziționată de la beneficiarii de
+scheme de sprijin și cea generată de centralele electrice de termoficare urbane.”;
+54)  Denumirea  Capitolului  V  al  Titlului  XIV  se  expune  în  redacția  următoare:
+„Participarea la POCB/PZU/PI”;
+55)  Denumirea  Secțiunii  1  a  Capitolului  V  din  Titlul  XIV  se  expune  în  redacția
+următoare: „Participanții la POCB/PZU/PI”;
+56) Punctul 787 va avea următorul cuprins:
+„787. Participarea la POCB, la PZU, respectiv PI este permisă entităților care au fost
+înregistrate de OPEE ca participanți la POCB, PZU și respectiv PI. Pentru a se înregistra pe
+POCB, la PZU, respectiv PI o entitate are obligația de a se înregistra în prealabil în Registrul
+participanților la piața angro de energie, prevăzut la art. 86
+din Legea nr. 164/2025 cu privire la energia electrică, precum și de a avea încheiat
+contractul de echilibrare cu OST.”;
+57) Punctul 788 va avea următorul cuprins:
+„788. Un participant la piața de energie electrică poate participa la PZU și la PI doar
+dacă  a  semnat  contractul  de  participare  la  PZU  și  PI,  care  cuprinde  drepturile  și
+responsabilitățile reciproce ale OPEE și ale fiecărui participant la PZU și PI.”;
+58) Se completează cu punctul 788
+## 1
+cu următorul cuprins:
+## „788
+## 1
+. Un participant la piața de energie electrică poate participa la POCB doar dacă
+a semnat contractul de participare la POCB care cuprinde drepturile și responsabilitățile
+reciproce ale OPEE și ale fiecărui participant la POCB.”;
+59) Punctul 789 va avea următorul cuprins:
+„789. Numai participanții înregistrați de OPEE la POCB, la PZU, respectiv PI au
+dreptul să tranzacționeze pe POCB, PZU, respectiv PI și să transmită oferte către OPEE.”;
+60) Punctul 790 se completează cu subpunctele 5) – 9) cu următorul cuprins:
+„5). operatorii instalațiilor de stocare;
+6). traderii;
+7). agregatorii;
+8). comunitățile de energie a cetățenilor;
+
+9). comunitățile de energie din surse regenerabile.”;
+61) Punctul 791 va avea următorul cuprins:
+„791. Un operator de sistem nu are dreptul să tranzacționeze pe POCB, pe PZU,
+respectiv PI în scopul obținerii unui profit. Un operator de sistem are dreptul să vândă
+și/sau să achiziționeze energie electrică pe PZU, respectiv PI numai pentru acoperirea
+necesarului prognozat de energie electrică pentru consumul tehnologic în rețelele electrice
+în  situația  în  care,  prin  intermediul  POCB  nu  s-a  procurat  necesarul  total  de  energie
+electrică, sau în cazul în care există o cantitate suplimentară contractată anterior zilei de
+transmitere a ofertelor pe PZU, respectiv PI.”;
+62)  Denumirea  Secțiunii  2  a  Capitolului  V  din  Titlul  XIV  se  expune  în  redacția
+următoare: „Înregistrarea participanților la POCB/PZU/PI.”;
+63) Punctul 794 va avea următorul cuprins:
+„794. Înregistrarea participanților la POCB/PZU și PI se face la solicitarea acestora
+adresată OPEE, realizată în condițiile prevăzute în prezenta secțiune.”;
+64) La punctul 795 înainte de abrevierea „PZU” se completează cu „POCB,”;
+65) Punctele 796 - 809 vor avea următorul cuprins:
+„796. OPEE elaborează Contractul cadru de participare la POCB și Contractul cadrul
+de participare la PZU și PI, care trebuie să cuprindă drepturile și obligațiile reciproce ale
+OPEE  și  ale  fiecărui  participant  la  piețele  organizate  de  energie  electrică  respective.
+Contractele cadru elaborate și consultate public de OPEE sunt aprobate după avizarea
+## Agenției.
+- Orice întreprindere electroenergetică poate depune o cerere de înregistrare în
+calitate de participant la POCB și/sau la cele două piețe pe termen scurt, PZU și PI, conform
+formularului elaborat de OPEE și publicat pe pagina oficială web.
+- Cererea de înregistrare este depusă în scris la OPEE, împreună cu următoarele
+documente:
+1) copia licenței eliberată de Agenție, cu excepția: (a) producătorilor care dispun de o
+centrală electrică sau centrale electrice de putere electrică instalată cumulată mai mică de
+5 MW (inclusiv a celor integrate cu instalație de stocare care au împreună puterea de
+injecție mai mică de 5 MW), (b) operatorilor instalațiilor autonome de stocare a energie
+electrice cu puterea de injecție mai mică de 1 MW; (c) consumatorilor finali care deţin o
+instalaţie de stocare a energiei cu o putere de injecţie mai mică de 1 MW;
+2) copia deciziei de înregistrare la Registrul de Stat al Unităților de Drept (RSUD);
+3) copia certificatului TVA;
+4) confirmarea OST privind încheierea unui contract de echilibrare, respectiv numele
+și codul EIC al părții responsabile cu echilibrarea care și-a asumat echilibrarea pentru
+
+participant;
+5) copia notificării privind înregistrarea în Registrul participanților la piața angro de
+energie, ținut de ANRE;
+6)  copia  actului  ce  confirmă  înregistrarea  comunității  de  energie  din  surse
+regenerabile în Registrul comunităților de energie din surse regenerabile, ținut de ANRE;
+7) copia actului ce confirmă înregistrarea comunității de energie a cetățenilor în
+Registrul comunităților de energie a cetățenilor, ținut de ANRE;
+8) contractul pentru participare la POCB sau la PZU și PI, după caz, completat și
+semnat de către solicitant;
+9)  lista  persoanelor  de  contact/persoanelor  responsabile  pentru  comunicarea  cu
+OPEE, respectiv nume & prenume, funcție, telefon, adresă de e-mail;
+10) extras din Registrul de Stat al Unităților de Drept (RSUD) al persoanelor juridice
+și întreprinzătorilor individuali.
+-  În  termen  de  5  zile  lucrătoare  din  momentul  depunerii  cererii  însoțită  de
+documentele necesare conform procedurii prevăzută la pct. 809, OPEE trebuie să transmită
+solicitantului contractul semnat. Dacă documentele nu sunt complete/corecte, OPEE solicită
+completarea/corectarea acestora, termenul de 5 zile lucrătoare urmând a se derula de la
+data completării corespunzătoare a documentației. Dacă, ulterior solicitării OPEE, cererea
+de  înregistrare  nu  este  completată  în  mod  corespunzător  sau  materialele  anexate  nu
+dovedesc calificarea solicitantului pentru înregistrarea pe POCB sau pe PZU și PI conform
+procedurii relevante, OPEE comunică solicitantului refuzul de înregistrare în calitate de
+participant la POCB sau la PZU și PI cu specificarea motivelor refuzului.
+- Dacă solicitantul consideră neîntemeiat refuzul de înregistrare în calitate de
+participant la POCB sau la PZU și PI, acesta este în drept să solicite examinarea refuzului
+OPEE de către Agenție. Solicitarea este examinată de Agenție conform prevederilor Codului
+administrativ, ținând cont de cerințele Legii cu privire la energia electrică nr. 164/2025.
+- Înregistrarea ca participant la POCB sau la PZU și PI devine efectivă începând
+cu data intrării în vigoare a contractului de participare la POCB sau la PZU și PI, după caz,
+dar nu mai devreme de 5 zile lucrătoare din momentul semnării contractului.
+- Un participant la POCB/PZU și PI se poate retrage din proprie inițiativă de la
+POCB/PZU și PI, după caz, în baza unei înștiințări în scris, transmisă cu cel puțin o 5 zile
+lucrătoare înaintea datei la care calitatea de participant la POCB/PZU și PI urmează să fie
+anulată. După primirea unei astfel de înștiințări, OPEE informează imediat OST și, după caz,
+responsabilul grupului de echilibrare care și-a asumat responsabilitatea echilibrării pentru
+respectivul participant la piața de energie electrică.
+- Înregistrarea, suspendarea și revocarea/retragerea unui participant la POCB sau
+la PZU și PI, după caz, este realizată conform procedurii privind înregistrarea, suspendarea
+și revocarea/retragerea participanților la piețele organizate de energie electrică (POCB,
+
+PZU și PI), elaborată de OPEE conform pct. 809.
+- OPEE suspendă înregistrarea unui participant la POCB și/sau la PZU și PI, după
+caz, în următoarele cazuri:
+1) dacă participantul la POCB sau la PZU și PI după caz, nu mai îndeplinește una din
+condițiile necesare pentru înregistrarea ca participant la POCB/PZU și PI;
+2) dacă participantul la POCB/PZU și PI nu asigură achitarea plății pentru serviciul de
+operare a pieței energiei electrice determinată în baza tarifului reglementat pentru serviciul
+de operare a pieței energiei electrice conform procedurii relevante;
+3)  dacă  participantul  la  POCB/PZU  și  PI  este  găsit  în  mod  repetat  vinovat  de
+nerespectarea regulilor aplicabile pentru POCB/PZU și PI sau decontării.
+-  OPEE  suspendă  înregistrarea  unui  participant  la  POCB/PZU  și  PI  odată  cu
+constatarea  încălcării  prevederilor  procedurii  de  înregistrare,  suspendare,  retragere,
+revocare a participanților la piețele de energie electrică, pentru perioadele menționate în
+procedura de înregistrare, procedura care include și condițiile de ridicare a suspendării.
+OPEE transmite participantului la POCB/PZU și PI în cauză, OST și Agenției notificare cu
+specificarea  motivelor  suspendării  și  a  datei  intrării  în  vigoare  a  acesteia,  precum  și
+notificare privind ridicarea suspendării, după caz.
+- OPEE revocă înregistrarea unui participant la POCB/PZU și PI, transmițând o
+notificare corespunzătoare cu 5 zile lucrătoare înainte de momentul intrării în vigoare, dacă
+acesta nu a înlăturat cauzele care au condus la suspendarea sa în decursul perioadei
+specificate de OPEE conform prevederilor pct. 805.
+- Înregistrarea ca participant la POCB/PZU și PI este revocată automat, cu efect
+imediat odată ce OPEE ia cunoștință, în cazul în care licența participantului în cauză a fost
+retrasă. Agenția informează OPEE despre retragerea licenței unui participant la POCB/PZU
+și PI în termen de 3 zile lucrătoare.
+- Dacă un participant la POCB/PZU și PI renunță la participarea pe POCB/PZU și
+PI  conform  pct.  802  sau  dacă  înregistrarea  unui  participant  la  POCB/PZU  și  PI  este
+suspendată, sau revocată de OPEE conform prevederilor prezentei secțiuni:
+1) participantul la POCB/PZU și PI nu mai are dreptul să transmită noi oferte pe
+POCB/PZU și PI și toate ofertele validate ale acestuia se consideră anulate;
+2) participantul la POCB/PZU și PI trebuie să efectueze toate plățile datorate în
+conformitate cu prevederile
+Titlului XII;
+3) în cazul retragerii sau revocării unui participant, OPEE anulează înregistrarea
+acestuia  în  Registrul  de  tranzacționare,  informând  participantul,  OST  și,  după  caz,
+responsabilul grupului de echilibrare care și-a asumat responsabilitatea echilibrării pentru
+respectivul participant; participantul retras/revocat de la POCB/PZU și PI este obligat să
+
+efectueze toate plățile datorate către OPEE.
+-  OPEE  elaborează  și  consultă  public  procedura  privind  înregistrarea,
+suspendarea  și  revocarea/retragerea  participanților  la  piețele  organizate  de  energie
+electrică  POCB,  PZU  și  PI  și  o  aprobă  după  avizarea  acesteia  de  către  Agenție.”;
+66) Punctul 811 va avea următorul cuprins:
+„811.  OPEE  înregistrează  participanții  la  POCB/  PZU  și  PI  în  registrul  de
+tranzacționare. Acesta trebuie să conțină pentru fiecare participant la POCB/PZU și PI, cel
+puțin următoarele date:
+1) denumirea, adresa juridică și datele de contact;
+2) data și numărul contractului de participare la PZU și PI sau POCB;
+3) codul de identificare pe PZU și PI sau POCB;
+4)  numele  și  date  de  contact  ale  persoanelor  delegate  să  acționeze  în  numele
+participantului la POCB/PZU și PI;
+5) numele, date de contact și codul de identificare al responsabilului grupului de
+echilibrare care și-a asumat responsabilitatea echilibrării pentru respectivul participant la
+POCB/PZU și PI după caz;
+6) codul EIC.”;
+67) Punctul 812 va avea următorul cuprins:
+„812.  Fiecare  participant  la  POCB  sau  la  PZU  și  PI  are  dreptul  să  consulte
+informațiile din registrul de tranzacționare care îl privesc și să solicite corectarea oricărei
+inexactități.”;
+68) Denumirea Secțiunii V a Capitolului V din Titlul XIV se expune în redacția
+următoare: „Limitarea responsabilității OPEE pe POCB/PZU/PI”;
+69) Punctul 813 va avea următorul cuprins:
+„813. Cu excepția cazurilor în care prezentele Reguli, legile aplicabile sau contractul
+de participare la POCB/contractul de participare la PZU și PI stipulează diferit, OPEE nu va
+fi în niciun caz responsabil față de un participant la POCB/PZU și PI pentru nici o pierdere
+sau pagubă, inclusiv toate daunele directe sau indirecte, consecințe, pierderea oricăror
+profituri sau întârzieri.”;
+70) Punctul 816 va avea următorul cuprins:
+„816.  OPEE  nu  este  responsabil  pentru  daunele  suferite  de  un  participant  la
+POCB/PZU și PI ca urmare a unor probleme tehnice sau ca urmare a imposibilității parțiale
+sau complete de a folosi sistemul de tranzacționare al OPEE sau în cazul întreruperilor în
+transferul de date, sau ca urmare a erorilor efectuate la introducerea datelor în cadrul
+
+decontării și administrării garanțiilor financiare a participanților la PZU și PI”;
+71) Anexa nr. 1 se abrogă;
+-  Operatorul  pieței  energiei  electrice  din  Republica  Moldova  va  actualiza  și/sau
+elabora procedurile operaționale proprii în conformitate cu modificările aduse Regulilor
+pieței energiei electrice, în termen de 2 luni de intrarea în vigoare a prezentei Hotărâri.
+- Prezenta Hotărâre se publică în Monitorul Oficial al Republicii Moldova.
+- Prezenta Hotărâre intră în vigoare la data de 1 iulie 2026.
+DIRECTORI Constantin BOROSAN
+Eugen CARPOV
+Daniel MITITELU
+Alexandru URSU
+Nr. 383. Chişinău, 25 iunie 2026.

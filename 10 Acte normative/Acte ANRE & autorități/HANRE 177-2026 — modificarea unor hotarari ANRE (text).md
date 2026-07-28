@@ -1,0 +1,658 @@
+---
+title: "HANRE 177-2026 — modificarea unor hotarari ANRE (text)"
+type: act-text
+act_type: act-anre
+nr: "177"
+an: 2026
+domeniu: [energetică]
+in_vigoare: true
+legis_id: "153567"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=153567"
+continut: text-integral
+text_complet: true
+articole_numarate: 0
+tags: [act, text]
+created: 2026-07-26
+updated: 2026-07-26
+source_ingest: manual-browser-download
+---
+
+# HANRE 177/2026 — modificarea unor hotărâri ANRE
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md**, doc_id [153567](https://www.legis.md/cautare/getResults?lang=ro&doc_id=153567).
+> Descărcare manuală din browser (bypass plafon ~96 KB). Articole normalizate ca `### Articolul N.` pentru ancorare wikilink.
+> Analiză: [[HANRE 177-2026 — modificarea unor hotarari ANRE (notă)]].
+
+---
+
+## Republica Moldova
+## AGENȚIA NAȚIONALĂ PENTRU REGLEMENTARE ÎN ENERGETICĂ
+HOTĂRÂRE Nr. HANRE177/2026
+din 17.03.2026
+cu privire la modificarea unor hotărâri ale
+Consiliului de administrație al Agenţiei Naționale
+pentru Reglementare în Energetică
+Publicat : 20.03.2026 în MONITORUL OFICIAL Nr. 129-132 art. 212 Data intrării în vigoare
+În temeiul art. 7 alin. (1), lit. o), art. 88 alin. (2) din Legea nr. 108/2016 cu privire la
+gazele naturale (Monitorul Oficial al Republicii Moldova, 2016, nr. 193-203, art. 415), cu
+modificările  ulterioare,  Consiliul  de  administrație  al  Agenției  Naționale  pentru
+Reglementare  în  Energetică
+## HOTĂRĂŞTE:
+-  Regulamentul  privind  furnizarea  gazelor  naturale,  aprobat  prin  Hotărârea
+Consiliului de administrație al Agenţiei Naţionale pentru Reglementare în Energetică nr.
+113/2019 (Monitorul Oficial al Republicii Moldova, 2019, nr. 178-184, art. 912), înregistrată
+la Ministerul Justiției cu nr. 1449 din 16 mai 2019, se modifică după cum urmează:
+1.1  Pe  tot  parcursul  textului,  cuvântul  „reziliere”  la  orice  formă  gramaticală  se
+substituie cu cuvântul „rezoluțiune”, la forma gramaticală corespunzătoare.
+1.2 La punctul 1,
+în subpunctul 1), textul „și societăților comerciale mici” se substituie cu textul „ ,
+consumatorilor noncasnici mici, precum şi întreprinderilor şi instituţiilor care prestează
+servicii sociale esenţiale”;
+se completează cu subpunctul 6), cu următorul cuprins:
+„6) instrumentului de comparare a ofertelor furnizorilor;”.
+1.3 La punctul 4 în ordine alfabetică, se introduc următoarele noțiuni, cu următorul
+cuprins:
+„instrument  de  comparare  a  ofertelor  –  sistem  informațional  administrat  de
+Agenție, care colectează, structurează și afișează într-o formă accesibilă informații privind
+ofertele furnizorilor de gaze naturale, în scopul facilitării comparației obiective a acestora
+de către consumatorii finali, în condițiile pct. 87
+## 1
+din Legea nr. 108/2016 cu privire la gazele
+naturale;
+preț fix – preț stabilit la momentul încheierii contractului de furnizare al gazelor
+
+naturale și menținut neschimbat pe toată durata contractului pe perioadă determinată, fără
+posibilitatea modificării unilaterale de către furnizor;”.
+1.4 Se completează cu punctele 4
+## 1
+și 4
+## 2
+cu următorul cuprins:
+## „4
+## 1
+. Furnizorii de gaze naturale, publică pe pagina sa electronică ofertele de furnizare
+a  gazelor  naturale  destinate  consumatorilor  finali.  Pentru  a  asigura  posibilitatea
+consumatorului final de a lua o decizie informată cu privire la încheierea unui contract de
+furnizare a gazelor naturale, furnizorul pune la dispoziţia consumatorului final, în mod
+gratuit, informaţiile privind condiţiile sale comerciale. Conținutul minim obligatoriu al unei
+oferte de furnizare a gazelor naturale publicate de furnizor este stabilit în Anexa nr. 2
+## 1
+## .
+## 4
+## 2
+.  În  vederea  încheierii  unui  contract  de  furnizare  a  gazelor  naturale  în  regim
+concurenţial, consumatorul final poate accepta o ofertă tip publicată de către un furnizor de
+gaze naturale sau poate solicita o ofertă privind condiţiile comerciale şi preţul de furnizare,
+în vederea negocierii acestora.”
+1.5 Se completează cu punctul 6
+## 1
+cu următorul cuprins:
+## „6
+## 1
+Consumatorul final poate încheia contracte de furnizare a gazelor naturale pe
+durată determinată, de cel puțin 12 luni, și la preț fix. Principiile, procedura şi cerințele care
+trebuie respectate în legătură cu încheierea contractelor pe durată determinată şi la preţ
+fix, sunt stabilite în Secțiunea 1
+## 1
+## .”
+1.6 Punctul 10 subpunctul 5), punctul 11 subpunctul 7) vor avea următorul cuprins:
+„declarația  pe  propria  răspundere  privind  veridicitatea  informației  prezentate,
+conform  modelului  din  Anexa  nr.  4  la  Regulament.”
+1.7 Se completează cu punctul 11
+## 1
+cu următorul cuprins:
+## „11
+## 1
+.  Cererea  privind  încheierea  contractului  de  furnizare  a  gazelor  naturale  și
+informațiile stabilite la pct. 10 - 11 pot fi expediate fizic de către consumatorul final și
+electronic sub formă de document electronic cu semnătură electronică avansată calificată. ”
+1.8 Punctul 12 va avea următorul cuprins:
+„12. Solicitantul prezintă, la cererea furnizorului, originalele actelor stabilite la pct.
+11, pentru verificarea copiilor prezentate sau copiilor legalizate ale acestora”.
+1.9 Se completează cu punctele 17
+## 1
+## -17
+## 3
+cu următorul cuprins:
+## „17
+## 1
+. Furnizorii de gaze naturale au obligaţia de a pune la dispoziţia consumatorilor
+finali, la etapa precontractuală şi la etapa încheierii contractului, informaţii transparente,
+prezentate într-o manieră clară, completă, gratuită şi lizibilă, privind condiţiile comerciale
+de furnizare a gazelor naturale.
+## 17
+## 2
+. Pentru a asigura posibilitatea consumatorului final de a lua o decizie informată
+cu privire la încheierea unui contract de furnizare a gazelor naturale, furnizorul pune la
+
+dispoziţia  consumatorului  final,  în  mod  gratuit,  informaţiile  privind  condiţiile  sale
+comerciale. Furnizorul pune la dispoziția consumatorului final în formă tipărită sau, dacă se
+solicită astfel, în formă electronică, o copie a contractului de furnizare a gazelor naturale,
+înainte de încheierea sau confirmarea încheierii acestuia.
+## 17
+## 3
+. Pentru a da posibilitatea consumatorului final de a compara mai multe oferte,
+furnizorul va prezenta și alte oferte comerciale din portofoliul său”.
+1.10 La punctul 18 după cuvântul „electronică” se completează cu textul „ofertele de
+furnizare a gazelor naturale și”.
+1.11 La punctul 20, subpunctul 16), va avea următorul conținut:
+„16) mențiuni privind faptul că contractul include date cu caracter personal, întru
+respectarea prevederilor Legii privind protecţia datelor cu caracter personal.”
+## 1.12 Punctul 29
+## 1
+va avea următorul cuprins:
+## „29
+## 1
+În cazul în care furnizorul, în calitate de parte responsabilă de echilibrare, achită
+plăți pentru dezechilibrele portofoliului său de echilibrare care depășesc nivelul de toleranță
+zilnică aprobat de Agenție, consumatorii noncasnici cu un consum mai mare de 50 MWh/zi
+sunt obligați să despăgubească furnizorul pentru prejudiciul financiar cauzat, proporțional
+cu contribuția acestora la generarea dezechilibrului.”
+1.13 Punctul 30 va avea următorul cuprins:
+„30. Furnizorul de serviciu public își îndeplinește obligațiile în limitele teritoriului
+stabilit de Agenție şi încheie, la solicitare, contracte de furnizare a gazelor naturale la
+prețuri reglementate, aprobate de Agenție, cu orice consumator final, care are dreptul la
+acest serviciu conform Legii nr.108/2016, cu respectarea Regulamentului.”
+1.14 La pct. 32 textul „Regulamentul privind procedura de schimbare a furnizorului
+aprobat  prin  Hotărârea  ANRE  nr.  676  din  22  august  2014”  se  substituie  cu  textul
+„Regulamentul privind procedura de schimbare a furnizorului de gaze naturale, aprobat
+prin Hotărârea ANRE nr. 363/2020.”
+1.15 Punctul 33 va avea următorul cuprins:
+„33. Consumatorii noncasnici mici pot solicita încheierea contractului de furnizare a
+gazelor  naturale  la  prețuri  reglementate  cu  furnizorul  de  serviciu  public,  după
+demonstrarea  corespunderii  prevederilor  Legii  nr.108/2016,  pentru  un  debit  anual
+consumat  în  anul  calendaristic  precedent  mai  mic  decât  pragul  de  consum  stabilit  de
+Agenție pentru categoria de consumatori noncasnici mici.”
+1.16 La punctul 39, primul enunț va avea următorul cuprins:
+„39. Furnizorul este în drept să refuze încheierea contractului de furnizare a gazelor
+naturale  cu  solicitantul/consumatorul  final  care  are  datorii  pentru  gazele  naturale
+consumate la alte locuri de consum și nu are încheiat un acord de reeșalonare a datoriilor
+pentru gazele naturale furnizate de către acest furnizor, refuzul fiind argumentat în scris.”
+
+## 1.17 Punctele 41
+## 1
+și 14
+## 2
+vor avea următorul cuprins:
+## „41
+## 1
+Contractul de furnizare a gazelor naturale poate fi încheiat în formă scrisă cu
+semnătură olografă sau la solicitarea consumatorului, în formă electronică sub formă de
+document electronic cu semnătură electronică avansată calificată.
+## 41
+## 2
+După finalizarea negocierilor și acceptarea cererii privind încheierea contractului
+de  furnizare  a  gazelor  naturale,  furnizorul  transmite  consumatorului  final  contractul
+semnat. Pentru confirmarea încheierii contractului, consumatorul returnează furnizorului, în
+termenul convenit, un exemplar al contractului, semnat de către ambele părți, în condițiile
+pct. 41
+## 1
+## .”
+1.18 La punctul 42, după cuvintele „plăților pentru gazele naturale” se completează
+cu textul „sau încheierea acordului de eșalonare a datoriilor cu furnizorul actual.”
+1.19 Punctul 53 va avea următorul cuprins:
+„53. Consumatorul noncasnic este în drept să solicite modificarea volumelor lunare
+sau trimestriale de gaze naturale contractate, indicate în contractul de furnizare a gazelor
+naturale cu cu cel puțin 20 zile calendaristice înainte de perioada pentru care se solicită
+modificarea, depunând în acest sens o solicitare furnizorului, dacă contractul nu prevede
+altfel. Furnizorul este obligat să răspundă printr-un răspuns scris, motivat la solicitare în
+termen de 10 zile calendaristice din momentul înregistrării solicitării respective. Lipsa unui
+răspuns din partea furnizorului echivalează cu acceptare tacită.”
+1.20 Punctul 57 va avea următorul cuprins:
+„57. Se interzice furnizorului să ceară de la solicitant/consumatorul final orice plăţi
+pentru încheierea, modificarea, prelungirea sau revoluțiunea contractului de furnizare a
+gazelor  naturale.  Prin  derogare,  furnizorul  poate  percepe  plată  pentru  rezoluțiunea
+voluntară de către consumatorul final a contractului de furnizare a gazelor naturale pe
+durată determinată şi la preţ fix, înainte de ajungerea la termen a acestuia, cu condiția că
+obligația  de  achitare  a  plății  respective  este  prevăzută  în  contractul  încheiat  de
+consumatorul final în mod voluntar şi a fost comunicată în mod clar consumatorului final
+înainte de încheierea contractului.”
+1.21 La punctul 60, după cuvintele „formă scrisă” se completează cu cuvintele „sau la
+solicitare, în formă electronică. ”
+1.22 Capitolul II se completează cu Secțiunea 1
+## 1
+, cu următorul cuprins:
+„Secțiunea 1
+## 1
+Principiile, procedura şi cerinţele care trebuie
+respectate în legătură cu încheierea contractelor
+pe durată determinată şi la preţ fix
+## 63
+## 1
+. Prețul aplicabil contractului pe durată determinată şi la preţ fix nu poate fi
+
+modificat unilateral de către furnizor.
+## 63
+## 2
+. Termenii și condițiile contractuale aferente contractului de furnizare a gazelor
+naturale  pe  durată  determinată  și  la  preț  fix  sunt  prestabilite,  rămân  neschimbate  pe
+parcursul executării contractului și nu pot fi modificate sau rezolvite unilateral de către
+furnizor, înainte de expirarea acestora, cu excepția cazurilor de neexecutare a obligațiilor
+de către consumatorul final.
+## 63
+## 3
+. Înainte de încheierea contractului de furnizare pe durată determinată şi la preţ
+fix, furnizorul are obligația să informeze consumatorul final, într-un limbaj clar și concis, cu
+privire la:
+1) descrierea ofertei pe durată determinată și la preț fix, costurile, avantajele acesteia
+(inclusiv  protecția  împotriva  volatilității  prețurilor  pe  durata  contractului)  și  riscurile
+asociate, inclusiv riscul de a nu beneficia de eventualele modificări ale prețurilor pe piață;
+2) diferențele esențiale dintre oferta pe durată determinată şi la preţ fix și celelalte
+oferte comerciale din portofoliul furnizorului;
+3) consecințe financiare ce pot surveni în cazul rezoluțiunii anticipate a contractului
+pe durată determinată şi la preţ fix din inițiativa consumatorului, dacă astfel de consecințe
+sunt prevăzute în contract.
+## 63
+## 4
+. Oferta de furnizare a gazelor naturale pe durată determinată și la preț fix și se
+pune la dispoziția consumatorilor finali fără a fi condiționată de achiziționarea unor servicii
+sau produse suplimentare. Consumatorul final poate accepta direct această ofertă sau o
+poate  utiliza  ca  bază  pentru  negocierea  unui  contract  individual,  cu  respectarea
+## Regulamentului.
+## 63
+## 5
+. Prețul fix în contractele cu durată determinată și la preț fix, se referă la costul
+gazelor naturale și costul serviciului de furnizare a gazelor naturale. Costul serviciului de
+transport și de distribuție a gazelor naturale, stabilit în baza tarifelor reglementate aprobate
+de Agenție, alte impozite și taxe, se indică separat în factură și pot varia conform legislației .
+## 63
+## 6
+.  În  vederea  informării  precontractuale,  furnizorul  pune  la  dispoziția
+consumatorului final, cu cel puțin 5 zile lucrătoare înainte de semnarea contractului, oferta.
+Aceasta va fi redactată într-un limbaj clar și va conține, cel puțin, informații despre prețul
+fix, durata contractului, condițiile de încetare a contractului la inițiativa consumatorului,
+costurile eventuale de rezoluțiune anticipată, diferențele față de ofertele cu preț variabil și
+impactul potențial al modificării tarifelor reglementate asupra facturii.
+## 63
+## 7
+. Furnizorul nu poate rezoluționa anticipat contractele încheiate pentru o durată
+determinată și la preț fix, înainte de expirarea termenului convenit. În cazul neexecutării
+obligațiilor de plată de către consumatorul final, furnizorul aplică măsurile prevăzute de
+Regulament, inclusiv solicitarea de deconectare, fără a rezoluționa contractul înainte de
+termen.
+## 63
+## 8
+. Cu cel puțin 45 de zile înainte de expirarea contractului la preț fix și pe durată
+determinată, furnizorul este obligat să notifice în scris consumatorul final, în mod clar, cu
+
+privire la data expirării, opțiunile de prelungire/reîncheiere a contractului.
+## 63
+## 9
+. Termenul contractului la preț fix și pe durată determinată se prelungește cu 12
+luni,  dacă  consumatorul  acceptă  oferta  furnizorului  comunicată  conform  pct.  63
+## 8
+## .
+Consumatorul  trebuie  să  comunice  furnizorului  dacă  acceptă  prelungirea/încheierea
+contractului cu 30 de zile înainte de data expirării acestuia. În cazul în care consumatorul
+final nu răspunde la notificare, contractul încetează de drept la data expirării acestuia.
+## 63
+## 10
+. În cazul în care furnizorul facturează, eronat sau cu încălcarea Regulamentului,
+un alt preț decât prețul fix stabilit în contract, acesta va restitui automat suma încasată în
+plus, fără fi necesară o solicitare din partea consumatorului final.
+## 63
+## 11
+.  Furnizorul  poate  percepe  o  plată  pentru  rezoluţiunea  voluntară  de  către
+consumatorul final a contractului de furnizare a gazelor naturale pe durată determinată şi la
+preţ fix, înainte de expirarea termenului acestuia. Plata pentru rezoluţiunea contractului
+trebuie să fie proporţională și să compenseze prejudiciul financiar cauzat furnizorului de la
+neprelevarea volumelor de gaze naturale stabilite în contract cu preţ fix suportat ca urmare
+a rezoluţiunii unilaterale a contractului de către un consumator final. Sarcina probei revine
+furnizorului, iar monitorizarea aplicabilității plăţilor pentru rezoluţiunea contractului este
+de competenţa Agenţiei.”
+1.23 La punctul 64, subpunctul 1) va avea următorul cuprins:
+„1) să asigure furnizarea continuă şi fiabilă a gazelor naturale, până la ieşirea din
+robinetul de siguranţă la consumatorul casnic şi până la punctul de delimitare în cazul
+consumatorului  noncasnic,  la  parametrii  de  calitate  stabiliţi  în  standardele  de  calitate,
+aprobate de organismul naţional de standardizare;”.
+1.24 Punctul 65 se completează cu subpunctele 8
+## 1
+) și 8
+## 2
+) cu următorul cuprins:
+## „8
+## 1
+) să încheie acorduri de eșalonare a datoriilor cu consumatorul final;
+## „8
+## 2
+) să rezoluționeze unilateral contractul de furnizare a gazelor naturale încheiat cu
+consumatorul final și să solicite operatorului de sistem deconectarea instalaţiilor de gaze
+naturale ale consumatorului final pentru locul de consum respectiv, în cazul depunerii
+declarației  neveridice  și/sau  informațiilor  neveridice  stabilite  la  pct.  11,  la  încheierea
+contractului de furnizare a gazelor naturale.
+## 1.25 Punctul 68,
+subpunctul 4) va avea următorul cuprins:
+„4) să solicite încheierea, modificarea, prelungirea sau rezoluțiunea contractului de
+furnizare a gazelor naturale;”.
+se completează cu subpunctul 4
+## 1
+) cu următorul cuprins:
+## „4
+## 1
+) să solicite furnizorului încheierea acordurilor de eșalonare a datoriilor”.
+1.26 Punctul 69 va avea următorul cuprins:
+
+„69.  Operatorul  de  sistem  este  obligat  să  asigure  accesul  în  mod  gratuit
+consumatorului final/furnizorului, în condiţii de securitate şi confidenţialitate la informaţiile
+privind istoricul de consum la locurile de consum ale consumatorului final, inclusiv ultimele
+indicații citite ale echipamentului de măsurare.”
+1.27 Punctul 70 se abrogă.
+1.28 Se completează cu pct. 72
+## 1
+cu următorul cuprins:
+## „72
+## 1
+. Operatorul de sistem citește lunar indicațiile echipamentului de măsurare și le
+prezintă  furnizorului  în  termenele  stabilite,  cu  indicarea  modului  de  determinare  a
+consumului (citirea indicațiilor echipamentului de măsurare sau determinarea estimativă a
+volumului consumat cu indicarea bazei de estimare utilizate).”
+1.29 Punctul 73 va avea următorul cuprins:
+„73. Plata gazelor naturale consumate se efectuează în baza facturii de plată, emisă
+lunar de către furnizor şi prezentată consumatorului final. La cererea consumatorului final,
+factura se transmite doar electronic, în formatul stabilit. Factura expediată electronic va
+conține în mod obligatoriu informația prevăzută la pct. 78 din Regulament. Modalitatea şi
+termenul de plată a facturii se stabilesc de către părţi în contractul de furnizare a gazelor
+naturale.”
+1.30 Punctul 77 va avea următorul cuprins:
+„77. Prețul la gazele naturale se exprimă în lei/kWh și lei/1000 m
+## 3
+## .”
+## 1.31 Punctul 78,
+se completează cu subpunctul 3
+## 1
+), cu următorul cuprins:
+## „3
+## 1
+) informații privind consumul actual și consumul corespunzător aceleiași perioade
+a anului precedent, în măsura în care aceste informații sunt disponibile, în formă grafică.”
+se completează cu subpunctul 4
+## 1
+), cu următorul cuprins:
+## „4
+## 1
+) informații privind modul de determinare de către OSD a volumului de gaze
+naturale facturat (prin citirea indicațiilor echipamentului de măsurare sau determinarea
+estimativă a volumului consumat, conform pct. 81 din Regulament).
+subpunctul  13),  se  completează  cu  textul:  „informaţii  privind  modalităţile  de
+transmitere a reclamațiilor consumatorilor;”
+se completează cu subpunctele 15
+## 1
+) și 15
+## 2
+), cu următorul cuprins:
+## „15
+## 1
+)  o  mențiune  vizibilă  referitoare  la  instrumentul  de  comparare  a  ofertelor
+dezvoltat de Agenție și pagina web oficială a acestuia.
+## 15
+## 2
+) informaţii privind dreptul consumatorului final de a schimba furnizorul, în mod
+gratuit, cu respectarea condiţiilor contractuale, cu precizarea că „Lista titularilor de licenţă
+
+pentru furnizarea gazelor naturale este publicată pe pagina web oficială a Agenției”.
+1.32  La  punctul  81,  textul  „furnizorul  și  operatorul  de  sistem  sunt  obligați”  se
+substituie cu textul „operatorul de sistem este obligat”.
+1.33 La punctul 82, textul „ , la solicitarea consumatorului final,” se exclude.
+1.34 Se completează cu punctul 86
+## 1
+cu următorul cuprins:
+## „86
+## 1
+. În cazul în care la un loc de consum al unui consumator noncasnic, furnizarea
+gazelor naturale are loc în baza mai multor contracte încheiate cu furnizori diferiţi, decizia
+privind constatarea consumului de gaze naturale prin ocolirea echipamentului de măsurare,
+denaturarea indicațiilor echipamentului de măsurare sau prin alte modalități de consum
+neînregistrat se emite de furnizorul cu cea mai mare cantitate de gaze naturale furnizată în
+ultima perioadă de facturare.”
+1.35 La punctul 91, după textul „lipsa sigiliului” se completează cu textul „sau în alte
+cazuri, care pot fi stabilite la controlul vizual al echipamentului de măsurare”.
+1.36 Punctul 97 va avea următorul cuprins:
+„97. Suma plăţii preventive este stabilită de către furnizor şi nu trebuie să depăşească
+contravaloarea consumului mediu lunar de gaze naturale. În cazul contractelor de furnizare
+a gazelor naturale încheiate cu consumatorii finali – neproprietari ai imobilelor, suma plăţii
+preventive nu trebuie să depăşească contravaloarea consumului mediu de gaze naturale pe
+parcursul a două luni. La încheierea contractelor de furnizare a gazelor naturale cu noii
+consumatori finali, suma plăţii preventive se stabileşte de furnizor, conform pașapoartelor
+aparatelor de utilizare ale consumatorului, perioada anului (iarnă/vară) și a specificului
+activității  desfășurate  de  consumator  (producere/deservire/public).  La  solicitarea  noilor
+consumatori  finali,  suma  plăţi  preventive  poate  fi  revizuită  după  primele  trei  luni  de
+contract şi stabilită în baza consumului mediu lunar de gaze naturale. În cazul diferenței
+consumului  în  funcție  de  sezon  sau  specificului  activității  desfășurate,  plata  preventivă
+poate fi stabilită diferențiat, pe perioade de referință. Valoarea plăţii preventive se indică în
+mod obligatoriu într-o anexă la contractul de furnizare a gazelor naturale.”
+1.37 Punctele 120, 121 vor avea următorul cuprins:
+„120.  Furnizorul  este  obligat  să  dispună  de  centru/centre  de  deservire  a
+consumatorilor  finali,  care  să  întrunească  cumulativ  următoarele  cerințe:
+1) să fie amplasate în spații cu destinație nelocativă, clar delimitate și separate de
+spațiile utilizate de alte persoane juridice;
+2) să dispună de o suprafață utilă suficientă pentru desfășurarea activității, dar nu
+mai mică de 12 m.p.;
+3) să fie amenajate corespunzător pentru deservirea consumatorilor;
+4) să fie identificate vizibil, prin afișarea denumirii furnizorului, a datelor de contact
+și a programului de lucru, atât la intrarea în centrul de deservire, cât și, în cazul în care
+
+centrul este amplasat în interiorul unei clădiri, la intrarea principală a clădirii;
+5) să asigure accesul liber al tuturor consumatorilor pe durata programului de lucru
+de cel puțin 5 zile pe săptămână și minimum 8 ore pe zi.
+- Furnizorul are obligația să asigure un serviciu de deservire a consumatorilor
+format din cel puțin un angajat, inclusiv un serviciu telefonic funcțional, al cărui număr de
+telefon  se  înscrie  în  mod  obligatoriu  pe  factura  de  plată  și  pe  pagina  electronică  a
+furnizorului. În acest scop, furnizorul este obligat:
+1)  să  desemneze  personal  responsabil  de  examinarea  cererilor  și  reclamațiilor
+consumatorilor finali, care să dispună de dreptul de a lua decizii în numele furnizorului;
+2)  să  asigure  posibilitatea  de  colaborare  directă  a  personalului  desemnat  cu
+operatorii de sistem, în vederea soluționării problemelor abordate de consumatori;
+3)  să  asigure  prezentarea  informațiilor  solicitate  de  consumatori,  gestionarea
+cererilor  și  a  reclamațiilor  consumatorilor  finali,  precum  și  stabilirea  întâlnirilor  cu
+reprezentanții furnizorului atât prin centrele de deservire a consumatorilor, cât și prin
+mijloace de comunicare la distanță, inclusiv prin telefon și prin poșta electronică.”
+1.38 Punctul 123 va avea următorul cuprins:
+„123. Furnizorul este obligat să dețină și să asigure funcționarea unei pagini web
+accesibile publicului, prin care să aducă la cunoștința consumatorilor finali următoarele
+informații:
+1)  adresa  centrului/centrelor  de  deservire,  numerele  de  telefon,  inclusiv  numărul
+serviciului  24/24  al  operatorului  de  sistem  și  adresele  de  poștă  electronică  pentru
+depunerea cererilor și reclamațiilor;
+2) programul de lucru al centrului/centrelor de deservire;
+3) informații privind procedura de depunere și soluționare a cererilor și reclamațiilor
+consumatorilor finali;
+4) informații despre drepturile și obligațiile consumatorilor finali;
+5) informații despre drepturile și obligațiile furnizorului;
+6) modele ale contractelor de furnizare a gazelor naturale;
+7)  orice  modificări  în  programul  de  lucru  sau  alte  informații  relevante  pentru
+consumatori, actualizate în timp util.”
+1.39 Capitolul II se completează cu Secțiunea 6
+## 1
+, cu următorul cuprins:
+„Secțiunea 6
+## 1
+Instrumentul de comparare a ofertelor
+
+## 125
+## 1
+. Pentru a spori transparența pieței de gaze naturale și a facilita exercitarea de
+către consumatori a dreptului de a alege în mod informat furnizorul, Agenția dezvoltă și
+administrează  un  instrument  de  comparare  a  ofertelor  furnizorilor  de  gaze  naturale
+(instrument de comparare /instrument) disponibil public și gratuit.
+## 125
+## 2
+.  Instrumentul  este  destinat  consumatorilor  finali,  în  special  consumatorilor
+casnici și consumatorilor noncasnici.
+## 125
+## 3
+.  Agenția  asigură  funcționarea  independentă  a  instrumentului  față  de
+participanții  la  piață  și  un  tratament  egal  și  nediscriminatoriu  pentru  toți  furnizorii.
+## 125
+## 4
+. Instrumentul de comparare va afișa cel puțin:
+1) lista furnizorilor de gaze naturale care au prezentat oferte relevante de furnizare a
+gazelor naturale pe durată determinată și la preț fix;
+2) pentru fiecare ofertă în parte: tipul de preț (fix sau variabil), durata contractului,
+serviciile incluse și alte condiții comerciale relevante;
+3) data ultimei actualizări a informațiilor.
+## 125
+## 5
+. „Furnizorii de gaze naturale care au încheiat cel puțin un contract de furnizare
+a gazelor naturale cu consumatori casnici sau consumatori noncasnici mici în ultima lună
+calendaristică, au obligația de a elabora și publica pe pagina sa electronică oferte pentru
+furnizarea gazelor la preț fix și pentru o perioadă determinată de 12 luni (în continuare
+oferte - tip pentru 12 luni) și a le transmite în formatul stabilit de Agenție, pentru a fi
+încărcate în instrumentul de comparare. Opțional, furnizorii pot transmite Agenției și alte
+oferte de furnizare a gazelor naturale.”
+## 125
+## 6
+. În cazul în care furnizorii lansează o nouă ofertă- tip pentru 12 luni sau o
+modifică  pe  cea  existentă,  aceştia  au  obligaţia  de  a  le  introduce  în  instrumentul  de
+comparare, în formă electronică, în termen de 1 zi lucrătoare de la data lansării sau
+modificării  ofertei.  Furnizorii  sunt  obligaţi  să  precizeze  orice  condiţii  care  afectează
+ofertele.
+## 125
+## 7
+. Instrumentul de comparare a ofertelor menține o arhivă a ofertelor pentru a
+asigura  o  comparație  a  acestora  în  timp.  Datele  se  actualizează  atunci  când  furnizorii
+notifică modificări.
+## 125
+## 8
+. Ordonarea rezultatelor ofertelor-tip pentru 12 luni se face în funcție de prețul
+final de furnizare (MDL/m
+## 3
+și MDL/kWh), în ordine crescătoare.
+## 125
+## 9
+.  În  cazul  în  care  furnizorul  de  gaze  naturale  nu  transmite  informații  sau
+transmite  informații  incomplete  sau  inexacte  în  instrumentul  de  comparare,  conform
+punctului  125
+## 5
+,  furnizorul  poartă  răspundere  contravențională  și/sau  după  caz,  Agenția
+aplică sancțiune financiară în conformitate cu art. 113 alin. (1) lit. c) din Legea nr. 108/2016
+cu privire la gazele naturale.
+## 125
+## 10
+. Procedura simplificată prin care utilizatorii pot raporta informații eronate este
+
+stabilită de Agenție.
+## 125
+## 11
+. Instrucțiunea de funcționare a instrumentului de comparare se stabilește de
+Agenție și se publică pe pagina sa web.
+## 125
+## 12
+. Prelucrarea datelor cu caracter personal se limitează la strictul necesar pentru
+realizarea comparației, în conformitate cu legislația privind protecția datelor cu caracter
+personal.”
+## 125
+## 13
+În termen de 10 zile de la data primirii notificării din partea Agenției cu privire
+la operaționalizarea instrumentului de comparare a ofertelor, furnizorii au obligaţia de a
+introduce  în  instrumentul  de  comparare  ofertele  prevăzute  de  prezenta  Secțiune,  prin
+intermediul unei interfeţe web puse la dispoziţie în acest scop de Agenție.
+1.40 Se completează cu Secțiunea 6
+## 2
+, cu următorul cuprins:
+„Secțiunea 6
+## 2
+Condițiile specifice de furnizare a gazelor naturale
+pentru categoriile de consumatori finali care nu
+au dreptul de a beneficia de furnizarea gazelor
+naturale la prețuri reglementate
+## 125
+## 14
+. Începând cu data restricționării graduale a accesului consumatorilor noncasnici
+mari și mijlocii la furnizarea gazelor naturale la prețuri reglementate în condițiile art. 89 din
+Legea nr. 108/2016 cu privire la gazele naturale, consumatorii respectivi beneficiază de
+furnizarea gazelor naturale exclusiv în baza contractelor încheiate pe piața concurențială.
+## 125
+## 15
+. Prețurile aplicabile în cadrul contractelor concurențiale nu se aprobă de către
+Agenție și se negociază între părți.
+## 125
+## 16
+. Furnizorii de serviciu public au obligația de a înștiința consumatorii finali care
+nu au dreptul de a beneficia de furnizarea gazelor naturale la prețuri reglementate despre
+rezoluțiunea contractului de furnizare a gazelor naturale încheiat în contextul obligaţiei de
+serviciu public, la data încetării dreptului consumatorilor respectivi de a fi aprovizionați cu
+gaze naturale la prețuri reglementate, conform calendarului stabilit de Agenție.
+## 125
+## 17
+. Consumatorii noncasnici înștiințați conform pct. 125
+## 16
+au obligația de a încheia
+un contract de furnizare a gazelor naturale pe piața concurențială, la prețuri negociate sau
+prin intermediul platformelor de tranzacționare a gazelor naturale de pe teritoriul Republicii
+## Moldova.
+## 125
+## 18
+. Contractele de furnizare sunt încheiate în conformitate cu Legea nr. 108/2016
+cu privire la gazele naturale și Capitolul II din Regulament, cu furnizorii de gaze naturale
+licențiați, lista cărora este publicată în Registrul de licențiere disponibil pe pagina web a
+## Agenției.
+
+## 125
+## 19
+. Furnizorii au obligația de a pune la dispoziţia consumatorilor finali gratuit
+informaţii  transparente,  prezentate  într-o  manieră  clară  și  completă,  privind  condiţiile
+comerciale de furnizare a gazelor naturale, în conformitate cu pct. 17
+## 1
+## -17
+## 3
+din Regulament.
+## 125
+## 20
+. Operatorii de sistem publică anual, până la data de 1 februarie pe paginile lor
+electronice, listele actualizate ale consumatorilor noncasnici mari și mijlocii, identificați
+conform categoriilor de consumatori finali prevăzute prin Hotărârea ANRE nr. 425/2025.
+1.41 La Anexa nr. 1 punctul 8 litera b) va avea următorul cuprins:
+„b) să furnizeze Consumatorului casnic gaze naturale la parametrii de calitate stabiliţi
+în standardele de calitate aprobate de organismul naţional de standardizare;”
+1.42 La Anexa nr. 2,
+Punctul 24 litera a) va avea următorul cuprins:
+„a) să furnizeze Consumatorului noncasnic gaze naturale încontinuu, pînă la punctul
+de  delimitare,  la  parametrii  de  calitate  stabiliţi  în  standardele  de  calitate  aprobate  de
+organismul naţional de standardizare;”
+Punctul 30 va avea următorul cuprins:
+„30. În cazul în care Furnizorul, în calitate de parte responsabilă de echilibrare,
+achită plăți pentru dezechilibrele portofoliului său de echilibrare care depășesc nivelul de
+toleranță zilnică aprobat de Agenție, consumatorii noncasnici cu un consum mai mare de 50
+MWh/zi  sunt  obligați  să  despăgubească  Furnizorul  pentru  prejudiciul  financiar  cauzat,
+proporțional cu contribuția lor la generarea dezechilibrului.”
+La  punctul  39,  cuvintele  „în  scris”  se  substituie  cu  textul  „în  formă  scrisă  cu
+semnătură  olografă  sau  sub  formă  de  document  electronic  cu  semnătură  avansată
+calificată”.
+1.43 Se completează cu Anexa nr. 2
+## 1
+cu următorul cuprins:
+anexa nr.2
+## 1
+1.44 Se completează cu Anexa nr. 4 cu următorul cuprins:
+anexa nr.4
+-  Regulamentul  privind  procedura  de  schimbare  a  furnizorului  de  gaze
+naturale, aprobat prin Hotărârea Consiliului de administrație al Agenţiei Naţionale
+pentru  Reglementare  în  Energetică  nr.  363/2020  (Monitorul  Oficial  al  Republicii
+Moldova, 2020, nr. 279-284, art. 1049), înregistrată la Ministerul Justiției cu nr. 1594 din 19
+octombrie 2020, se modifică după cum urmează:
+
+2.1 La punctul 8 subpunctul 4) va avea următorul cuprins:
+„4) prezentarea de către operatorul de sistem a informațiilor privind locul de consum
+la care se preconizează schimbarea furnizorului, inclusiv consumul lunar al ultimilor doi ani
+calendaristici.”
+2.2 Punctul 13, punctul 14 se abrogă.
+2.3 Punctul 16 se completează cu subpunctul 9) cu următorul cuprins:
+„9) informația privind realizarea distribuției gazelor naturale către locul de consum al
+consumatorului final prin rețelele unuia sau mai multor operatori de sistem.”
+2.4 Punctul 25 se completează la sfârșitul primului alineat cu textul: „și lipsa unui
+acord de eșalonare a datoriilor cu furnizorul actual.”
+2.5 Punctul 26 se abrogă.
+2.6 Punctul 27 se completează cu textul „ , informația privind realizarea distribuției
+gazelor naturale către locul de consum al consumatorului final prin rețelele unuia sau mai
+multor operatori de sistem.”
+2.7 Punctul 36 se completează la sfârșit cu textul: „sau acordului de eșalonare a
+datoriilor încheiat cu furnizorul actual.”
+-  Prezenta  Hotărâre  intră  în  vigoare  la  data  publicării  în  Monitorul  Oficial  al
+## Republicii Moldova.
+DIRECTOR GENERAL Alexei TARAN
+DIRECTORI Constantin BOROSAN
+Eugen CARPOV
+Violina ȘPAC
+Alexandru URSU
+Nr. 177. Chișinău, 17 martie 2026.

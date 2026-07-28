@@ -1,0 +1,801 @@
+---
+title: "HANRE 626-2023 — Metodologie tarife transport EE (text)"
+type: act-text
+act_type: act-anre
+nr: "626"
+an: 2023
+domeniu: [energetică, energie-electrică, tarife]
+in_vigoare: true
+legis_id: "154057"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=154057"
+continut: text-integral
+text_complet: true
+articole_numarate: 0
+tags: [act, text]
+created: 2026-07-26
+updated: 2026-07-26
+source_ingest: manual-browser-download
+---
+
+# HANRE 626/2023 — Metodologie tarife transport EE
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md**, doc_id [154057](https://www.legis.md/cautare/getResults?lang=ro&doc_id=154057).
+> Descărcare manuală din browser (bypass plafon ~96 KB). Articole normalizate ca `### Articolul N.` pentru ancorare wikilink.
+> Analiză: [[HANRE 626-2023 — Metodologie tarife transport EE (notă)]].
+
+> [!note] Abrogă
+> Acest act abrogă HANRE 486/2017.
+
+---
+
+## Republica Moldova
+## AGENȚIA NAȚIONALĂ PENTRU REGLEMENTARE ÎN ENERGETICĂ
+HOTĂRÂRE Nr. HANRE626/2023
+din 27.10.2023
+cu privire la aprobarea Metodologiei de calculare,
+aprobare și aplicare a tarifelor reglementate pentru
+serviciul de transport al energiei electrice
+Publicat : 16.11.2023 în MONITORUL OFICIAL Nr. 430-432 art. 1098 Data intrării în vigoare
+## MODIFICAT
+HANRE261 din 16.04.26, MO176-179/23.04.26 art.316; în vigoare 23.05.26
+## ÎNREGISTRAT:
+## Ministerul Justiţiei
+al Republicii Moldova
+nr.1859 din 13.11.2023
+Ministru ________Veronica MIHAILOV-MORARU
+În temeiul art. 7 alin. (2) lit. a) și art. 87 alin. (3) din Legea nr. 107/2016 cu privire la
+energia electrică, cu modificările ulterioare (Monitorul Oficial al Republicii Moldova, 2016,
+nr. 193-203, art. 413), Consiliul de administrație al Agenției Naționale pentru Reglementare
+în Energetică
+## HOTĂRĂŞTE:
+- Se aprobă Metodologia de calculare, aprobare și aplicare a tarifelor reglementate
+pentru serviciul de transport al energiei electrice (se anexează).
+- Se abrogă Metodologia de calculare, aprobare și aplicare a tarifelor reglementate
+pentru serviciul de transport al energiei electrice aprobată prin Hotărârea Consiliului de
+administrație  al  Agenției  Naționale  pentru  Reglementare  în  Energetică  nr.  486/2017
+(Monitorul Oficial al Republicii Moldova, 2018, nr. 18-26, art. 72), înregistrată la Ministerul
+Justiției cu nr. 1288 din 10 ianuarie 2018.
+- Controlul asupra executării prezentei Hotărâri se pune în sarcina subdiviziunilor
+Agenției Naționale pentru Reglementare în Energetică.
+
+DIRECTOR GENERAL Veaceslav UNTILA
+DIRECTORI Eugen CARPOV
+Alexei TARAN
+Alexandru URSU
+Nr. 626. Chişinău, 27 octombrie 2023.
+## Aprobat:
+prin Hotărârea Consiliului de administrație
+al ANRE nr. 626 din 27 octombrie 2023
+## METODOLOGIA
+de calculare, aprobare şi aplicare a tarifelor reglementate
+pentru serviciul de transport al energiei electrice
+## Secţiunea 1
+## DISPOZIŢII GENERALE
+- Metodologia de calculare, aprobare şi aplicare a tarifelor reglementate pentru
+serviciul de transport al energiei electrice (în continuare Metodologie) reglementează modul
+de  calculare,  aprobare,  ajustare  şi  aplicare  a  tarifelor  pentru  serviciul  de  transport  al
+energiei electrice.
+- Prezenta Metodologie stabileşte:
+1) structura şi modul de determinare a cheltuielilor şi veniturilor reglementate;
+2) metoda de calculare a amortizării mijloacelor fixe și a imobilizărilor necorporale;
+3)  modul  de  determinare,  aprobare  şi  aplicare  a  tarifelor  reglementate  pentru
+serviciul de transport al energiei electrice;
+4) modul de ajustare a tarifelor reglementate pentru serviciul de transport al energiei
+electrice pe perioada de aplicare a Metodologiei.
+- Determinarea şi reglementarea tarifelor pentru serviciul de transport al energiei
+electrice se bazează pe corespunderea tarifelor următoarelor principii:
+1) asigurarea stabilităţii, fiabilităţii, securităţii şi a eficienţei funcţionării reţelelor
+electrice de transport şi prestarea serviciilor de transport al energiei electrice utilizatorilor
+
+de sistem;
+2) acoperirea cheltuielilor minime necesare pentru desfăşurarea în condiții optime a
+activităţii reglementate şi protecţia mediului ambiant, cu utilizarea eficientă a capacităţilor
+de producţie;
+3) efectuarea unei activităţi eficiente, ceea ce ar oferi operatorului sistemului de
+transport  posibilitatea  de  a-şi  recupera  mijloacele  financiare  investite  în  dezvoltarea,
+modernizarea  şi  reconstrucţia  reţelei  electrice  de  transport,  obținerea  rentabilității
+reglementate  și  respectarea  principiului  eficiență  maximă  la  costuri  minime;
+4)  asigurarea  faptului  că  tarifele  sunt  justificate,  rezonabile,  verificabile,
+nediscriminatorii,  transparente,  bazate  pe  performanță  şi  pe  criterii  obiective.
+-  Prezenta  Metodologie  stabilește  modalitatea  de  determinare  a  tarifului  pentru
+serviciul  de  transport  al  energiei  electrice  (TT)  prin  ansamblul  reţelelor  electrice  de
+transport  ale  operatorului  sistemului  de  transport,  care  include  și  cheltuielile  pentru
+conducerea centralizată a sistemului electroenergetic.
+## Secţiunea 2
+## DETERMINAREA TARIFELOR REGLEMENTATE
+## PENTRU SERVICIUL DE TRANSPORT AL ENERGIEI
+## ELECTRICE
+- Tariful reglementat pentru serviciul de transport al energiei electrice prin reţelele
+electrice de transport în anul „j” se determină în baza formulei:
+unde:
+## VRT
+j
+– venitul reglementat al operatorului sistemului de transport necesar de a fi
+obţinut  în  anul  „j”  de  la  prestarea  serviciului  de  transport  al  energiei  electrice  prin
+ansamblul reţelelor electrice de transport, lei;
+## ET
+j
+– cantitatea energiei electrice transportată în anul „j” prin ansamblul reţelelor
+electrice de transport, MWh;
+## CRT
+j
+–  costurile  reglementate  ale  operatorului  sistemului  de  transport  aferente
+prestării serviciului de transport al energiei electrice prin ansamblul reţelelor electrice de
+transport și a costurilor pentru conducerea centralizată a sistemului electroenergetic, în
+anul „j”, lei;
+## RT
+j
+–  rentabilitatea  reglementată  a  operatorului  sistemului  de  transport  aferentă
+prestării serviciului de transport al energiei electrice prin ansamblul reţelelor electrice de
+transport, în anul „j”, lei;
+
+## V
+gc,j
+–  venitul  obţinut  de  operatorul  sistemului  de  transport  în  anul  „j”  de  la
+gestionarea congestiilor în cazul în care acesta nu poate fi utilizat în mod eficient în scopul
+garantării  disponibilităţii  reale  a  capacităţilor  alocate  şi  menţinerii  sau  majorării
+capacităţilor interconexiunilor prin investiţii în reţeaua electrică de transport, în special în
+interconexiuni noi, lei.
+[Pct.5  modificat  prin  HANRE261  din  16.04.26,  MO176-179/23.04.26  art.316;  în
+vigoare 23.05.26]
+-  Prezenta  Metodologie  stabilește,  că  la  calcularea  tarifelor  pentru  serviciul  de
+transport al energiei electrice cantitatea de energie electrică planificată de a fi transportată
+în anul de gestiune „j” prin reţelele electrice de transport, se determină ca diferenţa dintre
+cantitatea estimată a energiei electrice intrată în reţeaua electrică de transport şi consumul
+tehnologic și pierderile de energie electrică în reţeaua electrică de transport, determinat ca
+produsul dintre valoarea medie pentru cinci ani a consumului tehnologic și a pierderilor
+efective, în valoare relativă și cantitatea estimată a energiei electrice intrată în reţeaua
+electrică de transport în anul de gestiune „j”.
+## Secţiunea 3
+## DETERMINAREA CHELTUIELILOR
+## REGLEMENTATE
+- Luând în considerare procesul tehnologic, specificul şi structura reţelelor electrice
+de  transport,  şi  având  la  bază  prevederile  standardelor  de  contabilitate,  prezenta
+Metodologie stabileşte, că la determinarea tarifului reglementat pentru prestarea serviciului
+de transport al energiei electrice de către operatorul sistemului de transport (CRT) se includ
+următoarele cheltuieli:
+a)  cheltuielile  privind  amortizarea  mijloacelor  fixe  și  a  imobilizărilor  necorporale
+## (CAI);
+b) cheltuielile operaţionale reglementate (COR);
+c)  devierile  tarifare  (DV
+j-1
+).  Aceste  devieri,  pozitive  sau  negative,  care  se  iau  în
+calculul  tarifului  pentru  anul  „j”,  reprezintă  diferența  dintre  parametrii  planificați  la
+stabilirea tarifului şi cei reali înregistrați în perioada precedentă de reglementare „j-1”. La
+determinarea tarifului, în calitate de parametri planificați sunt considerați: cantitatea de
+energie electrică transportată, consumul tehnologic și pierderile de energie electrică în
+rețeaua de transport, indicii de ajustare a costurilor de bază, rentabilitatea determinată în
+baza realizării planului anual de investiții, cheltuielile generate de factori ce nu pot fi
+influențați de operatorul sistemului de transport.
+Cheltuielile  reglementate  ale  operatorului  sistemului  de  transport  în  anul  „j”  se
+determină conform formulei:
+## CRT
+j
+## = CAI
+j
+## + COR
+j
+## - DV
+j-1
+## ,lei (2)
+
+-  Cheltuielile  privind  amortizarea  mijloacelor  fixe  și  a  imobilizărilor  necorporale
+## (CAI
+j
+)  aferente  activităţii  reglementate  desfăşurate  de  către  operatorul  sistemului  de
+transport în fiecare an de reglementare „j” se determină conform formulei:
+unde:
+## VI
+i,j
+– costul de intrare al mijloacelor fixe și imobilizărilor necorporale de categoria „i”
+în anul „j”. La calcularea amortizării mijloacelor fixe și a imobilizărilor necorporale în costul
+de intrare a activelor nu se include valoarea mijloacelor fixe și a imobilizărilor necorporale
+conservate, aflate în curs de execuţie, date în locaţiune, imobilizărilor finanţate din donaţii,
+transmise operatorului sistemului de transport cu titlu gratuit sau la deservire tehnică,
+neutilizate în activitatea reglementată, a obiectelor locative, de menire social–culturală şi
+altor  imobilizări  care  nu  sunt  destinate  serviciului  de  transport  al  energiei  electrice,
+imobilizări finanţate de către bugetele de stat şi locale, de agenţi economici sau de către
+consumatorii finali. Nu se include în calculul amortizării mijloacelor fixe şi imobilizărilor
+necorporale amortizabile costul de intrare a mijloacelor fixe şi imobilizărilor necorporale
+date în exploatare în afara planurilor de investiţii aprobate de Agenţie;
+## DU
+i
+– durata de utilizare a mijloacelor fixe și a imobilizărilor necorporale amortizabile
+de categoria „i”, care nu poate fi mai mică decât durata indicată în Catalogul mijloacelor
+fixe , aprobat prin Hotărârea Guvernului nr. 941/2020. Grupele de categorii „i” se formează
+prin gruparea mijloacelor fixe și a imobilizărilor necorporale cu durată de utilizare identică.
+La determinarea costului de intrare al mijloacelor fixe şi imobilizărilor necorporale se
+ia in considerare valoarea de proiect a investițiilor în lucrările de construcție a obiectelor
+rețelelor electrice de transport, declarate lucrări de utilitate publică de interes național, din
+momentul debursării mijloacelor financiare pentru finanțarea proiectului.
+[Pct.8  modificat  prin  HANRE261  din  16.04.26,  MO176-179/23.04.26  art.316;  în
+vigoare 23.05.26]
+-  Cheltuielile  operaţionale  reglementate  (COR
+j
+)  ale  operatorului  sistemului  de
+transport cuprind:
+1) cheltuielile materiale (CM
+j
+## );
+2) cheltuielile de întreţinere şi exploatare a reţelelor electrice de transport şi a altor
+mijloace fixe utilizate în procesul tehnologic, dar care nu sunt parte componentă a reţelelor
+electrice de transport (CÎE
+j
+## );
+3) cheltuielile de personal, încadrat în activitatea de transport a energiei electrice
+## (CP
+j
+## );
+4) cheltuielile de distribuire și administrative (CAD
+j
+## );
+5)  cheltuielile  pentru  energia  electrică  procurată  pentru  acoperirea  consumului
+tehnologic și a pierderilor de energie electrică în reţelele electrice de transport (CE
+j
+## );
+
+6) cheltuielile ce țin de conducerea centralizată a sistemului electroenergetic, inclusiv
+costurile de asigurare a rezervelor de reglaj a frecvenței și puterii active, în condițiile
+lansării serviciilor de sistem (CCC
+j
+## );
+7) alte cheltuieli operaţionale (AC
+j
+## ).
+În aşa mod:
+## COR
+j
+## = CM
+j
+## + CÎE
+j
+## + CP
+j
+## + CAD
+j
+## + CE
+j
+## + CCC
+j
+## + AC
+j
+## ,lei (4)
+-  Cheltuielile  materiale  (CM
+j
+)  cuprind  cheltuielile  legate  de  procurarea
+materialelor,  pieselor  de  schimb,  tuturor  tipurilor  de  energie,  combustibil,  carburanţi,
+lubrifianţi,  şi  alte  resurse  materiale  necesare  pentru  asigurarea  procesului  tehnologic,
+întreţinerea, exploatarea şi reparaţia reţelelor electrice de transport şi alte mijloace fixe cu
+destinaţie productivă, de întreţinere şi exploatare a mijloacelor fixe ale unităţilor auxiliare
+ale întreprinderii (deservire, reparaţii, control, de telecomunicaţii, îndeplinirea normelor
+ecologice,  de  securitate,  sanitare  şi  de  igienă,  menţinerea  curăţeniei  şi  ordinii)  în
+conformitate cu standardele naționale de contabilitate și/sau internaționale de raportare
+financiară. Cheltuielile materiale se determină luând în considerare cantitatea fiecărui tip
+de material necesar, determinată în baza normelor de consum şi a analizei materialelor,
+pieselor  de  schimb,  aparatelor,  instrumentelor,  mijloacelor  de  protecţie  personală  şi  a
+utilajului  de  dispecerat  utilizate  în  perioada  precedentă  de  reglementare,  pentru
+întreţinerea  şi  pentru  exploatarea  reţelelor  electrice  de  transport  în  conformitate  cu
+documentele normativ-tehnice care reglementează modul de amenajare şi de exploatare a
+reţelelor  electrice,  a  mijloacelor  fixe  destinate  conducerii  centralizate  a  sistemului
+electroenergetic şi cu planurile de deservire tehnică şi reparaţie a mijloacelor fixe, aplicând
+principiul costurilor minime cu eficiență maximă la achiziţionarea acestora.
+[Pct.10  modificat  prin  HANRE261  din  16.04.26,  MO176-179/23.04.26  art.316;  în
+vigoare 23.05.26]
+- Cheltuielile materiale se determină de către operatorul sistemului de transport
+pentru fiecare an de bază (CM
+## 0
+), se examinează şi se aprobă de către Agenţie ca fiind
+cheltuieli materiale în componenţa costurilor de bază.
+- Pentru anii 2, 3, 4 și 5 de reglementare a fiecărui ciclu alternat de 5 ani,
+cheltuielile materiale se actualizează în conformitate cu următoarea formulă:
+unde:
+## IPCD
+j
+–  indicele  preţurilor  de  consum  al  SUA  în  anul  „j”,  publicat  de  către
+Departamentul Muncii al Statelor Unite ale Americii pe pagina sa electronică;
+## X
+## 1
+– indicele de creştere a eficienţei, destinat reducerii costurilor de transport al
+energiei electrice. Acest indice este stabilit constant pentru toată perioadă de aplicare a
+Metodologiei în proporţie de 20% din indicele preţurilor de consum al SUA: X
+## 1
+## =0,2×IPCD
+j
+## ;
+
+LeiD
+j
+– rata medie de schimb a monedei naţionale faţă de dolarul SUA în anul „j”;
+LeiD
+j-1
+– rata medie de schimb a monedei naţionale faţă de dolarul SUA în anul „j-1”,
+publicată de către Banca Naţională a Moldovei;
+## ∆LR
+j
+– modificarea lungimii reţelelor electrice de transport în anul „j” faţă de anul
+„j-1”, care se determină conform formulei:
+unde:
+## LR
+j
+–  lungimea  totală  a  reţelelor  electrice  de  transport  la  finele  anului  de
+reglementare „j”, km;
+## LR
+j-1
+–  lungimea  totală  a  reţelelor  electrice  de  transport  la  finele  anului  de
+reglementare „j- 1”, km.
+- Cheltuielile de exploatare şi întreţinere a reţelelor electrice de transport şi a altor
+mijloace fixe de producţie (CÎE
+j
+) includ: plăţile pentru serviciile prestate de terţe părţi
+pentru  verificarea,  deservirea  tehnică,  întreţinerea,  exploatarea  şi  reparaţia  reţelelor
+electrice  de  transport,  mijloacelor  fixe  ale  serviciului  central  de  dispecerat,  staţiilor
+electrice,  echipamentelor  de  reglare  şi  de  măsurare  a  energiei  electrice,  clădirilor,
+construcţiilor,  mijloacelor  de  transport,  mijloacelor  tehnice  de  dirijare,  comandă,
+comunicaţii şi semnalizare, aparatelor de măsurare şi control, instalaţiilor de protecţie şi
+securitate,  sistemelor  de  automatizare,  instalaţiilor  electrice  şi  altor  mijloace  fixe  de
+producţie aferente activităţii de transport a energiei electrice și a conducerii centralizate a
+sistemului electroenergetic. Cheltuielile de întreţinere şi exploatare se calculează în baza
+devizelor de cheltuieli aprobate, preţurilor pe piaţă, şi contractelor încheiate cu terţe părţi
+pentru efectuarea lucrărilor sus-menţionate.
+- Cheltuielile de exploatare şi întreţinere se determină de operatorul sistemului de
+transport pentru fiecare an de bază (〖CÎE〗_0), se examinează şi se aprobă de către Agenţie
+ca fiind cheltuieli de exploatare şi întreţinere în componenţa costurilor de bază.
+- Pentru anii 2, 3, 4 și 5 de reglementare a fiecărui ciclu alternat de 5 ani,
+cheltuielile  de  exploatare  şi  întreţinere  se  actualizează  în  conformitate  cu  următoarea
+formulă:
+unde:
+## IPCM
+j
+– indicele preţurilor de consum din Republica Moldova, publicat de către Biroul
+Național de Statistică al Republicii Moldova;
+## X
+## 2
+– indicele de creştere a eficienţei pentru reducerea costurilor aferente prestării
+serviciului de transport al energiei electrice. Acest indice este stabilit constant pentru toată
+perioadă de aplicare a Metodologiei în proporţie de 20 % din indicele preţurilor de consum
+din Republica Moldova: X
+## 2
+=0,2×IPCMj.
+
+- Cheltuielile de personal (CP
+j
+) includ cheltuielile titularului de licenţă nemijlocit
+legate de retribuirea muncii personalului de producere, cheltuielile legate de contribuţiile
+de  asigurări  sociale  de  stat  obligatorii.  Cheltuielile  de  personal  se  determină  luând  în
+considerare numărul personalului de lucru nemijlocit încadrat în procesul de întreţinere,
+exploatare şi reparaţie a reţelelor electrice de transport, utilajului de dispecerat şi a altor
+mijloace  fixe  destinate  prestării  serviciului  de  transport  și  a  conducerii  centralizate  a
+sistemului  electroenergetic,  cuantumul  salariului  minim,  coeficientul  complexității  din
+ramură,  nivelul  de  calificare  a  personalului,  regimul  şi  condiţiile  de  muncă,  valoarea
+premiilor şi altor plăţi în conformitate cu Codul muncii, aprobat prin Legea nr.154/2003,
+Legea salarizării nr.847/2002 , Hotărârea Guvernului nr.152 / 2004 „Cu privire la cuantumul
+sporului  de  compensare  pentru  munca  prestată  în  condiţii  nefavorabile”  și  Hotărârea
+Guvernului nr. 743/2002 „Cu privire la salarizarea angajaților din unitățile cu autonomie
+fianciară”. Cheltuielile legate de contribuţiile de asigurări sociale de stat obligatorii se
+includ în cheltuielile de personal şi se determină în baza contribuțiilor prevăzute de lege
+pentru anul de bază. Actualizarea anuală a acestor cheltuieli se efectuează în corespundere
+cu cheltuielile de personal, actualizate pentru anul de reglementare „j” şi contribuțiile
+prevăzute de lege pentru anul de reglementare „j”.
+[Pct.16  modificat  prin  HANRE261  din  16.04.26,  MO176-179/23.04.26  art.316;  în
+vigoare 23.05.26]
+-  Cheltuielile  de  personal  se  determină  de  operatorul  sistemului  de  transport
+pentru fiecare an de bază (CP
+## 0
+), se examinează şi se aprobă de către Agenţie ca fiind
+cheltuieli de personal în componenţa costurilor de bază.
+- Pentru anii 2, 3, 4 și 5 de reglementare a fiecărui ciclu alternat de 5 ani,
+cheltuielile de personal se actualizează în conformitate cu următoarea formulă:
+-  Cheltuielile  de  distribuire  și  administrative  (CAD
+j
+)  cuprind  toate  cheltuielile
+aferente activităţii aparatului de conducere, subdiviziunilor administrative ale întreprinderii,
+cheltuielile  întreprinderii  cu  caracter  administrativ  şi  anume:  serviciile  bancare,  de
+consultanță, de audit, poştale, telecomunicaţii, de întreţinere şi exploatare a staţiilor de
+telefoane, comutatoarelor, faxurilor, instalaţiilor de dispecerat, de radio şi alte tipuri de
+telecomunicaţii  utilizate  pentru  administrare,  tipografice,  cheltuielile  pentru  procurarea
+rechizitelor de birou, formularelor de evidenţă, de rapoarte, pentru pregătirea şi reciclarea
+cadrelor, tehnica securităţii, pază, plata pentru locaţiunea curentă, retribuirea personalului
+administrativ,  amortizarea  mijloacelor  fixe  cu  destinaţie  generală  şi  administrativă,  alte
+categorii de cheltuieli, stabilite în conformitate cu SNC „Cheltuieli”. Cheltuielile aferente
+retribuirii muncii personalului administrativ se determină conform principiului descris în
+punctul 16.
+- Cheltuielile de distribuire și administrative se determină de către operatorul
+sistemului de transport pentru fiecare an de bază (CAD
+## 0
+), se examinează și se aprobă de
+Agenţie ca fiind cheltuieli de distribuire și administrative în componenţa costurilor de bază.
+- Pentru anii 2, 3, 4 ș 5 de reglementare a fiecărui ciclu alternat de 5 ani,
+
+cheltuielile de distribuire și administrative se actualizează în conformitate cu formula:
+-  Cheltuielile  pentru  energia  electrică  procurată  pentru  acoperirea  consumului
+tehnologic  și  a  pierderilor  de  energie  electrică  în  reţelele  electrice  de  transport  se
+determină conform formulei:
+## CE
+j
+## = CTE
+j
+## × PE
+j
+## + RFD
+j
+, lei (10)
+unde:
+## CTE
+j
+– consumul tehnologic și pierderile de energie electrică în reţelele electrice de
+transport, acceptat de Agenţie în scopuri tarifare, pentru anul de reglementare „j”, kWh.
+Consumul tehnologic și pierderile de energie electrică în fiecare an de reglementare „j” se
+determină ca produsul dintre valoarea medie pentru cinci ani precedență anului de gestiune
+a consumului tehnologic și a pierderilor efective, în unități relative și cantitatea de energie
+electrică planificată de a fi injectată în rețeaua electrică de transport în anul de gestiune „j”.
+În cazul în care consumul tehnologic și pierderile de energie electrică în rețelele
+electrice de transport efectiv înregistrate în anul de gestiune este mai mic decât valoarea
+aplicată la determinarea tarifului pentru serviciul de transport al energiei electrice în anul
+„j”, la actualizarea tarifului pentru serviciul de transport al energiei electrice va fi aplicată
+valoarea efectivă.
+În cazul în care consumul tehnologic și pierderile de energie electrică în rețelele
+electrice de transport efectiv înregistrate în anul de gestiune, în unități relative, este mai
+mare  decât  valoarea  aplicată  la  determinarea  tarifului  pentru  serviciul  de  transport  al
+energiei  electrice,  operatorul  sistemului  de  transport  determină  valoarea  normativă  a
+consumului tehnologic și a pierderilor de energie electrică în conformitate cu Instrucțiunea
+pentru calcularea consumului tehnologic de energie electrică în rețelele electrice, aprobată
+prin Hotărârea Consiliului de administrație al Agenției Naționale pentru Reglementare în
+Energetică nr.190/2005 și prezintă în adresa Agenției informație referitoare la factorii ce au
+influențat la depășirea consumului tehnologic și a pierderilor de energie electrică în anul de
+gestiune  „j”.  Agenția  verifică  corectitudinea  calculelor  prezentate  de  către  operatorul
+sistemului de transport și în cazul corespunderii acestora cu prevederile Instrucțiunii pentru
+calcularea consumului tehnologic de energie electrică în rețelele electrice, va accepta în
+scopuri tarifare valoarea minimă dintre cuantumul consumului tehnologic și pierderilor de
+energie electrică efectiv înregistrate și a celor determinate conform Instrucțiunii pentru
+calcularea consumului tehnologic de energie electrică în rețelele electrice.
+Valoarea efectivă a consumului tehnologic și a pierderilor de energie electrică în
+rețelele  electrice  de  transport  se  determină  ca  diferența  dintre  cantitatea  de  energie
+electrică măsurată la punctele de intrare în rețelele electrice de transport și cantitatea de
+energie electrică măsurată la punctele de ieșire din rețelele electrice de transport.
+## PE
+j
+– preţul mediu de procurare de către operatorul sistemului de transport, în anul
+„j”,  a  energiei  electrice  destinate  acoperirii  consumului  tehnologic  și  a  pierderilor  de
+energie  electrică  în  reţelele  electrice  de  transport,  lei/kWh.  Operatorul  sistemului  de
+
+transport  achiziţionează  energia  electrică  necesară  pentru  acoperirea  consumului
+tehnologic și a pierderilor de energie electrică în reţelele electrice de transport conform
+prevederilor  Regulilor  pieței  energiei  electrice,  aprobate  prin  Hotărârea  ANRE  nr.
+283/2020,  cu  respectarea  principiului  eficienţă  maximă  la  cheltuieli  minime.
+## RFD
+j
+– costurile pentru dezechilibrele provocate de operatorul sistemului de transport
+în calitate de participant al pieței energiei electrice, lei. Costurile pentru dezechilibrele
+acceptate în scopuri tarifare se determină după cum urmează:
+unde:
+## W
+def,j
+## ,  W
+ex,j
+–  energia  electrică  de  deficit,  respectiv  energia  electrică  în  excedent,
+aferentă anului „j”, kWh;
+## PE
+def,j
+## , PE
+ex,jn
+– prețul mediu ponderat al energiei electrice pentru deficit și excedent în
+anul „j”, lei/kWh;
+Υ–  plafonul  dezechilibrelor  înregistrate  de  operatorul  sistemului  de  transport
+acceptate în scopuri tarifare, stabilit în cuantum de 0,1. În cazul în care W
+def,j
+, și/sau W
+ex,j
+rezultă în valori mai mici decât produsul Υ× CTE
+j
+, valoarea financiară a costurilor pentru
+dezechilibrele  în  deficit  și/sau  veniturilor  pentru  dezechilibrele  în  excedent  se  acceptă
+integral.
+[Pct.22  modificat  prin  HANRE261  din  16.04.26,  MO176-179/23.04.26  art.316;  în
+vigoare 23.05.26]
+- Alte cheltuieli operaţionale (AC
+j
+) se determină anual conform formulei:
+## AC
+j
+## = ITP
+j
+## + CFR
+j
+, lei (11)
+unde:
+## ITP
+j
+– impozitele, taxele şi alte plăți justificate și necesare a fi achitate în anul „j”,
+care  conform  legislației  se  atribuie  la  cheltuieli,  acestea  fiind  calculate  anual.  Întru
+excluderea  dublării  la  calcularea  tarifelor,  aceste  cheltuieli  nu  se  includ  în  cheltuieli
+administrative după cum se duce evidenţa;
+## CFR
+j
+– alocaţia pentru fondul de rulment în anul „j”, care se determină conform
+formulei:
+unde:
+α  –  necesitatea  în  fond  de  rulment,  exprimat  în  zile  de  facturări  anuale.  Prin
+Metodologie se stabileşte α = 10 zile, determinată în baza regimului de achitare a plăţilor
+pentru  serviciului  de  transport  al  energiei  electrice  şi  a  regimului  de  plăţi  pentru
+necesităţile operatorului sistemului de transport (procurări de materiale, achitări de servicii
+
+etc.);
+## Rr
+j
+–rata  de  rentabilitate  a  activelor  în  anul  „j”,  determinată  în  conformitate  cu
+prevederile din Secţiunea 4 a Metodologiei.
+În cazul în care operatorul sistemului de transport nu utilizează integral alocația
+aferentă  fondului  de  rulment  pentru  plata  dobânzilor,  comisioanelor  şi  taxelor  aferente
+creditelor contractate pe termen scurt, Agenția, la actualizarea tarifelor pentru serviciul de
+transport al energiei electrice, diminuează valoarea venitului reglementat aferent tarifului
+pentru anul următor cu 50% din cuantumul alocației utilizate în alte scopuri sau neutilizate.
+[Pct.23  modificat  prin  HANRE261  din  16.04.26,  MO176-179/23.04.26  art.316;  în
+vigoare 23.05.26]
+- În cheltuielile reglementate nu se includ cheltuielile aferente:
+1)  lucrărilor  de  construcţie,  reconstrucţie,  procurare,  modernizare,  montare  şi
+probare a utilajului, punerii în funcţiune a noilor întreprinderi, secţii şi agregate, pentru
+darea  în  exploatare  a  noilor  întreprinderi  (obiecte)  şi  supravegherea  de  autor  a
+organizaţiilor de proiectare. Toate aceste cheltuieli se includ în tarife doar după darea în
+exploatare a mijloacelor fixe prin includerea amortizării acestora şi rentabilităţii investiţiilor
+efectuate după cum este descris în pct.25;
+2) pentru înlăturarea nefinisărilor în lucrările de proiectare, construcţie şi montaj,
+revizie  (demontare),  înlăturarea  defectelor  utilajului  şi  deteriorărilor  provocate  din  vina
+producătorilor, furnizorilor şi organizaţiilor de transport;
+3)  executării  lucrărilor  de  proiectare  şi  construcţie,  pentru  procurarea  utilajului,
+repararea şi întreţinerea obiectelor din fondul locativ, de menire comunală, social-culturală
+şi altor obiecte, ce nu se referă la producţie;
+4) lucrărilor calificate ca ajutor pentru alte întreprinderi şi organizaţii atât în formă
+de servicii, cât şi sprijin material sau financiar;
+5) achitării diferitelor amenzi, penalităţi, acoperirii de lipsuri şi pierderi;
+6) creanţelor compromise;
+7) scopurilor de caritate, sponsorizare și subvenții acordate de operatorul sistemului
+de transport;
+8) executării sau plăţii lucrărilor (serviciilor) auxiliare, ce nu sunt legate de prestarea
+serviciului  de  transport  al  energiei  electrice,  de  conducerea  centralizată  a  sistemului
+electroenergetic,  de  gestionarea  pieței  angro  a  energiei  electrice,  de  asigurare  a
+conformității cu cerințele ENTSO-E, plăților, legate de accesul și mentenanța platformelor
+utilizate în comun cu operatorii sistemelor de transport din Uniunea Europeană și operatorii
+sistemelor de transport din țările vecine, de alte activități conform legislației în vigoare și
+celor care sunt recuperate de operatorul sistemului de transport separat de tarifele pentru
+prestarea serviciului de transport al energiei electrice.
+
+## Secţiunea 4
+## DETERMINAREA RENTABILITĂŢII REGLEMENTATE
+- Rentabilitatea reglementată pentru anul „j” se determină conform formulei:
+## R
+j
+## = VNA
+j
+## × R
+r,j
+, lei (13)
+unde:
+## VNA
+j
+– valoarea netă în anul „j” a mijloacelor fixe și imobilizărilor necorporale noi,
+date în exploatare în urma investiţiilor efectuate, începând cu anul 2004 şi până la începutul
+anului „j”. Această valoare se determină ca diferenţa dintre costul de intrare şi amortizarea
+acestor active acumulată până la începutul anului „j”, lei:
+## VNA
+j
+## = VIA
+j
+## - UA
+j-1
+, lei (14)
+unde:
+## VIA
+j
+– costul de intrare a mijloacelor fixe și a imobilizărilor necorporale noi, date în
+exploatare în urma investiţiilor efectuate începând cu anul 2004 şi până la începutul anului
+„j”, lei;
+## UA
+j-1
+– amortizarea mijloacelor fixe și a imobilizărilor necorporale noi acumulată în
+perioada din data de dare în exploatare până la începutul anului „j”, lei.
+## R
+r,j
+– rata de rentabilitate a activelor noi în anul „j”, date în exploatare în urma
+investiţiilor efectuate. Această rată de rentabilitate se determină anual conform metodei
+costului mediu ponderat al capitalului (Weighted Average Cost of Capital – WACC).
+## Astfel:
+unde:
+Re – costul capitalului propriu, %, care se determină în baza modelului CAPM (Capital
+Assets Pricing Model) conform formulei:
+unde:
+rf  –  rata  lipsită  de  risc,  care  corespunde  mediei  ratelor  fixe  a  dobânzilor  la
+obligațiunile de stat cu maturitate de 10 ani, emise până la finele anului 2025, publicate de
+## Ministerul Finanțelor;
+βd – riscul sistematic al industriei ajustate la gradul de îndatorare, care se determină
+după cum urmează:
+
+unde:
+β – riscul sistematic al industriei (lipsit de îndatorare), care corespunde valorii medii
+utilizate de instituțiile de reglementare pentru operatorii sistemelor de transport, publicat în
+raportul CEER pentru anul 2024, în cuantum de 0,4;
+rm – prima de risc caracteristică pieței, determinată în ianuarie 2026 ca media
+geometrică începând cu anul 1928 pentru bondurile de trezorerie SUA (Stock-T. Bonds) și
+publicată  în  sursa:  http://pages.stern.nyu.edu/~adamodar/  la  compartimentul:  Data  Sets,
+Historia Return on Stoks, Bonds and Bills, Geometric Average, Risk Premium, în cuantum de
+## 5,48;
+t – rata impozitului pe venit aplicată întreprinderii pentru anul „j”;
+E – capitalul propriu al operatorului sistemului de transport;
+D – capitalul împrumutat de operatorul sistemului de transport.
+Metodologia  stabilește,  că  structura  investițiilor  efectuate  utilizată  la  calculul
+rentabilității  este  la  nivel  de  50  %  din  surse  proprii  şi  50  %  din  împrumuturi.
+În acest caz  și  sunt egale cu 0,5.
+Rd–  costul  capitalului  împrumutat  al  întreprinderii.  Valoarea  anuală  a  capitalului
+împrumutat a întreprinderii. Valoarea acestuia corespunde ratei medii la creditele acordate
+în  valută  străină  în  anul  precedent  anului  aprobării  Metodologiei,  publicate  de  Banca
+Națională a Moldovei la compartimentul: Statistica monetară, Ratele medii ale dobânzilor,
+Rata medie la creditele acordate în valută străină/persoane juridice/ peste 12 luni/2025.
+[Pct.25  modificat  prin  HANRE261  din  16.04.26,  MO176-179/23.04.26  art.316;  în
+vigoare 23.05.26]
+- Planificarea, aprobarea şi efectuarea investiţiilor se realizează în conformitate cu
+cerinţele stabilite în Regulamentul privind planificarea, aprobarea şi efectuarea investiţiilor,
+aprobat  prin  Hotărârea  Consiliului  de  administraţie  al  Agenţiei  Naționale  pentru
+Reglementare  în  Energetică  nr.  283/2016.
+- Mijloacele fixe şi imobilizările necorporale date în exploatare în urma investiţiilor
+aprobate de Agenţie se includ la calcularea amortizării şi rentabilităţii conform prevederilor
+prezentei Metodologii.
+## Secţiunea 5
+## APROBAREA, ACTUALIZAREA ŞI APLICAREA TARIFELOR
+-  Operatorul  sistemului  de  transport  determină  anual  tariful  pentru  prestarea
+serviciului de transport al energiei electrice și prezintă Agenţiei cererea privind aprobarea
+tarifului pentru anul ce urmează, în conformitate cu prevederile Regulamentului privind
+procedurile de prezentare și de examinare a cererilor titularilor de licențe privind prețurile
+și tarifele reglementate, aprobat prin Hotărârea Consiliului de administraţie al Agenţiei
+
+Naționale pentru Reglementare în Energetică nr.286/2018.
+-  Tarifele  reglementate  pentru  serviciul  de  transport  al  energiei  electrice  se
+determină  luând  în  considerare  costurile  de  bază  aprobate  de  către  Agenție  pentru  o
+perioadă de cinci ani. În componența costurilor de bază se includ: cheltuielile materiale CM,
+cheltuielile  de  personal  CP,  cheltuielile  de  întreţinere  şi  exploatare  CÎE  ,  precum  şi
+cheltuielile de distribuire și administrative CAD.
+-  Costurile  de  bază  (CM
+## 0
+## ,  CÎE
+## 0
+## ,  CP
+## 0
+## ,  CAD
+## 0
+)  se  determină  de  către  operatorul
+sistemului de transport pentru primul an al fiecărui ciclu alternat de 5 ani, ținând cont de
+cheltuielile  efectiv  înregistrate  în  legătură  cu  activitatea  reglementată  și  se  înaintează
+Agenției spre examinare, în conformitate cu prevederile Regulamentului privind procedurile
+de prezentare și de examinare a cererilor titularilor de licențe privind prețurile și tarifele
+reglementate, aprobat prin Hotărârea Consiliului de administraţie al Agenţiei Naționale
+pentru Reglementare în Energetică nr.286/2018.
+- În cazul în care într-un anumit an, la nivel național, se modifică cuantumul
+salariului minim, atunci cheltuielile din anul respectiv, se actualizează prin substituirea
+## IPCM
+j
+cu  indicele  creșterii  medii  anuale  a  cuantumului  salariului  minim  şi  aplicarea
+indicelui de creştere a eficienţei X
+## 2
+în cuantum de 10% în formula (8).
+- Operatorul sistemului de transport al energiei electrice este în drept să solicite
+Agenției actualizarea tarifelor pentru serviciul de transport al energiei electrice în decursul
+anului, dacă există factori obiectivi ce nu pot fi controlați de operatorul sistemului de
+transport (modificarea cantității de energie electrică transportată, modificarea prețului de
+procurare a energiei electrice necesare acoperirii consumului tehnologic și a pierderilor de
+energie electrică în rețeaua electrică de transport, fluctuația cursului de schimb al monedei
+naționale,  adoptarea  de  acte  legislative  ce  duc  la  modificarea  cheltuielilor  etc.),  care
+justifică o astfel de ajustare și care duc la o deviere mai mare de 5 % din costurile
+reglementate luate în calcul la stabilirea tarifului. Pentru aceasta, operatorul sistemului de
+transport prezintă Agenției solicitare de ajustare a tarifului, însoțită de analiza factorilor de
+influenta  și  a  calculelor  devierilor  rezultate  dintre  indicatorii  reali  și  cei  aplicați  la
+determinarea tarifului aprobat.
+- În cazul existenței unor factori obiectivi care generează devieri mai mari de 5 %
+din  costurile  reglementate  ale  operatorului  sistemului  de  transport  stabilit  în  calculul
+tarifului aprobat și care duc la diminuarea acestuia, Agenția solicită operatorului sistemului
+de transport prezentarea calculului tarifului ajustat.
+- În cazul modificării tarifului în decursul anului de gestiune, devierile tarifare (DV
+j
+## )
+generate în perioada precedentă a anului de gestiune se iau în considerare în totalitate la
+calcularea noului tarif. În acest caz, devierile tarifare se includ în tarif astfel încât să fie
+recuperate până la finele anului de gestiune.
+- Tariful pentru prestarea serviciului de transport al energiei electrice se aplică
+față de participanții pieței energiei electrice pentru cantitățile energiei electrice efectiv
+transportate  prin  rețeaua  electrică  de  transport,  inclusiv  pentru  cantitățile  de  energie
+electrică  exportate  și  tranzitate,  cu  excepția  situației  când  operatorul  sistemului  de
+
+transport este parte a mecanismului de compensare între operatorii sistemelor de transport.
+## Secţiunea 6
+## DISPOZIȚII SPECIALE
+- Prezenta Metodologie stabilește că amortizarea anuală a mijloacelor fixe și a
+imobilizărilor necorporale inclusă în tarif, cu excepţia celor aferente investiţiilor efectuate
+din  împrumuturi,  va  fi  utilizată  de  operatorul  sistemului  de  transport  doar  în  scopul
+efectuării de investiţii noi. În cazul utilizării amortizării activelor în alte scopuri, Agenţia
+diminuiază tariful pentru serviciul de transport al energiei electrice pentru anul următor
+corespunzător acestor mijloace utilizate în alte scopuri.
+-  În  cazul  în  care  valoarea  sumară  a  cheltuielilor  materiale  şi  cheltuielile  de
+întreținere și exploatare efectiv suportate de către operatorul sistemului de transport în
+anul „j” (CM
+j,e
+## + CÎE
+j,e
+) este mai mică decât valoarea sumară a acestor cheltuieli calculate
+conform formulelor (5) şi (7) , în scopul implementării mecanismelor de stimulare a creșterii
+eficienţei, Agenţia la actualizarea tarifului include în venitul reglementat următoarele valori:
+## 1) (CM
+j
+## + CÎE
+j
+) →în cazul în care: CM
+j,e
+## + CÎE
+j,e
+## ≥ 0,9×(CM
+j
+## + CÎE
+j
+## );
+## 2) (CM
+j
+## + CÎE
+j
+## )-0,5×{(CM
+j
+## + CÎE
+j
+## )×0,9 - CM
+j,e
+## - CÎE
+j,e
+} → în cazul în care 0,8×( CM
+j
+## +
+## CÎE
+j
+## ) ≤ CM
+j,e
+## + CÎE
+j,e
+## <0,9× (CM
+j
+## + CÎE
+j
+## );
+## 3) CM
+j,e
+## + CÎE
+j,e
+## +0,15×( CM
+j
+## + CÎE
+j
+) → în cazul în care CM
+j,e
+## + CÎE
+j,e
+## <0,8×(CM
+j
+## +
+## CÎE
+j
+## ).
+Aceeași abordare se aplică şi pentru cheltuielile de personal.
+- Pentru nerespectarea valorilor stabilite ale indicatorilor de calitate a serviciului
+de transport al energiei electrice, Agenţia reduce tariful pentru serviciul de transport al
+energiei  electrice,  în  mărimea  şi  modalitatea  prevăzută  de  Regulamentul  cu  privire  la
+calitatea  serviciilor  de  transport  şi  de  distribuţie  a  energiei  electrice,  aprobat  prin
+Hotărârea  Consiliului  de  administraţie  al  Agenţiei  Naționale  pentru  Reglementare  în
+Energetică nr. 537/2020 .
+- La determinarea tarifelor reglementate pentru serviciul de transport al energiei
+electrice  se  iau  în  considerare  cantitățile,  veniturile  și  cheltuielile  aferente  fluxurilor
+transfrontaliere, precum și alte cheltuieli justificate generate de îndeplinirea cerințelor și
+exigențelor ENTSO-E.
+- Prezenta Metodologie este obligatorie pentru operatorul sistemului de transport,
+care deţine licenţe pentru activitatea de transport a energiei electrice și pentru conducerea
+centralizată a sistemului electroenergetic, eliberate de Agenţie.
+- În cazul în care pe perioada de aplicare a Metodologiei se adoptă acte normative
+de reglementare, care influențează nivelul costurilor și al cheltuielilor aferente prestării
+serviciului de transport al energiei electrice, aceste modificări se iau în considerație de
+către  Agenție  la  ajustarea  tarifelor  reglementate  de  transport  al  energiei  electrice.  În
+
+Metodologie se includ modificări pe parcursul perioadei de aplicare, în măsura necesară
+pentru respectarea cadrului normativ al Republicii Moldova.

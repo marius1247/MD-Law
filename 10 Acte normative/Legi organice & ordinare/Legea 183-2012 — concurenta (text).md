@@ -1,0 +1,1964 @@
+---
+title: "Legea 183-2012 — concurenta (text)"
+type: act-text
+act_type: lege-organică
+nr: "183"
+an: 2012
+domeniu: [comercial, concurență]
+in_vigoare: true
+legis_id: "121240"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=121240"
+continut: text-integral
+text_complet: true
+articole_numarate: 96
+tags: [act, text]
+created: 2026-07-26
+updated: 2026-07-26
+source_ingest: manual-browser-download
+---
+
+# Legea 183/2012 — concurență
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md**, doc_id [121240](https://www.legis.md/cautare/getResults?lang=ro&doc_id=121240).
+> Descărcare manuală din browser (bypass plafon ~96 KB). Articole normalizate ca `### Articolul N.` pentru ancorare wikilink.
+> Analiză: [[Legea 183-2012 — concurenta (notă)]].
+
+---
+
+### Republica Moldova
+
+# PARLAMENTUL
+
+LEGE Nr. LP183/2012 din 11.07.2012
+
+# concurenței
+
+Publicat : 14.09.2012 în MONITORUL OFICIAL Nr. 193-197 art. 667 Data intrării în vigoare
+
+## _MODIFICAT_
+
+_LP38 din 28.02.20, MO103/14.04.20 art.176; în vigoare 14.05.20_
+
+Parlamentul adoptă prezenta lege organică.
+
+Prezenta lege transpune prevederile art. 101–106 din Tratatul privind funcţionarea Uniunii Europene din 25 martie 1957, prevederile Regulamentului (CE) nr. 1/2003 al Consiliului din 16 decembrie 2002 privind punerea în aplicare a normelor de concurenţă prevăzute la articolele 81 şi 82 din tratat, publicat în Jurnalul Oficial al Uniunii Europene nr. L1 din 4 ianuarie 2003, şi, parţial, prevederile Regulamentului (CE) nr. 139/2004 al Consiliului din 20 ianuarie 2004 privind controlul concentrărilor economice între întreprinderi, publicat în Jurnalul Oficial al Uniunii Europene nr. L24 din 29 ianuarie 2004.
+
+## Capitolul I — ## DISPOZIŢII GENERALE
+### Articolul 1. Obiectul şi scopul prezentei legi
+
+(1) Prezenta lege stabileşte cadrul juridic al protecţiei concurenţei, inclusiv al prevenirii şi al contracarării practicilor anticoncurenţiale şi a concurenţei neloiale, al realizării concentrărilor economice pe piaţă, stabileşte cadrul juridic privind activitatea şi competenţa Consiliului Concurenţei şi responsabilitatea pentru încălcarea legislaţiei în domeniul concurenţei.
+
+(2) Scopul prezentei legi constă în reglementarea relaţiilor ce ţin de protecţia, menţinerea şi stimularea concurenţei în vederea promovării intereselor legitime ale consumatorilor.
+### Articolul 2. Sfera de aplicare a prezentei legi
+
+(1) Prevederile prezentei legi se aplică faptelor acţiuni sau inacţiuni ce au ca obiect sau au ori pot avea ca efect restrîngerea, împiedicarea sau denaturarea concurenţei, precum şi faptelor acţiuni de concurenţă neloială, care sînt săvîrşite de:
+
+a) întreprinderi înregistrate în Republica Moldova sau în alte state, precum şi de persoane fizice;
+
+b) autorităţi ale administraţiei publice centrale sau locale, în măsura în care acestea, prin
+
+deciziile emise sau prin actele adoptate, intervin pe piaţă, influenţînd direct sau indirect concurenţa, cu excepţia situaţiilor cînd asemenea măsuri sînt luate în aplicarea altor legi sau pentru apărarea unui interes public major.
+
+(2) Sub incidenţa prezentei legi cad şi persoanele asimilate autorităţilor publice care exercită atribuţii de putere publică sau utilizează domeniul public, fiind împuternicite prin lege să presteze un serviciu de interes public
+
+(3) Întreprinderile cărora li s-a atribuit sarcina de a gestiona serviciile de interes economic general şi întreprinderile care prezintă caracter de monopol fiscal se supun prevederilor prezentei legi şi, în special, regulilor de concurenţă în măsura în care aplicarea acestor prevederi nu împiedică, în drept sau în fapt, îndeplinirea misiunii speciale care le-a fost încredinţată.
+
+(4) Prevederile prezentei legi se aplică faptelor prevăzute la alin. (1) săvîrşite pe teritoriul Republicii Moldova, precum şi celor săvîrşite în afara teritoriului ţării atunci cînd produc sau pot produce efecte pe teritoriul Republicii Moldova.
+
+(5) Prezenta lege nu se aplică relaţiilor de muncă.
+
+(6) Consiliul Concurenţei este autoritatea de concurenţă naţională, competentă de punerea în aplicare a prevederilor prezentei legi, în conformitate cu atribuţiile stabilite de prezenta lege.
+
+(7) Dacă un tratat internaţional la care Republica Moldova este parte stabileşte alte dispoziţii decît cele prevăzute de prezenta lege, se aplică dispoziţiile tratatului international
+
+### Articolul 3. Principiile de bază ale concurenţei
+
+(1) Statul asigură libertatea activităţii de întreprinzător, protecţia concurenţei loiale şi apărarea drepturilor şi intereselor întreprinderilor şi ale cetăţenilor contra practicilor anticoncurenţiale şi concurenţei neloiale.
+
+(2) Este interzis întreprinderilor să-şi exercite drepturile în vederea restrîngerii concurenţei şi lezării intereselor legitime ale consumatorului.
+
+(3) Preţurile la produse se determină în procesul liberei concurenţe, pe baza cererii şi ofertei, dacă legea specială nu prevede altfel.
+
+(4) Pentru sectoarele economice în care concurenţa este restrînsă sau nu există, precum şi în împrejurări excepţionale (cum ar fi: situaţiile de criză, dezechilibrul major dintre cerere şi ofertă), Guvernul este în drept să dispună şi/sau să aplice măsuri cu caracter temporar pentru a împiedica sau chiar pentru a bloca creşterea excesivă a preţurilor. Aceste măsuri sînt adoptate prin hotărîre de Guvern pe o perioadă de 6 luni, care poate fi prelungită succesiv pentru perioade de cel mult 3 luni, atîta timp cît persistă împrejurările care au justificat hotărîrea Guvernului.
+
+(5) În situaţiile prevăzute la alin. (4), intervenţia Guvernului se face cu notificarea Consiliului Concurenţei, în scopul analizei efectelor măsurii adoptate asupra concurenţei.
+
+### Articolul 4. Noţiuni principale
+
+În sensul prezentei legi, noţiunile principale utilizate sînt noţiuni autonome ale domeniului concurenţei şi semnifică următoarele:
+
+_acord –_ orice formă (verbală sau scrisă) de manifestare a voinţei comune cu privire la
+
+comportamentul pe piaţă, exprimată de două sau mai multe întreprinderi independente;
+
+_acord orizontal_ – acord sau practică concertată ce se realizează între două sau mai multe întreprinderi care funcţionează pe piaţă la acelaşi (aceleaşi) nivel (niveluri);
+
+_acord vertical_ – acord sau practică concertată convenită între două sau mai multe întreprinderi ce operează fiecare, în sensul acordului sau al practicii concertate, la niveluri diferite ale procesului de producţie sau distribuţie, care se referă la condiţiile în care părţile pot cumpăra, vinde sau revinde anumite produse;
+
+_activitate economică_ – orice activitate care constă în oferirea de produse pe o anumită piaţă;
+
+_asociaţie de întreprinderi_ – organizaţie necomercială constituită benevol de două sau mai multe întreprinderi în modul prevăzut de lege, indiferent de forma juridică de organizare, de tipul de finanţare, de modul în care sînt luate deciziile, de caracterul obligatoriu ori facultativ al acestora, precum şi de caracterul public al funcţiilor pe care le exercită;
+
+_autorizare_ – acţiune prin care Consiliul Concurenţei îi permite solicitantului să-şi realizeze intenţia de concentrare economică sau de acordare a ajutorului de stat, eliberîndu-i un act cu caracter permisiv sub formă de decizie;
+
+_cifră totală de afaceri_ – valoare totală a vînzărilor de produse realizată de o întreprindere în cursul perioadei de gestiune. Cifra totală de afaceri este asimilată:
+
+a) cu suma veniturilor aferente dobînzilor şi suma veniturilor neaferente dobînzilor – pentru bănci, instituţiile care acordă împrumuturi;
+
+b) cu valoarea totală a primelor brute subscrise, inclusiv de reasigurare – pentru societăţile de asigurări;
+
+_concentrare economică_ – operaţiuni care au ca rezultat modificări de durată asupra controlului întreprinderilor implicate şi, prin urmare, asupra structurii pieţei;
+
+_concurent_ – întreprindere independentă care este activă pe o piaţă relevantă;
+
+_concurent potenţial_ – întreprindere independentă care nu este activă pe o piaţă relevantă, dar care, în cazul unei creşteri permanente a preţurilor relative cu 10%, ar putea efectua investiţii suplimentare necesare sau ar putea suporta alte costuri de transformare necesare pentru a intra pe piaţa relevantă respectivă într-un termen de maximum 3 ani;
+
+_concurenţă –_ rivalitate economică, existentă sau potenţială, între două sau mai multe întreprinderi independente pe o piaţă relevantă, cînd acţiunile lor limitează efectiv posibilităţile fiecăreia dintre ele de a influenţa unilateral condiţiile generale de circulaţie a produselor de pe piaţa respectivă, stimulează progresul tehnico-ştiinţific şi creşterea bunăstării consumatorilor;
+
+_concurenţă neloială –_ orice acţiune, realizată de întreprinderi în procesul concurenţei, care este contrară uzanţelor oneste în activitatea economică;
+
+_consumator_ – utilizator, direct sau indirect, de produse, inclusiv producător care utilizează produse pentru prelucrare, comerciant cu ridicata, comerciant cu amănuntul sau consumator final;
+
+_control –_ posibilitate de a exercita o influenţă decisivă asupra unei întreprinderi, care decurge din drepturi, din contracte sau din orice alte mijloace, separat sau combinate, ţinînd seama de
+
+circumstanţele de drept şi de fapt relevante, în special din:
+
+a) dreptul de proprietate sau de folosinţă integrală ori parţială asupra activelor unei întreprinderi;
+
+b) drepturi sau contracte care conferă o influenţă decisivă asupra structurii, voturilor sau deciziilor organelor de conducere ale unei întreprinderi.
+
+Controlul este dobîndit de persoane sau întreprinderi care sînt titulare ale drepturilor ori beneficiare ale drepturilor în baza contractelor în cauză sau care, deşi nu sînt titulare ale acestor drepturi sau beneficiare ale drepturilor în baza acestor contracte, au puterea de a exercita drepturile care decurg din acestea;
+
+_decizie a asociaţiei de întreprinderi_ – orice manifestare a voinţei exprimată de către asociaţia de întreprinderi sau de către organele de conducere ale asociaţiei de întreprinderi, indiferent de forma manifestării sau de caracterul obligatoriu ori facultativ;
+
+_drepturi exclusive –_ drepturi acordate de o autoritate publică competentă prin orice act legislativ, normativ sau administrativ al cărui efect este limitarea de a exercita o activitate economică în cadrul unei anumite zone geografice la una sau mai multe întreprinderi şi care afectează substanţial capacitatea altor întreprinderi de a desfăşura o astfel de activitate în zona respectivă. Drepturile acordate în orice formă, inclusiv prin acte de concesiune, unui număr limitat de întreprinderi pe baza unor criterii obiective, proporţionate şi nediscriminatorii ce permit oricărei părţi interesate care îndeplineşte aceste criterii să beneficieze de drepturile în cauză nu pot fi considerate drepturi exclusive;
+
+_grup de întreprinderi_ – întreprindere care exercită controlul şi toate întreprinderile controlate direct sau indirect de aceasta;
+
+_influenţă decisivă_ – capacitate de a determina comportamentul strategic şi tactic al întreprinderii;
+
+_inspecţie_ – instrument procedural de obţinere a informaţiilor şi a documentelor necesare la locul aflării acestora, utilizat de Consiliul Concurenţei pentru constatarea încălcării prezentei legi sau Legii nr. 139 din 15 iunie 2012 cu privire la ajutorul de stat;
+
+_întreprindere_ – orice entitate, inclusiv asociaţie de întreprinderi, angajată în activitate economică, indiferent de statutul juridic şi de modul de finanţare al acesteia;
+
+_întreprindere care prezintă caracter de monopol fiscal_ – întreprindere căreia i s-au atribuit drepturi exclusive de a desfăşura o activitate specifică cu scopul de a obţine venituri pentru stat;
+
+_întreprinderi dependente –_ întreprinderi care fac parte din acelaşi grup de întreprinderi sau sînt controlate de aceeaşi persoană ori de aceleaşi persoane;
+
+_întreprinderi implicate_ – întreprinderi care participă la o concentrare economică;
+
+_întreprinderi independente –_ alte întreprinderi decît cele dependente;
+
+_notificare_ – solicitare, adresată Consiliului Concurenţei, de autorizare a intenţiei de a realiza o operaţiune de concentrare economică sau de acordare a ajutorului de stat;
+
+_piaţă geografică relevantă_ – zonă în care întreprinderile sînt implicate în oferta sau cererea de
+
+pe piaţa relevantă a produsului, în care condiţiile de concurenţă sînt suficient de omogene şi care poate fi deosebită de zonele geografice învecinate prin condiţii de concurenţă ce diferă în mod apreciabil;
+
+_piaţă relevantă –_ piaţă în cadrul căreia trebuie evaluată o anumită problemă de concurenţă şi care se determină prin raportarea pieţei relevante a produsului la piaţa geografică relevantă;
+
+_piaţă relevantă a produsului_ – piaţă a produselor considerate de consumatori ca interschimbabile sau substituibile datorită utilizării date acestora, datorită caracteristicilor fizice, funcţionale şi preţului;
+
+_poziţie dominantă pe piaţă –_ poziţie de putere economică de care beneficiază o întreprindere ce îi permite să împiedice menţinerea unei concurenţe efective pe o piaţă relevantă, acordîndu-i posibilitatea de a se comporta, în mare măsură, în mod independent faţă de concurenţi, de clienţii săi şi, în ultimă instanţă, faţă de consumatori;
+
+_practică anticoncurenţială_ – acord anticoncurenţial, decizie a asociaţiei de întreprinderi, practică concertată, abuz de poziţie dominantă, acţiune sau inacţiune a autorităţilor publice de restrîngere a concurenţei interzise de lege;
+
+_practică concertată_ – formă de coordonare a acţiunilor între întreprinderi independente şi/sau grupuri independente de întreprinderi, prin care cooperarea practică dintre acestea înlocuieşte în mod intenţionat riscurile concurenţei fără ca întreprinderile sau grupurile de întreprinderi să fi încheiat un acord în acest sens;
+
+_preţ de ruinare –_ preţ inferior costurilor medii variabile practicat de o întreprindere aflată întro poziţie dominantă în scopul eliminării concurenţilor de pe piaţa relevantă;
+
+_produs_ – bunuri, lucrări, servicii, inclusiv servicii financiare, destinate vînzării, schimbului sau altor modalităţi de includere în circuitul civil;
+
+_restrîngere semnificativă a concurenţei –_ impact negativ asupra a cel puţin unuia din parametrii concurenţei pe piaţă, cum ar fi: preţul, producţia, calitatea produsului, varietatea produsului sau inovarea;
+
+_servicii de interes economic general_ – comercializare de produse:
+
+a) care sînt destinate cetăţenilor sau sînt în interesul societăţii în general;
+
+b) care nu mai sînt furnizate sau nu pot fi furnizate în mod satisfăcător şi în condiţii (cum ar fi: preţul, trăsăturile obiective privind calitatea, continuitatea şi accesul la serviciu) compatibile cu interesul public astfel cum este definit de către stat, de către întreprinderi care îşi desfăşoară activitatea în condiţii normale de piaţă, adică a căror furnizare o întreprindere nu şi-ar asuma-o sau nu şi-ar asuma-o în aceeaşi măsură sau în aceleaşi condiţii dacă ar ţine seama de propriile interese comerciale;
+
+c) a căror obligaţie de furnizare este stabilită de o autoritate publică printr-un act legislativ, normativ sau administrativ sau printr-un contract ori printr-o serie de acte sau contracte care definesc obligaţiile întreprinderii în cauză şi ale autorităţii, specifice prestării unor astfel de servicii;
+
+_trucare a ofertelor_ – realizare, prin intermediul licitaţiilor sau altor forme de concurs de oferte, a acordurilor anticoncurenţiale ale întreprinderilor concurente referitoare la preţuri, la împărţirea pieţelor, la sursele de aprovizionare sau la calitatea produselor.
+
+## Capitolul II — ## PRACTICI ANTICONCURENŢIALE
+
+## Secţiunea 1
+
+## Acorduri anticoncurenţiale
+### Articolul 5. Interzicerea acordurilor anticoncurenţiale
+
+(1) Sînt interzise, fără a fi necesară o decizie prealabilă în acest sens, orice acorduri între întreprinderi sau asociaţii de întreprinderi, orice decizii ale asociaţiilor de întreprinderi şi orice practici concertate (denumite în continuare acorduri) care au ca obiect sau efect împiedicarea, restrîngerea sau denaturarea concurenţei pe piaţa Republicii Moldova sau pe o parte a acesteia.
+
+(2) Acordurile interzise în temeiul prezentului articol sînt nule de drept.
+
+(3) Acordurile anticoncurenţiale sînt, în special, cele îndreptate spre:
+
+a) stabilirea directă sau indirectă a preţurilor de cumpărare sau de vînzare sau a oricăror alte condiţii de tranzacţionare;
+
+b) limitarea sau controlul producerii, comercializării, dezvoltării tehnice sau investiţiilor;
+
+c) împărţirea pieţelor sau surselor de aprovizionare;
+
+d) participarea cu oferte trucate la licitaţii sau la orice alte forme de concurs de oferte;
+
+e) limitarea sau împiedicarea accesului pe piaţă şi a libertăţii exercitării concurenţei de către alte întreprinderi, precum şi acordurile de a nu cumpăra sau de a nu vinde către anumite întreprinderi fără o justificare rezonabilă;
+
+f) aplicarea, în raporturile cu partenerii comerciali, a condiţiilor inegale la prestaţii echivalente, creînd astfel acestora un dezavantaj concurenţial;
+
+g) condiţionarea încheierii contractelor de acceptare de către parteneri a unor prestaţii suplimentare care, prin natura lor sau în conformitate cu uzanţele comerciale, nu au legătură cu obiectul acestor contracte.
+
+(4) Acordurile încheiate între întreprinderile dependente nu se califică drept acorduri anticoncurenţiale.
+
+(5) Dacă s-a stabilit că un acord are ca obiect împiedicarea, restrîngerea sau denaturarea concurenţei, existenţa unor efecte anticoncurenţiale nu trebuie demonstrată de către Consiliul Concurenţei pentru a constata că există o restrîngere a concurenţei în sensul prezentei legi.
+### Articolul 6. Exceptarea acordurilor anticoncurenţiale
+
+(1) Prevederile art. 5 alin. (1) şi (2) nu se aplică acordurilor anticoncurenţiale sau categoriilor de acorduri anticoncurenţiale care îndeplinesc cumulativ următoarele condiţii:
+
+a) contribuie la îmbunătăţirea producerii sau distribuţiei de produse ori la promovarea progresului tehnic sau economic;
+
+b) asigură consumatorilor o parte echitabilă din beneficiul obţinut;
+
+c) nu impun întreprinderilor în cauză restricţii care nu sînt indispensabile pentru atingerea obiectivelor menţionate la lit. a) şi b);
+
+d) nu oferă întreprinderilor posibilitatea de a elimina concurenţa în ceea ce priveşte o parte semnificativă a produselor în cauză.
+
+(2) Acordurile menţionate la art. 5 care îndeplinesc condiţiile prevăzute la alin. (1) din prezentul articol sau se încadrează în categoriile prevăzute la alin. (3) din prezentul articol sînt considerate legale fără a fi necesară emiterea unei decizii în acest sens.
+
+(3) Anumite categorii de acorduri pot fi exceptate direct de la interdicţia stabilită la art. 5, prin adoptarea de către Plenul Consiliului Concurenţei a regulamentelor respective, în conformitate cu prevederile alin. (1) din prezentul articol.
+
+(4) Întreprinderile sau asociaţiile de întreprinderi care invocă ca apărare, în cazurile legate de aplicarea art. 5, faptul că acordurile anticoncurenţiale beneficiază de exceptare individuală conform prevederilor prezentului articol au sarcina de a dovedi că acordurile în cauză îndeplinesc condiţiile expuse la alin. (1) din prezentul articol.
+
+(5) În cazul în care un acord face obiectul unei exceptări pe categorii, părţile la acordul anticoncurenţial sînt eliberate de obligaţia impusă prin alin. (4), fiind obligate, în caz de apărare, doar să dovedească că acordul beneficiază de o exceptare pe categorii.
+
+(6) Dacă Consiliul Concurenţei constată că acordurile care se încadrează în una din categoriile exceptate provoacă sau pot provoca efecte incompatibile cu condiţiile prevăzute la alin. (1) din prezentul articol, acesta poate retrage beneficiul exceptării stipulat pentru acordurile respective, acţionînd din oficiu sau ca urmare a unei plîngeri. În acest caz, Consiliul Concurenţei urmează să demonstreze că acordurile în cauză încalcă prevederile art. 5 alin. (1) şi nu îndeplinesc condiţiile expuse la alin. (1) al prezentului articol. Retragerea beneficiului exceptării nu are efect retroactiv.
+
+(7) Acordurile menţionate la art. 5 care rezultă din aplicarea unui act legislativ sau normativ sînt permise fără a fi necesară o decizie în acest sens.
+### Articolul 7. Interzicerea cartelurilor dure
+
+(1) Constituie un cartel dur acordul anticoncurenţial orizontal, cu excepţia acordului de importanţă minoră, care, în mod direct sau indirect, izolat sau în combinaţie cu alţi factori aflaţi sub controlul părţilor, are ca obiect:
+
+a) fixarea preţurilor de vînzare a produselor către terţi;
+
+b) limitarea producţiei sau a vînzărilor;
+
+c) împărţirea pieţelor sau a clienţilor;
+
+d) participarea cu oferte trucate la licitaţii sau la alte forme de concurs de oferte.
+
+(2) Prin natura cartelurilor dure, ca fiind cele mai grave acorduri anticoncurenţiale, se prezumă că acestea, prin obiectul lor, au capacitatea de a împiedica, restrînge sau denatura concurenţa.
+
+(3) Cartelurile dure nu beneficiază de exceptările prevăzute la art. 6.
+
+### Articolul 8. Acordurile anticoncurenţiale de importanţă minoră
+
+(1) Acordul anticoncurenţial se consideră că este de importanţă minoră şi, implicit, că nu restrînge în mod semnificativ concurenţa dacă:
+
+a) este încheiat între întreprinderi care sînt concurenţi (acord orizontal) existenţi sau potenţiali pe una din pieţele afectate de acord şi cota de piaţă cumulată deţinută de părţile la acord şi de întreprinderile dependente de acestea nu depăşeşte 10% pe niciuna dintre pieţele relevante afectate de acord;
+
+b) este încheiat între întreprinderi care nu sînt concurenţi şi cota de piaţă deţinută de fiecare dintre părţile la acord şi de întreprinderile dependente de acestea nu depăşeşte 15% pe niciuna dintre pieţele relevante afectate de acord;
+
+c) cota de piaţă deţinută de fiecare dintre părţile la acord şi de întreprinderile dependente de acestea nu depăşeşte 10% pe niciuna dintre pieţele relevante afectate de acord – în cazul în care este dificil să se stabilească dacă este vorba despre un acord între concurenţi sau între neconcurenţi.
+
+(2) În cazul în care pe o piaţă relevantă concurenţa este restrînsă de efectul cumulativ al unor acorduri de vînzare de produse încheiate cu diferiţi furnizori sau distribuitori (efect cumulativ de blocare provocat de reţele paralele de acorduri cu efecte similare pe piaţă), pragurile menţionate la alin. (1) sînt reduse la 5%, atît pentru acordurile orizontale, cît şi pentru acordurile verticale.
+
+(3) Se consideră că acordurile nu restrîng concurenţa în cazul în care cotele de piaţă nu depăşesc pragurile de 10%, 15% şi, respectiv, 5%, prevăzute la alin. (1) şi (2), cu mai mult de două puncte procentuale pe parcursul a doi ani calendaristici consecutivi.
+
+(4) Prevederile art. 5 nu se aplică acordurilor de importanţă minoră, cu excepţia celor prevăzute la art. 9.
+### Articolul 9. Acordurile de importanţă minoră interzise
+
+(1) Art. 8 nu se aplică acordurilor orizontale de importanţă minoră care, în mod direct sau indirect, izolat sau în combinaţie cu alţi factori aflaţi sub controlul părţilor, au ca obiect:
+
+a) fixarea preţurilor de vînzare a produselor către terţi;
+
+b) limitarea producţiei sau a vînzărilor;
+
+c) împărţirea pieţelor sau a clienţilor;
+
+d) participarea cu oferte trucate la licitaţii sau la alte forme de concurs de oferte.
+
+(2) Art. 8 nu se aplică acordurilor de importanţă minoră încheiate între neconcurenţi ce conţin oricare din restricţiile care, în mod direct sau indirect, de sine stătător sau în combinaţie cu alţi factori aflaţi sub controlul părţilor, au ca obiect:
+
+a) restrîngerea capacităţii cumpărătorului de a-şi stabili preţul de vînzare, fără a aduce atingere posibilităţii furnizorului de a impune un preţ de vînzare maxim şi/sau de a recomanda un preţ de vînzare, cu condiţia ca acesta din urmă să nu fie echivalent cu un preţ de vînzare fix sau minimum stabilit în urma presiunilor exercitate de una dintre părţi sau a măsurilor de stimulare practicate de aceasta;
+
+b) restrîngerea privind teritoriul pe care cumpărătorul parte la acord poate vinde produsele ce
+
+fac obiectul acordului sau privind clienţii cărora cumpărătorul le poate vinde aceste produse, cu excepţia cazului ce ţine de una dintre următoarele restricţii care nu sînt grave
+
+– restrîngerea vînzărilor active către un teritoriu exclusiv sau către o clientelă exclusivă rezervate furnizorului sau cedate de furnizor unui alt cumpărător, atunci cînd o asemenea restricţie nu limitează vînzările efectuate de clienţii cumpărătorului
+
+– restrîngerea vînzărilor către consumatorii finali realizate de un cumpărător care acţionează pe piaţă în calitate de comerciant cu ridicata
+
+– restrîngerea vînzărilor către distribuitorii neautorizaţi realizate de membrii unui sistem de distribuţie selective
+
+– restrîngerea capacităţii cumpărătorului de a vinde componente pentru incorporare unor clienţi care ar putea să le utilizeze în fabricarea de produse asemănătoare celor produse de furnizor;
+
+c) restrîngerea vînzărilor către consumatorii finali realizate de membrii unui sistem de distribuţie selectivă care acţionează pe piaţă în calitate de vînzători cu amănuntul, fără a aduce atingere posibilităţii de a interzice unui membru al sistemului să îşi desfăşoare activităţile dintr-un sediu secundar neautorizat;
+
+d) restrîngerea livrărilor încrucişate între distribuitori în cadrul unui sistem de distribuţie selectivă, inclusiv între distribuitori care acţionează la diferite niveluri ale comerţului;
+
+e) restricţia convenită între un furnizor de componente şi un cumpărător care incorporează aceste componente, care limitează posibilitatea furnizorului de a vinde aceste componente ca piese separate utilizatorilor finali, unor reparatori sau altor prestatori de servicii care nu au fost desemnaţi de cumpărător pentru repararea sau întreţinerea produselor lui
+
+(3) Art. 8 nu se aplică acordurilor de importanţă minoră care sînt încheiate între concurenţi ce acţionează, în sensul acordului, la niveluri diferite ale lanţului de producţie sau de distribuţie şi care conţin oricare din restricţiile grave enumerate la alin. (1) sau (2) din prezentul articol.
+
+(4) Un acord ce cade sub incidenţa prezentului articol este prezumat ca intrînd în sfera de aplicare a art. 5. Cu toate acestea, întreprinderile au posibilitatea să demonstreze efectele favorabile concurenţei prevăzute la art. 6 alin. (1), în cazuri individuale.
+
+## Secţiunea a 2-a
+
+## Abuzul de poziţie dominantă
+
+### Articolul 10. Poziţia dominant
+
+(1) Poziţia dominantă pe una sau mai multe pieţe relevante poate fi deţinută de o singură întreprindere, de un grup de întreprinderi (poziţie dominantă unică) sau în comun de două sau mai multe întreprinderi ori de două sau mai multe grupuri de întreprinderi (poziţie dominantă colectivă).
+
+(2) Două sau mai multe întreprinderi pot ocupa împreună o poziţie dominantă (poziţie colectivă) atunci cînd, chiar în lipsa oricărei legături structurale sau de altă natură între ele, acestea operează pe o piaţă a cărei structură este considerată propice producerii unor efecte coordonate.
+
+(3) Poziţia dominantă rezultă dintr-o combinaţie de mai mulţi factori care, luaţi separat, nu sînt neapărat hotărîtori. Evaluarea unei poziţii dominante va ţine seama de structura concurenţială a
+
+## pieţei şi în special de următorii factori:
+
+a) presiunea exercitată de ofertele existente ale concurenţilor actuali şi de poziţia pe piaţă a acestora (poziţia pe piaţă a întreprinderii dominante şi a concurenţilor ei). Cotele de piaţă oferă o primă indicaţie utilă în legătură cu structura pieţei şi cu importanţa relativă a diferitelor întreprinderi active pe piaţă. Cu toate acestea, cotele de piaţă vor fi interpretate prin prisma condiţiilor de piaţă relevantă şi în special a dinamicii pieţei, a tendinţei sau evoluţiei cotelor de piaţă de-a lungul timpului, a gradului de diferenţiere a produselor, precum şi a altor factori care pot fi suficienţi pentru a exercita presiuni asupra comportamentului pretinsei întreprinderi dominante;
+
+b) presiunea exercitată de ameninţarea credibilă a unei viitoare expansiuni a concurenţilor actuali sau a intrării pe piaţă a unor concurenţi potenţiali (expansiunea şi intrarea pe piaţă). Pentru a exercita presiuni asupra comportamentului pretinsei întreprinderi dominante, expansiunea concurenţilor actuali sau intrarea pe piaţă a unor concurenţi potenţiali trebuie să fie probabilă, oportună şi suficientă;
+
+c) presiunea exercitată de puterea de negociere a clienţilor întreprinderii (puterea compensatorie a cumpărătorilor). Puterea compensatorie a cumpărătorilor poate rezulta din dimensiunea clienţilor sau din importanţa lor comercială pentru pretinsa întreprindere dominantă, precum şi din capacitatea lor de a schimba uşor furnizorii, de a favoriza o nouă intrare pe piaţă sau de a se integra vertical şi de a ameninţa în mod credibil cu astfel de acţiuni.
+
+(4) Se prezumă, pînă la proba contrară, că una sau mai multe întreprinderi se află în poziţie dominantă pe o piaţă relevantă dacă cota ori cotele cumulate pe piaţa relevantă în cauză, înregistrate în perioada supusă analizei, depăşesc 50%.
+
+(5) Întreprinderile învestite cu drepturi exclusive sînt considerate drept întreprinderi cu poziţie dominantă pe piaţa relevantă la care se referă aceste drepturi.
+
+(6) Plenul Consiliului Concurenţei va adopta Regulamentul privind stabilirea poziţiei dominante pe piaţă şi evaluarea abuzului de poziţie dominantă.
+### Articolul 11. Interzicerea abuzului de poziţie dominant
+
+(1) Este interzisă folosirea unei poziţii dominante pe piaţa relevantă în măsura în care aceasta poate afecta concurenţa sau leza interesele colective ale consumatorilor finali.
+
+(2) Practicile abuzive pot consta în special în:
+
+a) impunerea, în mod direct sau indirect, a unor preţuri inechitabile de vînzare ori de cumpărare sau a altor condiţii inechitabile de tranzacţionare;
+
+b) limitarea producţiei, comercializării sau dezvoltării tehnologice în dezavantajul consumatorilor;
+
+c) aplicarea în raporturile cu partenerii comerciali a unor condiţii inegale la prestaţii echivalente, creînd în acest fel unora din ei un dezavantaj concurenţial;
+
+d) condiţionarea încheierii contractelor de acceptare de către partenerii comerciali a unor prestaţii suplimentare care, prin natura lor sau conform uzanţelor comerciale, nu au legătură cu obiectul acestor contracte;
+
+e) practicarea unor preţuri excesive sau a unor preţuri de ruinare în scopul înlăturării
+
+concurenţilor;
+
+f) refuzul neîntemeiat de a contracta cu anumiţi furnizori sau de a face livrări către anumiţi beneficiari;
+
+g) ruperea unei relaţii contractuale stabilite anterior pe piaţa relevantă pentru singurul motiv că partenerul refuză să se supună unor condiţii comerciale nejustificate.
+
+(3) Dacă datele sugerează că preţul practicat de întreprinderea dominantă riscă să ducă la înlăturarea unor concurenţi la fel de eficienţi, acest element se va include în evaluarea generală a restrîngerii semnificative a concurenţei, ţinînd cont de alte probe cantitative şi/sau calitative.
+
+(4) Întreprinderile dominante nu se penalizează pentru pierderi ex post în cazul în care decizia ex ante de aplicare a pretinselor practici abuzive a fost luată cu bună-credinţă, şi anume dacă pot furniza probe concludente conform cărora au putut estima în mod rezonabil că activitatea va fi profitabilă.
+
+(5) Interdicţia stabilită la alin. (1) şi (2) nu se aplică dacă întreprinderea dominantă demonstrează că practicile sale sînt justificate, fiind necesare din punct de vedere obiectiv sau producînd creşteri semnificative ale eficienţei, care compensează orice efecte anticoncurenţiale asupra consumatorilor, cu condiţia că practicile respective sînt indispensabile şi proporţionale cu pretinsul scop urmărit de întreprinderea dominantă.
+
+(6) Caracterul de necesitate obiectivă şi de proporţionalitate trebuie să fie determinat pe baza unor factori care nu ţin de întreprinderea dominantă, cum ar fi motivele de sănătate sau de siguranţă legate de natura produsului respectiv.
+
+(7) În cazul în care invocă motivele de creştere a eficienţei care sînt suficiente pentru a garanta că nu există riscul de a cauza un prejudiciu net consumatorilor, întreprinderea dominantă va trebui să demonstreze, cu un grad de probabilitate suficient de ridicat şi pe baza unor probe verificabile, că sînt îndeplinite cumulativ următoarele condiţii:
+
+a) s-a realizat creşterea eficienţei sau este probabil să fie realizată ca urmare a practicilor respective, cum ar fi îmbunătăţirile tehnice ale calităţii bunurilor sau reducerea costului de producţie ori de distribuţie;
+
+b) practicile respective sînt indispensabile pentru creşterea eficienţei: trebuie să nu existe alternative mai puţin anticoncurenţiale la aceste practici care să fie capabile să determine în aceeaşi măsură creşterea eficienţei;
+
+c) creşterea probabilă a eficienţei determinată de practicile respective compensează orice efecte negative probabile asupra concurenţei şi bunăstării consumatorilor pe pieţele afectate;
+
+d) practicile respective nu elimină concurenţa efectivă prin suprimarea majorităţii sau a tuturor surselor existente de concurenţă efectivă sau potenţială.
+
+(8) Practicile de excludere care menţin, creează sau consolidează o poziţie de piaţă ce se apropie de cea de monopol nu pot fi justificate în mod normal pe motivul că acestea creează şi cîştiguri de eficienţă.
+
+## Secţiunea a 3-a
+
+Acţiunile sau inacţiunile autorităţilor şi instituţiilor
+
+## administraţiei publice centrale sau locale de restrîngere,
+
+## împiedicare sau denaturare a concurenţei
+### Articolul 12. Interzicerea acţiunilor sau inacţiunilor autorităţilor şi instituţiilor
+
+administraţiei publice centrale sau locale de restrîngere,
+
+împiedicare sau denaturare a concurenţei
+
+(1) Sînt interzise orice acţiuni sau inacţiuni ale autorităţilor şi instituţiilor administraţiei publice centrale sau locale care restrîng, împiedică sau denaturează concurenţa, precum:
+
+a) limitarea drepturilor întreprinderilor de procurare ori comercializare;
+
+b) stabilirea de condiţii discriminatorii sau acordarea de privilegii pentru activitatea întreprinderilor, în cazul în care acestea nu sînt prevăzute de lege;
+
+c) stabilirea de interdicţii sau restricţii, neprevăzute de lege, pentru activitatea întreprinderilor;
+
+d) impunerea, directă ori indirectă, a întreprinderilor de a se asocia ori de a se concentra sub orice formă.
+
+(2) În cazuri excepţionale, Guvernul, autorităţile şi instituţiile administraţiei publice centrale sau locale sînt în drept să realizeze acţiunile sau inacţiunile prevăzute la alin. (1) pentru lichidarea consecinţelor calamităţilor naturale şi catastrofelor şi pentru prevenirea epidemiilor, în conformitate cu Legea nr. 212-XV din 24 iunie 2004 privind regimul stării de urgenţă, de asediu şi de război.
+
+(3) Faptele autorităţilor şi instituţiilor administraţiei publice realizate contrar prevederilor alin. (1) constituie încălcări ale prezentei legi.
+
+(4) Persoanele cu funcţie de răspundere din cadrul autorităţilor şi instituţiilor administraţiei publice poartă răspundere, în conformitate cu Codul contravenţional, pentru nefurnizarea informaţiilor, a documentelor solicitate de Consiliul Concurenţei sau pentru furnizarea de informaţii şi documente neautentice sau incomplete.
+### Articolul 13. Modul de executare a deciziilor Consiliului Concurenţei
+
+privind acţiunile sau inacţiunile autorităţilor şi instituţiilor
+
+administraţiei publice centrale sau locale de restrîngere,
+
+împiedicare sau denaturare a concurenţei
+
+(1) În cazul în care autorităţile şi instituţiile administraţiei publice centrale sau locale nu execută sau nu se conformează, în termenul stabilit, măsurilor dispuse prin decizie de către Consiliul Concurenţei, în scopul restabilirii mediului concurenţial, acesta înaintează acţiune în contencios administrativ, solicitînd instanţei, după caz, anularea în tot sau în parte a actului care a condus la restrîngerea, împiedicarea sau denaturarea concurenţei, obligarea autorităţii sau instituţiei în cauză să emită un act administrativ sau să efectueze o măsură ce se impune.
+
+(2) Prin derogare de la termenul de prescripţie prevăzut de Legea contenciosului administrativ nr. 793-XIV din 10 februarie 2000, Consiliul Concurenţei se adresează în instanţa de judecată, în
+
+condiţiile alin. (1), în termen de 6 luni de la data expirării perioadei prevăzute în decizie, perioadă în care autoritatea sau instituţia administraţiei publice centrale sau locale avea obligaţia să se conformeze măsurilor necesare restabilirii mediului concurenţial.
+
+## Capitolul III — ## CONCURENŢA NELOIALĂ
+### Articolul 14. Interzicerea concurenţei neloiale
+
+(1) Se interzice întreprinderilor să realizeze acţiuni de concurenţă neloială.
+
+(2) Acţiunile de concurenţă neloială interzise prin prevederile art. 15–19 se examinează de către Consiliul Concurenţei, la plîngerea privind presupusele acţiuni de concurenţă neloială depusă de către întreprinderea ale cărei interese legitime au fost lezate, în condiţiile stipulate la art. 49 alin. (2)–(4).
+
+(3) Plîngerea privind presupusele acţiuni de concurenţă neloială se depune conform formularului adoptat prin hotărîre a Consiliului Concurenţei, în condiţiile prevăzute la art. 51 alin. (2) şi (3).
+
+(4) Procedura de examinare preliminară, investigare şi luare a deciziilor asupra cazurilor de concurenţă neloială este prevăzută la art. 50–55, 58–66, care se aplică în mod corespunzător.
+
+(5) Întreprinderea ale cărei interese legitime au fost lezate poate înainta plîngerea privind presupusele acţiuni de concurenţă neloială la Consiliul Concurenţei în termen de 6 luni de la data la care a cunoscut sau ar fi trebuit să cunoască despre realizarea presupuselor acţiuni de concurenţă neloială de către o altă întreprindere.
+
+(6) Expirarea termenului de 6 luni prevăzut la alin. (5) constituie temei de refuz de către Consiliul Concurenţei de a examina plîngerea, dar nu constituie un impediment pentru adresarea în instanţa de judecată în cadrul termenului general de prescripţie.
+
+(7) Dacă nu corespunde cerinţelor stabilite la alin. (3), plîngerea depusă nu constituie o plîngere privind presupusele acţiuni de concurenţă neloială.
+
+(8) În urma examinării cazului de concurenţă neloială, Plenul Consiliului Concurenţei adoptă o decizie privind constatarea acţiunilor de concurenţă neloială sau privind lipsa acestora. (9) În cazul constatării acţiunilor de concurenţă neloială, prin decizia Plenului Consiliului Concurenţei, întreprinderea este sancţionată conform prezentei legi şi/sau obligată să înceteze acţiunile respective.
+### Articolul 15. Discreditarea concurenţilor
+
+Este interzisă discreditarea concurenţilor, adică defăimarea sau punerea în pericol a reputaţiei sau credibilităţii acestora prin:
+
+a) răspîndirea de către o întreprindere a informaţiilor false despre activitatea sa, despre produsele sale, menite să îi creeze o situaţie favorabilă în raport cu unii concurenţi;
+
+b) răspîndirea de către o întreprindere a unor afirmaţii false despre activitatea unui concurent sau despre produsele acestuia, afirmaţii ce dăunează activităţii concurentului.
+
+### Articolul 16. Instigarea la rezilierea contractului cu concurentul
+
+Este interzisă instigarea, din interes sau în interesul persoanelor terţe, la rezilierea neîntemeiată a contractului cu concurentul unei alte întreprinderi, la neîndeplinirea sau la îndeplinirea necorespunzătoare a obligaţiilor contractuale faţă de concurentul respectiv prin acordarea sau oferirea, mijlocit sau nemijlocit, de recompense materiale, compensaţii sau de alte avantaje întreprinderii parte a contractului.
+### Articolul 17. Obţinerea şi/sau folosirea ilegală a secretului comercial
+
+## al concurentului
+
+Se interzice obţinerea şi/sau folosirea de către o întreprindere a informaţiilor ce constituie secret comercial al concurentului, fără consimţămîntul lui, dacă acestea au adus sau pot aduce atingere intereselor legitime ale concurentului.
+
+### Articolul 18. Deturnarea clientelei concurentului
+
+Este interzisă deturnarea clientelei concurentului realizată de întreprinderi prin inducerea în eroare a consumatorului cu privire la natura, modul şi locul de fabricare, la caracteristicile principale, inclusiv utilizarea, cantitatea produselor, preţul sau modul de calculare a preţului produsului.
+
+### Articolul 19. Confuzia
+
+(1) Sînt interzise orice acţiuni sau fapte care sînt de natură să creeze, prin orice mijloc, o confuzie cu întreprinderea, produsele sau activitatea economică a unui concurent, realizate prin:
+
+a) folosirea ilegală, integrală sau parţială a unei mărci, embleme de deservire, denumiri de firmă, a unui desen sau model industrial sau a altor obiecte ale proprietăţii industriale de natură să creeze o confuzie cu cele folosite în mod legal de către o altă întreprindere;
+
+b) copierea ilegală a formei, a ambalajului şi/sau a aspectului exterior al produsului unei întreprinderi şi plasarea produsului respectiv pe piaţă, copierea ilegală a publicităţii unei întreprinderi, dacă aceasta a adus sau poate aduce atingere intereselor legitime ale concurentului.
+
+(2) Prezentul articol nu este aplicabil caracteristicilor produsului determinate exclusiv de funcţia tehnică pe care o îndeplinesc.
+
+## Capitolul IV — ## CONCENTRĂRILE ECONOMICE
+
+### Articolul 20. Prevederi generale privind concentrarea economică
+
+(1) Pînă la declararea concentrării economice ca fiind compatibilă cu mediul concurenţial, în temeiul unei decizii emise de către Plenul Consiliului Concurenţei în conformitate cu art. 25 alin. (1) lit. b) ori alin. (2) lit. b) sau c) ori pe baza unei prezumţii în conformitate cu art. 25 alin. (5), este interzisă punerea în aplicare a unei operaţiuni de concentrare economică ce cade sub incidenţa art. 22 alin. (1).
+
+(2) O operaţiune de concentrare economică are loc în cazul în care modificarea de durată a controlului rezultă în urma:
+
+a) fuzionării a două sau mai multor întreprinderi independente anterior ori mai multor părţi ale unor întreprinderi independente anterior; sau
+
+b) preluării, de către una sau mai multe persoane care controlează deja cel puţin o întreprindere ori de către una sau mai multe întreprinderi, fie prin achiziţionarea de valori mobiliare (părţi sociale) sau de active, fie prin contract ori prin alte mijloace, a controlului direct sau indirect asupra uneia ori mai multor întreprinderi sau părţi ale acestora, inclusiv prin crearea unei societăţi în comun care îndeplineşte în mod durabil toate funcţiile unei entităţi economice autonome
+
+(3) În măsura în care crearea unei societăţi în comun, reprezentînd o concentrare potrivit prevederilor alin.(2) din prezentul articol, are ca obiect sau efect coordonarea comportamentului concurenţial al întreprinderilor rămase independente, o astfel de coordonare este evaluată în conformitate cu criteriile prevăzute la art. 5 alin. (3) şi la art. 6.
+
+(4) La realizarea evaluării prevăzute la alin. (3), Consiliul Concurenţei ia în considerare, în special, următoarele criterii:
+
+a) dacă două sau mai multe societăţi-mamă reţin, într-o măsură semnificativă, activităţile de pe aceeaşi piaţă ca şi societatea în comun ori de pe o piaţă situată în amonte sau în aval faţă de cea a societăţii în comun ori pe o piaţă vecină aflată în strînsă legătură cu această piaţă;
+
+b) dacă, prin coordonarea care reprezintă consecinţa directă a creării societăţii în comun, întreprinderile implicate au posibilitatea de a elimina concurenţa pentru o parte semnificativă a produselor în cauză.
+
+(5) Alin. (1) nu împiedică punerea în aplicare a unei oferte publice sau a unei serii de tranzacţii cu valori mobiliare, inclusiv cu valori mobiliare convertibile în alte tipuri de valori mobiliare, acceptate în vederea tranzacţionării pe o piaţă reglementată şi/sau în cadrul sistemului multilateral de tranzacţionare , prin care se dobîndeşte controlul de la vînzători diferiţi, cu condiţia ca:
+
+a) concentrarea economică să fie notificată fără întîrziere Consiliului Concurenţei în conformitate cu art. 22; şi
+
+b) cel care dobîndeşte controlul să nu exercite drepturile de vot aferente valorilor mobiliare în cauză sau să facă acest lucru numai pentru a menţine valoarea integrală a investiţiei sale în temeiul unei derogări acordate de Plenul Consiliului Concurenţei în conformitate cu alin. (6).
+
+(6) Plenul Consiliului Concurenţei poate acorda, la cerere, o derogare de la obligaţiile impuse la alin. (1) sau (5). Cererea pentru acordarea unei derogări trebuie justificată. La adoptarea unei decizii privind cererea, Plenul Consiliului Concurenţei ia în considerare, printre altele, efectele suspendării asupra uneia sau mai multor întreprinderi implicate în concentrarea economică sau asupra unei terţe părţi şi ameninţarea reprezentată de concentrare asupra concurenţei. O astfel de derogare poate fi acordată sub rezerva îndeplinirii unor condiţii şi obligaţii destinate asigurării unor condiţii de concurenţă efectivă. O derogare poate fi solicitată şi acordată în orice moment, înainte de notificare sau după operaţiune.
+
+(7) Valabilitatea oricărei operaţiuni efectuate cu încălcarea alin. (1) din prezentul articol se stabileşte printr-o decizie adoptată în temeiul art. 25 alin. (1) lit. (b) sau alin. (2) ori în temeiul unei prezumţii în conformitate cu art. 25 alin. (5).
+
+(8) Prezentul articol nu are niciun efect asupra valabilităţii tranzacţiilor cu valori mobiliare, inclusiv asupra tranzacţiilor cu valori mobiliare convertibile în alte tipuri de valori mobiliare, acceptate în vederea tranzacţionării pe o piaţă reglementată şi/sau în cadrul sistemului multilateral
+
+de tranzacţionare, cu excepţia cazurilor în care vînzătorul şi cumpărătorul ştiau sau ar fi trebuit să ştie că tranzacţia a fost efectuată cu încălcarea alin. (1).
+### Articolul 21. Operaţiuni ce nu constituie concentrări economice
+
+Nu constituie operaţiuni de concentrare economică situaţiile în care:
+
+a) controlul este dobîndit şi exercitat de către un lichidator sau administrator desemnat prin hotărîre judecătorească sau de către o altă persoană împuternicită de autoritatea publică pentru îndeplinirea unei proceduri de lichidare, de insolvabilitate sau altei proceduri similare;
+
+b) băncile şi participanţii profesionişti la piaţa financiară nebancară ale căror activităţi includ operaţiuni cu valori mobiliare pe cont propriu sau pe contul terţilor deţin temporar valori mobiliare ale unei întreprinderi pe care le-au dobîndit în vederea revînzării, cît timp ele nu exercită drepturile la vot conferite de valorile mobiliare pentru a determina comportamentul concurenţial al întreprinderii în cauză ori le exercită numai în vederea pregătirii înstrăinării integrale sau parţiale a întreprinderii în cauză sau a activelor acesteia ori revînzării valorilor mobiliare în cauză, cu condiţia ca înstrăinarea sau revînzarea să aibă loc în termen de pînă la 12 luni de la data dobîndirii. Plenul Consiliului Concurenţei poate prelungi acest termen, la cerere, în cazul în care respectivele bănci sau participanţii profesionişti la piaţa financiară nebancară pot dovedi că revînzarea nu a fost posibilă, în condiţii rezonabile, în termenul stabilit;
+
+c) întreprinderile, inclusiv grupurile de întreprinderi, realizează operaţiuni de restructurare sau de reorganizare a propriilor activităţi.
+### Articolul 22. Notificarea concentrărilor economice
+
+(1) Operaţiunile de concentrare economică sînt supuse evaluării şi urmează a fi notificate Consiliului Concurenţei înainte de punerea în aplicare, atunci cînd cifra totală de afaceri realizată cumulativ de întreprinderile implicate, înregistrată în anul anterior operaţiunii, depăşeşte 25 000 000 lei şi există cel puţin două întreprinderi implicate în operaţiune care au realizat pe teritoriul Republicii Moldova, fiecare în parte, o cifră totală de afaceri mai mare de 10 000 000 lei în anul anterior operaţiunii.
+
+(2) Prin punerea în aplicare a operaţiunii de concentrare economică se înţelege, după caz, încheierea acordului, anunţarea ofertei publice sau preluarea pachetului de control.
+
+(3) Concentrările economice care se realizează prin fuziunea a două sau mai multor întreprinderi trebuie notificate împreună de către părţile la fuziune, iar cele care se realizează prin preluarea controlului în comun trebuie notificate împreună de către persoanele sau întreprinderile care dobîndesc controlul în comun. În celelalte cazuri, notificarea trebuie să fie realizată de persona sau întreprinderea care preia controlul asupra uneia sau mai multor întreprinderi ori asupra unei părţi a uneia sau mai multor întreprinderi. Fiecare parte care înaintează notificarea este responsabilă pentru caracterul exact şi complet al informaţiilor furnizate.
+
+(4) Notificările se depun conform Formularului de notificare, parte componentă a Regulamentului privind concentrările economice, adoptat de Plenul Consiliului Concurenţei.
+
+(5) Notificarea prezentată Consiliului Concurenţei trebuie să cuprindă: Formularul de notificare, însoţit de copiile documentelor justificative, nota privind cifra totală de afaceri calculată şi dovada plăţii taxei de examinare.
+
+(6) Nota privind cifra totală de afaceri calculată trebuie să cuprindă atît cifra totală de afaceri,
+
+cît şi cifrele totale de afaceri din care este compusă, cu menţionarea întreprinderilor de la care provin, împreună cu toate documentele care au stat la baza calculelor.
+
+(7) În termen de 10 zile lucrătoare de la înregistrarea notificării, Consiliul Concurenţei va confirma în scris părţii/părţilor notificatoare sau reprezentanţilor acestora întrunirea condiţiilor pentru ca notificarea să fie considerată valabil depusă.
+
+(8) În termen de 10 zile lucrătoare de la înregistrarea notificării, Consiliul Concurenţei va putea solicita părţii/părţilor notificatoare sau reprezentanţilor acestora completarea informaţiilor transmise şi/sau confirmarea caracterului exact şi complet al acestora. Notificarea va fi considerată efectivă numai după completarea acesteia.
+
+(9) Partea/părţile notificatoare sau reprezentanţii acestora vor putea furniza şi alte informaţii pe care le consideră utile pentru evaluarea operaţiunii de concentrare economică.
+
+(10) Notificarea devine efectivă la data la care a fost înregistrată la Consiliul Concurenţei, cu excepţia cazurilor în care se constată că informaţiile cuprinse în ea sînt inexacte sau incomplete.
+
+(11) În cazul în care Consiliul Concurenţei constată că o concentrare economică notificată intră în sfera de aplicare a prezentei legi, acesta publică pe pagina sa web şi în Monitorul Oficial al Republicii Moldova informaţia despre efectuarea notificării, menţionînd numele părţilor implicate, natura concentrării şi sectoarele economice implicate, luînd în considerare interesul legitim al întreprinderilor de protejare a secretelor comerciale.
+### Articolul 23. Investigarea şi evaluarea concentrărilor economice
+
+(1) Părţile care intenţionează să depună o notificare pot solicita Consiliului Concurenţei consultări prealabile pentru discutarea unor aspecte juridice sau practice esenţiale privind concentrarea economică. În acest scop, părţile vor furniza Consiliului Concurenţei, cu cel puţin 3 zile lucrătoare anterior datei stabilite pentru consultare, informaţii relevante privind concentrarea economică, cum ar fi: părţile implicate în concentrare, pieţele pe care acestea activează, descrierea sumară a concentrării economice respective şi a modalităţii de preluare a controlului.
+
+(2) Investigarea operaţiunilor de concentrare economică se va efectua conform prevederilor cap. VII.
+
+(3) Sînt declarate incompatibile cu un mediu concurenţial concentrările economice care ar ridica obstacole semnificative în calea concurenţei efective pe piaţă sau pe o parte semnificativă a acesteia, în special ca urmare a creării sau consolidării unei poziţii dominante.
+
+(4) O concentrare economică care nu ridică obstacole semnificative în calea concurenţei efective pe piaţă sau pe o parte semnificativă a acesteia, în special ca urmare a creării sau consolidării unei poziţii dominante, este declarată compatibilă cu un mediu concurenţial.
+
+(5) Pentru stabilirea compatibilităţii cu un mediu concurenţial, operaţiunile de concentrare economică se evaluează în baza următoarelor criterii, cu condiţia ca acestea să fie în beneficiul consumatorului şi să nu reprezinte un obstacol în calea concurenţei:
+
+a) necesitatea de a menţine şi de a dezvolta concurenţa pe piaţa relevantă, ţinînd cont de structura tuturor pieţelor vizate de concentrare şi de concurenţa existentă sau potenţială din partea întreprinderilor aflate pe teritoriul sau în afara Republicii Moldova;
+
+b) poziţia de piaţă deţinută de către întreprinderile implicate, puterea lor economică şi
+
+financiară;
+
+c) alternativele disponibile pentru furnizori şi utilizatori, accesul lor la pieţe şi la surse de aprovizionare, precum şi orice bariere legale sau de altă natură la intrarea pe piaţă;
+
+d) tendinţa cererii şi a ofertei pentru produsele relevante;
+
+e) interesele consumatorilor intermediari şi ale celor finali;
+
+f) evoluţia progresului tehnic şi economic.
+
+(6) Concentrările economice susceptibile a ridica obstacole semnificative în calea concurenţei efective pe piaţă sau pe o parte substanţială a acesteia pot fi autorizate dacă părţile implicate în operaţiunea de concentrare economică dovedesc îndeplinirea cumulativă a următoarelor condiţii:
+
+a) operaţiunea de concentrare urmează a contribui la creşterea eficienţei economice, la ameliorarea calităţii producţiei, distribuţiei sau progresului tehnic ori la creşterea competitivităţii la export;
+
+b) efectele favorabile ale concentrării compensează efectele nefavorabile ale restrîngerii concurenţei;
+
+c) de avantajele rezultate profită într-o măsură rezonabilă şi consumatorii.
+
+(7) Modalitatea de aplicare a evaluării concentrărilor economice va fi stabilită în Regulamentul privind concentrările economice
+### Articolul 24. Calcularea cifrei totale de afaceri
+
+(1) În sensul prezentului capitol, cifra totală de afaceri cuprinde sumele obţinute de întreprinderile implicate în anul anterior din vînzare de produse făcînd parte din activităţile obişnuite ale întreprinderilor în cauză, după deducerea rabaturilor aplicate la vînzare şi a taxei pe valoarea adăugată şi a altor impozite direct legate de cifra de afaceri.
+
+(2) Cifra de afaceri realizată pe teritoriul Republicii Moldova cuprinde produsele vîndute întreprinderilor sau consumatorilor din Republica Moldova.
+
+(3) Cînd o operaţiune de concentrare economică are loc în modul prevăzut la art. 20 alin. (2) lit. b) prin cumpărarea de elemente de active, cifra totală de afaceri este asimilată sumei aferente activelor ce constituie obiectul operaţiunii. Dacă două sau mai multe operaţiuni, în sensul prezentului alineat, au loc pe parcursul unei perioade de doi ani între aceleaşi persoane sau întreprinderi, aceste operaţiuni sînt tratate ca fiind una şi aceeaşi concentrare realizată la data încheierii ultimei operaţiuni.
+
+(4) Cifra totală de afaceri realizată de întreprinderile implicate se calculează prin adunarea cifrelor totale de afaceri ale:
+
+a) întreprinderilor implicate;
+
+b) întreprinderilor la care întreprinderea implicată, în mod direct sau indirect
+
+– deţine peste jumătate din capital; sa
+
+– are puterea de a exercita peste jumătate din drepturile de vot; sa
+
+– are puterea de a numi peste jumătate din membrii consiliului societăţii, ai organului executiv sau ai organelor care reprezintă legal întreprinderile; sa
+
+– are dreptul de a gestiona activităţile întreprinderilor;
+
+c) întreprinderilor care deţin în întreprinderea implicată drepturile sau competenţele specificate la lit. b);
+
+d) întreprinderilor în care o întreprindere menţionată la lit. c) deţine drepturile sau competenţele specificate la lit. b);
+
+e) întreprinderilor în care două sau mai multe întreprinderi menţionate la lit. a)–d) deţin împreună drepturile sau competenţele specificate la lit. b).
+
+(5) Cifra totală de afaceri realizată de întreprinderile implicate nu include valoarea vînzărilor de produse intervenite între oricare dintre întreprinderile menţionate la alin. (4).
+
+(6) Dacă întreprinderile implicate în concentrarea economică deţin împreună drepturile sau competenţele prevăzute la alin. (4) lit. b), la calcularea cifrei totale de afaceri a întreprinderilor implicate nu se ia în considerare cifra de afaceri rezultată din vînzările de produse intervenite între întreprinderea comună şi fiecare dintre întreprinderile implicate sau orice altă întreprindere care are legături cu oricare dintre ele, în conformitate cu alin. (4) lit. b)–e), dar se ia în considerare cifra de afaceri rezultată din vînzările de produse intervenite între întreprinderea comună şi orice întreprinderi terţe. Cifra totală de afaceri astfel calculată se distribuie în mod egal între întreprinderile implicate.
+### Articolul 25. Competenţa Consiliului Concurenţei în domeniul
+
+concentrărilor economice
+
+(1) În termen de 30 de zile lucrătoare de la primirea notificării complete a unei operaţiuni de concentrare economică, Consiliul Concurenţei:
+
+a) informează părţile notificatoare, printr-o scrisoare, despre faptul că operaţiunea de concentrare economică notificată nu cade sub incidenţa prezentei legi; sau
+
+b) adoptă în plen o decizie prin care declară operaţiunea de concentrare economică notificată ca fiind compatibilă cu mediul concurenţial, dacă constată că, deşi operaţiunea de concentrare economică notificată cade sub incidenţa prezentei legi
+
+– nu există îndoieli grave privind compatibilitatea cu mediul concurenţial
+
+– îndoielile privind compatibilitatea cu mediul concurenţial au fost înlăturate prin modificarea de către părţile implicate a concentrării economice notificate.
+
+Plenul Consiliului Concurenţei poate stabili prin decizie condiţii şi obligaţii de natură să asigure respectarea de către părţile implicate a angajamentelor pe care şi le-au asumat în scopul realizării compatibilităţii concentrării cu mediul concurenţial; sau
+
+c) decide în plen iniţierea unei investigaţii, dacă constată că operaţiunea de concentrare economică notificată cade sub incidenţa prezentei legi şi prezintă îndoieli grave privind compatibilitatea cu mediul concurenţial, iar acestea nu au putut fi înlăturate potrivit prevederilor alin. (1) lit. b).
+
+(2) Cu excepţia cazurilor în care întreprinderile implicate demonstrează, convingînd Plenul Consiliului Concurenţei, că au renunţat la concentrarea economică, Plenul Consiliului Concurenţei, în termen de 90 de zile lucrătoare de la iniţierea investigaţiei:
+
+a) emite o decizie prin care declară operaţiunea de concentrare economică incompatibilă cu mediul concurenţial, dacă operaţiunea de concentrare economică ridică obstacole semnificative în calea concurenţei efective pe piaţă sau pe o parte substanţială a acesteia, în special ca urmare a creării sau consolidării unei poziţii dominante, potrivit prevederilor art. 23 alin. (3), ori, în cazurile prevăzute la art. 20 alin. (3), dacă nu îndeplineşte condiţiile prevăzute la art. 6;
+
+b) emite o decizie prin care declară operaţiunea de concentrare economică compatibilă cu mediul concurenţial, dacă operaţiunea de concentrare economică nu ridică obstacole semnificative în calea concurenţei efective pe piaţă sau pe o parte substanţială a acesteia, în special ca urmare a creării sau consolidării unei poziţii dominante, potrivit prevederilor art. 23 alin. (4), ori, în cazurile prevăzute la art. 20 alin. (3), dacă îndeplineşte condiţiile prevăzute la art. 6. Se consideră că o decizie prin care se declară o concentrare ca fiind compatibilă include restricţiile direct legate şi necesare punerii în aplicare a concentrării;
+
+c) emite o decizie prin care declară operaţiunea de concentrare economică compatibilă cu mediul concurenţial, dacă constată că, în urma modificărilor efectuate de întreprinderile implicate, operaţiunea de concentrare economică notificată îndeplineşte criteriul prevăzut la art. 23 alin. (4) şi, în cazurile menţionate la art. 20 alin. (3), criteriile prevăzute la art. 6. Plenul Consiliului Concurenţei are dreptul de a stabili, prin decizie, obligaţiile şi/sau condiţiile necesare să asigure respectarea de către părţile implicate a angajamentelor pe care şi le-au asumat în scopul realizării compatibilităţii concentrării cu mediul concurenţial.
+
+(3) Termenele prevăzute la alin. (1) şi (2) se prelungesc în cazul în care părţile care fac notificarea înaintează o cerere în acest sens în termen de cel mult 15 zile lucrătoare de la iniţierea procedurii. Părţile care fac notificarea pot înainta o singură cerere de prelungire. După iniţierea procedurii, Plenul Consiliului Concurenţei poate prelungi termenele prevăzute la alin. (1) şi (2) cu acordul părţilor care au făcut notificarea. Durata totală a oricărei prelungiri sau a oricăror prelungiri efectuate nu poate depăşi 20 de zile lucrătoare.
+
+(4) Termenele prevăzute la alin. (1) şi (2) se prelungesc cu 30 de zile lucrătoare în cazul în care întreprinderile implicate se oferă să îşi asume angajamente în temeiul alin.(1) sau (2) în vederea realizării compatibilităţii concentrării economice cu mediul concurenţial.
+
+(5) În cazul în care Plenul Consiliului Concurenţei nu ia o decizie în termenele prevăzute la alin. (1) şi (2), operaţiunea de concentrare economică se consideră autorizată tacit.
+
+(6) Dacă, din cauza unor împrejurări de care este responsabilă una dintre întreprinderile implicate în concentrare, Consiliul Concurenţei a trebuit să solicite informaţii în temeiul art. 54 sau să dispună o inspecţie printr-un ordin adoptat în temeiul art. 56, termenele prevăzute la alin. (1) şi (2) din prezentul articol se suspendă şi încep să curgă de la data la care părţile au furnizat Consiliului Concurenţei toate informaţiile solicitate.
+
+(7) Plenul Consiliului Concurenţei are dreptul să adopte, printr-o prescripţie, măsuri interimare adecvate pentru restabilirea sau menţinerea condiţiilor de concurenţă efectivă în cazul în care o concentrare economică:
+
+a) a fost pusă în aplicare cu încălcarea art. 20 alin. (1) şi nu a fost încă adoptată o decizie privind compatibilitatea concentrării cu mediul concurenţial;
+
+b) a fost pusă în aplicare cu încălcarea unei sau a mai multor condiţii incluse într-o decizie adoptată în conformitate cu alin. (1) lit. b) sau alin. (2) lit. c);
+
+c) a fost deja pusă în aplicare şi este declarată incompatibilă cu mediul concurenţial.
+
+(8) Consiliul Concurenţei poate revoca actul administrativ emis în temeiul alin. (1) sau (2) în cazul în care:
+
+a) actul administrativ se bazează pe informaţii incorecte pentru care este responsabilă una dintre întreprinderi ori informaţiile au fost obţinute prin fraudă; sau
+
+b) întreprinderile implicate încalcă una sau mai multe obligaţii incluse în act.
+
+(9) În cazurile menţionate la alin. (8), Plenul Consiliului Concurenţei are dreptul să adopte un act în conformitate cu alin. (1) fără a avea obligaţia de a respecta termenul prevăzut la alin. (1).
+### Articolul 251. Evaluarea concentrărilor economice în domeniul mass-mediei
+
+(1) Actele legislative speciale în domeniul mass-mediei pot prevedea praguri privind notificarea concentrărilor economice, altele decît pragurile specificate la art. 22 alin. (1).
+
+(2) Actele legislative speciale în domeniul mass-mediei pot prevedea cote de piaţă ce prezumă existenţa poziţiei dominante, altele decît cota stabilită la art. 10 alin. (4).
+
+(3) Consiliul Audiovizualului va prezenta anual, pînă la data de 1 martie, Consiliului Concurenţei un raport privind beneficiarii efectivi în domeniul audiovizualului, cu anexarea copiilor de pe documentele relevante deținute.
+
+(4) Consiliul Audiovizualului va sesiza Consiliul Concurenţei cu privire la fapte constatate cu semne de concentrare economică în domeniul audiovizualului şi îi va pune la dispoziţie toate informaţiile relevante deţinute.
+### Articolul 26. Restabilirea situaţiei anterioare
+
+(1) În cazul în care Consiliul Concurenţei constată că o concentrare economică a fost deja pusă în aplicare şi că ea a fost declarată incompatibilă cu mediul concurenţial, acesta este în drept:
+
+a) să solicite întreprinderilor implicate să dizolve concentrarea, în special prin dizolvarea fuziunii sau prin cesionarea tuturor acţiunilor (părţilor sociale) sau activelor dobîndite, astfel încît să se restabilească situaţia existentă anterior punerii în aplicare a concentrării;
+
+b) să intenteze o acţiune în instanţa de judecată privind dizolvarea concentrării.
+
+(2) În cazul în care prin dizolvarea concentrării nu este posibilă restabilirea situaţiei existente anterior punerii în aplicare a concentrării, Plenul Consiliului Concurenţei are dreptul să adopte orice altă măsură adecvată pentru a restabili, în măsura posibilului, situaţia anterioară.
+
+3) Consiliul Concurenţei poate acţiona potrivit alin. (1) şi (2) din prezentul articol şi atunci cînd constată că o concentrare economică a fost pusă în aplicare cu încălcarea unei condiţii impuse printr-o decizie adoptată potrivit prevederilor art. 25 alin. (2) lit. c), prin care s-a stabilit că, în cazul absenţei condiţiei, concentrarea ar îndeplini criteriul prevăzut la art. 23 alin. (3) sau, în cazurile prevăzute la art. 20 alin. (3), nu ar îndeplini criteriile prevăzute la art. 6.
+
+(4) În cazurile care intră sub incidenţa alin. (1) lit. a) din prezentul articol, măsurile prevăzute
+
+la alin. (1) pot fi impuse fie printr-o decizie adoptată în temeiul art. 25 alin. (2) lit. a), fie printr-o decizie separată.
+### Articolul 27. Taxa de examinare a notificării privind concentrarea economică
+
+(1) Prin prezenta lege se instituie taxa de examinare a notificării privind concentrarea economică.
+
+(2) Taxa de examinare a notificării privind concentrarea economică se stabileşte în mărime de 0,1% din cifra totală de afaceri realizată cumulat pe teritoriul Republicii Moldova de către întreprinderile implicate în concentrarea economică. Taxa de examinare se calculează pe baza cifrei totale de afaceri realizate în anul anterior notificării operaţiunii de concentrare economică şi nu poate depăşi 75 000 lei.
+
+(3) Sînt obligate să achite taxa de examinare persoana, întreprinderea sau întreprinderile care au înaintat Consiliului Concurenţei o notificare a unei operaţiuni de concentrare economică.
+
+(4) Taxa de examinare se restituie persoanelor şi/sau întreprinderilor care au înaintat Consiliului Concurenţei o notificare a unei operaţiuni de concentrare economică în cazul în care această operaţiune nu cade sub incidenţa prezentei legi.
+
+(5) Din momentul informării părţilor în temeiul art. 25 alin. (1) lit. a), Consiliul Concurenţei, în termen de 30 de zile calendaristice, restituie mijloacele băneşti achitate pentru examinarea notificării.
+
+## Capitolul V — ## DETERMINAREA PIEŢEI RELEVANTE
+### Articolul 28. Piaţa relevantă şi concurenţa
+
+(1) Examinarea problemelor concurenţiale şi evaluarea unei cauze de concurenţă se efectuează în cadrul pieţei relevante.
+
+(2) Determinarea pieţei relevante este necesară în special pentru:
+
+a) evaluarea concentrărilor economice şi analiza modificărilor structurale care afectează cererea sau oferta unui produs pentru împiedicarea creării sau consolidării poziţiei dominante şi pentru prevenirea restrîngerii semnificative a concurenţei;
+
+b) investigarea şi constatarea abuzurilor de poziţie dominantă;
+
+c) stabilirea existenţei unor restricţii semnificative ale concurenţei, analiza efectelor restrictive ale unui acord sau verificarea îndeplinirii condiţiei prevăzute la art. 6 alin. (1) lit. d).
+
+(3) Determinarea pieţei relevante reprezintă un instrument de identificare şi de definire a cadrului în care se exercită concurenţa. În funcţie de natura problemei concurenţiale, dimensiunile pieţei relevante pot fi diferite.
+
+(4) Scopul principal al determinării pieţei relevante rezidă în identificarea constrîngerilor concurenţiale cu care se confruntă sistematic întreprinderile în cauză.
+
+(5) În sensul prezentului capitol, întreprinderile în cauză sînt: părţile care participă la concentrarea economică, în cazul unei concentrări economice; întreprinderile care fac obiectul
+
+investigaţiei sau, după caz, autorul plîngerii, în cazul investigaţiilor efectuate în temeiul prevederilor cap. II secţiunea a 2-a; părţile acordului, în cazul investigaţiilor efectuate în temeiul prevederilor cap. II secţiunea 1.
+
+(6) Determinarea pieţei relevante, atît la nivelul produselor, cît şi la nivel geografic, trebuie să permită identificarea concurenţilor existenţi şi potenţiali ai întreprinderilor în cauză care sînt capabili să condiţioneze comportamentul respectivelor întreprinderi şi să le împiedice să acţioneze independent de presiunile unei concurenţe.
+
+(7) Perioada de timp a analizei pieţei relevante se determină în funcţie de obiectul investigaţiei şi de particularităţile pieţei relevante.
+
+(8) Principiile fundamentale de determinare a pieţei relevante ţin de constrîngerile concurenţiale şi sînt următoarele: substituibilitatea la nivelul cererii, substituibilitatea la nivelul ofertei şi concurenţa potenţială.
+### Articolul 29. Procedura de determinare a pieţei relevante
+
+(1) Criteriile şi elementele probatorii utilizate pentru determinarea pieţei relevante a produsului sînt diferite, în funcţie de caracteristicile şi de specificul ramurii economiei naţionale şi al produselor analizate.
+
+(2) La determinarea pieţei relevante a produsului se vor utiliza elemente probatorii suficiente pentru a ajunge la o concluzie privind dimensiunile pieţei, în scopul rezolvării problemei concurenţiale aferente unui caz concret, precum şi a altor sarcini nominalizate la art. 28 alin. (2).
+
+(3) În procesul de determinare a pieţei relevante a produsului, în baza informaţiilor preliminare disponibile sau a informaţiilor comunicate de întreprinderile în cauză, se decide dacă produsele aparţin aceleiaşi pieţe a produsului.
+
+(4) În caz de necesitate, ulterior vor fi luate în considerare şi alte elemente probatorii decît cele indicate la alin. (3) care permit evaluarea măsurii în care substituţia între produse ar putea avea loc. În unele cazuri anumite elemente de fapt pot fi decisive, în timp ce în alte cazuri aceleaşi elemente de fapt ar putea fi irelevante.
+
+(5) Modul de abordare a informaţiilor este unul deschis, care are scopul de a exploata eficace toate informaţiile posibile ce ar putea fi utile la evaluarea cazurilor individuale. Nu se utilizează o ierarhie strictă a diferitelor surse de informaţii sau a diferitelor tipuri de elemente de fapt pentru stabilirea existenţei substituibilităţii.
+
+(6) În funcţie de fiecare caz, cînd nu se pun probleme de concurenţă, nu este necesar să se delimiteze definitiv piaţa relevantă a produsului sau să se determine dacă aceasta include ori nu produse suplimentare.
+
+(7) Procesul de determinare a pieţei geografice relevante constă în selectarea şi sistematizarea informaţiilor care contribuie la identificarea obstacolelor şi a barierelor ce izolează întreprinderile situate într-o anumită zonă de presiunea concurenţială a întreprinderilor situate în afara acestei zone, astfel încît să se clarifice cu precizie gradul de interpenetrare a pieţelor la nivel naţional.
+
+(8) Atunci cînd o determinare precisă a pieţei relevante este considerată necesară, vor fi contactaţi, după caz, pentru prezentarea informaţiei în formă verbală şi/sau scrisă:
+
+a) clienţii principali şi întreprinderile principale din sectorul respectiv pentru comunicări
+
+asupra limitelor pieţei relevante a produsului şi ale pieţei geografice relevante şi pentru a obţine elemente de fapt, în scopul de a ajunge la o concluzie privind definirea pieţei relevante;
+
+b) asociaţiile profesionale competente şi întreprinderile care activează pe piaţă în amonte sau în aval pentru a defini, în măsura în care acest lucru este necesar, pieţe relevante ale produsului şi pieţe geografice relevante distincte pentru diferite niveluri de producţie sau de distribuţie a produselor în cauză;
+
+c) întreprinderile în cauză referitor la prezentarea informaţiilor suplimentare.
+### Articolul 30. Elemente probatorii pentru determinarea pieţei relevante
+
+(1) Pentru evaluarea substituibilităţii între produse se utilizează, după caz, următoarele categorii de elemente probatorii:
+
+a) informaţii referitoare la utilizarea dată produselor, substituibilitatea funcţională sau caracteristicile similare. Utilizarea dată produselor, substituibilitatea funcţională sau caracteristicile similare pot, într-o primă etapă, să limiteze sfera cercetărilor privind eventualele produse substituibile. În cazul în care probele respective nu sînt suficiente, se vor lua în considerare alte categorii de elemente;
+
+b) informaţii despre preţuri, despre capacitatea de reacţie a clienţilor la creşterea permanentă şi semnificativă a preţurilor. Se consideră semnificativă creşterea preţurilor cu 10%;
+
+c) rezultate obţinute în urma aplicării diferitelor abordări statistice şi/sau econometrice;
+
+d) elemente privind substituţia în trecutul apropiat;
+
+e) puncte de vedere argumentate ale principalilor consumatori şi concurenţi asupra limitelor pieţei relevante a produsului;
+
+f) preferinţe ale consumatorilor finali, opinii exprimate de comercianţii cu amănuntul, studii de piaţă prezentate de părţi şi de concurenţii lor, anchete cu privire la obiceiurile de consum şi la comportamentele de cumpărare ale consumatorilor;
+
+g) informaţii referitoare la barierele şi la costurile aferente unui transfer al cererii către produsele potenţial substituibile;
+
+h) informaţii referitoare la diferite categorii de clienţi şi la discriminare prin preţ;
+
+i) rezultate obţinute în urma aplicării diferitelor teste cantitative, sondaje concepute pentru delimitarea pieţelor relevante.
+
+(2) Pentru determinarea dimensiunii geografice se utilizează, în caz de necesitate, următoarele categorii de elemente probatorii:
+
+a) informaţii referitoare la reorientarea comenzilor în trecut către alte zone;
+
+b) natura cererii (preferinţele consumatorilor, necesitatea unei prezenţe locale) pentru produsul relevant;
+
+c) puncte de vedere argumentate ale principalilor consumatori şi concurenţi asupra limitelor pieţei geografice relevante;
+
+d) localizare a comportamentului de cumpărare al consumatorilor. Cînd consumatorii se aprovizionează prin licitaţii ai căror ofertanţi sînt întreprinderi situate pe teritoriul Republicii Moldova, se consideră că piaţa geografică relevantă este teritoriul Republicii Moldova;
+
+e) fluxuri comerciale;
+
+f) bariere şi costuri de transfer aferente reorientării comenzilor către întreprinderi situate în alte zone.
+
+(3) Pe baza elementelor de probaţiune colectate se defineşte piaţa geografică relevantă, a cărei sferă ar putea varia de la dimensiuni locale la dimensiuni mondiale.
+
+(4) Determinări diferite ale pieţei relevante ar putea rezulta în cazul în care:
+
+a) eventualele constrîngeri asupra substituţiei sînt impuse de condiţiile de pe pieţele conexe;
+
+b) compatibilitatea cu produsul primar este importantă;
+
+c) este dificil de identificat produsele secundare, precum şi existenţa unor preţuri ridicate şi a unui ciclu de viaţă lung al produselor primare;
+
+d) substituţia între produsele secundare este semnificativă;
+
+e) caracteristicile produselor primare fac posibile reacţii rapide şi obiective ale consumatorilor la creşterile preţurilor relative ale produselor secundare;
+
+f) există lanţuri de substituţie coroborate cu elemente legate de interdependenţa la nivelul preţurilor la limitele lanţurilor de substituţie. Nivelurile de preţ la limitele lanţurilor trebuie să fie de aceeaşi dimensiune.
+### Articolul 31. Calcularea cotelor de piaţă
+
+(1) Determinarea pieţei relevante permite identificarea furnizorilor şi a consumatorilor care acţionează pe piaţa respectivă.
+
+(2) Mărimea totală a pieţei şi cotele de piaţă deţinute pot fi cunoscute consultînd surse de informaţie cum ar fi previziunile întreprinderilor sau studiile comandate întreprinderilor de consultanţă şi/sau asociaţiilor profesionale competente, rapoartele financiare şi statistice, informaţiile de la autorităţile vamale, de la autorităţile de reglementare etc. În absenţa unor astfel de surse de informaţie sau atunci cînd previziunile disponibile nu sînt fiabile, Consiliul Concurenţei solicită, de obicei, fiecărui furnizor de pe piaţa relevantă să îi comunice propria cifră de afaceri, astfel încît să poată calcula mărimea totală a pieţei şi cotele de piaţă deţinute.
+
+(3) Vînzările sînt punctul de referinţă pentru calculul cotelor de piaţă. În funcţie de specificul produselor sau de industria în cauză, există şi alte repere care pot oferi informaţii utile, cum ar fi, în special, numărul de clienţi, volumul de trafic, capacitatea instalată, numărul întreprinderilor în oferta de pe piaţă, unităţile de flote în domeniul aerospaţial sau rezervele deţinute în cazul anumitor sectoare.
+
+## Capitolul VI — ## CONSILIUL CONCURENŢEI
+### Articolul 32. Prevederi generale privind Consiliul Concurenţei
+
+(1) Consiliul Concurenţei este o autoritate publică autonomă, responsabilă faţă de Parlament, ce asigură aplicarea şi respectarea legislaţiei din domeniul concurenţei, ajutorului de stat şi publicităţii în limitele competenţei sale.
+
+(2) Consiliul Concurenţei este învestit cu putere de decizie, de reglementare, de interdicţie, de intervenţie, de inspecţie şi de sancţionare, în limitele stabilite de legislaţie.
+
+(3) Consiliul Concurenţei este persoană juridică, cu bilanţ propriu, dispune de ştampilă cu imaginea Stemei de Stat şi cu denumirea sa. Sediul central al Consiliului Concurenţei este în municipiul Chişinău. În funcţie de necesităţi, acesta îşi poate deschide filiale în teritoriu.
+
+(4) Activitatea Consiliului Concurenţei se exercită pe întreg teritoriul Republicii Moldova
+### Articolul 33. Activitatea Consiliului Concurenţei
+
+(1) Consiliul Concurenţei activează potrivit prevederilor Constituţiei, prezentei legi, altor acte legislative şi normative, regulamentului de organizare şi funcţionare şi este independent în exercitarea atribuţiilor sale.
+
+(2) Organizarea şi activitatea Consiliului Concurenţei se bazează pe principiile autonomiei, independenţei şi colegialităţii.
+
+(3) Consiliul Concurenței întocmește anual un raport privind activitatea sa. Raportul respectiv se aprobă de către Plenul Consiliului Concurenței și se prezintă Parlamentului, în ședință plenară, până la data de 1 iunie, fiind ulterior publicat pe pagina web oficială a Consiliului Concurenței.
+
+_[Art.33 al.(3) în redacția LP38 din 28.02.20, MO103/14.04.20 art.176; în vigoare 14.05.20]_
+
+(4) Raportul privind activitatea Consiliului Concurenţei va conţine:
+
+a) raportul financiar anual şi, după caz, raportul auditului de performanţă;
+
+b) informaţii despre activităţile Consiliului Concurenţei în realizarea atribuţiilor stabilite de prezenta lege şi de legislaţia în domeniul ajutorului de stat şi publicităţii;
+
+c) informaţii despre direcţiile prioritare de activitate ale Consiliului Concurenţei pentru anul următor;
+
+d) alte informaţii stabilite de Consiliul Concurenţei.
+### Articolul 34. Colaborarea Consiliului Concurenţei cu alte autorităţi
+
+(1) În exercitarea atribuţiilor, Consiliul Concurenţei conlucrează cu autorităţile publice în vederea realizării prevederilor legislaţiei din domeniul concurenţei, ajutorului de stat şi publicităţii, in limitele competenţei sale.
+
+(2) Autorităţile administraţiei publice transmit Consiliului Concurenţei spre avizare proiectele de acte legislative şi normative care au sau pot avea impact anticoncurenţial.
+
+(3) În cazul în care constată pe pieţele reglementate fapte ce pot fi calificate ca practici anticoncurenţiale, Consiliul Concurenţei solicită opinia autorităţii de reglementare competente asupra acestor fapte. Opinia trebuie prezentată în termenul stabilit de Consiliul Concurenţei.
+
+(4) Dacă, în exercitarea atribuţiilor, autorităţile de reglementare şi alte autorităţi ale
+
+administraţiei publice constată, din oficiu sau la cerere, semne ale încălcării prezentei legi, acestea vor sesiza Consiliul Concurenţei cu privire la cazul respectiv şi îi vor pune la dispoziţie toate informaţiile relevante deţinute.
+
+(5) Colaborarea dintre Consiliul Concurenţei şi alte autorităţi de reglementare se efectuează conform delimitării de funcţii şi atribuţii date prin lege pe baza următorului principiu: organele de reglementare acţionează ex ante (anterior) în sectorul reglementat, iar Consiliul Concurenţei acţionează ex post (ulterior) pentru asigurarea concurenţei, aplicînd legislaţia concurenţială asupra tuturor relaţiilor din economia naţională ce cad sub incidenţa prezentei legi.
+
+(6) Consiliul Concurenţei este în drept să colaboreze cu organismele de specialitate internaţionale corespunzătoare.
+### Articolul 35. Structura Consiliului Concurenţei
+
+(1) Consiliul Concurenţei este constituit din conducere, aparat executiv, format din subdiviziuni specializate şi operaţionale, şi filiale teritoriale. Consiliul Concurenţei este condus de Plenul Consiliului Concurenţei.
+
+(2) Plenul Consiliului Concurenţei este un organ colegial decizional compus din 5 membri, inclusiv un preşedinte şi doi vicepreşedinţi, care sînt, respectiv, preşedinte şi vicepreşedinţi ai Consiliului Concurenţei.
+
+(3) Membrii Plenului Consiliului Concurenţei exercită funcţii de demnitate publică. Personalul Consiliului Concurenţei este compus din personal de specialitate, care cade sub incidenţa Legii nr. 158-XVI din 4 iulie 2008 cu privire la funcţia publică şi statutul funcţionarului public, şi personal tehnic.
+
+(4) În vederea exercitării atribuţiilor sale, Consiliul Concurenţei elaborează şi aprobă un regulament de organizare şi funcţionare.
+
+(7) Drepturile şi responsabilităţile personalului tehnic al Consiliului Concurenţei sînt reglementate de legislaţia muncii.
+
+(8) Consiliul Concurenţei va asigura formarea iniţială şi instruirea profesională continuă a personalului conform regulamentului de organizare şi funcţionare.
+### Articolul 36. Finanţarea Consiliului Concurenţei
+
+(1) Consiliul Concurenţei se finanţează de la bugetul de stat în limita alocaţiilor bugetare aprobate prin legea bugetară anuală, inclusiv din veniturile colectate.
+
+(2) Structura organizatorică şi efectivul-limită de personal ale Consiliului Concurenţei se aprobă de Parlament la propunerea motivată a preşedintelui Consiliului.
+
+(3) Bugetul Consiliului Concurenţei se elaborează, se aprobă şi se administrează conform principiilor, regulilor şi procedurilor prevăzute de Legea finanţelor publice şi responsabilităţii bugetar-fiscale nr.181/2014.
+
+(4) Sumele ce reprezintă amenzi sau alte sancţiuni aplicate de Consiliul Concurenţei se fac venit la bugetul de stat, în condiţiile legii.
+### Articolul 37. Evidenţa contabilă şi auditul activităţii Consiliului Concurenţei
+
+(1) Consiliul Concurenţei asigură înregistrarea contabilă a tuturor mijloacelor financiare încasate şi alocate, autorizarea corespunzătoare a plăţilor din contul acestor mijloace financiare şi controlul adecvat asupra patrimoniului Consiliului Concurenţei.
+
+(2) Anual, după efectuarea auditului intern al Consiliului Concurenţei prin care sînt evaluate procesele de activitate, se raportează Plenului Consiliului Concurenţei asupra suficienţei şi eficienţei sistemelor de control intern managerial şi de contabilitate.
+
+(3) Auditul de performanţă se efectuează de către Curtea de Conturi.
+### Articolul 38. Responsabilităţi
+
+(1) În exerciţiul funcţiei, membrii Plenului Consiliului Concurenţei şi angajaţii Consiliului Concurenţei exclud orice interes personal care ar putea influenţa îndeplinirea atribuţiilor de serviciu.
+
+(2) Angajaţii Consiliului Concurenţei nu pot desfăşura alte activităţi remunerate, cu excepţia activităţilor didactice, ştiinţifice, de creaţie sau activităţii remunerate în cadrul organizaţiilor internaţionale în legătură cu activitatea Consiliului Concurenţei.
+
+(3) Membrii Plenului Consiliului Concurenţei şi angajaţii Consiliului Concurenţei respectă strict regimul juridic al conflictului de interese prevăzut de legislaţia cu privire la conflictul de interese, precum şi prevederile art.7 alin. (2) din Legea nr. 325 din 23 decembrie 2013 privind evaluarea integrităţii instituţionale.
+
+(4) Membrii Plenului Consiliului Concurenţei, angajaţii Consiliului Concurenţei şi experţii antrenaţi de Consiliul Concurenţei sînt obligaţi să păstreze confidenţialitatea informaţiei ce constituie secret ocrotit de lege şi a altei informaţii confidenţiale la care au acces în legătură cu exercitarea atribuţiilor prevăzute de prezenta lege.
+
+(5) Informaţiile confidenţiale colectate în procesul aplicării prezentei legi se utilizează de Consiliul Concurenţei doar în scopul pentru care au fost obţinute şi nu pot fi divulgate decît cu consimţămîntul, exprimat într-o formă explicită, al persoanei de la care au fost obţinute sau la cererea instanţei de judecată ori a altor organe competente, dacă acest fapt este prevăzut de lege.
+
+(6) Pentru divulgarea informaţiei ce constituie secret ocrotit de lege, membrii Plenului Consiliului Concurenţei, angajaţii Consiliului Concurenţei şi experţii antrenaţi de acesta poartă răspundere civilă, contravenţională sau penală, după caz.
+
+(7) Opinia oficială a Consiliului Concurenţei este exprimată de preşedintele Consiliului Concurenţei sau de vicepreşedintele împuternicit în acest sens. Un angajat al Consiliului Concurenţei poate exprima opinia oficială a Consiliului Concurenţei numai dacă este împuternicit în acest sens.
+### Articolul 39. Atribuţiile Consiliului Concurenţei
+
+Consiliul Concurenţei are următoarele atribuţii principale:
+
+a) promovează cultura concurenţială;
+
+b) elaborează actele normative necesare pentru implementarea legislaţiei din domeniul concurenţei, ajutorului de stat şi publicităţii, în limitele competenţei sale;
+
+c) avizează proiectele de acte legislative şi normative ce pot avea impact anticoncurenţial; d) sesizează organele competente privind incompatibilitatea actelor legislative şi normative cu legislaţia din domeniul concurenţei, ajutorului de stat şi publicităţii, în limitele competenţei sale;
+
+e) investighează practicile anticoncurenţiale, concurenţa neloială şi alte încălcări ale legislaţiei din domeniul concurenţei, ajutorului de stat şi publicităţii, în limitele competenţei sale;
+
+f) constată încălcări ale legislaţiei din domeniul concurenţei, ajutorului de stat şi publicităţii, impune măsuri interimare în vederea încetării încălcărilor denunţate, impune măsuri corective şi aplică sancţiuni pentru comiterea încălcărilor, în limitele competenţei sale;
+
+g) adoptă decizii prevăzute de lege pentru cazurile de concentrări economice;
+
+h) autorizează, monitorizează şi raportează ajutorul de stat;
+
+i) înaintează în instanţa de judecată acţiuni privind cazurile ce ţin de competenţa sa;
+
+j) realizează alte atribuţii în conformitate cu legislaţia din domeniul concurenţei, ajutorului de stat şi publicităţii, în limitele competenţei sale.
+### Articolul 40. Atribuţiile preşedintelui Consiliului Concurenţei
+
+(1) Preşedintele Consiliului Concurenţei:
+
+a) poartă răspundere în faţa Parlamentului pentru îndeplinirea de către Consiliul Concurenţei a atribuţiilor acestuia prevăzute de actele legislative şi normative din domeniul concurenţei, ajutorului de stat şi publicităţii;
+
+b) reprezintă Consiliul Concurenţei în relaţiile cu autorităţile publice, persoanele fizice şi juridice, instanţele de judecată, precum şi cu organismele internaţionale de specialitate respective;
+
+c) convoacă şedinţele Plenului Consiliului Concurenţei, le prezidează şi monitorizează îndeplinirea deciziilor adoptate;
+
+d) aprobă ordinea de zi a şedinţelor Plenului Consiliului Concurenţei;
+
+e) repartizează atribuţii vicepreşedinţilor şi membrilor Plenului Consiliului Concurenţei, confirmate prin hotărîre a Plenului Consiliului Concurenţei;
+
+f) organizează activitatea Consiliului Concurenţei;
+
+g) organizează şi desfăşoară concursuri pentru ocuparea funcţiilor vacante;
+
+h) numeşte în funcţie, încheie, modifică, suspendă şi desface contractele individuale de muncă cu angajaţii Consiliului Concurenţei, în conformitate cu legislaţia. În caz de necesitate, aplică angajaţilor sancţiuni disciplinare;
+
+i) asigură pregătirea şi instruirea profesională a angajaţilor Consiliului Concurenţei;
+
+j) semnează ordinele, delegaţiile, acţiunile în judecată, corespondenţa;
+
+k) semnează actele administrative, avizele, rapoartele Consiliului Concurenţei;
+
+k1) organizează şi implementează sistemul de control intern managerial şi poartă răspundere
+
+managerială pentru administrarea bugetului şi a patrimoniului public aflat în gestiune;
+
+l) exercită alte atribuţii prevăzute de lege.
+
+(2) În caz de absenţă ori de indisponibilitate a preşedintelui, atribuţiile acestuia sînt exercitate de vicepreşedintele desemnat al Consiliului Concurenţei.
+
+(3) Preşedintele Consiliului Concurenţei este în drept să acorde împuterniciri oricărui membru al Plenului Consiliului Concurenţei, angajaţilor Consiliului Concurenţei, urmînd să specifice expres împuternicirile delegate şi durata exercitării acestora.
+### Articolul 41. Atribuţiile Plenului Consiliului Concurenţei
+
+(1) Plenul Consiliului Concurenţei are următoarele atribuţii:
+
+a) exercită conducerea Consiliului Concurenţei în conformitate cu legislaţia;
+
+b) aprobă limita numărului de unităţi de personal şi schema de încadrare a Consiliului Concurenţei, care ulterior se prezintă spre aprobare Parlamentului;
+
+c) dispune elaborarea şi adoptă acte normative necesare executării legislaţiei din domeniul concurenţei, ajutorului de stat şi publicităţii, în limitele competenţei sale, precum şi acte interne;
+
+d) emite avize pentru proiectele de acte legislative şi normative care pot avea impact anticoncurenţial şi propune modificarea celor care au sau pot avea un impact anticoncurenţial;
+
+e) sesizează organele competente privind incompatibilitatea actelor legislative şi normative cu legislaţia din domeniul concurenţei, ajutorului de stat şi publicităţii, în limitele competenţei sale;
+
+f) dispune iniţierea investigaţiilor ce ţin de competenţa Consiliului Concurenţei;
+
+g) examinează rapoartele de investigaţie, formulează observaţii cu privire la acestea şi dispune asupra măsurilor ce se impun, în limitele competenţei sale;
+
+h) ia decizii de constatare a încălcării legii, de impunere a măsurilor corective, de aplicare a sancţiunilor, de aplicare a politicii de clemenţă şi alte decizii prevăzute de prezenta lege, în limitele competenţei sale, în urma investigaţiilor efectuate;
+
+i) ia decizii de retragere a beneficiului exceptării de la prevederile art. 5, stabilit prin regulamentul adoptat de Consiliul Concurenţei pentru unele categorii de acorduri, dacă constată că acestea nu mai îndeplinesc prevederile art. 6 alin. (1);
+
+j) ia decizii de refuz, de autorizare şi de autorizare condiţionată a concentrărilor economice, de revocare a unei decizii adoptate în conformitate cu art. 25 alin. (1) lit. b) sau alin. (2) lit. b) ori c);
+
+k) ia decizii de constatare a faptului că măsura notificată nu constituie ajutor de stat, decizii de autorizare a ajutorului de stat, de autorizare condiţionată, de interzicere a ajutorului de stat şi de recuperare a ajutorului utilizat abuziv sau ilegal;
+
+l) dispune măsuri interimare, în condiţiile prevăzute de lege;
+
+m) asigură aplicarea şi executarea eficientă a deciziilor proprii;
+
+n) dispune efectuarea din oficiu a investigaţiilor utile pentru cunoaşterea pieţei;
+
+o) ia decizii cu privire la înaintarea în instanţa de judecată a acţiunilor privind cazurile ce ţin de competenţa sa;
+
+p) ia decizii cu privire la sesizarea organelor de urmărire penală sau altor organe competente asupra posibilelor fapte de încălcare a legislaţiei în vigoare;
+
+q) urmăreşte aplicarea dispoziţiilor legale şi a altor acte normative din domeniul concurenţei, ajutorului de stat şi publicităţii, în limitele competenţei sale, conform legislaţiei în vigoare;
+
+r) face recomandări Guvernului şi autorităţilor administraţiei publice centrale şi locale, în diverse sectoare economice, pentru adoptarea de măsuri care să faciliteze dezvoltarea pieţei şi a concurenţei, precum şi îndrumări privind aspecte generale ale aplicării legislaţiei în domeniul concurenţei, luînd în considerare practica instanţelor de judecată naţionale şi europene;
+
+s) dispune efectuarea studiilor şi aprobă rapoarte privind domeniul său de activitate şi furnizează Parlamentului, Guvernului, publicului şi organizaţiilor internaţionale specializate informaţii de rigoare;
+
+t) ia decizii de modificare, completare sau anulare a propriilor acte administrative, avize şi rapoarte emise în îndeplinirea atribuţiilor ce decurg din prezenta lege sau din alte acte legislative
+
+u) ia decizii privind acceptarea angajamentelor propuse de întreprinderi conform prezentei legi;
+
+v) exercită alte atribuţii prevăzute de lege.
+
+(2) Dacă Plenul Consiliului Concurenţei, acţionînd ca urmare a unei plîngeri sau din oficiu, constată o încălcare a art. 5, 7, 9 sau 11, acesta solicită printr-o decizie întreprinderilor şi asociaţiilor de întreprinderi în cauză să înceteze respectiva încălcare. În acest scop, Plenul Consiliului Concurenţei le poate impune orice măsuri corective comportamentale sau structurale care sînt proporţionale cu încălcarea comisă şi sînt necesare pentru încetarea efectivă a încălcării. Măsurile corective structurale nu ar trebui impuse decît atunci cînd nu există o măsură corectivă comportamentală la fel de eficientă sau atunci cînd o măsură corectivă comportamentală la fel de eficientă ar fi mai oneroasă pentru întreprinderea în cauză decît o măsură corectivă structurală. Plenul Consiliului Concurenţei poate, de asemenea, constata că o încălcare s-a comis în trecut, dacă are un interes legitim de a acţiona în acest mod.
+
+(3) Dacă, după examinarea preliminară a plîngerii, consideră că există motive suficiente pentru a iniţia o investigaţie asupra presupusului caz de încălcare a legislaţiei din domeniul concurenţei, ajutorului de stat şi publicităţii, Plenul Consiliului Concurenţei, acţionînd din oficiu, poate să dispună, în caz de urgenţă determinată de riscul unui prejudiciu grav şi ireparabil adus concurenţei, printr-o prescripţie, măsuri interimare. Măsurile interimare pot fi dispuse numai dacă presupusa încălcare reprezintă o practică interzisă expres de lege şi trebuie eliminată fără întîrziere pentru a preveni sau a opri producerea unui prejudiciu grav şi cert. Măsurile interimare trebuie să fie strict limitate, atît în durată, cît şi în obiectul lor, la ceea ce este necesar pentru a corija afectarea liberei concurenţe. O astfel de prescripţie poate fi reînnoită în măsura în care este necesar şi adecvat.
+
+(4) Atunci cînd Plenul Consiliului Concurenţei intenţionează să adopte o decizie care impune încetarea încălcării, iar întreprinderea propune angajamente pentru a răspunde preocupărilor exprimate de Plenul Consiliului Concurenţei în evaluarea sa preliminară, Plenul Consiliului Concurenţei poate, printr-o decizie, să facă respectivele angajamente obligatorii pentru întreprindere. O astfel de decizie poate fi adoptată pe o durată determinată şi poate concluziona că nu mai există motive pentru acţiunea Plenului Consiliului Concurenţei.
+
+(5) Plenul Consiliului Concurenţei poate, la cerere sau din oficiu, să redeschidă procedura
+
+a) în cazul în care intervine o schimbare esenţială privind oricare dintre faptele pe care s-a fundamentat decizia;
+
+b) în cazul în care întreprinderile în cauză acţionează contrar angajamentelor luate;
+
+c) în cazul în care decizia a fost fundamentată pe informaţii incomplete, inexacte sau care induc în eroare, furnizate de părţi.
+
+(6) Deciziile sau prescripţiile emise de Plenul Consiliului Concurenţei în aplicarea prevederilor alin. (2) şi (3) vor fi expediate autorului plîngerii şi întreprinderii sau asociaţiei de întreprinderi care face obiectul plîngerii sau a investigaţiei în termen de 10 zile calendaristice de la emitere şi vor cuprinde motivarea deciziei sau prescripţiei, după caz. Aceste decizii sau prescripţii pot fi atacate nemijlocit în instanţa de contencios administrativ competentă în termen de 30 de zile de la primirea lor.
+
+(7) Plenul Consiliului Concurenţei, după caz, poate pune în discuţie în şedinţă şi rezolva unele chestiuni conform regulamentului de organizare şi funcţionare, consemnîndu-le în procesul-verbal al şedinţei. Înscrierile protocolare se aplică doar în limitele în care nu este necesară adoptarea unei decizii, hotărîri, dispoziţii sau prescripţii.
+### Articolul 42. Calitatea de membru al Plenului Consiliului Concurenţei
+
+Incompatibilităţi şi restricţii
+
+(1) Membrii Plenului Consiliului Concurenţei, inclusiv preşedintele, sînt numiţi în funcţie prin hotărîre a Parlamentului, la propunerea Preşedintelui Parlamentului, cu avizul comisiei parlamentare de profil.
+
+(2) Membrii Plenului Consiliului Concurenţei nu reprezintă autoritatea care i-a numit şi sînt independenţi în luarea deciziilor.
+
+(3) Durata mandatului membrilor Plenului Consiliului Concurenţei este de 5 ani. Fiecare membru al Plenului Consiliului Concurenţei are dreptul la două mandate consecutive.
+
+(4) Mandatele membrilor Plenului Consiliului Concurenţei încep la data intrării în vigoare a hotărîrii respective a Parlamentului şi încetează la expirarea termenului prevăzut la alin. (3) din prezentul articol, cu excepţia încetării calităţii de membru în condiţiile art. 44.
+
+(5) În funcţia de membru al Plenului Consiliului Concurenţei poate fi numită persoana care deţine cetăţenia Republicii Moldova, are studii superioare, competenţă profesională, o bună reputaţie, nu are interdicţia de a ocupa o funcţie publică sau de demnitate publică, ce derivă dintrun act de constatare al Autorităţii Naţionale de Integritate, nu are în ultimii 5 ani, în cazierul privind integritatea profesională, înscrieri cu privire la rezultatul negativ al testului de integritate profesională pentru încălcarea obligaţiei prevăzute la art. 7 alin. (2) lit. a) din Legea nr. 325 din 23 decembrie 2013 privind evaluarea integrităţii instituţionale și are şi vechime în muncă de cel puţin 10 ani în activităţi din domeniul: economic, al concurenţei sau juridic.
+
+(6) Preşedintele Consiliului Concurenţei trebuie să fi îndeplinit o funcţie de conducere, în care a făcut dovada competenţei sale profesionale şi manageriale.
+
+(7) Calitatea de membru al Plenului Consiliului Concurenţei este incompatibilă cu exercitarea
+
+oricărei alte activităţi remunerate, profesionale sau de consultanţă, cu participarea, directă sau prin persoane interpuse, la conducerea sau administrarea unor întreprinderi publice sau private, cu excepţia activităţii didactice şi ştiinţifice. Membrii Plenului Consiliului Concurenţei nu pot fi desemnaţi experţi sau arbitri nici de părţi şi nici de instanţa judecătorească sau de către o altă instituţie.
+
+(8) Membrii Plenului Consiliului Concurenţei nu pot face parte din partide sau formaţiuni politice.
+
+(9) Membrii Plenului Consiliului Concurenţei sînt responsabili pentru actele administrative adoptate de Plenul Consiliului Concurenţei şi pentru exercitarea atribuţiilor ce le revin.
+
+(10) Membrii Plenului Consiliului Concurenţei nu pot fi reţinuţi, arestaţi decît la cererea Procurorului General.
+
+(11) Membrii Plenului Consiliului Concurenţei sînt responsabili de sectorul ce ţine de domeniul activităţii Consiliului Concurenţei, încredinţat de preşedintele Consiliului Concurenţei.
+
+(12) Membrii Plenului Consiliului Concurenţei sînt obligaţi să participe la şedinţele Plenului Consiliului Concurenţei şi să voteze „pentru” sau „contra” adoptării actelor administrative ale Plenului Consiliului Concurenţei.
+
+(13) Membrii Plenului Consiliului Concurenţei depun declaraţii de avere și interese personale în condiţiile legii.
+### Articolul 43. Jurămîntul membrilor Plenului Consiliului Concurenţei
+
+(1) Membrii Plenului Consiliului Concurenţei, inclusiv preşedintele şi vicepreşedinţii, la numire în funcţie, depun următorul jurămînt: „Jur să slujesc Republica Moldova cu credinţă, să respect Constituţia şi legile Republicii Moldova, să protejez proprietatea publică, democraţia şi bunăstarea poporului.”.
+
+(2) Jurămîntul se depune în faţa Parlamentului după adoptarea actului de numire.
+### Articolul 44. Încetarea calităţii de membru al Plenului
+
+Consiliului Concurenţei
+
+(1) Calitatea de membru al Plenului Consiliului Concurenţei încetează în caz de:
+
+a) expirare a duratei mandatului;
+
+b) demisie;
+
+c) revocare;
+
+d) deces.
+
+(2) Revocarea unui membru al Plenului Consiliului Concurenţei se face de Parlament, la propunerea Preşedintelui Parlamentului sau a 1/3 din numărul deputaţilor aleşi, în cazul în care:
+
+a) a încălcat prevederile prezentei legi, fapt stabilit de către instanţa de judecată, sau a fost condamnat prin hotărîre judecătorească definitivă şi irevocabilă pentru săvîrşirea unei infracţiuni;
+
+b) survine cel puţin una din situaţiile prevăzute la art. 42 alin. (7) şi (8), fapt stabilit prin act de constatare rămas definitiv;
+
+c) nu-şi poate îndeplini atribuţiile din cauza incapacităţii fizice sau psihice, constatată de către o comisie medicală;
+
+d) a lipsit nemotivat de la trei sau mai multe şedinţe consecutive ale Plenului Consiliului Concurenţei. În acest caz, revocarea se face la propunerea preşedintelui Consiliului Concurenţei.
+
+e) s-a stabilit, prin act de constatare rămas definitiv, emiterea/adoptarea de către acesta a unui act administrativ, încheierea directă sau prin intermediul unei persoane terțe a unui act juridic, luarea sau participarea la luarea unei decizii fără soluționarea conflictului de interese real în conformitate cu prevederile legislației privind reglementarea conflictului de interese;
+
+f) nu a depus declarația de avere și interese personale sau a refuzat să o depună, în condițiile art. 27 alin. (8) din Legea nr. 132 din 17 iunie 2016 cu privire la Autoritatea Națională de Integritate;
+
+g) s-a dispus de către instanța de judecată, prin hotărîre irevocabilă, confiscarea averii nejustificate.
+
+(3) Membrii Plenului Consiliului Concurenţei se revocă din funcţie cu votul majorităţii deputaţilor aleşi.
+
+(4) Membrii Plenului Consiliului Concurenţei ale căror mandate au expirat vor rămîne în funcţie pînă la numirea succesorilor lor. Cel puţin cu o lună pînă la expirarea mandatului membrului, preşedintele Consiliului Concurenţei va notifica în acest sens Parlamentul, pentru demararea procesului de numire a unui nou membru.
+
+(5) În caz de vacanţă a unui loc în Plenul Consiliului Concurenţei, pentru situaţiile prevăzute la alin. (1) lit. b)–d) din prezentul articol se va proceda, conform art. 42 alin. (1), la numirea unui nou membru în funcţia devenită vacantă.
+
+(6) Membrii Plenului Consiliului Concurenţei sînt obligaţi să notifice de îndată Consiliului Concurenţei survenirea oricărei situaţii de incompatibilitate prevăzute la art. 42 alin. (7) şi (8), ei fiind de drept suspendaţi din funcţie din momentul survenirii acestei situaţii, iar dacă situaţia se prelungeşte peste 10 zile calendaristice, mandatul încetează şi se procedează conform prevederilor alin. (2) şi (5) din prezentul articol.
+### Articolul 45. Modul de adoptare în plen a actelor administrative ale
+
+Consiliului Concurenţei şi intrarea în vigoare a acestora
+
+(1) Actele administrative ale Consiliului Concurenţei se adoptă la şedinţele Plenului Consiliului Concurenţei, care pot fi ordinare sau extraordinare. Procesele-verbale ale şedinţelor sînt semnate de preşedintele Consiliului Concurenţei, de membrii prezenţi şi de secretarul şedinţei. Şedinţele ordinare se convoacă în funcţie de necesitate, dar nu mai rar de 2 ori pe lună. Şedinţele extraordinare se convoacă din iniţiativa preşedintelui sau a cel puţin 2 membri ai Plenului Consiliului Concurenţei.
+
+(2) Şedinţele Plenului Consiliului Concurenţei pot fi închise sau publice. Şedinţele închise ale Consiliului Concurenţei au loc în scopul protejării informaţiei ce constituie secret de stat, secret comercial ori a unei alte informaţii confidenţiale a cărei divulgare este restrînsă sau interzisă prin
+
+## lege.
+
+(3) Şedinţele Plenului Consiliului Concurenţei sînt deliberative dacă la ele participă cel puţin 3 membri, dintre care unul este preşedintele sau vicepreşedintele, şi dacă sînt prezidate de către preşedintele Consiliului Concurenţei sau, în absenţa acestuia, de către vicepreşedintele desemnat.
+
+(4) Actele administrative ale Consiliului Concurenţei se adoptă de Plenul Consiliului Concurenţei cu votul majorităţii membrilor prezenţi. Fiecare membru dispune de un vot. În caz de paritate a voturilor, votul preşedintelui sau, în absenţa acestuia, al vicepreşedintelui care prezidează şedinţa este decisiv.
+
+(5) Membrii Plenului Consiliului Concurenţei nu au dreptul de a se abţine de la vot. Membrii care au votat împotrivă îşi pot consemna opinia separată în procesul-verbal al şedinţei.
+
+(6) Deciziile, dispoziţiile şi prescripţiile Consiliului Concurenţei intră în vigoare la data adoptării, dacă decizia, dispoziţia sau prescripţia nu prevede o dată ulterioară. Hotărîrile Consiliului Concurenţei intră în vigoare la data publicării în Monitorul Oficial al Republicii Moldova, dacă hotărîrea nu prevede o dată ulterioară.
+### Articolul 46. Forma actelor administrative adoptate de Plenul
+
+Consiliului Concurenţei
+
+(1) Plenul Consiliului Concurenţei adoptă următoarele acte administrative: decizii, dispoziţii, prescripţii şi hotărîri, care se expun în scris şi se semnează de preşedintele Consiliului Concurenţei sau, în absenţa acestuia, de vicepreşedintele desemnat.
+
+(2) Deciziile sînt acte administrative cu caracter individual prin care se constată încălcarea prevederilor legale, se impun măsuri corective, se aplică sancţiunile corespunzătoare, se soluţionează notificările privind concentrările economice, conform atribuţiilor Consiliului Concurenţei.
+
+(3) Decizia privind aplicarea sancţiunilor trebuie să specifice termenul în care urmează a fi achitată sancţiunea. Data-limită la care urmează a fi achitată sancţiunea nu poate fi mai mică de 60 de zile lucrătoare de la data comunicării către întreprinderea sau asociaţia de întreprinderi obligată să achite sancţiunea a deciziei motivate privind aplicarea sancţiunii.
+
+(4) Prin dispoziţii se iniţiază investigaţii ale presupuselor cazuri de încălcare a legislaţiei din domeniul concurenţei, ajutorului de stat şi publicităţii, se iniţiază, din oficiu, investigaţii utile pentru cunoaşterea pieţei.
+
+(5) Prin prescripţii se dispun măsuri interimare, se obligă autorităţile administraţiei publice, precum şi persoanele asimilate autorităţilor publice, să înceteze încălcarea legii şi/sau să înlăture efectele negative aduse prin încălcarea legii, inclusiv să abroge sau să modifice un act normativ sau un act individual, să efectueze anumite acţiuni sau să se abţină de la efectuarea lor.
+
+(6) Hotărîrile sînt acte cu caracter normativ prin care se adoptă, se modifică sau se abrogă actele necesare pentru asigurarea organizării şi activităţii Consiliului Concurenţei şi actele necesare pentru executarea prezentei legi, cum ar fi cele care vizează:
+
+a) organizarea şi funcţionarea Consiliului Concurenţei;
+
+b) organizarea, funcţionarea şi atribuţiile Consiliului de experţi de pe lîngă Consiliul
+
+Concurenţei;
+
+c) evaluarea acordurilor anticoncurenţiale, acordurile anticoncurenţiale care nu intră în sfera de aplicare a art. 5 şi exceptarea unor categorii de acorduri anticoncurenţiale;
+
+d) stabilirea poziţiei dominante pe piaţă şi evaluarea abuzului de poziţie dominantă;
+
+e) concentrările economice;
+
+f) acceptarea angajamentelor propuse de către întreprinderi;
+
+g) alte aspecte ce ţin de îndeplinirea atribuţiilor ce decurg din legislaţia din domeniul concurenţei şi ajutorului de stat.
+
+(7) Consiliul Concurenţei va elabora şi va adopta în plen actele normative necesare aplicării prezentei legi, prevăzute la alin. (6) lit. c)–g), în concordanţă cu prevederile Legii nr. 235-XVI din 20 iulie 2006 privind principiile de bază de reglementare a activităţii de întreprinzător.
+### Articolul 47. Modul de atacare a actelor administrative ale Consiliului
+
+Concurenţei
+
+(1) Deciziile şi prescripţiile Consiliului Concurenţei, precum şi ordinele prevăzute la art. 56 alin. (1) pot fi atacate, în termen de 30 de zile calendaristice de la primirea acestora de către părţi, nemijlocit în instanţa de contencios administrativ competentă, fără a fi necesară depunerea unei cereri prealabile.
+
+(2) Dispoziţiile prevăzute la art. 46 alin. (4) se atacă numai odată cu decizia sau prescripţia adoptată în cazul respectiv, cu excepţia prescripţiilor prin care se impun măsuri interimare.
+
+(3) Intentarea acţiunii în justiţie nu suspendă executarea deciziei sau prescripţiei Consiliului Concurenţei pînă la soluţionarea cauzei în fond de instanţa de judecată, dacă instanţa nu dispune altfel.
+
+(4) În cazul în care decizia atacată în partea ce ţine de aplicarea sancţiunilor a fost anulată, în tot sau în parte, printr-o hotărîre judecătorească definitivă şi irevocabilă, suma corespunzătoare a amenzii se restituie plătitorului acesteia din bugetul de stat în termen de 45 de zile.
+### Articolul 48. Consiliul de experţi
+
+(1) Pe lîngă Consiliul Concurenţei poate fi constituit temporar, ca organism consultativ, Consiliul de experţi. Modul de constituire, componenţa şi atribuţiile acestui organ se stabilesc de către Plenul Consiliului Concurenţei.
+
+(2) Consiliul Concurenţei poate antrena specialişti şi experţi pentru consultaţii, pentru efectuarea expertizelor şi analizelor. Aceştia vor putea emite opinii, care nu sînt obligatorii, cu privire la principalele aspecte ale politicii de concurenţă.
+
+## Capitolul VII — ## EXAMINAREA PRELIMINARĂ, INVESTIGAREA ŞI LUAREA DECIZIILOR
+### Articolul 49. Temeiurile pentru iniţierea procedurii de examinare
+
+(1) Consiliul Concurenţei iniţiază procedura de examinare a presupusului caz de încălcare a legislaţiei concurenţiale:
+
+a) la plîngerea unei persoane fizice sau întreprinderi afectate de presupusa încălcare a legii;
+
+b) din oficiu, cu excepţia încălcărilor prevăzute la cap. III.
+
+(2) Pentru a fi abilitat să depună o plîngere privind presupusele acţiuni anticoncurenţiale, autorul plîngerii trebuie să demonstreze interesul lui legitim.
+
+(3) Autorul plîngerii are un interes legitim dacă comportamentul denunţat afectează în mod real şi direct interesele lui. Interesul trebuie să fie bazat pe un drept prevăzut de legislaţie.
+
+(4) Asociaţia de întreprinderi poate invoca un interes legitim chiar dacă nu este afectată în mod direct de comportamentul denunţat, cu condiţia că, pe de o parte, asociaţia are dreptul de a reprezenta interesele membrilor săi şi, pe de altă parte, comportamentul denunţat afectează în mod real şi direct interesele colective ale membrilor asociaţiei.
+
+(5) Consiliul Concurenţei poate începe examinarea din oficiu, în baza materialelor de care dispune referitoare la presupusa încălcare a legislaţiei.
+### Articolul 50. Procedura de examinare a cazurilor de încălcare a legislaţiei
+
+concurenţiale
+
+Procedura de examinare a cazurilor de încălcare a legislaţiei concurenţiale cuprinde examinarea preliminară şi/sau investigarea. Investigarea pe marginea cazului se dispune în condiţiile art. 55. În celelalte cazuri, etapa investigării va fi omisă.
+### Articolul 51. Plîngerea privind presupusele acţiuni anticoncurenţiale
+
+(1) Plîngerea privind presupusele acţiuni anticoncurenţiale trebuie să conţină informaţiile cuprinse în Formularul de plîngere, aprobat de Plenul Consiliului Concurenţei prin hotărîre.
+
+(2) Plîngerea se transmite prin scrisoare recomandată, cu aviz de primire sau se depune la Consiliul Concurenţei pe suport de hîrtie, în două exemplare, şi, în măsura posibilităţii, în versiune electronică.
+
+(3) În cazul în care se solicită confidenţialitatea pentru oricare dintre părţile plîngerii, autorul plîngerii trebuie să furnizeze şi o versiune neconfidenţială a plîngerii, precum şi un rezumat al informaţiilor confidenţiale. În versiunea care conţine informaţii confidenţiale, autorul plîngerii trebuie să indice în mod obligatoriu temeiul de fapt şi de drept în baza căruia informaţiile sînt considerate confidenţiale.
+
+(4) Dacă nu corespunde cerinţelor prevăzute la alin. (1)–(3), plîngerea depusă nu constituie o plîngere privind presupusele acţiuni anticoncurenţiale şi este considerată de către Consiliul Concurenţei drept o informaţie de ordin general.
+
+(5) În cazul prevăzut la alin. (4), Consiliul Concurenţei:
+
+a) iniţiază, printr-o dispoziţie adoptată în plen, o investigaţie din oficiu, dacă constată un interes public major şi consideră că sînt întrunite condiţiile art. 55 pentru iniţierea investigaţiei;
+
+b) la cerere, restituie plîngerea autorului.
+
+(6) Despre cele prevăzute la alin. (4) şi, după caz, despre dispoziţia adoptată Consiliul Concurenţei informează în scris autorul plîngerii în termen de 15 zile lucrătoare de la data depunerii ei.
+
+(7) În cazul restituirii plîngerii în conformitate cu alin. (5) lit. b), autorul plîngerii are dreptul să depună o nouă plîngere care să corespundă cerinţelor prevăzute la alin. (1)–(3).
+
+### Articolul 52. Sarcina probei
+
+(1) La sesizarea presupuselor acţiuni anticoncurenţiale, autorul plîngerii trebuie să prezinte probe în susţinerea faptelor pe care îşi întemeiază plîngerea.
+
+(2) Întreprinderii sau asociaţiei de întreprinderi care invocă beneficiul exceptării prevăzut la art. 6 îi revine sarcina de a dovedi că sînt îndeplinite condiţiile din respectivul articol sau prevederile regulamentelor respective.
+
+(3) În procedura de examinare a presupuselor cazuri de încălcare a legislaţiei concurenţiale, sarcina probei încălcării îi revine Consiliului Concurenţei.
+
+(4) În scopul aplicării prezentei legi, Consiliul Concurenţei poate să utilizeze ca mijloc de probă orice element de fapt şi de drept, inclusiv informaţii confidenţiale dobîndite în modul prevăzut de lege, care servesc la constatarea existenţei sau lipsei încălcării.
+
+(5) În scopul aplicării prezentei legi, Consiliul Concurenţei admite atît probe directe, cît şi probe indirecte. Probe directe sînt depoziţiile martorilor sau ale altor persoane, probele materiale, înscrisurile, înregistrările audio şi/sau video, concluziile experţilor şi orice alte dovezi care probează în mod expres existenţa sau lipsa unei încălcări a legii. Probe indirecte sînt probele care dau naştere unei concluzii logice precum că o încălcare a legii există sau a existat la un moment dat ori nu există şi nu a existat la un moment dat.
+
+(6) Probe care stau la baza luării deciziei Plenului Consiliului Concurenţei sînt probele obţinute de angajaţii Consiliului Concurenţei, precum şi cele prezentate de părţi sau terţe persoane.
+
+### Articolul 53. Examinarea preliminară a plîngerii
+
+(1) Examinarea preliminară a plîngerii privind presupusele acţiuni anticoncurenţiale se efectuează în termen de 30 de zile lucrătoare de la data depunerii.
+
+(2) În cadrul examinării preliminare a plîngerii, Consiliul Concurenţei determină dacă există temeiuri rezonabile pentru a suspecta încălcarea legislaţiei concurenţiale.
+
+(3) Dacă consideră că, în baza informaţiilor prezentate de autorul plîngerii şi a celor acumulate pe parcursul examinării preliminare, nu există temeiurile menţionate la alin. (2), Consiliul Concurenţei va informa în scris autorul plîngerii despre aceasta, indicînd motivele unei asemenea concluzii, şi îi va acorda un termen de 10 zile lucrătoare în care acesta să-şi exprime în scris punctul de vedere. În cazul dat, termenul prevăzut la alin. (1) se suspendă. Consiliul Concurenţei nu este obligat să ia în considerare orice alte observaţii scrise prezentate după expirarea termenului de 10 zile lucrătoare.
+
+(4) În cazul în care autorul plîngerii nu prezintă observaţii relevante în termenul menţionat la alin. (3), plîngerea este considerată retrasă în mod tacit. În notificarea expediată autorului plîngerii, Consiliul Concurenţei îl va informa şi despre efectele neprezentării observaţiilor.
+
+(5) Dacă autorul plîngerii îşi expune observaţiile în termenul menţionat la alin. (3), Consiliul Concurenţei:
+
+a) respinge prin decizie plîngerea, în cazul în care obiecţiile primite nu conduc la o altă evaluare a plîngerii; sau
+
+b) dispune prin dispoziţie efectuarea investigaţiei.
+
+(6) Pentru a respinge o plîngere pe motiv că comportamentul sesizat nu contravine regulilor de concurenţă sau nu intră în sfera lor de aplicare, Consiliul Concurenţei nu este obligat să ţină cont de circumstanţele care nu i-au fost aduse la cunoştinţă de către autorul plîngerii şi pe care nu le-ar fi putut descoperi decît investigînd cazul.
+
+(7) Decizia de respingere a plîngerii, adoptată conform alin. (5) lit. a), împiedică autorul plîngerii să ceară redeschiderea procedurii de examinare preliminară a plîngerii sau să depună o nouă plîngere cu privire la acelaşi obiect şi pe aceleaşi temeiuri.
+
+(8) Consiliul Concurenţei are dreptul să solicite autorului plîngerii informaţii complementare celor prezentate pentru a se putea determina asupra necesităţii iniţierii unei investigaţii ca urmare a plîngerii depuse.
+
+(9) În caz de ambiguitate a plîngerii, Consiliul Concurenţei poate solicita autorului plîngerii precizarea obiectului plîngerii şi temeiurilor acesteia.
+### Articolul 54. Solicitarea informaţiilor
+
+(1) În scopul exercitării atribuţiilor sale, Consiliul Concurenţei are dreptul să solicite şi să obţină de la întreprinderi, asociaţii de întreprinderi, de la autorităţi ale administraţiei publice documentele şi informaţiile necesare.
+
+(2) Consiliul Concurenţei solicită în scris informaţiile necesare, indică temeiul juridic şi scopul solicitării informaţiei, precizează informaţiile solicitate şi stabileşte un termen rezonabil în care acestea trebuie furnizate, precum şi specifică sancţiunile prevăzute de lege pentru nefurnizarea de informaţii ori pentru furnizarea unei informaţii inexacte, incomplete sau care induce în eroare.
+
+(3) Întreprinderile şi asociaţiile de întreprinderi nu pot fi obligate să recunoască că au comis o încălcare, dar sînt obligate să răspundă la întrebări factuale şi să furnizeze documente chiar dacă aceste documente sau informaţii pot fi folosite pentru a stabili împotriva lor sau altei întreprinderi existenţa unei încălcări.
+
+(4) Obligaţia de a furniza informaţiile solicitate în numele întreprinderii sau al asociaţiei de întreprinderi în cauză îi revine proprietarilor întreprinderilor ori reprezentanţilor întreprinderilor sau asociaţiilor de întreprinderi, iar în cazul persoanelor juridice, societăţilor sau asociaţiilor care nu au personalitate juridică, îi revine persoanelor autorizate să le reprezinte în temeiul legii sau al statutului. Avocaţii autorizaţi să acţioneze în mod corespunzător vor furniza informaţiile în numele clienţilor lor. Aceştia din urmă au în continuare întreaga responsabilitate în cazul în care informaţiile furnizate sînt incomplete, inexacte sau induc în eroare.
+
+(5) În scopul exercitării atribuţiilor sale, Consiliul Concurenţei are dreptul să intervieveze orice persoană fizică sau juridică care consimte să fie intervievată în scopul obţinerii de informaţii privind obiectul investigaţiei.
+
+(6) În cazul în care doresc să intervieveze o persoană, angajaţii Consiliului Concurenţei sînt
+
+obligaţi să indice, înainte de a începe interviul, temeiul juridic (dispoziţia Plenului Consiliului Concurenţei privind iniţierea investigaţiei) şi scopul interviului, intenţia lor de a înregistra interviul şi dreptul persoanei de a refuza intervievarea.
+
+(7) Interviul poate fi luat prin orice mijloace, inclusiv prin telefon sau internet. Consiliul Concurenţei poate înregistra sub orice formă declaraţiile făcute de persoanele intervievate. O copie a înregistrării trebuie pusă la dispoziţia persoanei intervievate pentru aprobare. Totodată, Consiliul Concurenţei stabileşte un termen rezonabil în care persoana intervievată îi poate comunica orice corectare ce trebuie făcută în declaraţie. Corectările vor fi comunicate în scris.
+
+### Articolul 55. Investigarea
+
+(1) Dacă după examinarea preliminară a plîngerii se consideră că, în baza informaţiilor prezentate de autorul plîngerii şi a celor acumulate pe parcursul examinării preliminare, există temeiuri rezonabile pentru a suspecta încălcarea legislaţiei concurenţiale, Plenul Consiliului Concurenţei adoptă o dispoziţie de iniţiere a investigaţiei concurenţiale.
+
+(2) Plenul Consiliului Concurenţei este în drept să dispună din oficiu iniţierea investigaţiei în baza materialelor de care dispune.
+
+(3) Prin dispoziţia de iniţiere a unei investigaţii, Plenul Consiliului Concurenţei desemnează un raportor responsabil pentru întocmirea raportului asupra investigaţiei, pentru comunicarea acestuia părţilor în cauză, pentru primirea observaţiilor şi prezentarea raportului în şedinţa Plenului Consiliului Concurenţei. Raportorul desemnat instrumentează toate actele procedurii de investigaţie şi propune Plenului Consiliului Concurenţei dispunerea măsurilor care sînt de competenţa acestuia.
+
+(4) Dispoziţia de iniţiere a investigaţiei nu stabileşte comiterea unei încălcări a legislaţiei concurenţiale. Încălcarea legislaţiei concurenţiale se constată prin decizie a Plenului Consiliului Concurenţei.
+
+(5) Consiliul Concurenţei este abilitat să stabilească diferite grade de prioritate pentru cazurile pe care urmează să le investigheze, în dependenţă de gravitatea încălcării şi de interesul public.
+### Articolul 56. Efectuarea inspecţiilor. Drepturile şi obligaţiile angajaţilor
+
+Consiliului Concurenţei şi ale subiecţilor supuşi Inspecţiilor
+
+(1) În scopul efectuării investigaţiilor dispuse conform art. 55, Consiliul Concurenţei poate să efectueze inspecţiile necesare la întreprinderi şi la asociaţii de întreprinderi. Efectuarea inspecţiilor este dispusă prin ordin emis de preşedintele Consiliului Concurenţei, în care se indică scopul şi obiectul inspecţiei, data la care începe inspecţia şi sancţiunile prevăzute la art. 68–70 şi 76, precum şi dreptul de a ataca ordinul în instanţa de judecată.
+
+(2) Inspecţia este exercitată de către angajaţii Consiliului Concurenţei, cu excepţia debutanţilor, numai dacă există indicii că pot fi găsite documente sau pot fi obţinute informaţii considerate necesare pentru investigaţia presupusului caz de încălcare a legislaţiei concurenţiale, iniţiată prin dispoziţie a Plenului Consiliului Concurenţei, fapt care nu necesită a fi demonstrat subiectului supus inspecţiei.
+
+(3) Angajaţii Consiliului Concurenţei abilitaţi să desfăşoare o inspecţie au următoarele drepturi de inspecţie:
+
+a) să intre în încăperi, pe terenuri sau în mijloace de transport aflate în proprietatea sau în
+
+folosinţa întreprinderii, asociaţiei de întreprinderi sau autorităţilor administraţiei publice, cu excepţia încăperilor de locuit, a terenurilor aferente acestora şi a mijloacelor de transport care aparţin persoanelor fizice;
+
+b) să examineze registre şi orice documente aflate în raport cu obiectul şi scopul investigaţiei, indiferent de suportul fizic sau electronic pe care sînt păstrate;
+
+c) să ridice sau să obţină copii sau extrase, sub orice formă, din registrele şi documentele menţionate la lit. b). Ridicarea registrelor şi documentelor se admite numai dacă asemenea măsură este necesară pentru prevenirea ascunderii, înlăturării, modificării sau distrugerii acestora sau dacă nu este posibil de a face copii de pe acestea în incinta respectivă;
+
+d) să sigileze încăperile destinate activităţii întreprinderii sau asociaţiei de întreprinderi, registrele şi documentele aflate în raport cu obiectul şi scopul investigaţiei, pe perioada inspecţiei (dar nu mai mult de 72 de ore) şi în măsura necesară inspecţiei, fără a suspenda activitatea întreprinderii sau asociaţiei de întreprinderi supuse inspecţiei;
+
+e) să solicite oricărui reprezentant sau angajat al întreprinderii, al asociaţiei de întreprinderi sau al autorităţii administraţiei publice explicaţii asupra faptelor sau documentelor aflate în raport cu obiectul şi scopul investigaţiei şi să înregistreze răspunsurile acestora;
+
+f) să ceară ca informaţia aflată în raport cu obiectul şi scopul investigaţiei, păstrată pe calculator şi accesibilă din încăpere, să fie prezentată într-o formă care ar permite ridicarea, precum şi să fie vizibilă şi lizibilă.
+
+(4) În cazul în care angajaţii Consiliului Concurenţei cer explicaţii reprezentanţilor sau angajaţilor unei întreprinderi sau ai unei asociaţii de întreprinderi, explicaţiile vizate pot fi înregistrate sub orice formă. O copie de pe înregistrarea efectuată este pusă la dispoziţia întreprinderii sau asociaţiei de întreprinderi în cauză după inspecţie. În cazul în care s-au cerut explicaţii unui angajat al întreprinderii sau al asociaţiei de întreprinderi care nu este sau nu era autorizat de întreprindere sau de asociaţia de întreprinderi să dea explicaţii în numele acesteia, Consiliul Concurenţei stabileşte un termen în care întreprinderea sau asociaţia de întreprinderi poate transmite rectificări sau completări la explicaţiile date de acest angajat. Rectificările şi completările se suplimentează la explicaţiile înregistrate.
+
+(5) Angajaţii Consiliului Concurenţei autorizaţi să desfăşoare o inspecţie îşi exercită drepturile de inspecţie prin prezentarea ordinului menţionat la alin. (1) şi a unei delegaţii semnate de preşedintele Consiliului Concurenţei, în care se indică împuternicirile acestora.
+
+(6) În cazul în care nu este nicio persoană în încăperea în care urmează a fi efectuată inspecţia, angajaţii Consiliului Concurenţei autorizaţi să desfăşoare inspecţia sînt obligaţi:
+
+a) înainte de începerea acesteia, să întreprindă toate acţiunile rezonabile pentru a informa persoana care ocupă sau operează încăperea despre intenţia de a efectua inspecţia;
+
+b) după ce persoana respectivă a fost informată, să-i ofere acesteia sau reprezentantului ei posibilitatea rezonabilă de a asista la efectuarea inspecţiei;
+
+c) în cazul în care nu s-a reuşit informarea persoanei respective, să lase în încăpere, într-un loc proeminent, o copie de pe documentele menţionate la alin. (5).
+
+(7) În cazul în care încăperea nu este ocupată sau persoana care o ocupă este absentă temporar, angajaţii Consiliului Concurenţei, după desfăşurarea inspecţiei, vor părăsi încăperea
+
+lăsînd-o în starea de siguranţă în care au găsit-o.
+
+(8) Angajaţii Consiliului Concurenţei autorizaţi să desfăşoare o inspecţie pot solicita sprijinul subdiviziunilor abilitate ale Ministerului Afacerilor Interne, care sînt obligate să acorde asistenţa necesară angajaţilor Consiliului Concurenţei în exerciţiul funcţiunii, în conformitate cu Legea nr. 416-XII din 18 decembrie 1990 cu privire la poliţie. La efectuarea inspecţiilor pot fi antrenaţi, după caz, şi experţi în anumite domenii, împuterniciţi de Consiliul Concurenţei, în condiţiile alin. (5).
+
+(9) Pe parcursul efectuării inspecţiei, angajaţii Consiliului Concurenţei şi experţii autorizaţi sînt obligaţi:
+
+a) să informeze persoana supusă inspecţiei despre drepturile şi obligaţiile acesteia;
+
+b) să efectueze inspecţia în conformitate cu împuternicirile atribuite şi ţinînd cont de obiectul şi scopul acesteia;
+
+(10) Pe parcursul efectuării inspecţiei, subiectul supus inspecţiei are următoarele drepturi:
+
+a) să ia cunoştinţă de dispoziţia de investigaţie a cazului, de ordinul în baza căruia a fost dispusă efectuarea inspecţiei şi de delegaţia de inspecţie şi să obţină cîte o copie de pe acestea;
+
+b) să obţină un exemplar al proceselor-verbale privind efectuarea inspecţiei;
+
+c) să prezinte probe în cadrul efectuării inspecţiei;
+
+d) să prezinte explicaţii înregistrate sub orice formă referitoare la obiectul şi scopul inspecţiei;
+
+e) să identifice datele şi informaţiile ce constituie secret comercial şi alte informaţii confidenţiale furnizate de el în procesul efectuării inspecţiei;
+
+f) să obţină copii de pe toate registrele sau documentele ridicate pe parcursul inspecţiei şi lista acestor registre şi documente semnată de angajaţii Consiliului Concurenţei care desfăşoară inspecţia;
+
+g) să fie asistat de avocaţi, de alţi reprezentanţi împuterniciţi conform legislaţiei. Lipsa acestora nu poate fi invocată de subiectul supus inspecţiei drept temei pentru amînarea inspecţiei.
+
+(11) Întreprinderea, asociaţia de întreprinderi, autoritatea administraţiei publice au obligaţia să se supună inspecţiei Consiliului Concurenţei.
+
+(12) Inspecţia se desfăşoară între orele 09:00 şi 18:00 şi trebuie efectuată în prezenţa persoanei supuse inspecţiei sau a reprezentantului ei. Inspecţia poate continua şi după ora 18:00 numai cu acordul persoanei supuse inspecţiei sau a reprezentantului ei.
+
+(13) Termenul de efectuare a unei inspecţii se stabileşte în funcţie de gravitatea presupusei încălcări, de durata acesteia, precum şi de alte criterii care ar afecta durata de efectuare a inspecţiei, şi nu poate depăşi 10 zile lucrătoare.
+
+(14) Rezultatul inspecţiei este consemnat într-un proces-verbal privind efectuarea inspecţiei, care se întocmeşte în două exemplare, se numerotează şi se semnează pe fiecare pagină de toţi angajaţii Consiliului Concurenţei care au efectuat inspecţia.
+
+(15) Un exemplar al procesului-verbal se înmînează, contra unei confirmări înscrise în procesul-verbal, subiectului supus inspecţiei. Subiectul supus inspecţiei este obligat să confirme prin
+
+semnătură, inclusiv prin intermediul persoanelor cu funcţie de răspundere sau altui reprezentant al său, primirea exemplarului de proces-verbal, chiar şi în caz de dezacord cu constatările expuse în acesta. În cazul în care reprezentantul subiectului supus inspecţiei refuză să primească sau să confirme prin semnătură primirea exemplarului de proces-verbal, pe procesul-verbal se face menţiunea privind refuzul de a primi exemplarul de proces-verbal şi/sau de a confirma prin semnătură primirea exemplarului de proces-verbal, semnată de angajaţii Consiliului Concurenţei care au efectuat inspecţia, iar procesul-verbal va fi expediat subiectului supus inspecţiei prin scrisoare recomandată, cu aviz de primire.
+
+(16) Registrele şi documentele ridicate în baza prezentului articol pot fi reţinute cel mult trei luni.
+
+(17) Obligaţia de a prezenta documente sau informaţii şi dreptul de a ridica documente nu se aplică comunicărilor dintre avocat sau consilier juridic independent şi client făcute în scopul şi în interesul exercitării dreptului la apărare al clientului în cadrul procedurilor prevăzute de prezenta lege.
+### Articolul 57. Efectuarea inspecţiilor în alte încăperi
+
+(1) În cazul în care există o suspiciune întemeiată că registrele sau alte documente privind activitatea şi obiectul inspecţiei care ar putea fi pertinente pentru a dovedi o încălcare gravă a art. 5 şi 11 sînt păstrate în încăperi, terenuri şi mijloace de transport ale persoanelor fizice, inclusiv în locuinţele membrilor organelor de conducere sau ale membrilor personalului întreprinderilor sau asociaţiilor de întreprinderi în cauză, Plenul Consiliului Concurenţei poate dispune, printr-o decizie, desfăşurarea unei inspecţii în aceste încăperi, terenuri sau mijloace de transport.
+
+(2) Inspecţia prevăzută la alin. (1) se efectuează în condiţiile art. 56. Suplimentar la informaţia menţionată la art. 56 alin. (1), ordinul privind efectuarea unei asemenea inspecţii va indica motivul care a determinat Consiliul Concurenţei să concluzioneze că există o suspiciune în sensul alin. (1) al prezentului articol.
+
+(3) Accesul reprezentanţilor Consiliului Concurenţei în încăperi, terenuri sau mijloace de transport ocupate de persoane fizice, în lipsa consimţămîntului lor, se permite numai în baza mandatului judecătoresc emis în condiţiile prezentului articol şi prezentat persoanei supuse inspecţiei.
+
+(4) Mandatul judecătoresc poate fi eliberat numai dacă:
+
+a) există o suspiciune întemeiată că în încăperile, terenurile sau mijloacele de transport ce urmează a fi supuse inspecţiei sînt păstrate registre sau alte documente a căror prezentare a fost solicitată de Consiliul Concurenţei în conformitate cu prezenta lege, dar care nu au fost prezentate în termenul stabilit; sau
+
+b) există o suspiciune întemeiată că în încăperile, terenurile sau mijloacele de transport ce urmează a fi supuse inspecţiei sînt păstrate registre sau alte documente a căror prezentare poate fi solicitată de Consiliul Concurenţei în conformitate cu prezenta lege şi care, dacă ar fi fost cerute, nu ar fi fost prezentate, dar ar fi fost ascunse, înlăturate, modificate sau distruse; sau
+
+c) angajaţii Consiliului Concurenţei au încercat să pătrundă în încăperile, terenurile sau mijloacele de transport ce urmează a fi supuse inspecţiei, dar nu au reuşit şi există o suspiciune întemeiată că în încăperile, terenurile sau mijloacele de transport respective sînt păstrate registre sau alte documente a căror prezentare a fost solicitată de Consiliul Concurenţei în conformitate cu prezenta lege.
+
+(5) Mandatul judecătoresc va conţine informaţia menţionată la art. 56 alin. (1) şi este valabil o lună de la data emiterii.
+
+(6) În cazul solicitării unui mandat, instanţa de judecată este obligată să verifice dacă ordinul preşedintelui Consiliului Concurenţei privind efectuarea inspecţiei este autentic şi dacă măsurile coercitive preconizate nu sînt arbitrare sau excesive, avînd în vedere obiectul investigaţiei. Atunci cînd verifică proporţionalitatea măsurilor coercitive, instanţa de judecată poate solicita Consiliului Concurenţei explicaţii detaliate, în special privind temeiurile care determină Consiliul Concurenţei să suspecteze încălcarea art. 5 sau 11, precum şi privind gravitatea încălcării suspectate, importanţa probelor căutate, natura implicării întreprinderii în cauză şi probabilitatea rezonabilă că registrele şi documentele legate de obiectul investigaţiei se păstrează în locul pentru care se solicită mandatul.
+
+(7) Mandatul judecătoresc emis în conformitate cu prezentul articol poate fi atacat cu recurs, care nu este suspensiv de executare, dacă instanţa de recurs nu dispune altfel.
+### Articolul 58. Exercitarea drepturilor la apărare
+
+(1) Înainte de adoptarea deciziilor prevăzute la art. 65 alin. (1), Consiliul Concurenţei, în cadrul procedurilor de investigaţie, garantează pe deplin drepturile la apărare ale părţilor în cauză prin acordarea dreptului de a-şi exprima punctul de vedere cu privire la concluziile şi propunerile din raportul de investigaţie, prin asigurarea accesului la dosar şi dreptului la audieri.
+
+(2) În cazul unei proceduri de investigaţie desfăşurate în conformitate cu cap. IV, prevederile alin. (1) sînt aplicabile persoanelor şi întreprinderilor implicate în concentrarea economică.
+
+(3) Dacă intenţionează să adopte o decizie în temeiul art. 41 alin. (4), Plenul Consiliului Concurenţei publică un rezumat al cauzei şi conţinutul esenţial al angajamentelor sau al acţiunii viitoare propuse. Terţii interesaţi pot să-şi prezinte observaţiile într-un termen stabilit de Plenul Consiliului Concurenţei în publicarea efectuată, care nu poate fi mai mic de o lună. Publicarea ia în considerare interesul legitim al întreprinderilor în protejarea secretului lor comercial.
+
+(4) Plenul Consiliului Concurenţei îşi bazează deciziile doar pe constatările din raportul de investigaţie asupra cărora părţile în cauză şi-au putut prezenta observaţiile
+### Articolul 59. Transmiterea raportului de investigaţie şi prezentarea observaţiilor
+
+(1) Raportul de investigaţie va conţine obiectul investigaţiei, faptele constatate, probele, concluziile şi propunerile raportorului în urma finalizării investigaţiei.
+
+(2) După întocmirea raportului de investigaţie, o copie a versiunii neconfidenţiale a raportului va fi transmisă, pentru informare, părţilor în cauză: autorului plîngerii şi întreprinderilor sau asociaţiilor de întreprinderi care au făcut obiectul investigaţiei. La solicitare, o copie a versiunii neconfidenţiale a raportului de investigaţie va fi transmisă şi persoanelor a căror audiere a fost admisă conform prevederilor art. 64 alin. (3).
+
+(3) În termen de 30 de zile lucrătoare de la data primirii raportului de investigaţie, părţile au dreptul să prezinte observaţii asupra acestuia.
+
+(4) Termenul menţionat la alin. (3) poate fi prelungit de către Consiliul Concurenţei, o singură dată, cu cel mult 30 de zile lucrătoare, în baza unei cereri întemeiate, la care se anexează probele ce dovedesc necesitatea prelungirii termenului. În acest caz, părţii ce a înaintat cererea i se comunică în scris, în termen de cel mult 3 zile lucrătoare, rezultatul examinării cererii.
+
+(5) Părţile pot menţiona în observaţiile lor scrise temeiul legal şi faptele pe care le cunosc şi care sînt pertinente pentru apărarea lor împotriva pretenţiilor înaintate de Consiliul Concurenţei. Părţile pot anexa orice documente relevante care dovedesc faptele menţionate şi pot propune să fie audiate persoane care ar putea confirma faptele prezentate în observaţiile lor.
+
+(6) Raportul de investigaţie, împreună cu observaţiile prezentate de părţi şi cu materialele întregului dosar al cauzei, se predă de către raportor secretariatului Plenului Consiliului Concurenţei pentru audieri şi, după caz, pentru adoptarea deciziei respective.
+
+(7) Consiliul Concurenţei poate solicita de la orice persoană, inclusiv de la o autoritate a administraţiei publice, să-şi expună în scris punctul de vedere asupra raportului de investigaţie.
+
+### Articolul 60. Accesul la dosar
+
+(1) Autorul plîngerii poate solicita accesul la documentele pe care Consiliul Concurenţei şi-a bazat examinarea preliminară. La cerere scrisă, autorului plîngerii i se va acorda o singură dată accesul la aceste documente, ca urmare a informării făcute de Consiliul Concurenţei în conformitate cu art. 53 alin. (3).
+
+(2) Întreprinderile şi asociaţiile de întreprinderi care fac obiectul procedurilor desfăşurate de Consiliul Concurenţei au dreptul de acces la dosarul Consiliului Concurenţei, sub rezerva interesului legitim al întreprinderilor de a-şi proteja secretele comerciale. Dreptul de acces la dosar nu include accesul la informaţiile confidenţiale şi documentele interne ale Consiliului Concurenţei, la corespondenţa Consiliului Concurenţei cu autorităţile de concurenţă din alte state. Accesul la dosar va fi asigurat, la cerere scrisă, o singură dată ca urmare a transmiterii de către Consiliul Concurenţei a raportului de investigaţie pentru prezentarea de observaţii.
+
+(3) Accesul la dosar este acordat cu condiţia ca informaţia din dosar să fie folosită numai în cadrul procedurii respective desfăşurate de Consiliul Concurenţei sau procedurii judiciare eventuale legate de această procedură.
+### Articolul 61. Modalităţile de acces la dosarul Consiliului Concurenţei
+
+(1) Preşedintele Consiliului Concurenţei permite părţilor în cauză accesul la dosar la secretariatul Plenului Consiliului Concurenţei şi obţinerea, la cerere, contra unui cost stabilit prin hotărîre a Consiliului Concurenţei, a copiilor şi a extraselor din dosar.
+
+(2) Părţilor li se va comunica data stabilită pentru accesul la dosar în termen de cel mult 3 zile lucrătoare de la data depunerii cererii.
+
+(3) Consiliul Concurenţei nu are obligaţia să furnizeze traducerea documentelor din dosar.
+### Articolul 62. Tratamentul documentelor şi informaţiilor din dosarul
+
+Consiliului Concurenţei
+
+(1) Documentele ridicate în cadrul inspecţiei desfăşurate de Consiliul Concurenţei care, ca urmare a unei cercetări mai detaliate, se dovedesc a nu avea legătură cu obiectul investigaţiei se returnează întreprinderii de la care au fost ridicate. După returnare aceste documente nu mai fac parte din dosarul cauzei.
+
+(2) În cazul documentelor cu acces restricţionat din dosarul Consiliului Concurenţei, accesul va fi acordat, dacă este posibil, la versiunea neconfidenţială a acestor documente, transmisă de
+
+întreprinderea care beneficiază de protecţia caracterului confidenţial. Cînd confidenţialitatea poate fi asigurată prin rezumarea informaţiilor relevante, accesul va fi acordat la rezumatul acestora.
+
+(3) Procesele-verbale şi notele întocmite în baza interviurilor, confirmate prin semnătură de către persoana sau întreprinderea în cauză, vor fi accesibile după înlăturarea din conţinutul lor a secretelor comerciale sau a altor informaţii confidenţiale.
+### Articolul 63. Criterii pentru acceptarea cererilo referitoare la tratamentul
+
+confidential al informaţiilor
+
+(1) Informaţiile ce pot constitui secret comercial sînt definite de Legea nr. 171-XIII din 6 iulie 1994 cu privire la secretul comercial.
+
+(2) Informaţiile, altele decît secretele comerciale, pot fi considerate ca fiind confidenţiale în cazul şi în măsura în care dezvăluirea acestora poate dăuna semnificativ unei persoane sau unei întreprinderi. Informaţiile confidenţiale pot include informaţii care ar permite părţilor să-i identifice pe autorii plîngerii sau pe alţi terţi, atunci cînd aceştia din urmă au un temei motivat, probat în scris, de a rămîne anonimi.
+
+(3) Informaţiile ce constituie secret comercial vor fi marcate corespunzător în conformitate cu Legea cu privire la secretul comercial.
+
+(4) Informaţiile, altele decît secretele comerciale, vor fi calificate ca fiind confidenţiale în cazul în care persoana, întreprinderea sau asociaţia de întreprinderi în cauză depune o cerere motivată în acest sens şi cererea respectivă este acceptată de Consiliul Concurenţei.
+
+(5) Cererea menţionată la alin. (4) trebuie să se refere doar la informaţiile obţinute de Consiliul Concurenţei de la autorul cererii. În cerere trebuie să fie identificate părţile faţă de care informaţiile deţinute de Consiliul Concurenţei sînt considerate confidenţiale.
+
+(6) Calificarea unei informaţii ca fiind secret comercial sau altă informaţie confidenţială nu împiedică Consiliul Concurenţei să dezvăluie sau să utilizeze o astfel de informaţie dacă aceasta este necesară pentru a dovedi o pretinsă încălcare.
+
+(7) În cazul în care Consiliul Concurenţei intenţionează să dezvăluie informaţii cu acces restricţionat, persoanei sau întreprinderii interesate trebuie să îi fie garantată posibilitatea de a furniza o versiune neconfidenţială a documentelor care conţin respectiva informaţie, cu aceeaşi valoare probantă ca a documentelor originale.
+### Articolul 64. Audierea părţilor şi a altor personae fizice sau juridice
+
+(1) Părţile cărora le-a fost transmis raportul de investigaţie sînt în drept să solicite audieri. Audierile sînt solicitate de către părţi în scris odată cu prezentarea observaţiilor pe marginea raportului de investigaţie.
+
+(2) Audierile pot fi dispuse, de asemenea, din oficiu, de preşedintele Consiliului Concurenţei.
+
+(3) În cazul în care consideră necesar, Preşedintele Consiliului Concurenţei poate dispune sau admite audierea altor persoane fizice sau juridice. Cererile de audiere ale acestor persoane se aprobă dacă acestea demonstrează suficient interes. Dacă cererile persoanelor menţionate se aprobă, acestora li se transmite, la solicitare, o copie a versiunii neconfidenţiale a raportului de investigaţie.
+
+(4) Consiliul Concurenţei poate invita orice persoană, inclusiv reprezentanţi ai autorităţilor administraţiei publice, să asiste la audiere şi să îşi exprime punctul de vedere pe parcursul desfăşurării audierii.
+
+(5) Persoanele invitate să participe la audieri se prezintă personal sau sînt reprezentate, după caz, de reprezentanţi legali sau statutari ori de avocaţi împuterniciţi legal
+
+(6) Audierile se desfăşoară în cadrul şedinţelor închise ale Plenului Consiliului Concurenţei. Persoanele invitate sînt audiate în prezenţa altor părţi ale cauzei, cu luarea măsurilor impuse pentru protejarea informaţiilor ce constituie secret comercial sau au caracter confidenţial. Dacă se consideră util, pentru asigurarea protecţiei informaţiilor ce constituie secret comercial sau au caracter confidenţial, persoanele invitate pot fi audiate separat.
+
+(7) Audierea se înregistrează pe suport magnetic sau se consemnează într-un proces-verbal care conţine principalele declaraţii făcute de părţi şi care se anexează la dosar. Declaraţiile trebuie să fie semnate de partea care le-a făcut. Consiliul Concurenţei va informa persoana audiată despre intenţia de a înregistra declaraţiile făcute la audiere.
+
+(8) Neprezentarea sau renunţarea la audiere, precum şi refuzul oricărei declaraţii nu constituie impedimente pentru continuarea procedurii de investigaţie.
+### Articolul 65. Adoptarea şi comunicarea deciziilor
+
+(1) După examinarea observaţiilor făcute de părţi asupra raportului de investigaţie şi, după caz, după desfăşurarea audierilor, Plenul Consiliului Concurenţei decide:
+
+a) încetarea investigaţiei cazului, deoarece pe parcursul desfăşurării acesteia nu au fost descoperite probe suficiente privind încălcarea prevederilor legii care ar justifica aplicarea de măsuri corective sau sancţiuni; sau
+
+b) adoptarea unei decizii sau prescripţii în temeiul art. 41 alin. (1) lit. h)–l) şi u).
+
+(2) Dacă prezenta lege nu prevede altfel, deciziile şi prescripţiile Plenului Consiliului Concurenţei adoptate în vederea realizării atribuţiilor sale, prevăzute de prezenta lege, se comunică în scris persoanelor vizate în termen de 10 zile calendaristice de la data adoptării lor.
+
+(3) Deciziile şi prescripţiile Plenului Consiliului Concurenţei se publică pe pagina web a Consiliului Concurenţei. Publicarea deciziilor şi a prescripţiilor se face cu luarea în considerare a interesului legitim al întreprinderilor în protejarea secretelor comerciale.
+### Articolul 66. Modul de executare a deciziilor şi a prescripţiilor şi urmărirea
+
+executării măsurilor applicate
+
+(1) Deciziile şi prescripţiile Plenului Consiliului Concurenţei adoptate în condiţiile prezentei legi se execută, în termenul menţionat în ele, de către întreprinderile, asociaţiile de întreprinderi, autorităţile administraţiei publice cărora le sînt adresate.
+
+(2) Persoanele vizate sînt obligate să informeze Consiliul Concurenţei despre măsurile întreprinse în vederea executării deciziei, în termenul stabilit în aceasta.
+
+(3) Executarea măsurilor aplicate autorităţilor publice, precum şi urmărirea executării lor se efectuează în condiţiile art. 13.
+
+(4) În cazul neexecutării în termen de către întreprinderi şi asociaţii de întreprinderi a deciziilor Plenului Consiliului Concurenţei, executarea silită a acestora se efectuează în conformitate cu prevederile prezentei legi şi ale Codului de executare.
+
+## Capitolul VIII — ## RĂSPUNDEREA PENTRU ÎNCĂLCAREA LEGISLAŢIEI CONCURENŢIALE
+
+## Secţiunea 1
+
+## Determinarea şi individualizarea sancţiunilor pentru încălcarea
+
+## legislaţiei concurenţiale
+### Articolul 67. Reguli generale de individualizare şi determinare a amenzilor
+
+pentru ncălcările legislaţiei concurenţiale
+
+(1) Individualizarea amenzilor prevăzute de prezenta lege se efectuează ţinînd seama de gravitatea şi durata faptei.
+
+(2) Stabilirea cuantumului amenzii se face prin determinarea nivelului de bază al acesteia, care se va majora în cazul existenţei circumstanţelor agravante şi se va reduce în cazul existenţei circumstanţelor atenuante.
+
+(3) Pentru determinarea nivelului de bază al amenzii, ca bază de calcul se ia cifra totală de afaceri realizată de întreprindere în anul anterior sancţionării.
+
+(4) În cazul în care cifra totală de afaceri realizată în anul anterior sancţionării nu poate fi determinată, se ia în considerare ultimul an anterior sancţionării în care întreprinderea sau asociaţia de întreprinderi a realizat o cifră de afaceri.
+
+(5) Prin derogare de la Codul contravenţional, amenzile pentru încălcarea legislaţiei concurenţiale se stabilesc conform prezentei legi.
+### Articolul 68. Faptele ce constituie încălcări ale normelor de procedură
+
+ale legislaţiei concurenţiale
+
+(1) Plenul Consiliului Concurenţei are dreptul să aplice, prin decizie, persoanelor menţionate la art. 20 alin. (2) lit. b) sau întreprinderilor amenzi în cazul în care, în mod intenţionat sau din neglijenţă:
+
+a) ca răspuns la o solicitare făcută în temeiul art. 54, acestea furnizează informaţii inexacte, incomplete sau care induc în eroare ori furnizează documente incomplete sau nu furnizează în termenul stabilit informaţiile sau documentele solicitate;
+
+b) acestea furnizează informaţii inexacte, incomplete sau care induc în eroare într-o cerere, confirmare, notificare sau completare a acesteia, potrivit prevederilor art. 22;
+
+c) în timpul inspecţiilor desfăşurate potrivit art. 56 şi 57, acestea prezintă registrele şi celelalte documente solicitate, aflate in raport cu scopul şi obiectul investigaţiei, în formă incompletă;
+
+d) acestea refuză să se supună unei inspecţii desfăşurate în conformitate cu art. 56 şi 57;
+
+e) ca răspuns la o întrebare adresată în conformitate cu art. 56 alin. (3) lit. e), acestea
+
+– dau un răspuns inexact sau care induce în eroare
+
+– nu rectifică, în termenul stabilit de preşedintele Consiliului Concurenţei, un răspuns inexact, incomplet sau care induce în eroare dat de un membru al personalului; sa
+
+– nu dau un răspuns complet sau refuză să dea acest răspuns cu privire la fapte care au legătură cu obiectul şi scopul inspecţiei dispuse printr-un ordin adoptat în conformitate cu art. 56 alin. (1);
+
+f) sigiliile aplicate în conformitate cu art. 56 alin. (3) lit. d) de către angajaţii autorizaţi ai Consiliului Concurenţei au fost rupte.
+
+(2) În apărarea sa, persoana, întreprinderea sau asociaţia de întreprinderi poate demonstra că informaţiile solicitate nu se află în posesia sa sau sub controlul său şi că este imposibil ca ea să se conformeze cerinţei Consiliului Concurenţei, utilizînd toate mijloacele rezonabile.
+
+(3) Amenda prevăzută la prezentul articol nu se aplică dacă informaţia, registrele sau documentele au fost solicitate ori sigiliile au fost aplicate de Consiliul Concurenţei sau reprezentanţii acestuia cu încălcarea prevederilor prezentei legi.
+### Articolul 69. Determinarea nivelului de bază al amenzii pentru încălcarea
+
+normelor de procedură ale legislaţiei concurenţiale
+
+(1) Nivelul de bază al amenzii pentru încălcarea normelor de procedură ale legislaţiei concurenţiale se determină în funcţie de gravitatea şi durata faptei. Nivelul de bază se obţine prin înmulţirea procentului determinat în funcţie de gradul de gravitate cu factorul aferent duratei încălcării.
+
+(2) La evaluarea gravităţii încălcării se ţine cont de natura faptei, în special dacă informaţiile solicitate puteau avea impact semnificativ asupra soluţionării cazului aflat în examinare la Consiliul Concurenţei datorită naturii, importanţei şi caracterului util al acestora.
+
+(3) În funcţie de gravitate, faptele se împart în 3 categorii:
+
+a) fapte de gravitate mică: nivelul de bază se stabileşte în cuantum de pînă la 0,15% din cifra totală de afaceri, în sensul art. 67;
+
+b) fapte de gravitate medie: nivelul de bază se stabileşte în cuantum de la 0,15% pînă la 0,25% din cifra totală de afaceri, în sensul art. 67;
+
+c) fapte de gravitate mare: nivelul de bază se stabileşte în cuantum de la 0,25% pînă la 0,45% din cifra totală de afaceri, în sensul art. 67.
+
+(4) Încălcările prevăzute la art. 68 alin. (1) lit. d) şi f) sînt considerate fapte de gravitate mare.
+
+(5) În funcţie de durată, faptele se împart în 3 categorii:
+
+a) fapte de scurtă durată (mai puţin de 15 zile) sau cu consumare instantanee: factor 1;
+
+b) fapte de durată medie (15 – 30 de zile): factor 1,2;
+
+c) fapte de lungă durată (peste 30 de zile): factor 1,4.
+### Articolul 70. Adaptarea nivelului de bază al amenzii pentru încălcarea
+
+normelor de procedură ale legislaţiei concurenţiale
+
+(1) Nivelul de bază al amenzii pentru încălcarea normelor de procedură ale legislaţiei concurenţiale poate fi majorat sau redus cu un procent cuprins între 5% şi 10% din cuantumul nivelului de bază stabilit în conformitate cu art. 69 pentru fiecare circumstanţă agravantă sau atenuantă constatată.
+
+(2) Circumstanţe agravante care determină majorarea nivelului de bază pot fi:
+
+a) continuarea sau repetarea de către o întreprindere a unei încălcări identice sau similare după ce Plenul Consiliului Concurenţei a constatat că această întreprindere a comis o încălcare menţionată la art. 68;
+
+b) măsurile de intimidare asupra altor întreprinderi pentru a le determina să nu furnizeze informaţiile solicitate de Consiliul Concurenţei sau să le furnizeze de o manieră inexactă ori incompletă sau orice încercare de a determina astfel de atitudini.
+
+(3) Circumstanţe atenuante care determină reducerea nivelului de bază pot fi:
+
+a) colaborarea efectivă cu Consiliul Concurenţei în cadrul procedurilor, dincolo de obligaţia legală de a coopera;
+
+b) încetarea încălcării din propria voinţă a făptuitorului sau de la primele intervenţii ale Consiliului Concurenţei;
+
+c) alte împrejurări care demonstrează voinţa întreprinderii de a facilita examinarea cauzelor iniţiate de Consiliul Concurenţei;
+
+d) dovada făcută de întreprindere privind faptul că încălcarea a fost comisă din neglijenţă.
+
+(4) Lista circumstanţelor atenuante menţionate la alin. (3) nu este exhaustivă.
+
+(5) Pentru încălcările prevăzute la art. 68 alin. (1), săvîrşite de către o întreprindere nouînfiinţată care nu a realizat o cifră totală de afaceri în anul anterior sancţionării, amenda se stabileşte în cuantum de pînă la 500 000 lei.
+
+(6) Atunci cînd, în urma aplicării criteriilor de individualizare, nivelul maxim stabilit la art. 69 alin. (3) este depăşit, amenda va fi redusă pînă la un nivel maxim de 0,5% din cifra totală de afaceri, în sensul art. 67.
+### Articolul 71. Faptele ce constituie încălcări ale normelor materiale ale legislaţiei
+
+concurenţiale
+
+Plenul Consiliului Concurenţei are dreptul să aplice, prin decizie, întreprinderilor amenzi în cazul în care, în mod intenţionat sau din neglijenţă, aceste întreprinderi:
+
+a) încalcă prevederile art. 5 şi 11;
+
+b) contravin unei prescripţii care dispune măsuri interimare în temeiul art. 41 alin. (3);
+
+c) nu respectă un angajament care devine obligatoriu printr-o decizie în temeiul art. 41 alin.
+
+## (4);
+
+d) nu notifică o concentrare economică, definită la art. 22 alin. (1), înainte de punerea în aplicare a acesteia, cu excepţia cazurilor în care sînt autorizate în mod expres în acest sens în conformitate cu art. 20 alin. (5) sau printr-o decizie adoptată în temeiul art. 20 alin. (6);
+
+e) realizează o operaţiune de concentrare economică cu încălcarea prevederilor art. 20 alin.
+
+## (5);
+
+f) pun în practică o operaţiune de concentrare economică declarată incompatibilă cu mediul concurenţial printr-o decizie a Consiliului Concurenţei, potrivit prevederilor art. 25 alin. (2) lit. a).
+### Articolul 72. Determinarea nivelului de bază al amenzii pentru încălcarea
+
+normelor materiale ale legislaţiei concurenţiale
+
+(1) Nivelul de bază al amenzii pentru încălcarea normelor materiale ale legislaţiei concurenţiale se determină în funcţie de gravitatea şi durata faptei. Nivelul de bază se obţine prin înmulţirea procentului determinat în funcţie de gradul de gravitate cu factorul aferent duratei încălcării.
+
+(2) La evaluarea gravităţii încălcării normelor materiale ale legislaţiei concurenţiale se iau în considerare, în special, natura faptei săvîrşite, ponderea în cifra totală de afaceri a vînzărilor de produse realizate de întreprindere pe piaţa geografică relevantă de pe teritoriul Republicii Moldova care au legătură directă sau indirectă cu încălcarea (atunci cînd este posibilă o astfel de estimare), cotele de piaţă cumulate ale tuturor întreprinderilor participante, impactul încălcării pe piaţă (atunci cînd acesta poate fi măsurat), probabilitatea ca o operaţiune de concentrare economică să fi fost interzisă dacă ar fi fost notificată.
+
+(3) Nivelul de bază al amenzii calculat pentru gravitatea faptei constituie:
+
+a) pînă la 1% din cifra totală de afaceri, în sensul art. 67, pentru faptele de gravitate mică: acordurile anticoncurenţiale verticale care au un impact redus asupra pieţei sau care afectează o parte limitată a acesteia; încălcările prevăzute la art. 71 lit. d), e) şi f) referitoare la operaţiuni de concentrare economică în privinţa cărora Consiliul Concurenţei emite o decizie de autorizare fără obiecţiuni, deoarece nu există îndoieli privind compatibilitatea cu mediul concurenţial sau deoarece îndoielile privind compatibilitatea cu mediul concurenţial au fost înlăturate prin modificările propuse de întreprinderi şi acceptate de Consiliul Concurenţei; încălcările prevăzute la art. 11 care au un impact redus asupra pieţei sau care afectează o parte limitată a acesteia; încălcările comise din neglijenţă;
+
+b) de la 1% pînă la 2% din cifra totală de afaceri, în sensul art. 67, pentru faptele de gravitate medie: acordurile anticoncurenţiale orizontale sau verticale, cu excepţia celor prevăzute la lit. a) şi c) din prezentul alineat; încălcările prevăzute la art. 11, cu excepţia celor prevăzute la lit. a) şi c) din prezentul alineat; încălcările prevăzute la art. 71 lit. d), e) şi f) referitoare la operaţiuni de concentrare economică în privinţa cărora Consiliul Concurenţei, în urma desfăşurării unei investigaţii, poate adopta o decizie de autorizare condiţionată;
+
+c) de la 2% pînă la 4% din cifra totală de afaceri, în sensul art. 67, pentru faptele de gravitate mare: acordurile orizontale de tipul cartelurilor dure; încălcările prevăzute la art. 71 lit. d), e) şi f) referitoare la operaţiuni de concentrare economică în privinţa cărora Consiliul Concurenţei, în urma desfăşurării unei investigaţii, poate adopta o decizie prin care va declara operaţiunea de concentrare
+
+economică incompatibilă cu mediul concurenţial; încălcările prevăzute la art. 11 care au avut consecinţe deosebit de grave pentru piaţă, producînd efecte pe zone întinse ale acesteia.
+
+(4) În cazul în care o asociaţie de întreprinderi săvîrşeşte o încălcare ce se referă la activităţile membrilor săi, nivelul de bază al amenzii se calculează din cifra totală de afaceri a fiecărui membru activ pe piaţa afectată de încălcarea săvîrşită de asociaţie.
+
+(5) În funcţie de durată, faptele se împart în 3 categorii:
+
+a) fapte de scurtă durată (mai puţin de un an) sau cu consumare instantanee: factor 1;
+
+b) fapte de durată medie (de la un an la cinci ani): factor 1,2;
+
+c) fapte de lungă durată (peste cinci ani): factor 1,4.
+
+(6) În cazul unei întreprinderi nou-înfiinţate care nu a realizat o cifră de afaceri în anul financiar anterior sancţionării, amenda se stabileşte în cuantum de pînă la 5 000 000 lei.
+### Articolul 73. Adaptarea nivelului de bază al amenzii pentru încălcarea
+
+normelor materiale ale legislaţiei concurenţiale
+
+(1) Nivelul de bază al amenzii pentru încălcarea normelor materiale ale legislaţiei concurenţiale poate fi majorat sau redus cu un procent cuprins între 5% şi 10% din cuantumul nivelului de bază stabilit în conformitate cu art. 72 pentru fiecare circumstanţă agravantă ori atenuantă constatată. În cazul circumstanţelor agravante menţionate la alin. (2) lit. a) din prezentul articol, nivelul de bază va fi majorat cu un procent cuprins între 10% şi 25% pentru fiecare astfel de încălcare constatată de Consiliul Concurenţei.
+
+(2) Circumstanţe agravante care determină majorarea nivelului de bază pot fi:
+
+a) continuarea sau repetarea de către o întreprindere a unei încălcări identice sau similare după ce Plenul Consiliului Concurenţei a constatat că această întreprindere a încălcat dispoziţiile art. 5 sau 11;
+
+b) continuarea deliberată a încălcării în cursul desfăşurării investigaţiei în cazurile referitoare la cartelurile dure;
+
+c) refuzul de a coopera cu Consiliul Concurenţei sau obstrucţionarea acestuia în desfăşurarea investigaţiilor;
+
+d) rolul de conducător sau de instigator la încălcare. Se iau în considerare măsurile întreprinse pentru a constrînge alte întreprinderi să participe la încălcare şi/sau măsurile de retorsiune întreprinse împotriva altor întreprinderi cu scopul de a impune comiterea încălcării;e) natura instituţionalizată a cartelului dur.
+
+(3) Circumstanţe atenuante care determină reducerea nivelului de bază pot fi:
+
+a) furnizarea de către întreprindere a dovezilor de încetare a comiterii încălcării de la primele intervenţii ale Consiliului Concurenţei. Circumstanţa atenuantă în cauză nu se aplică acordurilor sau practicilor de natură secretă (în special cartelurilor dure);
+
+b) furnizarea de către întreprindere a dovezilor că participarea sa la încălcarea săvîrşită este
+
+extrem de redusă şi că, în cursul perioadei în care a fost parte la încălcare, în mod efectiv, a evitat punerea în aplicare a acesteia, adoptînd un comportament concurenţial corect pe piaţă;
+
+c) colaborarea efectivă a întreprinderii cu Consiliul Concurenţei în afara domeniului de aplicare a politicii de clemenţă şi dincolo de obligaţia sa legală de a coopera;
+
+d) autorizarea sau încurajarea comportamentului anticoncurenţial al întreprinderii de autorităţi publice ori de legislaţia existentă;
+
+e) dovada făcută de întreprindere privind faptul că încălcarea a fost comisă din neglijenţă.
+
+(4) Lista circumstanţelor atenuante menţionate la alin. (3) nu este exhaustivă.
+
+(5) Consiliul Concurenţei va lua în considerare necesitatea de a majora amenda pentru a depăşi cîştigurile ilicite realizate ca urmare a încălcării săvîrşite, atunci cînd este posibilă estimarea acestui cuantum, însă nu mai mult decît nivelul maxim stabilit la alin. (7).
+
+(6) În cazul încălcărilor prevăzute la art. 71 alin. (1) lit. a), dacă, după primirea raportului de investigaţie şi exercitarea dreptului de acces la dosar sau în cadrul audierilor, întreprinderea recunoaşte în mod expres săvîrşirea faptei anticoncurenţiale, aceasta va fi reţinută ca circumstanţă atenuantă sub forma colaborării în cadrul procedurii de investigare a cazului şi va determina diminuarea cuantumului amenzii cu un procent cuprins între 10% şi 25% din nivelul de bază determinat potrivit prevederilor art. 72. La determinarea procentului cu care se va reduce nivelul de bază ca urmare a recunoaşterii faptei, Consiliul Concurenţei va avea în vedere, de la caz la caz, faptul că întreprinderea a recunoscut total sau parţial fapta constatată în raport. În caz de recunoaştere parţială, Consiliul Concurenţei poate refuza acordarea reducerii, dacă recunoaşterea este considerată insuficientă şi nu denotă asumarea de către întreprindere a faptelor comise.
+
+(7) Atunci cînd, în urma aplicării criteriilor de individualizare, nivelul maxim stabilit la art. 72 alin. (3) este depăşit, amenda va fi redusă pînă la un nivel maxim de 5% din cifra totală de afaceri, în sensul art. 67.
+### Articolul 74. Posibilitatea de plată a amenzii
+
+În cazuri excepţionale, la solicitare, Consiliul Concurenţei are dreptul să reducă amenda, ţinînd seama de absenţa capacităţii de plată a unei întreprinderi într-un anumit context social şi economic. Plenul Consiliului Concurenţei nu acordă o reducere a amenzii într-un astfel de caz doar pe baza simplei constatări a unei situaţii financiare nefavorabile sau precare. Reducerea se poate acorda numai pe baza unor probe obiective potrivit cărora aplicarea unei amenzi, în condiţiile stabilite de prezenta lege, ar pune iremediabil în pericol viabilitatea economică a întreprinderii implicate şi ar conduce la devalorizarea completă a activelor acesteia.
+
+### Articolul 75. Aplicarea amenzii unei asociaţii de întreprinderi
+
+(1) În cazul în care o amendă se aplică unei asociaţii de întreprinderi luîndu-se în considerare cifra totală de afaceri a membrilor săi, iar asociaţia nu este solvabilă, ea are obligaţia să le ceară membrilor săi să acopere, prin contribuţii, suma ce reprezintă amendă, dacă este constatată implicarea acestora în comiterea faptei anticoncurenţiale.
+
+(2) În cazul în care contribuţiile solicitate nu s-au acordat asociaţiei în termenul stabilit de Plenul Consiliului Concurenţei, plata amenzii sau a diferenţei rămase se solicită direct de la fiecare membru al asociaţiei care a fost implicat în comiterea faptei anticoncurenţiale.
+
+(3) Dacă, în urma solicitării efectuate în conformitate cu procedura prevăzută la alin. (1) şi (2), nu s-a acoperit întregul cuantum al amenzii, plata diferenţei este cerută de la membrii asociaţiei care erau activi pe piaţa relevantă pe care a fost încălcată legea, aşa cum aceasta este definită în decizia Consiliului Concurenţei prin care a fost sancţionată încălcarea legii.
+
+(4) Plenul Consiliului Concurenţei nu solicită plata în temeiul alin. (2) sau (3) întreprinderilor care demonstrează că nu au pus în aplicare decizia asociaţiei care a dus la încălcare sau că nu au avut cunoştinţă de existenţa acesteia, sau că s-au distanţat activ de aceasta înaintea iniţierii investigaţiei de către Plenul Consiliului Concurenţei în cauza respectivă.
+
+(5) Suma care revine spre plată fiecărei întreprinderi membru al asociaţiei nu poate depăşi nivelul maxim al amenzii stabilit prin prezenta lege pentru tipul de încălcare (procedural sau material) respectiv, calculat din cifra totală de afaceri realizată de întreprinderea în cauză în anul anterior sancţionării
+
+### Articolul 76. Penalităţi cu titlu cominatoriu
+
+(1) Plenul Consiliului Concurenţei poate aplica, prin decizie, persoanelor menţionate la art. 20 alin. (2) lit. b), întreprinderilor sau asociaţiilor de întreprinderi penalităţi în sumă de pînă la 5% din cifra de afaceri zilnică medie realizată de întreprinderea sau asociaţia de întreprinderi în cauză în anul anterior sancţionării, pentru fiecare zi de întîrziere, calculate de la o dată ulterioară stabilită în decizie, pentru a le obliga:
+
+a) să înceteze o încălcare a prevederilor art. 5 sau 11, în conformitate cu o decizie luată în temeiul art. 41 alin. (2);
+
+b) să respecte o prescripţie care dispune măsuri interimare în temeiul art. 41 alin. (3);
+
+c) să respecte un angajament devenit obligatoriu printr-o decizie în temeiul art. 41 alin. (4);
+
+d) să furnizeze în mod complet şi corect informaţiile şi documentele care le-au fost cerute potrivit prevederilor art. 54;
+
+e) să se supună inspecţiei dispuse prin ordin al preşedintelui Consiliului Concurenţei în condiţiile art. 56 şi 57;
+
+f) să respecte o condiţie sau o obligaţie impusă printr-o decizie adoptată în temeiul art. 25 alin. (1) lit. b) sau alin. (2) lit. c).
+
+(2) În cazul în care persoanele menţionate la art. 20 alin. (2) lit. b), întreprinderile sau asociaţiile de întreprinderi au îndeplinit obligaţia pentru executarea căreia au fost aplicate penalităţile cu titlu cominatoriu, Plenul Consiliului Concurenţei poate fixa suma definitivă a penalităţilor cu titlu cominatoriu la o valoare mai mică decît cea care rezultă din decizia iniţială. Art. 75 se aplică în mod corespunzător.
+
+### Articolul 77. Răspunderea pentru concurenţa neloială
+
+(1) Prin derogare de la legea penală, comiterea faptelor de concurenţă neloială interzise la art. 15–19 din prezenta lege se sancţionează de Consiliul Concurenţei cu amendă în mărime de pînă la 0,5% din cifra totală de afaceri realizată de întreprinderea în cauză în anul anterior sancţionării.
+
+(2) Prejudiciul produs ca rezultat al acţiunilor constatate drept concurenţă neloială urmează a fi reparat, în conformitate cu prevederile Codului civil, de întreprinderea care l-a cauzat.
+### Articolul 78. Controlul deciziilor privind aplicarea amenzilor sau
+
+penalităţilor cu titlu cominatoriu
+
+(1) Deciziile prin care Plenul Consiliului Concurenţei a aplicat o amendă sau o penalitate cu titlu cominatoriu pot fi contestate la judecătorie.
+
+(2) Instanţele menţionate la alin. (1) pot reduce sau majora amenzile sau penalităţile cu titlu cominatoriu aplicate, iar în cazul în care constată că decizia privind constatarea încălcării şi/sau aplicarea amenzii sau a penalităţii este neîntemeiată şi/sau este adoptată cu încălcarea procedurii, acestea pot anula amenzile sau penalităţile cu titlu cominatoriu aplicate.
+### Articolul 79. Repararea prejudiciului cauzat prin practici anticoncurenţiale
+
+interzise
+
+(1) Independent de sancţiunile aplicate potrivit prevederilor prezentei legi, dreptul la acţiune al persoanelor fizice şi/sau juridice pentru repararea integrală a prejudiciului ce le-a fost cauzat printro practică anticoncurenţială interzisă de prezenta lege rămîne rezervat.
+
+(2) Persoanele fizice sau juridice care se consideră prejudiciate printr-o practică anticoncurenţială interzisă de prezenta lege vor putea înainta cerere privind acordarea de despăgubiri în termen de un an de la data la care decizia Consiliului Concurenţei pe care se întemeiază acţiunea a rămas definitivă sau a fost menţinută, în tot sau în parte, printr-o hotărîre judecătorească definitivă şi irevocabilă.
+### Articolul 80. Răspunderea pentru acţiuni de concurenţă neloială
+
+(1) Instanţa va obliga persoana care săvîrşeşte o acţiune de concurenţă neloială să înceteze acţiunea sau să înlăture consecinţele, să restituie documentele confidenţiale însuşite în mod ilicit de la deţinătorul lor legitim şi, după caz, să plătească despăgubiri pentru daunele pricinuite, conform legislaţiei în vigoare.
+
+(2) La cererea deţinătorului legitim al secretului comercial, instanţa poate dispune măsuri de interzicere a exploatării industriale şi/sau comerciale a produselor rezultate din însuşirea ilicită a secretului comercial sau distrugerea acestor produse. Interdicţia încetează atunci cînd informaţia protejată a devenit publică.
+
+(3) Dacă vreuna dintre acţiunile de concurenţă neloială cauzează daune patrimoniale sau morale, cel prejudiciat este în drept să se adreseze instanţei competente cu acţiune în răspundere civilă corespunzătoare.
+
+(4) Prin hotărîrea dată asupra fondului, instanţa poate dispune ca mărfurile sechestrate să fie vîndute, după distrugerea falselor menţiuni. Din suma obţinută în urma vînzării se vor acoperi mai întîi despăgubirile acordate.
+
+(5) Dreptul la acţiune în concurenţă neloială aparţine persoanelor fizice şi juridice care practică activitate de întreprinzător, cu condiţia ca între acestea şi autorul faptei să existe un raport de concurenţă, adică să exercite un gen de activitate identic sau similar.
+
+(6) Dacă acţiunea de concurenţă neloială a fost săvîrşită de un salariat în exercitarea atribuţiilor de serviciu, patronul răspunde solidar cu salariatul pentru pagubele pricinuite, cu excepţia cazului în care va putea dovedi că, potrivit uzanţelor, nu era în măsură să prevină
+
+comiterea faptei.
+
+(7) Persoanele care au creat împreună prejudiciul răspund solidar pentru actele sau faptele de concurenţă neloială săvîrşite.
+
+(8) Pentru luarea unei măsuri ce nu suferă amînare se pot aplica dispoziţiile art. 174–179 din Codul de procedură civilă.
+
+(9) Dreptul la acţiune prevăzut de alin. (3) se prescrie în termen de un an de la data la care păgubitul a cunoscut sau ar fi trebuit să cunoască dauna şi pe cel care a cauzat-o, dar nu mai tîrziu de trei ani de la data săvîrşirii faptei.
+
+## Secţiunea a 2-a
+
+## Termenele de prescripţie
+### Articolul 81. Termenele de prescripţie pentru aplicarea de sancţiuni
+
+(1) Dreptul Consiliului Concurenţei de a aplica sancţiuni pentru încălcarea prevederilor prezentei legi se supune următoarelor termene de prescripţie:
+
+a) un an, în cazul încălcărilor ce ţin de concurenţă neloială prevăzute la art. 15–19;
+
+b) trei ani, în cazul încălcării prevederilor art. 68;
+
+c) cinci ani, în cazul tuturor celorlalte încălcări ale prevederilor prezentei legi.
+
+(2) Termenul de prescripţie începe să curgă de la data comiterii încălcării. În cazul încălcărilor cu caracter continuu sau repetate, termenul de prescripţie începe să curgă de la data încetării încălcării.
+### Articolul 82. Întreruperea termenului de prescripţie pentru aplicarea
+
+de sancţiuni
+
+(1) Orice act emis de către Consiliul Concurenţei în scopul examinării preliminare sau investigării unei încălcări întrerupe cursul termenului de prescripţie pentru aplicarea de sancţiuni prevăzut la art. 81. Întreruperea termenului de prescripţie produce efect de la data comunicării de către Consiliul Concurenţei a actului emis, comunicare făcută cel puţin unei întreprinderi sau asociaţii de întreprinderi care a participat la săvîrşirea încălcării.
+
+(2) Termenul de prescripţie se întrerupe prin acte ale Consiliului Concurenţei, cum ar fi:
+
+a) solicitare de informaţii, în scris;
+
+b) ordin privind desfăşurarea inspecţiei;
+
+c) dispoziţie privind iniţierea procedurii de investigaţie.
+
+(3) Întreruperea termenului de prescripţie produce efecte pentru toate întreprinderile sau asociaţiile de întreprinderi care au participat la săvîrşirea încălcării.
+
+(4) După întreruperea cursului termenului de prescripţie începe să curgă un nou termen, cu o durată similară, de la data la care Consiliul Concurenţei a emis unul din actele menţionate la alin.
+
+(2). Termenul de prescripţie va expira cel tîrziu în ziua în care s-a scurs o perioadă egală cu dublul termenului de prescripţie aplicabil pentru săvîrşirea încălcării în cauză, fără să fi aplicat Consiliul Concurenţei o sancţiune prevăzută de prezenta lege.
+### Articolul 83. Termenul de prescripţie pentru executarea sancţiunilor
+
+(1) Orice act al Consiliului Concurenţei emis în scopul examinării preliminare sau investigării unei încălcări întrerupe cursul termenului de prescripţie pentru aplicarea sancţiunilor prevăzut la art. 81. Întreruperea termenului de prescripţie produce efect de la data comunicării actului de către Consiliul Concurenţei, comunicare făcută cel puţin unei întreprinderi sau asociaţii de întreprinderi care a participat la săvîrşirea încălcării.
+
+(2) Termenul de prescripţie se întrerupe prin acte ale Consiliului Concurenţei, cum ar fi:
+
+a) solicitare de informaţii, în scris;
+
+b) ordin privind desfăşurarea inspecţiei;
+
+c) dispoziţie privind iniţierea procedurii de investigaţie.
+
+(3) Termenul de prescripţie pentru executarea sancţiunilor este întrerupt:
+
+a) prin comunicarea unei decizii de modificare a cuantumului iniţial al sancţiunii sau de refuzare a unei cereri de modificare;
+
+b) prin orice act al Consiliului Concurenţei emis în scopul executării silite a sancţiunilor.
+
+(4) După întreruperea cursului termenului de prescripţie începe să curgă un nou termen, cu o durată similară, de la data la care Consiliul Concurenţei a emis unul din actele menţionate la alin. (2). Termenul de prescripţie va expira cel tîrziu în ziua în care s-a scurs o perioadă egală cu dublul termenului de prescripţie aplicabil pentru săvîrşirea încălcării în cauză, fără să fi aplicat Consiliul Concurenţei o sancţiune prevăzută de prezenta lege.
+
+(5) Termenul de prescripţie pentru executarea sancţiunilor se suspendă:
+
+a) pe perioada în care se poate efectua plata;
+
+b) pe perioada în care executarea silită a plăţii este suspendată în temeiul unei hotărîri a instanţei de judecată.
+
+## Secţiunea a 3-a
+
+## Politica de clemenţă
+### Articolul 84. Sfera şi condiţiile de aplicare a politicii de clemenţă
+
+(1) Clemenţa este recompensa acordată de Consiliul Concurenţei pentru cooperarea întreprinderilor şi asociaţiilor de întreprinderi cu Consiliul Concurenţei, în cazul în care acestea sînt sau au fost parte a unui acord anticoncurenţial.
+
+(2) Politica de clemenţă nu se aplică acordurilor orizontale sau verticale care, conform legii, pot fi exceptate de la interdicţia prevăzută la art. 5 alin. (1).
+
+(3) Întreprinderile şi asociaţiile de întreprinderi pot obţine imunitate la amendă sau reducerea
+
+cuantumului acesteia dacă îndeplinesc condiţiile prevăzute de prezenta lege.
+
+(4) Orice declaraţie înaintată de o întreprindere Consiliului Concurenţei în scopul beneficierii de clemenţă face parte integrantă din dosarul cauzei, dacă întreprinderii respective i se acordă clemenţa de către Consiliul Concurenţei. Aceasta nu poate fi divulgată sau utilizată în alte scopuri decît pentru aplicarea art. 5.
+
+(5) Accesul la explicaţii este acordat doar părţilor implicate, cu condiţia ca acestea să se angajeze, împreună cu reprezentanţii împuterniciţi legal care primesc acces în numele lor, să nu facă copii, prin mijloace mecanice sau electronice, ale oricăror informaţii din explicaţiile la care este acordat accesul. Aceste persoane trebuie să asigure faptul că informaţiile obţinute din explicaţie vor fi utilizate doar pentru scopurile menţionate la alin. (4). Alte persoane, precum autorii plîngerilor, nu au acces la explicaţii. Consiliul Concurenţei va considera că acest tip de protecţie specifică nu se mai justifică din momentul în care solicitantul dezvăluie unor terţe persoane conţinutul cererii.
+
+(6) Consiliul Concurenţei nu poate lua nicio decizie în ceea ce priveşte oportunitatea acordării imunităţii condiţionate sau oportunitatea recompensării vreunei solicitări de clemenţă în cazul în care se constată că solicitarea se referă la încălcări care depăşesc termenul de prescripţie de 5 ani prevăzut la art. 81, deoarece o astfel de cerere nu ar mai avea obiect.
+
+### Articolul 85. Imunitatea la amendă
+
+Imunitatea la amendă reprezintă exonerarea de la aplicarea amenzii pentru încălcarea prevederilor art. 5 alin. (1). Există două tipuri de imunitate la amendă: de tip A şi de tip B.
+### Articolul 86. Imunitatea de tip A
+
+(1) Consiliul Concurenţei va acorda imunitate de tip A la amendă dacă sînt îndeplinite cumulativ următoarele condiţii:
+
+a) întreprinderea sau asociaţia de întreprinderi este prima care furnizează informaţii şi elemente probatorii care, în opinia Consiliului Concurenţei, permit declanşarea procedurii de investigaţie şi efectuarea de inspecţii;
+
+b) la data furnizării elementelor probatorii, Consiliul Concurenţei nu deţinea suficiente elemente pentru declanşarea procedurii de investigaţie sau efectuarea de inspecţii;
+
+c) sînt îndeplinite condiţiile generale pentru acordarea clemenţei prevăzute la art. 90.
+
+(2) Pentru ca Consiliul Concurenţei să poată declanşa procedura de investigaţie şi să poată efectua inspecţii în conformitate cu prevederile alin. (1), întreprinderea sau asociaţia de întreprinderi trebuie să furnizeze următoarele informaţii şi elemente probatorii:
+
+1) o declaraţie care să includă, în măsura în care întreprinderea sau asociaţia de întreprinderi are cunoştinţă despre aceste elemente la momentul înaintării cererii:
+
+a) o descriere detaliată a modului de organizare a presupusului acord, inclusiv:
+
+– scopurile sale, activităţile şi modalitatea de funcţionar
+
+– produsele implicate, aria geografică, durata de funcţionare şi volumele de piaţă estimate a fi afectate de către presupusul accor
+
+– datele şi locurile de întîlnire, conţinutul discuţiilor şi participanţii la întîlnirile desfăşurate în cadrul presupusului accord
+
+– toate explicaţiile relevante în legătură cu elementele probatorii furnizate pentru a susţine cererea;
+
+b) numele şi adresa întreprinderii sau asociaţiei de întreprinderi care înaintează cererea pentru acordarea imunităţii, precum şi numele şi adresele tuturor celorlalte întreprinderi sau asociaţii de întreprinderi care participă sau au participat la presupusul acord;
+
+c) numele, funcţiile, amplasarea birourilor şi, în caz de necesitate, adresele de domiciliu ale persoanelor care, din informaţiile întreprinderii sau asociaţiei de întreprinderi, sînt sau au fost parte a presupusului acord, inclusiv a persoanelor care au fost implicate în numele solicitantului;
+
+2) alte probe în legătură cu presupusul acord, aflate în posesia întreprinderii sau asociaţiei de întreprinderi ori disponibile la momentul înaintării cererii, incluzînd în mod particular orice probe din perioada încălcării suspectate.
+
+(3) Declaraţiile pot lua forma unor documente scrise şi semnate de către reprezentanţi ai întreprinderii sau asociaţiei de întreprinderi ori de împuterniciţi în numele acestora sau pot fi efectuate oral, în acest caz fiind înregistrate pe suport magnetic.
+### Articolul 87. Imunitatea de tip B
+
+(1) Consiliul Concurenţei va acorda imunitate de tip B la amendă dacă sînt îndeplinite cumulativ următoarele condiţii:
+
+a) întreprinderea sau asociaţia de întreprinderi este prima care furnizează informaţii şi elemente probatorii ce vor permite Consiliului Concurenţei să stabilească încălcarea prevederilor art. 5 alin. (1);
+
+b) la data furnizării elementelor probatorii, Consiliul Concurenţei nu deţinea suficiente elemente pentru a stabili încălcarea prevederilor art. 5 alin. (1);
+
+c) nicio întreprindere sau asociaţie de întreprinderi nu obţinuse imunitatea conform art. 86 în legătură cu presupusul acord;
+
+d) sînt îndeplinite condiţiile generale pentru acordarea clemenţei specificate la art. 90.
+
+(2) Pentru a obţine imunitatea de tip B, întreprinderea sau asociaţia de întreprinderi trebuie să furnizeze informaţii şi elemente probatorii de natura celor prevăzute la art. 86 alin. (2).
+### Articolul 88. Întreprinderile sau asociaţiile de întreprinderi excluse de la
+
+beneficiul imunităţii la amendă
+
+Întreprinderea sau asociaţia de întreprinderi iniţiatoare a acordului şi/sau întreprinderea sau asociaţia de întreprinderi care a întreprins măsuri pentru a constrînge alte întreprinderi să participe la presupusul acord ori să rămînă parte a acestuia nu pot beneficia de imunitate la amendă. Acestea pot beneficia de o reducere a cuantumului amenzii, dacă îndeplinesc cerinţele şi condiţiile prevăzute de prezenta lege.
+### Articolul 89. Reducerea cuantumului amenzii
+
+(1) Întreprinderile sau asociaţiile de întreprinderi care dezvăluie participarea lor la un acord ce afectează concurenţa, dar care nu îndeplinesc condiţiile pentru obţinerea imunităţii, pot beneficia de o reducere a cuantumului amenzii faţă de nivelul care le-ar fi fost aplicat în mod normal.
+
+(2) Pentru a putea beneficia de reducerea menţionată la alin. (1), întreprinderea sau asociaţia de întreprinderi trebuie să furnizeze Consiliului Concurenţei elemente probatorii referitoare la pretinsa încălcare a legii, care să aducă o contribuţie suplimentară semnificativă în raport cu cele aflate deja în posesia acestuia şi trebuie să îndeplinească condiţiile generale pentru acordarea clemenţei.
+
+(3) Contribuţia suplimentară semnificativă se referă la măsura în care elementele probatorii, necunoscute pînă la acea dată, furnizate de o întreprindere sau asociaţie de întreprinderi consolidează, prin înseşi natura lor şi/sau prin gradul lor de precizie, capacitatea Consiliului Concurenţei de a demonstra existenţa presupusului acord.
+
+(4) Elementele probatorii scrise provenind din perioada la care faptele se raportează au o contribuţie mai mare decît cele stabilite ulterior.
+
+(5) Elementele probatorii care au o legătură directă cu faptele în cauză vor fi considerate ca fiind mai importante decît cele care nu au decît o legătură indirectă cu faptele respective.
+
+(6) Elementele probatorii concludente vor fi considerate ca avînd o contribuţie suplimentară mai importantă decît elementele probatorii, precum declaraţiile, care necesită verificarea şi coroborarea cu alte surse, în situaţia în care sînt contestate.
+
+(7) În toate deciziile emise, la sfîrşitul procedurii de investigaţie, Consiliul Concurenţei va determina nivelul reducerii de care va beneficia întreprinderea sau asociaţia de întreprinderi, raportat la amenda care i-ar fi fost aplicată în mod normal:
+
+a) pentru prima întreprindere care furnizează elemente probatorii ce aduc o contribuţie suplimentară semnificativă – o reducere cuprinsă între 30% şi 50%;
+
+b) pentru a doua întreprindere care furnizează elemente probatorii ce aduc o contribuţie suplimentară semnificativă – o reducere cuprinsă între 20% şi 30%;
+
+c) pentru celelalte întreprinderi care furnizează elemente probatorii ce aduc o contribuţie suplimentară semnificativă – o reducere de maximum 20%.
+
+(8) Pentru a determina nivelul reducerii în cadrul fiecăreia dintre tranşele menţionate la alin. (7), Consiliul Concurenţei va lua în considerare data la care i-au fost comunicate elementele probatorii ce îndeplinesc condiţiile prevăzute la alin. (2), precum şi valoarea contribuţiei suplimentare aduse de acestea.
+
+(9) Dacă întreprinderea sau asociaţia de întreprinderi care solicită reducerea cuantumului amenzii este prima care furnizează elemente probatorii, în sensul celor prevăzute la alin. (3)–(6), pe care Consiliul Concurenţei le utilizează pentru a identifica fapte adiţionale care conduc la creşterea gravităţii sau duratei încălcării, Consiliul Concurenţei nu va lua în calcul aceste fapte adiţionale la stabilirea cuantumului amenzii aplicate întreprinderii sau asociaţiei de întreprinderi care le-a furnizat.
+### Articolul 90. Condiţiile generale pentru acordare clemenţei
+
+(1) Orice întreprindere sau asociaţie de întreprinderi care doreşte să solicite imunitate la
+
+amendă trebuie să se adreseze Consiliului Concurenţei.
+
+(2) Întreprinderea sau asociaţia de întreprinderi poate beneficia de clemenţă dacă îndeplineşte cumulativ următoarele condiţii:
+
+a) cooperează în mod real, total, continuu şi prompt cu Consiliul Concurenţei pe parcursul întregii proceduri de investigaţie, adic
+
+– furnizează Consiliului Concurenţei toate informaţiile relevante şi elementele probatorii de care dispune sau ar trebui să dispună referitoare la încălcarea suspectată
+
+– rămîne la dispoziţia Consiliului Concurenţei pentru a răspunde oricărei solicitări care ar putea contribui la stabilirea faptelor în cauz
+
+– nu distruge, nu falsifică şi nu ascunde informaţii relevante ori elemente probatorii referitoare la presupusul acord;
+
+– nu dezvăluie existenţa cererii pentru clemenţă sau conţinutul acesteia înainte ca Consiliul Concurenţei să transmită raportul de investigaţie părţilor, cu excepţia cazului în care Consiliul Concurenţei a stabilit altfel;
+
+b) a încetat, la solicitarea Consiliului Concurenţei, implicarea în presupusul acord;
+
+c) nu a dezvăluit intenţia sa de depunere a unei cereri pentru clemenţă sau elemente ale cererii.
+### Articolul 91. Procedura de acordare a imunităţi la amendă
+
+(1) O întreprindere sau asociaţie de întreprinderi care înaintează o cerere pentru imunitate trebuie:
+
+a) să furnizeze imediat Consiliului Concurenţei, pe lîngă declaraţii, toate informaţiile şi elementele probatorii de care dispune în legătură cu presupusa încălcare a legii; sau
+
+b) să prezinte în primă fază informaţiile de care dispune, într-o formă ipotetică. Întreprinderea sau asociaţia de întreprinderi trebuie să prezinte o listă descriptivă a elementelor probatorii propuse a fi divulgate la o dată ulterioară convenită. Această listă trebuie să reflecte cu exactitate natura şi conţinutul elementelor probatorii, păstrînd caracterul ipotetic al divulgării. Copiile documentelor, din care au fost eliminate pasaje sensibile, pot fi utilizate pentru a demonstra natura şi conţinutul elementelor probatorii prezentate în lista descriptivă. Numele întreprinderii sau asociaţiei de întreprinderi solicitante, precum şi numele altor întreprinderi implicate în presupusa înţelegere nu sînt necesare a fi divulgate pînă la momentul în care sînt furnizate elementele probatorii indicate în lista descriptivă. Trebuie identificate cu claritate tipul încălcării, produsul implicat în presupusul acord, aria geografică afectată, precum şi durata estimată a presupusei încălcări.
+
+(2) Consiliul Concurenţei va confirma în scris primirea cererii de imunitate la amendă, precum şi data şi ora la care întreprinderea a furnizat elementele probatorii menţionate.
+
+(3) După ce a primit informaţiile şi elementele probatorii furnizate conform alin. (1) lit. a) din prezentul articol şi a verificat dacă acestea îndeplinesc condiţiile prevăzute la art. 86 alin. (1) lit. a) şi b) sau la art. 87 alin. (1) lit. a), b) şi c), Consiliul Concurenţei acordă întreprinderii sau asociaţiei de întreprinderi, în scris, imunitatea condiţionată la amendă.
+
+(4) În situaţia în care o întreprindere sau asociaţie de întreprinderi a prezentat informaţiile şi elementele probatorii în formă ipotetică, Consiliul Concurenţei verifică dacă natura şi conţinutul elementelor probatorii descrise în lista menţionată la alin. (1) lit. b) din prezentul articol îndeplinesc condiţiile prevăzute la art. 86 alin. (1) lit. a) şi b) sau la art. 87 alin. (1) lit. a), b) şi c) şi informează întreprinderea sau asociaţia de întreprinderi în acest sens. După furnizarea elementelor probatorii, dar nu mai tîrziu de data convenită, şi după ce a verificat că acestea corespund descrierii făcute în listă, Consiliul Concurenţei îi va acorda în scris întreprinderii sau asociaţiei de întreprinderi imunitatea condiţionată la amendă.
+
+(5) Consiliul Concurenţei va informa în scris întreprinderea sau asociaţia de întreprinderi despre neîndeplinirea condiţiilor prevăzute la art. 86 şi 87.
+
+(6) În situaţia în care există mai multe solicitări pentru acordarea imunităţii, Consiliul Concurenţei examinează cererile referitoare la aceeaşi potenţială încălcare a legii în ordinea cronologică a primirii lor.
+
+(7) Dacă, la sfîrşitul procedurii de investigaţie, întreprinderea sau asociaţia de întreprinderi îndeplineşte condiţiile prevăzute la art. 86 sau 87, după caz, Consiliul Concurenţei îi acordă prin decizie imunitate la amendă. În situaţia în care, la sfîrşitul procedurii de investigaţie, întreprinderea sau asociaţia de întreprinderi nu îndeplineşte condiţiile prevăzute la art. 86 sau 87, aceasta nu va beneficia de imunitate.
+
+(8) Întreprinderea sau asociaţia de întreprinderi poate să informeze în orice moment Consiliul Concurenţei că nu mai doreşte continuarea procedurilor referitoare la cererea sa. În această situaţie, întreprinderea sau asociaţia de întreprinderi poate retrage informaţiile şi documentele înaintate Consiliului Concurenţei în vederea acordării imunităţii sau poate solicita ca acestea să fie luate în considerare pentru o eventuală reducere a amenzii. Acest lucru nu poate împiedica Consiliul Concurenţei să se folosească de drepturile sale de investigaţie pentru a obţine informaţiile respective.
+### Articolul 92. Procedura beneficierii de reducere a amenzii
+
+(1) O întreprindere sau asociaţie de întreprinderi care doreşte să beneficieze de reducerea cuantumului amenzii conform art. 89 alin. (2) trebuie să înainteze o cerere Consiliului Concurenţei şi să prezinte suficiente elemente probatorii ale presupusului acord. Orice furnizare voluntară a unor elemente probatorii către Consiliul Concurenţei, de natură a fi luată în considerare pentru a beneficia de tratamentul favorabil prevăzut la art. 89, trebuie să fie clar identificată la momentul transmiterii ca făcînd parte dintr-o solicitare pentru reducerea cuantumului amenzii.
+
+(2) Consiliul Concurenţei confirmă în scris primirea cererii pentru reducerea cuantumului amenzii şi fiecare furnizare ulterioară de elemente probatorii, indicînd data şi ora exactă a fiecărei furnizări. Consiliul Concurenţei nu se pronunţă asupra unei cereri pentru reducerea cuantumului amenzii înainte de a lua o decizie cu privire la o cerere existentă pentru imunitate condiţionată la amendă referitoare la aceeaşi încălcare.
+
+(3) În cazul în care Consiliul Concurenţei ajunge la concluzia preliminară că elementele probatorii prezentate de întreprindere sau asociaţia de întreprinderi aduc o contribuţie suplimentară semnificativă conform art. 89 alin. (2) şi (3) şi că întreprinderea sau asociaţia de întreprinderi a îndeplinit condiţiile prevăzute la art. 90 alin. (2) şi la alin. (1) al prezentului articol, acesta informează în scris întreprinderea sau asociaţia de întreprinderi cu privire la posibilitatea de a reduce cuantumul amenzii conform art. 89 alin. (7), dar nu mai tîrziu de data la care raportul de investigaţie este transmis părţilor implicate. În cadrul aceleiaşi perioade de timp, Consiliul
+
+Concurenţei informează în scris întreprinderea sau asociaţia de întreprinderi, dacă ajunge la concluzia preliminară că respectiva întreprindere sau asociaţie de întreprinderi nu poate beneficia de reducerea cuantumului amenzii.
+
+(4) În deciziile pe care le emite la finalizarea procedurii de investigaţie, Consiliul Concurenţei va evalua situaţia finală a fiecărei întreprinderi sau asociaţii de întreprinderi care a înaintat o cerere pentru reducerea cuantumului amenzii şi va determina:
+
+a) dacă elementele probatorii furnizate de către întreprindere sau asociaţia de întreprinderi aduc o contribuţie suplimentară semnificativă în raport cu elementele probatorii aflate deja în posesia Consiliului Concurenţei;
+
+b) dacă au fost îndeplinite condiţiile prevăzute la art. 89 alin. (2);
+
+c) nivelul exact al reducerii de care beneficiază întreprinderea sau asociaţia de întreprinderi conform art. 89 alin. (7).
+
+(5) În cazul în care Consiliul Concurenţei constată că întreprinderea sau asociaţia de întreprinderi nu a îndeplinit condiţiile prevăzute la art. 89 alin. (2), aceasta nu va beneficia de clemenţă.
+
+## Capitolul IX — ## DISPOZIŢII FINALE ŞI TRANZITORII
+
+### Articolul 93. (1) Prezenta lege intră în vigoare la data publicării, cu excepţia prevederilor ce ţin de acceptarea angajamentelor propuse de întreprinderi, care se pun în aplicare cu începere de la 1 ianuarie 2015
+
+(2) În termen de 2 luni de la data intrării în vigoare a prezentei legi, Agenţia Naţională pentru Protecţia Concurenţei se reorganizează în Consiliul Concurenţei, care devine succesor al Agenţiei Naţionale pentru Protecţia Concurenţei.
+
+(3) Pînă la 1 noiembrie 2012, Guvernul, în comun cu Consiliul Concurenţei, va prezenta Parlamentului propuneri privind modificarea legislaţiei referitoare la nivelul de salarizare a Consiliului Concurenţei.
+
+(4) Directorul general al Agenţiei Naţionale pentru Protecţia Concurenţei şi cei doi adjuncţi ai acestuia, numiţi în funcţie în condiţiile Legii nr. 1103-XIV din 30 iunie 2000 cu privire la protecţia concurenţei, vor exercita funcţia de preşedinte şi, respectiv, de vicepreşedinţi ai Plenului Consiliului Concurenţei pînă la desemnarea componenţei Plenului Consiliului Concurenţei în conformitate cu prevederile prezentei legi.
+
+(5) Plîngerile şi cauzele ale căror proceduri de examinare de către Agenţia Naţională pentru Protecţia Concurenţei nu s-au încheiat pînă la data intrării în vigoare a prezentei legi se examinează conform normelor de procedură prevăzute de prezenta lege şi normelor materiale, inclusiv celor privind răspunderea pentru încălcarea legislaţiei concurenţiale, prevăzute de legea în vigoare la data comiterii încălcării.
+
+(6) Litigiile care la data intrării în vigoare a prezentei legi se află în proces de examinare se soluţionează în conformitate cu normele legii în vigoare la data apariţiei litigiului.
+
+### Articolul 94. În termen de 6 luni de la data publicării prezentei legi, Consiliul Concurenţei:
+
+a) va elabora şi va adopta actele normative necesare punerii în aplicare a prezentei legi;
+
+b) va aduce actele sale normative în concordanţă cu prevederile prezentei legi;
+
+c) va prezenta, în comun cu Guvernul, propuneri de modificare a legislaţiei în vigoare, în scopul asigurării compatibilităţii cu prezenta lege.
+
+### Articolul 95. La data intrării în vigoare a prezentei legi, se abrogă:
+
+Legea nr. 906-XII din 29 ianuarie 1992 privind limitarea activităţii monopoliste şi dezvoltarea concurenţei (Monitorul Parlamentului Republicii Moldova, 1992, nr. 2, art. 46), cu modificările şi completările ulterioare;
+
+Legea nr. 1103-XIV din 30 iunie 2000 cu privire la protecţia concurenţei (Monitorul Oficial al Republicii Moldova, 2000, nr. 166–168, art. 1205), cu modificările şi completările ulterioare.
+
+## PREŞEDINTELE PARLAMENTULUI Marian LUPU
+
+## Nr. 183. Chişinău, 11 iulie 2012.

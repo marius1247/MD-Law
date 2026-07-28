@@ -1,0 +1,74 @@
+---
+title: "HANRE 486-2017 — Metodologie tarife transport EE (text)"
+type: act-text
+act_type: act-anre
+nr: "486"
+an: 2017
+domeniu: [energetică, energie-electrică, tarife]
+legis_id: "140021"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=140021"
+continut: doar-dispozitiv
+text_complet: false
+in_vigoare: false
+abrogat_prin: "HANRE 626/2023"
+status_ingestie: "ABROGAT — dispozitiv only"
+articole_numarate: 0
+tags: [act, text]
+created: 2026-07-26
+updated: 2026-07-26
+source_ingest: manual-browser-download
+abrogat_prin: "HANRE 626/2023"---
+
+# HANRE 486/2017 — Metodologie tarife transport EE (ABROGAT)
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md**, doc_id [140021](https://www.legis.md/cautare/getResults?lang=ro&doc_id=140021).
+> Descărcare manuală din browser (bypass plafon ~96 KB). Articole normalizate ca `### Articolul N.` pentru ancorare wikilink.
+> Analiză: [[HANRE 486-2017 — Metodologie tarife transport EE (notă)]].
+
+> [!danger] ACT ABROGAT
+> Abrogat prin HANRE 626/2023. Păstrat pentru poziții istorice.
+
+---
+
+### Republica Moldova
+
+# AGENȚIA NAȚIONALĂ PENTRU REGLEMENTARE ÎN ENERGETICĂ
+
+HOTĂRÂRE Nr. HANRE486/2017 din 13.12.2017
+
+# cu privire la aprobarea Metodologiei de calculare, aprobare și aplicare a tarifelor reglementate pentru serviciul de transport al energiei electrice
+
+Publicat : 19.01.2018 în MONITORUL OFICIAL Nr. 18-26 art. 72 Data intrării în vigoare
+
+_-_ _Abrogată prin HANRE626 din 27.10.23, MO430 432/16.11.23 art.1098; în vigoare 16.11.23_
+
+ÎNREGISTRAT Ministerul Justiţiei al Republicii Moldova
+
+nr. 1288 din 10 ianuarie 2018
+
+În temeiul art. 7 alin. (2) lit. a) și art. 87 alin. (3) din Legea cu privire la energia electrică nr. 107 din 27 mai 2016 (Monitorul Oficial al Republicii Moldova nr.193-203, art.413 din 08 iulie 2016), în scopul asigurării stabilității, fiabilității, securității și a eficienței funcționării sistemului de transport al energiei electrice și a livrărilor de energie electrică către consumatori la tarife calculate, reieșind din consumurile și cheltuielile reale, strict necesare pentru desfășurarea normală a activității operatorului sistemului de transport, Consiliul de Administrație al Agenției Naționale pentru Reglementare în Energetică
+
+## HOTĂRĂŞTE:
+
+1. Se aprobă Metodologia de calculare, aprobare și aplicare a tarifelor reglementate pentru serviciul de transport al anergiei electrice (se anexează).
+
+2. Prezenta metodologie se aplică pentru o perioadă de cinci ani.
+
+3. Se abrogă Metodologia determinării, aprobării și aplicării tarifelor pentru serviciul de transport al energiei electrice aprobată prin Hotărârea Consiliului de Administrație al Agenției Naționale pentru Reglementare în Energetică nr. 411 din 27 aprilie 2011 (Monitorul Oficial al Republicii Moldova nr.91-94/578 din 3 iunie 2011), cu modificările și completările ulterioare, înregistrată la Ministerul Justiţiei cu nr. 829 din 30 mai 2011.
+
+## Tudor COPACI
+
+Director general
+
+Sergiu CIOBANU, Octavian LUNGU,
+
+director director
+
+Iurie ONICA, Ghenadie PÂRŢU,
+
+director director
+
+Nr. 486/2017. Chişinău, 13 decembrie 2017.
+
+metodologie

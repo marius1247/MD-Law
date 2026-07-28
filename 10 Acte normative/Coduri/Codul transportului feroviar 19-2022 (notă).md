@@ -5,8 +5,8 @@ act: "[[Codul transportului feroviar 19-2022 (text)]]"
 domeniu: ['transport', 'infrastructură']
 enabling_act: "[[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (text)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/Cod transport feroviar 19-2022.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Railway Transport Code — Analysis
 
-**Raw text:** [[Codul transportului feroviar 19-2022 (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Drept comercial]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]]. Analysis based on published act structure and consolidation.
+**Raw text:** [[Codul transportului feroviar 19-2022 (text)]] · **Hub:** [[MOC — Drept comercial]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Overhauls national railway law (replacing Law 309/2003), transposing Directive 2012/34/EU. Mandates institutional unbundling of infrastructure from operations, licensed railway undertakings (OTF), and Railway Authority supervision.
@@ -35,7 +32,7 @@ updated: 2026-07-28
 
 ## 2. Practical legal mechanics & key provisions
 
-*See full text in Uploads once ingested. Key structural elements summarised above in executive summary.*
+*Full article-anchored text in companion `(text)` file — use wikilinks `[[act (text)#Articolul N]]` for citations.*
 
 ---
 
@@ -68,10 +65,10 @@ updated: 2026-07-28
 
 * **Hub:** [[MOC — Drept comercial]]
 * **Procedure:** [[Codul administrativ 116-2018 (notă)]] · [[Codul de procedura civila 225-2003 (notă)]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Codul transportului feroviar 19-2022 (text)]]
 
 ---
 
 ## Sources
 
-Uploads/Cod transport feroviar 19-2022.md — pending migration to `10 Acte normative/`.
+[[Codul transportului feroviar 19-2022 (text)]]

@@ -5,8 +5,8 @@ act: "[[HG 854-2006 — transporturi auto calatori (text)]]"
 domeniu: ['transport', 'rutier']
 enabling_act: "[[Legea 1194-1997 — transporturi (text)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/HG 854-2006.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Passenger Road Transport Regulation — Analysis
 
-**Raw text:** [[HG 854-2006 — transporturi auto calatori (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Drept comercial]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[HG 854-2006 — transporturi auto calatori (text)]] · **Hub:** [[MOC — Drept comercial]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Government regulation on scheduled and occasional passenger road transport: licensing, route authorisation, tariffs, and passenger rights.
@@ -67,7 +64,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Drept comercial]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[HG 854-2006 — transporturi auto calatori (text)]]
 
 ---
 

@@ -5,8 +5,8 @@ act: "[[Legea 231-2010 — comertul interior (text)]]"
 domeniu: ['comercial', 'comerț']
 enabling_act: "[[Legea 235-2006 — principii reglementare intreprinzator (text)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/Legea 231-2010.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Domestic Trade Law — Analysis
 
-**Raw text:** [[Legea 231-2010 — comertul interior (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Drept comercial]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[Legea 231-2010 — comertul interior (text)]] · **Hub:** [[MOC — Drept comercial]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Framework for retail and wholesale trade: trader obligations, consumer information, commercial premises, pricing rules, and market surveillance cooperation.
@@ -67,7 +64,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Drept comercial]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Legea 231-2010 — comertul interior (text)]]
 
 ---
 

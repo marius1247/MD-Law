@@ -5,8 +5,8 @@ act: "[[Legea 1194-1997 — transporturi (text)]]"
 domeniu: ['transport']
 enabling_act: "[[Codul civil 1107-2002 (notă)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/Legea 1194-1997.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Transport Law — Analysis
 
-**Raw text:** [[Legea 1194-1997 — transporturi (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Drept comercial]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[Legea 1194-1997 — transporturi (text)]] · **Hub:** [[MOC — Drept comercial]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** General transport framework predating sectoral codes. Governs carrier liability, transport contracts, licensing of transport activities, and coordination between transport modes.
@@ -67,7 +64,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Drept comercial]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Legea 1194-1997 — transporturi (text)]]
 
 ---
 

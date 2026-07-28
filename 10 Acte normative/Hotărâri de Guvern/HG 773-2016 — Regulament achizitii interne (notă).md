@@ -5,8 +5,8 @@ act: "[[HG 773-2016 — Regulament achizitii interne (text)]]"
 domeniu: ['achiziții', 'guvern']
 enabling_act: "[[Legea 74-2020 — achizitii sectoriale (text)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/HG 773-2016.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Internal Procurement Regulation — Analysis
 
-**Raw text:** [[HG 773-2016 — Regulament achizitii interne (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Achiziții publice & Statul]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[HG 773-2016 — Regulament achizitii interne (text)]] · **Hub:** [[MOC — Achiziții publice & Statul]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Government regulation implementing public procurement procedures for sub-threshold and internal government purchases.
@@ -67,7 +64,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Achiziții publice & Statul]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[HG 773-2016 — Regulament achizitii interne (text)]]
 
 ---
 

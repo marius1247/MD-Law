@@ -5,8 +5,8 @@ act: "[[Legea 171-2012 — piata de capital (text)]]"
 domeniu: ['financiar', 'piață-capital']
 enabling_act: "[[Codul civil 1107-2002 (notă)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/Legea 171-2012.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Capital Market Law — Analysis
 
-**Raw text:** [[Legea 171-2012 — piata de capital (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Drept comercial]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]]. Analysis based on published act structure and consolidation.
+**Raw text:** [[Legea 171-2012 — piata de capital (text)]] · **Hub:** [[MOC — Drept comercial]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Framework for securities issuance, stock exchange operation, investment services, collective investment undertakings, and CNPF supervision of capital markets.
@@ -35,7 +32,7 @@ updated: 2026-07-28
 
 ## 2. Practical legal mechanics & key provisions
 
-*See full text in Uploads once ingested. Key structural elements summarised above in executive summary.*
+*Full article-anchored text in companion `(text)` file — use wikilinks `[[act (text)#Articolul N]]` for citations.*
 
 ---
 
@@ -68,10 +65,10 @@ updated: 2026-07-28
 
 * **Hub:** [[MOC — Drept comercial]]
 * **Procedure:** [[Codul administrativ 116-2018 (notă)]] · [[Codul de procedura civila 225-2003 (notă)]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Legea 171-2012 — piata de capital (text)]]
 
 ---
 
 ## Sources
 
-Uploads/Legea 171-2012.md — pending migration to `10 Acte normative/`.
+[[Legea 171-2012 — piata de capital (text)]]

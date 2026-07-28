@@ -5,8 +5,8 @@ act: "[[Legea 797-1996 — Regulamentul Parlamentului (text)]]"
 domeniu: ['constitutional', 'parlamentar']
 enabling_act: "[[Constituția RM — text]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/Legea 797-1996.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Parliament Regulations Law — Analysis
 
-**Raw text:** [[Legea 797-1996 — Regulamentul Parlamentului (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Proceduri]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[Legea 797-1996 — Regulamentul Parlamentului (text)]] · **Hub:** [[MOC — Proceduri]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Adopts and governs Parliament's internal regulations: legislative procedure, committee system, voting, and parliamentary oversight mechanisms.
@@ -67,7 +64,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Proceduri]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Legea 797-1996 — Regulamentul Parlamentului (text)]]
 
 ---
 

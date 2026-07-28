@@ -5,8 +5,8 @@ act: "[[Legea 179-2008 — parteneriat public-privat (text)]]"
 domeniu: ['comercial', 'PPP']
 enabling_act: "[[Legea 74-2020 — achizitii sectoriale (text)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/Legea 179-2008.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Public-Private Partnership Law — Analysis
 
-**Raw text:** [[Legea 179-2008 — parteneriat public-privat (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Achiziții publice & Statul]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[Legea 179-2008 — parteneriat public-privat (text)]] · **Hub:** [[MOC — Achiziții publice & Statul]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Legal framework for PPP concessions: project selection, feasibility, tendering, risk allocation, and Government guarantee mechanisms for infrastructure projects.
@@ -67,7 +64,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Achiziții publice & Statul]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Legea 179-2008 — parteneriat public-privat (text)]]
 
 ---
 

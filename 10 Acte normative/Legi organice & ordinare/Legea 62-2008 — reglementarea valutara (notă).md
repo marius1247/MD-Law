@@ -5,8 +5,8 @@ act: "[[Legea 62-2008 — reglementarea valutara (text)]]"
 domeniu: ['financiar', 'FX']
 enabling_act: "[[Legea 548-1995 — Banca Nationala a Moldovei (text)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/Legea 62-2008.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Foreign Exchange Regulation Law — Analysis
 
-**Raw text:** [[Legea 62-2008 — reglementarea valutara (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Fiscalitate & Contabilitate]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[Legea 62-2008 — reglementarea valutara (text)]] · **Hub:** [[MOC — Fiscalitate & Contabilitate]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Governs foreign currency transactions, resident/non-resident FX rules, import/export payment terms, and NBM enforcement of exchange controls.
@@ -67,7 +64,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Fiscalitate & Contabilitate]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Legea 62-2008 — reglementarea valutara (text)]]
 
 ---
 

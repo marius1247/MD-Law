@@ -5,8 +5,8 @@ act: "[[HG 280-2024 — program dezvoltare industriala (text)]]"
 domeniu: ['industrial', 'politică']
 enabling_act: "[[Legea 136-2017 — Guvern (text)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/HG 280-2024.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # National Industrial Development Programme 2024-2028 — Analysis
 
-**Raw text:** [[HG 280-2024 — program dezvoltare industriala (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Drept comercial]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[HG 280-2024 — program dezvoltare industriala (text)]] · **Hub:** [[MOC — Drept comercial]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Government policy programme defining industrial development vision, priority sectors, investment targets, and coordination mechanisms for 2024-2028.
@@ -67,7 +64,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Drept comercial]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[HG 280-2024 — program dezvoltare industriala (text)]]
 
 ---
 

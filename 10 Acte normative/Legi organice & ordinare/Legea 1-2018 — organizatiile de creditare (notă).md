@@ -5,8 +5,8 @@ act: "[[Legea 1-2018 — organizatiile de creditare (text)]]"
 domeniu: ['financiar', 'NBFI']
 enabling_act: "[[Legea 548-1995 — Banca Nationala a Moldovei (text)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/Legea 1-2018.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Non-Bank Credit Organizations Law — Analysis
 
-**Raw text:** [[Legea 1-2018 — organizatiile de creditare (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Drept comercial]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]]. Analysis based on published act structure and consolidation.
+**Raw text:** [[Legea 1-2018 — organizatiile de creditare (text)]] · **Hub:** [[MOC — Drept comercial]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Regulates non-bank credit institutions (microfinance, leasing companies, credit unions under NBM perimeter). Establishes licensing, consumer credit rules, and NBM supervision distinct from banking licence.
@@ -35,7 +32,7 @@ updated: 2026-07-28
 
 ## 2. Practical legal mechanics & key provisions
 
-*See full text in Uploads once ingested. Key structural elements summarised above in executive summary.*
+*Full article-anchored text in companion `(text)` file — use wikilinks `[[act (text)#Articolul N]]` for citations.*
 
 ---
 
@@ -68,10 +65,10 @@ updated: 2026-07-28
 
 * **Hub:** [[MOC — Drept comercial]]
 * **Procedure:** [[Codul administrativ 116-2018 (notă)]] · [[Codul de procedura civila 225-2003 (notă)]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Legea 1-2018 — organizatiile de creditare (text)]]
 
 ---
 
 ## Sources
 
-Uploads/Legea 1-2018.md — pending migration to `10 Acte normative/`.
+[[Legea 1-2018 — organizatiile de creditare (text)]]

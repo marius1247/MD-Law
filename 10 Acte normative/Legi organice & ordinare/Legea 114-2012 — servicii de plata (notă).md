@@ -5,8 +5,8 @@ act: "[[Legea 114-2012 — servicii de plata (text)]]"
 domeniu: ['financiar', 'plăți']
 enabling_act: "[[Legea 548-1995 — Banca Nationala a Moldovei (text)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/Legea 114-2012.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Payment Services Law — Analysis
 
-**Raw text:** [[Legea 114-2012 — servicii de plata (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Drept comercial]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[Legea 114-2012 — servicii de plata (text)]] · **Hub:** [[MOC — Drept comercial]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Transposes PSD2 principles. Regulates payment institutions, electronic money, payment initiation, account information services, and NBM authorisation of payment service providers.
@@ -67,7 +64,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Drept comercial]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Legea 114-2012 — servicii de plata (text)]]
 
 ---
 

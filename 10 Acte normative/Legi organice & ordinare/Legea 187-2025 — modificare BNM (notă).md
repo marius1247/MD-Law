@@ -5,8 +5,8 @@ act: "[[Legea 187-2025 — modificare BNM (text)]]"
 domeniu: ['financiar', 'bancar']
 enabling_act: "[[Legea 548-1995 — Banca Nationala a Moldovei (notă)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending, amendment]
-status: draft
+tags: [act-note, analysis, amendment]
+status: active
 upload_source: "Uploads/Legea 187-2025.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Amendment to NBM Law (LP187/2025) — Analysis
 
-**Raw text:** [[Legea 187-2025 — modificare BNM (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Drept comercial]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[Legea 187-2025 — modificare BNM (text)]] · **Hub:** [[MOC — Drept comercial]]
 
 > [!info] Amendment-only act
 > This is a modifying law, not a standalone framework. Analysis focuses on what changed and links to parent acts.
@@ -68,7 +65,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Drept comercial]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Legea 187-2025 — modificare BNM (text)]]
 
 ---
 

@@ -5,8 +5,8 @@ act: "[[Legea 1234-2000 — procedura de alegere (text)]]"
 domeniu: ['electoral', 'administrativ']
 enabling_act: "[[Constituția RM — text]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/Legea 1234-2000.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Electoral Procedure Law — Analysis
 
-**Raw text:** [[Legea 1234-2000 — procedura de alegere (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Proceduri]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[Legea 1234-2000 — procedura de alegere (text)]] · **Hub:** [[MOC — Proceduri]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Governs electoral procedure mechanics complementing the Electoral Code: candidate registration, campaign rules, and voting administration details.
@@ -67,7 +64,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Proceduri]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Legea 1234-2000 — procedura de alegere (text)]]
 
 ---
 

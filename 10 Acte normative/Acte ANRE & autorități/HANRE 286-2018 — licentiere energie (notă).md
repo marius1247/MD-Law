@@ -5,8 +5,8 @@ act: "[[HANRE 286-2018 — licentiere energie (text)]]"
 domeniu: ['energetică', 'licențiere']
 enabling_act: "[[Legea 174-2017 — energetica (text)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/HANRE 286-2018.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # ANRE Energy Licensing Regulation — Analysis
 
-**Raw text:** [[HANRE 286-2018 — licentiere energie (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Energetică]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[HANRE 286-2018 — licentiere energie (text)]] · **Hub:** [[MOC — Energetică]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** ANRE regulation on licensing procedure for energy sector activities: application requirements, evaluation, issuance, modification, suspension and revocation.
@@ -67,7 +64,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Energetică]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[HANRE 286-2018 — licentiere energie (text)]]
 
 ---
 

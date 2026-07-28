@@ -5,8 +5,8 @@ act: "[[Legea 202-2017 — activitatea bancilor (text)]]"
 domeniu: ['financiar', 'bancar']
 enabling_act: "[[Legea 548-1995 — Banca Nationala a Moldovei (text)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/Legea 202-2017.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Banking Activity Law — Analysis
 
-**Raw text:** [[Legea 202-2017 — activitatea bancilor (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Drept comercial]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]]. Analysis based on published act structure and consolidation.
+**Raw text:** [[Legea 202-2017 — activitatea bancilor (text)]] · **Hub:** [[MOC — Drept comercial]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Transposes CRD IV (Directive 2013/36/EU) and CRR (Regulation 575/2013). Replaces Law 550/1995. Establishes Basel III prudential framework: licensing, capital adequacy, liquidity, governance, and NBM supervisory powers.
@@ -35,7 +32,7 @@ updated: 2026-07-28
 
 ## 2. Practical legal mechanics & key provisions
 
-*See full text in Uploads once ingested. Key structural elements summarised above in executive summary.*
+*Full article-anchored text in companion `(text)` file — use wikilinks `[[act (text)#Articolul N]]` for citations.*
 
 ---
 
@@ -68,10 +65,10 @@ updated: 2026-07-28
 
 * **Hub:** [[MOC — Drept comercial]]
 * **Procedure:** [[Codul administrativ 116-2018 (notă)]] · [[Codul de procedura civila 225-2003 (notă)]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Legea 202-2017 — activitatea bancilor (text)]]
 
 ---
 
 ## Sources
 
-Uploads/Legea 202-2017.md — pending migration to `10 Acte normative/`.
+[[Legea 202-2017 — activitatea bancilor (text)]]

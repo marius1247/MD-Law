@@ -1,0 +1,843 @@
+---
+title: "Legea 187-2025 — modificare BNM (text)"
+type: act-text
+act_type: lege-organică
+nr: "187"
+an: 2025
+in_vigoare: true
+continut: text-integral
+text_complet: true
+articole_numarate: 0
+tags: [act, text]
+created: 2026-07-28
+updated: 2026-07-28
+source_ingest: uploads-folder
+---
+# Legea 187-2025 — modificare BNM
+
+> [!info] Sursă & versiune
+> Text preluat din **Uploads/** (legis.md export). Document fără structură pe articole (program, amendament sau regulament pe puncte).
+> Analiză: [[Legea 187-2025 — modificare BNM (notă)]].
+
+---
+
+## Republica Moldova
+## PARLAMENTUL
+LEGE Nr. LP187/2025
+din 10.07.2025
+pentru modificarea unor acte normative
+Publicat : 18.07.2025 în MONITORUL OFICIAL Nr. 379-380 art. 491 Data intrării în vigoare
+Parlamentul adoptă prezenta lege organică.
+Art. I. – Articolul 17 din Legea nr. 548/1995 cu privire la Banca Națională a Moldovei
+(republicată  în  Monitorul  Oficial  al  Republicii  Moldova,  2015,  nr.297–300,  art.544),  cu
+modificările ulterioare, se modifică după cum urmează:
+la alineatul (1), cuvintele „prin reținerea banilor în numerar în casa băncilor sau” se
+exclud;
+alineatul (4) va avea următorul cuprins:
+„(4)  În  cazul  nerespectării  de  către  bănci  a  cerințelor  stabilite  privind  rezervele
+obligatorii, Banca Națională percepe o dobândă, calculată prin aplicarea la suma deficitului
+mediu  de  rezerve  a  dublului  ratei  dobânzii  medii  ponderate  la  facilitatea  de  creditare
+overnight pe zi, valabilă în perioada înregistrării deficitului, înmulțită cu numărul de zile din
+perioada corespunzătoare de aplicare. Dobânda se încasează în bugetul Băncii Naționale
+prin deducerea incontestabilă din contul băncii aflat la Banca Națională.”
+Art. II. – Codul fiscal nr.1163/1997 (republicat în Monitorul Oficial al Republicii
+Moldova, ediție specială din 8 februarie 2007), cu modificările ulterioare, se modifică după
+cum urmează:
+- La articolul 11 alineatul (3), cuvântul „ilicit” se substituie cu cuvântul „eronat”.
+- La articolul 19 litera e) liniuța întâi, cuvintele „baza valorică” se substituie cu
+cuvintele „valoarea neamortizată în scopuri fiscale”, iar în final se introduce textul „ ,
+începând cu luna în care bunul a fost dat în folosință salariatului, valoare care rămâne
+neschimbată pe întreaga durată de folosință a bunului”.
+- La articolul 20:
+litera c
+## 1
+) va avea următorul cuprins:
+## „c
+## 1
+) plățile suportate de angajator, în mărime ce nu depășește valoarea de 2500 de lei
+lunar  pentru  fiecare  copil  al  salariatului,  pentru  organizarea  serviciilor  alternative  de
+îngrijire  a  copiilor  sau  plățile  efectuate,  în  folosul  salariatului,  în  scopul  compensării
+costurilor pentru serviciile alternative de îngrijire a copiilor cu vârsta de până la 3 ani;”
+
+la litera d
+## 6
+), după textul „alin. (19),” se introduce textul „(19
+## 1
+## ),”;
+litera d
+## 11
+) va avea următorul cuprins:
+## „d
+## 11
+)  compensarea  cheltuielilor  funcționarilor  publici,  persoanelor  cu  funcții  de
+demnitate publică, precum și lucrătorilor medico-sanitari și farmaceutici care activează în
+instituțiile  medico-sanitare  publice,  care  își  exercită  atribuțiile  de  serviciu  într-o  altă
+localitate decât cea în care își au domiciliu, pentru transportul tur-retur și/sau pentru
+închirierea spațiului locativ, în mărimea și modul stabilite de Guvern;”.
+## 4. Articolul 24:
+la alineatul (19
+## 3
+) litera c), după textul „de la intermediarii acestora,” se introduce
+textul  „și/sau  compensarea  cheltuielilor  suportate  de  salariați  în  structurile  de  primire
+turistică din zonele rurale ale Republicii Moldova, inclusiv a cheltuielilor aferente tichetelor
+de vacanță,”;
+alineatul (26) va avea următorul cuprins:
+„(26) Se permite deducerea cheltuielilor suportate de angajator, în mărime ce nu
+depășește  valoarea  de  2500  de  lei  lunar  pentru  fiecare  copil  al  salariatului,  pentru
+organizarea serviciilor alternative de îngrijire a copiilor sau pentru plățile efectuate, în
+folosul salariatului, în scopul compensării costurilor pentru serviciile alternative de îngrijire
+a copiilor cu vârsta de până la 3 ani.”
+la alineatul (27), cuvântul „opțiunilor” se substituie cu cuvântul „opționului”.
+- Articolul 33 se completează cu alineatul (1
+## 1
+) cu următorul cuprins:
+## „(1
+## 1
+) La determinarea cuantumului venitului anual impozabil prevăzut la alin. (1),
+persoana  fizică  rezidentă  va  ține  cont  inclusiv  de  veniturile  obținute  din  activitatea
+desfășurată conform regimurilor fiscale stipulate la cap. 10
+## 2
+și 10
+## 3
+din titlul II.”
+- La articolul 39 alineatul (2) litera d), cuvântul „opțiune” se substituie cu cuvântul
+„opțion”, iar cuvântul „opțiuni” – cu cuvântul „opționul”.
+- La articolul 49 alineatul (2), cuvintele „persoanelor fizice sau juridice” se substituie
+cu cuvintele „persoanelor fizice care desfășoară activitate de întreprinzător sau persoanelor
+juridice”.
+- La articolul 71 alineatul (1):
+litera c) se completează cu textul „ , cu excepția veniturilor sub formă de creștere de
+capital  aferente  valorilor  mobiliare  de  stat  și/sau  aferente  obligațiunilor  emise  de
+autoritățile  administrației  publice  locale”;
+litera  f)  se  completează  cu  textul  „  ,  cu  excepția  dobânzilor  aferente  valorilor
+mobiliare de stat și/sau aferente obligațiunilor emise de autoritățile administrației publice
+locale, obținute de către persoanele fizice nerezidente care nu desfășoară activitate de
+întreprinzător pe teritoriul Republicii Moldova”.
+
+- La articolul 74 alineatul (2), textul „ , îndeplinesc cerințele alin. (3),” se exclude.
+- La articolul 83 alineatul (2) litera c), textul „art. 51
+## 2
+și 51
+## 3
+” se substituie cu textul
+## „art. 51
+## 2
+## –51
+## 4
+## ”.
+- La articolul 95, alineatul (2) se completează cu litera j) cu următorul cuprins:
+„j)  livrarea  autoturismelor  și  a  altor  autovehicule  clasificate  la  pozițiile  tarifare
+870321, 870322, 870323, 870324, 870331, 870332, 870333, 870340, 870350000, 870360,
+870370000, 870380, 9705 în baza contractelor de leasing financiar încheiate până la data
+de 1 ianuarie 2026.”
+- Articolul 96 litera b):
+la liniuța a doua, după textul „Agenția Medicamentului și Dispozitivelor Medicale,” se
+introduce textul „la mărfurile înregistrate în Registrul de stat al dispozitivelor medicale,”;
+la liniuța a zecea, textul „ex. 9619 tampoane igienice și tampoane interne pentru
+femei” se substituie cu textul „ex. 9619 tampoane igienice, tampoane interne pentru femei
+și absorbante (tampoane) pentru fiecare zi pentru femei”.
+- La articolul 103:
+alineatul (1) se completează cu punctul 34) cu următorul cuprins:
+„34)  serviciile  de  împădurire/reîmpădurire  și  reabilitare  a  pădurilor  din  cadrul
+Programului național de extindere și reabilitare a pădurilor pentru anii 2023–2032.”
+la alineatul (3), textul ,,mărfurile supuse accizelor,” se exclude.
+- La articolul 117, alineatul (1
+## 2
+) va avea următorul cuprins:
+## „(1
+## 2
+)  La  executarea  contractelor  atribuite  conform  Legii  nr.  131/2015  privind
+achizițiile  publice,  Legii  nr.  74/2020  privind  achizițiile  în  sectoarele  energeticii,  apei,
+transporturilor și serviciilor poștale, Legii nr. 22/2025 privind concesiunile de lucrări și
+concesiunile de servicii, legii privind atribuirea anumitor contracte de achiziții publice în
+domeniile apărării și securității și conform Regulamentului cu privire la achizițiile publice
+de valoare mică, aprobat prin Hotărârea Guvernului nr. 870/2022, agentul economic este
+obligat să prezinte cumpărătorului (beneficiarului) pentru livrare factura fiscală electronică
+(e-factura). Prevederile prezentului alineat nu se aplică pentru livrările de energie electrică,
+de  energie  termică,  de  gaze  naturale,  pentru  serviciile  de  comunicații  electronice  și
+serviciile comunale, nici celor efectuate ca urmare a executării contractelor care intră în
+domeniul de aplicare al legii privind atribuirea anumitor contracte de achiziții publice în
+domeniile apărării și securității dacă acestea sunt declarate secrete sau necesită măsuri
+speciale de securitate, conform legislației naționale.”
+- La articolul 124, alineatul (6) se abrogă.
+- La articolul 125:
+
+denumirea articolului va avea următorul cuprins:
+„Articolul 125. Trecerea la cont, achitarea și restituirea
+accizelor achitate”;
+articolul se completează cu alineatul (2
+## 3
+) cu următorul cuprins:
+## ,,(2
+## 3
+) În cazul mărfurilor supuse accizelor plasate în regim vamal de liberă circulație
+(import) care anterior au fost plasate sub regim vamal de perfecționare activă, acciza se
+calculează și se achită la momentul plasării mărfurilor în regim vamal de liberă circulație
+(import), antrepozitarul fiscal fiind exonerat de obligația de calculare a accizei la momentul
+expedierii (transportării) mărfurilor din antrepozitul fiscal.”
+- Anexa nr. 1 la titlul IV se completează cu note cu următorul cuprins:
+„Note. Pentru țigaretele cu filtru și fără filtru care conțin tutun de la poziția tarifară
+240220, o bucată de țigaretă este considerată a reprezenta:
+– o țigaretă dacă, exceptând filtrul sau muștiucul, are o lungime nu mai mare de 8 cm;
+– două țigarete dacă, exceptând filtrul sau muștiucul, are o lungime mai mare de 8
+cm, dar nu depășește 11 cm;
+– trei țigarete dacă, exceptând filtrul sau muștiucul, are o lungime mai mare de 11
+cm, dar nu depășește 14 cm;
+– și așa mai departe corespunzător pasului de 3 cm.”
+- La articolul 131, alineatul (11) va avea următorul cuprins:
+„(11) Comunicarea de la Serviciul Fiscal de Stat către persoanele menționate la art.
+187 alin. (2
+## 1
+), inclusiv aducerea la cunoștință a actelor administrative, a citațiilor, a altor
+acte  sau  răspunsuri  la  adresări,  se  face  prin  intermediul  cutiei  poștale  din  cabinetul
+electronic personal al contribuabilului de pe portalul Serviciului Fiscal de Stat sau prin
+intermediul portalului guvernamental al unităților de drept. Documentele menționate se
+consideră  recepționate  din  momentul  intrării  în  cutia  poștală  din  cabinetul  electronic
+personal al contribuabilului de pe portalul Serviciului Fiscal de Stat sau din următoarea zi
+lucrătoare zilei în care au fost remise prin intermediul portalului guvernamental al unităților
+de drept.”
+## 19. Articolul 226
+## 19
+va avea următorul cuprins:
+„Articolul 226
+## 19
+. Întocmirea și prezentarea informației
+privind prețurile de transfer și a dosarului
+privind prețurile de transfer
+(1) Contribuabilul care înregistrează tranzacții cu persoane afiliate cu o valoare totală
+
+pe parcursul unei perioade fiscale, calculată prin însumarea valorii tranzacțiilor efectuate cu
+toate persoanele afiliate, fără TVA, egală sau mai mare de 20 000 000 de lei este obligat să
+întocmească informația privind prețurile de transfer și, la solicitarea Serviciului Fiscal de
+Stat, dosarul prețurilor de transfer.
+(2) Informația privind prețurile de transfer se prezintă nu mai târziu de data de 25 a
+lunii a șasea după finele perioadei fiscale de gestiune.
+(3)  Dosarul  prețurilor  de  transfer  este  întocmit  și  prezentat  de  contribuabilul
+specificat la alin. (1), la solicitarea Serviciului Fiscal de Stat, în termen de 120 de zile din
+momentul solicitării, dar nu mai devreme de termenul de depunere a informației privind
+prețurile de transfer.
+(4) Tranzacțiile controlate care fac obiectul unui acord de preț în avans nu participă la
+stabilirea pragurilor și documentării tranzacțiilor prevăzute la alin. (1).
+(5) Contribuabilul are dreptul să prezinte informația privind prețurile de transfer
+corectată, în conformitate cu art. 188.
+(6) Contribuabilul are dreptul să prezinte dosarul prețurilor de transfer corectat în
+termen de până la 30 de zile din data comunicării deciziei Serviciului Fiscal de Stat privind
+ajustarea/estimarea prețurilor de transfer.
+(7) În scopul determinării pragului și al documentării tranzacțiilor prevăzute la alin.
+(1) nu se iau în considerare avansurile primite/acordate, diferențele de curs și diferențele de
+reevaluare  a  activelor  și  a  datoriilor  reflectate  în  evidența  contabilă  ca  rezultat  al
+tranzacțiilor efectuate cu persoanele afiliate, cu excepția tranzacțiilor de schimb valutar. În
+scopul determinării pragului pentru tranzacții legate de leasing, credit, împrumut se iau în
+calcul exclusiv dobânzile prevăzute la art. 12 pct. 7), calculate pe parcursul perioadei
+fiscale.
+(8)  Forma,  conținutul  și  modul  de  prezentare  a  informației  privind  prețurile  de
+transfer și a dosarului prețurilor de transfer se stabilesc de către Ministerul Finanțelor.
+(9) Prezentul articol nu se aplică persoanelor fizice cetățeni ai Republicii Moldova
+care nu practică activitate de întreprinzător.”
+- La articolul 290, litera p) va avea următorul cuprins:
+„p) taxa pentru salubrizare – persoanele fizice care, conform situației din 1 martie a
+anului în curs, sunt înregistrate la adresa declarată ca domiciliu sau sunt proprietari ai
+bunurilor imobile cu destinație locativă, conform situației din 1 martie a anului în curs. În
+cazul în care în calitate de subiecți ai impunerii sunt stabiliți proprietarii bunurilor imobile
+cu destinație locativă, pentru bunurile care se află în proprietate comună în devălmășie sau
+în  diviziune,  subiectul  impunerii  va  fi  determinat  de  autoritatea  administrației  publice
+locale;”.
+- La articolul 291 alineatul (1), litera p) va avea următorul cuprins:
+
+„p) taxa pentru salubrizare – numărul de persoane fizice care, conform situației din 1
+martie a anului în curs, sunt înregistrate la adresa declarată ca domiciliu sau numărul de
+bunuri imobile cu destinație locativă deținute în proprietate, conform situației din 1 martie a
+anului în curs;”.
+- La articolul 297, alineatul (7) se completează cu următorul enunț: „Pentru taxa
+locală specificată la art. 289 alin. (2) lit. p), autoritatea administrației publice locale este în
+drept  să  stabilească  anual  în  calitate  de  subiect  al  impunerii  o  singură  categorie  de
+persoane dintre cele menționate la art. 290 lit. p).”
+- În anexa la titlul VII, litera p) va avea următorul cuprins:
+p) Taxă
+pentru
+salubrizare
+Numărul de persoane fizice
+care, conform situației din 1
+martie a anului în curs, sunt
+înregistrate la adresa declarată
+ca domiciliu sau numărul de
+bunuri imobile cu destinație
+locativă deținute în proprietate,
+conform situației din 1 martie a
+anului în curs
+Lei anual pentru
+fiecare domiciliat
+înscris la adresa
+respectivă sau
+pentru fiecare
+bun imobil cu
+destinație locativă
+Anual, până la data
+de 25 septembrie a
+anului în curs
+- La articolul 305, alineatul (2) va avea următorul cuprins:
+,,(2) Elaborarea normelor de extragere și/sau de utilizare a apei se efectuează de
+către  Instituția  Publică  Administrația  Națională  „Apele  Moldovei”,  iar  controlul  asupra
+cantității de apă extrasă se efectuează de către Inspectoratul pentru Protecția Mediului.”
+- La articolul 342, alineatele (1), (1
+## 1
+) și (2) se abrogă.
+- La articolul 342
+## 1
+alineatul (3), textul „ , raportarea” se exclude.
+- La articolul 351 alineatul (3), cuvintele „se constituie din suma taxelor calculate”
+se substituie cu cuvintele „se calculează la cota celei mai mari taxe dintre taxa calculată”.
+- Articolul 373 se completează cu alineatul (1
+## 1
+) cu următorul cuprins:
+## „(1
+## 1
+) Calculul și raportarea impozitului unic ca rezultat al ajustării conform cap. 11
+## 2
+din titlul V se efectuează prin prezentarea unei dări de seamă cu privire la impozitul unic
+pentru tranzacții cu persoane afiliate către Serviciul Fiscal de Stat până la data de 25 a lunii
+a șasea după finele perioadei fiscale, stabilite în conformitate cu art. 12
+## 1
+. Formularul și
+modul de completare a dării de seamă se aprobă de către Ministerul Finanțelor.”
+Art. III. – Legea nr. 489/1999 privind sistemul public de asigurări sociale (Monitorul
+Oficial al Republicii Moldova, 2000, nr. 1–4, art. 2), cu modificările ulterioare, se modifică
+după cum urmează:
+- La articolul 17 alineatul (3
+## 1
+), textul „95%” se substituie cu textul „70%”.
+- La anexa nr. 1 punctul 1.5 prima coloană, textul „95%” se substituie cu textul
+## „70%”.
+- Anexa nr. 3:
+
+se completează cu punctul 10
+## 1
+) cu următorul cuprins:
+## „10
+## 1
+)  compensarea  cheltuielilor  funcționarilor  publici,  persoanelor  cu  funcții  de
+demnitate publică, precum și lucrătorilor medico-sanitari și farmaceutici care activează în
+instituțiile  medico-sanitare  publice,  care  își  exercită  atribuțiile  de  serviciu  într-o  altă
+localitate decât cea în care își au domiciliu, pentru transportul tur-retur și/sau pentru
+închirierea spațiului locativ, în mărimea și modul stabilite de Guvern;”
+punctul 42) va avea următorul cuprins:
+„42) plățile suportate de angajator, în mărime ce nu depășește valoarea de 2500 de lei
+lunar  pentru  fiecare  copil  al  salariatului,  pentru  organizarea  serviciilor  alternative  de
+îngrijire  a  copiilor  sau  plățile  efectuate,  în  folosul  salariatului,  în  scopul  compensării
+costurilor pentru serviciile alternative de îngrijire a copiilor cu vârsta de până la 3 ani;”.
+Art. IV. ‒ Articolul 4 din Legea nr. 1054/2000 pentru punerea în aplicare a titlului IV
+din Codul fiscal (republicată în Monitorul Oficial al Republicii Moldova, ediție specială din 8
+februarie 2007), cu modificările ulterioare, se completează cu alineatul (8
+## 2
+) cu următorul
+cuprins:
+## „(8
+## 2
+) Persoanele juridice a căror activitate se atribuie la secțiunea G grupa 45.1 din
+Clasificatorul activităților din economia Moldovei sunt în drept să solicite restituirea sumei
+accizelor,  cu  excepția  accizei  suplimentare,  achitate  la  punerea  în  liberă  circulație  a
+mijloacelor de transport aflate în stoc (activelor circulante) la situația din 31 decembrie
+2025, clasificate la pozițiile tarifare 870321, 870322, 870323, 870324, 870331, 870332,
+870333,  870340,  870350000,  870360,  870370000,  870380,  9705,  pentru  stocurile
+comercializate începând cu 1 ianuarie 2026. Restituirea accizei se efectuează în modul
+stabilit de Guvern.”
+Art. V. – La articolul 4 alineatul (2) din Legea nr. 1056/2000 pentru punerea în
+aplicare a titlului VI din Codul fiscal (republicată în Monitorul Oficial al Republicii Moldova,
+ediție specială din 8 februarie 2007), cu modificările ulterioare, cifrele „2026” se substituie
+cu cifrele „2028”.
+Art. VI. ‒ Articolul 183 din Codul civil nr. 1107/2002 (republicat în Monitorul Oficial
+al Republicii Moldova, 2019, nr. 66–75, art. 132), cu modificările ulterioare, se completează
+cu alineatul (4
+## 1
+) cu următorul cuprins:
+## „(4
+## 1
+) Comunicarea autorităților publice cu persoanele juridice/persoanele fizice care
+practică  activitate  de  întreprinzător  se  efectuează  prin  intermediul  portalului
+guvernamental  al  unităților  de  drept.  Documentele  se  consideră  recepționate  din
+următoarea  zi  lucrătoare  zilei  în  care  au  fost  remise  prin  intermediul  portalului
+guvernamental  al  unităților  de  drept.”
+Art. VII. – La articolul 89 alineatul (3) din Codul de procedură civilă al Republicii
+Moldova nr. 225/2003 (republicat în Monitorul Oficial al Republicii Moldova, 2018, nr.
+285–294, art. 436), cu modificările ulterioare, cuvintele „în termen de cel mult un an de la
+data emiterii încheierii” se substituie cu textul „în termen de cel mult 3 ani de la data
+
+apariției  dreptului  la  restituire.  Restituirea  sumei  de  bani  plătite  ca  taxă  de  stat  se
+efectuează de către Serviciul Fiscal de Stat conform modului stabilit de Guvern”.
+Art. VIII. ‒ Capitolul XIII din Codul de executare al Republicii Moldova nr. 443/2004
+(republicat în Monitorul Oficial al Republicii Moldova, 2010, nr. 214–220, art. 704), cu
+modificările ulterioare, se completează cu articolul 160
+## 1
+cu următorul cuprins:
+„Articolul 160
+## 1
+. Restituirea amenzii contravenționale
+în baza actului judecătoresc irevocabil
+Prin derogare de la prevederile art. 157–160, dacă instanța de judecată care a încetat
+procesul  contravențional  a  anulat  sau  a  declarat  nul  procesul-verbal  cu  privire  la
+contravenție/decizia asupra cauzei contravenționale și nu a soluționat chestiunea cu privire
+la restituirea amenzii contravenționale, restituirea amenzilor achitate urmează a fi efectuată
+de către Serviciul Fiscal de Stat la cererea persoanei interesate. Cererea poate fi depusă la
+Serviciul Fiscal de Stat în termen de cel mult 3 ani de la rămânerea irevocabilă a hotărârii
+judecătorești. La cerere se anexează actul judecătoresc irevocabil în original prin care s-a
+dispus încetarea procesului contravențional, anularea sau declararea nulității procesului-
+verbal  cu  privire  la  contravenție/deciziei  asupra  cauzei  contravenționale.  Restituirea  se
+efectuează  cu  condiția  că  persoana  nu  înregistrează  restanțe  față  de  bugetul  public
+național.”
+Art. IX.  –  La  anexa  nr.5  din  Legea  nr.231/2010  cu  privire  la  comerțul  interior
+(republicată în Monitorul Oficial al Republicii Moldova, 2021, nr. 230–237, art.262), cu
+modificările  ulterioare,  compartimentul  „L.  ALTE  UNITĂȚI  DE  PRESTĂRI  SERVICII”  se
+completează cu poziția „111” cu următorul cuprins:
+## 111HALĂ DE PRODUCERE ȘI
+## COMERCIALIZARE LA
+## COMANDĂ
+Unitate comercială în care se prelucrează
+lemnul, se produce și se comercializează
+mobilier variat la comandă
+Art. X. – Codul transporturilor rutiere nr. 150/2014 (Monitorul Oficial al Republicii
+Moldova, 2014, nr. 247–248, art. 568), cu modificările următoare, se modifică după cum
+urmează:
+- La articolul 81:
+alineatul (2) se completează cu litera e) cu următorul cuprins:
+,,e)  notificarea  la  Agenție  a  sistemului  (platformei)  electronic  (electronice)  de
+management utilizat pentru preluarea comenzilor.”
+alineatul (3) se completează cu următorul text: ,,În termen de 10 zile lucrătoare de la
+înregistrare, persoanele juridice care pun spre utilizare pe teritoriul Republicii Moldova
+sisteme  (platforme)  electronice  de  management  vor  notifica  Agenția  despre  serviciile
+prestate. Pentru notificare la Agenție se prezentă următoarele acte:
+a)  notificarea  Agenției  privind  punerea  spre  utilizare  a  sistemului  (platformei)
+electronic (electronice) de management;
+
+b)  ⁠declarația  pe  propria  răspundere  privind  conectarea  la  platformă  exclusiv  a
+unităților de transport înregistrate în Registru;
+c)  ⁠declarația  pe  propria  răspundere  privind  respectarea  cadrului  național  privind
+protecția datelor cu caracter personal.
+Agenția plasează pe pagina sa web oficială informația privind sistemele (platformele)
+electronice de management notificate.”
+alineatul (4) se completează cu următorul text: „Admiterea la sistemele (platformele)
+electronice de management a unităților de transport care nu dețin extras din Registru
+atrage răspunderea contravențională. Sancționarea contravențională pentru admiterea la
+sistemele (platformele) electronice de management a unităților de transport care nu dețin
+extras din Registru de 5 ori în decursul a 12 luni consecutive duce la suspendarea activității
+sistemelor  (platformelor)  electronice  de  management  pe  teritoriul  Republicii  Moldova.
+Procedura de suspendare și restabilire a activității sistemelor (platformelor) electronice de
+management pe teritoriul Republicii Moldova este stabilită de Guvern.”
+- La articolul 88 alineatul (3), litera e) va avea următorul cuprins:
+„e) copia deciziei organului executiv al autorității administrației publice locale cu
+privire la aprobarea amenajării autogării, în cazul autogărilor noi;”.
+Art. XI. – Articolul 105 din Codul educației al Republicii Moldova nr. 152/2014
+(Monitorul  Oficial  al  Republicii  Moldova,  2014,  nr.  319–324,  art.  634),  cu  modificările
+ulterioare, se modifică după cum urmează:
+la alineatul (3), după textul „departamente/catedre” se introduce textul „/subdiviziuni
+de cercetare”;
+la  alineatul  (4),  textul  „cu  2  luni  înainte  de  expirarea  mandatului  rectorului  în
+exercițiu” se substituie cu textul „înainte de expirarea mandatului rectorului în exercițiu, în
+conformitate cu regulamentul-cadru aprobat de Ministerul Educației și Cercetării”;
+la alineatul (8), textul „cadrelor didactice, științifico-didactice și științifice titulare și a
+reprezentanților  studenți  din  senat  și  din  consiliile  facultăților”  se  substituie  cu  textul
+„cadrelor didactice, științifico-didactice și științifice titulare, inclusiv a decanilor, a șefilor de
+departamente/catedre/subdiviziuni  de  cercetare  aleși  prin  concurs,  și  a  reprezentanților
+studenți din senat și din consiliile facultăților, asigurând publicarea listei persoanelor cu
+drept de vot”.
+Art.  XII.  –  În  anexa  la  Legea  nr.  172/2014  privind  aprobarea  Nomenclaturii
+combinate a mărfurilor (Monitorul Oficial al Republicii Moldova, 2014, nr.231–237, art.529),
+cu modificările ulterioare, la capitolul 48 pozițiile tarifare 4804 și 4805, inclusiv subpozițiile
+tarifare, coloana a patra, cifra „5” se substituie, în toate cazurile, cu cifra „0”.
+Art. XIII. – Articolul 26 din Legea nr. 131/2015 privind achizițiile publice (republicată
+în Monitorul Oficial al Republicii Moldova, 2018, nr. 424–429, art. 666), cu modificările
+ulterioare, se completează cu alineatul (6
+## 1
+) cu următorul cuprins:
+
+„(6¹) În aplicarea criteriului de atribuire cel mai bun raport calitate-preț sau cel mai
+bun  raport  calitate-cost,  autoritatea  contractantă  poate  acorda  un  punctaj  suplimentar
+ofertelor  care  integrează  elemente  suplimentare  legate  de  sustenabilitatea  economică,
+socială și ecologică a ofertelor, inclusiv contribuția la dezvoltarea regională echilibrată,
+integrarea într-un lanț de aprovizionare scurt, promovarea întreprinderilor mici și mijlocii,
+precum și susținerea capacității de producție locale, în măsura în care aceste criterii sunt
+relevante  pentru  obiectul  contractului,  sunt  formulate  în  mod  nediscriminatoriu,
+proporțional  și  transparent  și  respectă  angajamentele  internaționale  ale  Republicii
+## Moldova.”
+Art. XIV. – Legea nr.179/2016 cu privire la întreprinderile mici și mijlocii (Monitorul
+Oficial al Republicii Moldova, 2016, nr.306–313, art. 651), cu modificările ulterioare, se
+modifică după cum urmează:
+## 1. Articolul 1:
+la alineatul (1), textul „întreprinderilor micro, mici și mijlocii” se substituie cu textul
+„microîntreprinderilor, al întreprinderilor mici și mijlocii”;
+la alineatul (2), textul „întreprinderilor micro, mici și mijlocii” se substituie cu textul
+„microîntreprinderilor, a întreprinderilor mici și mijlocii”;
+la alineatul (3), textul „întreprinderilor micro, mici și mijlocii” se substituie cu textul
+„microîntreprinderilor, ale întreprinderilor mici și mijlocii”.
+-  La  articolul  2  alineatul  (1),  textul  „întreprinderile  micro,  mici  și  mijlocii”  se
+substituie cu textul „microîntreprinderile, întreprinderile mici și mijlocii”.
+## 3. Articolul 3:
+se completează, în ordine alfabetică, cu următoarele noțiuni:
+„fond de fonduri – instrument financiar prin care se alocă resurse financiare publice
+către mai mulți parteneri investiționali, care, la rândul lor, mobilizează resurse financiare
+private  și  instituționale  și  investesc  în  beneficiari  finali  (de  exemplu,  întreprinderi  cu
+potențial de creștere în sectoare de importanță majoră, start-upuri tehnologice);”
+„partener investițional – fond de investiții (local, regional sau internațional), societate
+pe acțiuni care efectuează investiții, societate de administrare a investițiilor, organism de
+plasament colectiv alternativ;
+parteneriat  strategic  în  domeniul  microîntreprinderilor,  al  întreprinderilor  mici  și
+mijlocii – cooperare stabilită în cadrul unui acord între autoritățile publice cu competențe în
+domeniul dezvoltării antreprenoriatului și organizațiile necomerciale în vederea realizării
+politicilor în domeniul microîntreprinderilor, al întreprinderilor mici și mijlocii;”
+„tranșă de primă pierdere (first loss tranche) – componentă a structurii de capital a
+unui partener investițional care este plasată într-o poziție subordonată față de celelalte
+tranșe de finanțare. Aceasta este acoperită, de regulă, de o instituție publică cu scopul de a
+
+absorbi primele pierderi generate de investițiile eșuate din portofoliu. Rolul tranșei de
+primă pierdere este de a reducere riscul pentru investitori privați și instituționali prin
+oferirea unui mecanism de protecție împotriva pierderilor inițiale. Astfel, aceasta are un
+efect catalizator, încurajând atragerea de capital privat și instituțional.”
+la noțiunea „instrumente de susținere”, cuvântul „programe” se substituie cu cuvântul
+## „produse”.
+- La articolul 4:
+alineatul (1) va avea următorul cuprins:
+„(1) Se definesc ca fiind microîntreprinderi, întreprinderi mici și mijlocii (IMM-uri)
+întreprinderile care îndeplinesc cumulativ următoarele condiții:
+a) au un număr mediu anual de salariați (numărul mediu scriptic al personalului în
+perioada de gestiune) ce nu depășește 249;
+b) realizează o cifră de afaceri anuală netă (venituri din vânzări și prestări servicii) ce
+nu depășește 25 de milioane de euro, echivalent în lei moldovenești, sau dețin active totale
+(active imobilizate și active circulante) ce nu depășesc 21,5 milioane de euro, echivalentul în
+lei moldovenești, conform ultimei situații financiare aprobate.”
+articolul se completează cu alineatul (3) cu următorul cuprins:
+„(3) La calcularea echivalentului în lei moldovenești pentru determinarea cifrei de
+afaceri și active totale, valoarea de referință se consideră cursul mediu anual pentru anul de
+calcul.”
+- La articolul 5, alineatul (1) va avea următorul cuprins:
+„(1) În funcție de numărul mediu anual de salariați, de cifra anuală de afaceri sau de
+totalul activelor pe care le dețin, întreprinderile mici și mijlocii se clasifică în următoarele
+categorii:
+a) microîntreprindere – are cel mult 9 salariați și realizează o cifră de afaceri anuală
+netă ce nu depășește 2 milioane de euro, echivalent în lei moldovenești, sau deține active
+totale ce nu depășesc 2 milioane de euro, echivalent în lei moldovenești;
+b) întreprindere mică – are cel puțin 10 și cel mult 49 de salariați și realizează o cifră
+de afaceri anuală netă ce nu depășește 10 milioane de euro, echivalent în lei moldovenești,
+sau deține active totale ce nu depășesc 10 milioane de euro, echivalent în lei moldovenești;
+c) întreprindere mijlocie – are minim 50 și cel mult 249 de salariați și realizează o
+cifră de afaceri anuală netă ce nu depășește 25 de milioane de euro, echivalent în lei
+moldovenești, sau deține active totale ce nu depășesc 21,5 milioane de euro, echivalent în
+lei moldovenești.”
+## 6. Articolul 6:
+
+la alineatul (1), textul „întreprindere micro, mică și mijlocie” se substituie cu textul
+„microîntreprindere, întreprindere mică și mijlocie”;
+alineatul (3) se completează cu litera h) cu următorul cuprins:
+„h) informațiile privind întreprinderile partenere sau legate.”
+articolul se completează cu alineatul (3
+## 1
+) cu următorul cuprins:
+## „(3
+## 1
+)  Modelul  tipizat  al  declarațiilor  se  aprobă  de  organizațiile  sau
+autoritățile/instituțiile publice care administrează instrumente de susținere pentru IMM-
+uri.”
+## 7. Articolul 9:
+la alineatul (1) litera a), cuvintele „programe de stat” se substituie cu cuvintele
+„instrumente de susținere”;
+alineatul (3):
+la litera a), cuvintele „programelor de stat” se substituie cu cuvintele „instrumentelor
+de susținere”;
+la litera b), cuvântul „programelor” se substituie cu cuvintele „instrumentelor de
+susținere”;
+la litera d), cuvintele „programelor naționale de asistență” se substituie cu cuvintele
+„instrumentelor de susținere”;
+la alineatul (4), cuvântul „private” se substituie cu cuvintele „organizații comerciale
+sau necomerciale”;
+la alineatele (6) și (7), cuvintele „programe” și „programelor” se substituie, respectiv,
+cu cuvintele „instrumente” și „instrumentelor”.
+- La articolul 10 alineatul (2) litera d), cuvântul „programelor” se substituie cu
+cuvântul „instrumentelor”.
+## 9. Articolul 11:
+în denumirea articolului, cuvintele „Programele de stat” se substituie cu cuvintele
+„Instrumentele de susținere”;
+la alineatul (1), cuvintele „Programele de stat de susținere” se substituie cu cuvintele
+„Instrumentele de susținere de stat”, iar textul „întreprinderilor micro, mici și mijlocii” – cu
+textul „microîntreprinderilor, a întreprinderilor mici și mijlocii”;
+la alineatul (2) partea introductivă, cuvintele „programelor de stat” se substituie cu
+cuvintele „instrumentelor de susținere”;
+alineatul (3):
+
+în cuprinsul alineatului, cuvântul „program”, la orice formă gramaticală, se substituie
+cu cuvântul „instrument” la forma gramaticală corespunzătoare;
+alineatul se completează cu litera a
+## 1
+) cu următorul cuprins:
+## „a
+## 1
+)  categoria  IMM-urilor  cărora  le  este  destinată  susținerea  prin  intermediul
+instrumentului de susținere;”
+alineatul (4) va avea următorul cuprins:
+„(4)  Monitorizarea  procesului  de  implementare  a  instrumentelor  de  susținere  a
+dezvoltării  sectorului  întreprinderilor  mici  și  mijlocii  finanțate  din  bugetul  de  stat  se
+efectuează de către Ministerul Dezvoltării Economice și Digitalizării.”
+la  alineatul  (5),  cuvintele  „programelor  de  dezvoltare”  se  substituie  cu  cuvintele
+„instrumentelor  de  susținere”,  iar  cuvintele  „program”  și  „programul”  se  substituie,
+respectiv, cu cuvintele „instrument de susținere” și „instrumentul de susținere”.
+- Legea se completează cu articolul 11
+## 1
+cu următorul cuprins:
+„Articolul 11
+## 1
+. Parteneriatele strategice în domeniul
+microîntreprinderilor, al întreprinderilor
+mici și mijlocii
+(1) Parteneriatele strategice sunt încheiate între autoritățile publice cu competențe în
+domeniul dezvoltării sectorului IMM-urilor și organizațiile comerciale sau necomerciale în
+domeniu.
+(2) Autoritățile publice pot planifica și aloca, în limita bugetului disponibil, resurse
+financiare pentru dezvoltarea și realizarea politicilor în cadrul parteneriatelor strategice.
+(3) Finanțarea unui parteneriat strategic se face în baza unui concurs de selectare a
+partenerilor, desfășurat conform regulamentului aprobat de Guvern.”
+- La articolul 12 alineatul (3) litera b), textul „întreprindere micro, mică și mijlocie”
+se substituie cu textul „microîntreprindere, întreprindere mică și mijlocie”.
+- La articolul 13 alineatul (4), cuvântul „programelor” se substituie cu cuvintele
+„instrumentelor de susținere”.
+## 13. Articolul 13
+## 1
+se completează cu alineatele (2
+## 1
+) și (3
+## 1
+) cu următorul cuprins:
+## „(2
+## 1
+) În cadrul Fondului pentru antreprenoriat și creștere economică a Moldovei se
+instituie instrumentul fond de fonduri, având drept scop atragerea partenerilor investiționali
+în  vederea  mobilizării  de  către  aceștia  a  capitalului  privat  și  instituțional.  Mijloacele
+financiare consolidate de către partenerii instituționali sunt direcționate către întreprinderi
+cu potențial de creștere care necesită finanțare pe termen lung, precum și către start-upuri
+tehnologice aflate în faze incipiente de dezvoltare.”
+
+## „(3
+## 1
+) Instituția Publică „Organizația pentru Dezvoltarea Antreprenoriatului” acordă
+partenerilor investiționali eligibili mijloace financiare provenite din resursele financiare ale
+Fondului pentru antreprenoriat și creștere economică a Moldovei, în baza contractelor de
+parteneriat sau a contractelor privind alocarea tranșei de primă pierdere, încheiate cu
+aceștia, și cu respectarea limitelor de finanțare stabilite.”
+- La articolul 15 alineatul (4), cuvintele „prin program” se substituie cu cuvintele
+„prin instrumentul de susținere”, iar cuvintele „în program” – cu cuvintele „în instrument”.
+- La articolul 17, alineatul (2) va avea următorul cuprins:
+„(2) Formarea profesională continuă destinată întreprinderilor mici și mijlocii este
+susținută prin finanțare integrală sau parțială de la bugetul public, precum și din alte surse
+legale, inclusiv din sursele partenerilor de dezvoltare, în baza programelor de formare
+profesională continuă naționale, de ramură, regionale și ale agenților economici pentru
+dezvoltarea competențelor, precum și în baza instrumentelor de susținere.”
+- La articolul 18 alineatul (2), cuvintele „programe și acțiuni” se substituie cu
+cuvintele „instrumente de susținere”.
+- La articolul 19 alineatul (1) litera a), după cuvântul „instrumente” se introduc
+cuvintele „de susținere”.
+- La articolul 21 alineatul (2), textul „Sub incidenţa art. 7 cad şi întreprinderile” se
+substituie cu textul „Prevederile art. 7 se aplică și întreprinderilor”.
+-  În  cuprinsul  legii,  cuvintele  „întreprindere  micro”  și  sintagma  „Ministerul
+Economiei”,  la  orice  formă  gramaticală,  se  substituie,  respectiv,  cu  cuvântul
+„microîntreprindere” și sintagma „Ministerul Dezvoltării Economice și Digitalizării” la forma
+gramaticală corespunzătoare, iar acronimul „ÎMM” se substituie cu acronimul „IMM”.
+Art. XV. – Legea nr. 291/2016 cu privire la organizarea și desfășurarea jocurilor de
+noroc  (Monitorul  Oficial  al  Republicii  Moldova,  2017,  nr.2–8,  art.  3),  cu  modificările
+ulterioare, se modifică după cum urmează:
+- Articolul 51 se completează cu alineatul (5) cu următorul cuprins:
+„(5) La planificarea resurselor bugetare pentru domeniul culturii, al sportului și al
+dezvoltării industriei cinematografice locale se va ține cont de dividendele achitate la buget
+de  către  companiile  care  organizează  și  desfășoară  jocuri  de  noroc  (în  continuare  –
+dividende) după cum urmează:
+a) 60% din dividende pot fi alocate pentru domeniul sportului;
+b) 20% din dividende pot fi alocate pentru domeniul culturii;
+c)  20%  din  dividende  pot  fi  alocate  pentru  domeniul  dezvoltării  industriei
+cinematografiei  locale.”
+- La articolul 52 alineatul (2), textul „Legea contabilității nr.113-XVI din 27 aprilie
+
+2007” se substituie cu textul „Legea contabilității și raportării financiare nr. 287/2017”.
+Art. XVI. – Articolul 33 din Codul administrativ al Republicii Moldova nr. 116/2018
+(Monitorul  Oficial  al  Republicii  Moldova,  2018,  nr.  309–320,  art.  466),  cu  modificările
+ulterioare, va avea următorul cuprins:
+„Articolul 33. Comunicarea
+(1) Comunicarea interinstituțională și comunicarea cu participanții sau cu publicul în
+cadrul procedurii administrative se face prin orice mijloc (verbal, poștă, telefon, fax, poștă
+electronică  etc.),  acordând  prioritate  mijloacelor  care  asigură  o  mai  mare  eficiență,
+rapiditate și economie de costuri, în special mijloacelor electronice de comunicație.
+(2) Comunicarea autorităților publice cu persoanele juridice/persoanele fizice care
+practică activitate de întreprinzător (întreprindere individuală, gospodărie țărănească) se
+efectuează prin intermediul portalului guvernamental al unităților de drept. Documentele se
+consideră  recepționate  din  următoarea  zi  lucrătoare  zilei  în  care  au  fost  remise  prin
+intermediul portalului guvernamental al unităților de drept.”
+Art. XVII. ‒ Codul vamal nr. 95/2021 (Monitorul Oficial al Republicii Moldova, 2021,
+nr. 219–225, art. 238), cu modificările ulterioare, se modifică după cum urmează:
+- La articolul 5, punctul 47) se completează cu litera b
+## 1
+) cu următorul cuprins:
+## „b
+## 1
+) îmbutelierea și ambalarea mărfurilor;”.
+- La articolul 12 alineatul (5), litera d) se completează cu textul „în mărime de peste
+250 000 de lei”.
+- La articolul 17 alineatul (1), după textul „nu poate depăși 90 de zile” se introduce
+textul „ , cu excepția deciziei referitoare la informația tarifară obligatorie, pentru care
+termenul nu poate depăși 45 de zile”.
+- La articolul 22, alineatul (5) va avea următorul cuprins:
+„(5) Persoanele juridice și persoanele fizice care practică activitate de întreprinzător
+recepționează  decizia  prin  intermediul  portalului  guvernamental  al  unităților  de  drept.
+Decizia  transmisă  prin  intermediul  portalului  guvernamental  al  unităților  de  drept  se
+consideră recepționată din următoarea zi lucrătoare zilei în care a fost remisă.”
+- Articolul 79 se completează cu alineatul (3) cu următorul cuprins:
+„(3) Procedura privind autorizarea pentru simplificarea determinării sumelor care fac
+parte din valoarea în vamă a mărfurilor și formularul autorizației aplicate în acest sens sunt
+stabilite de Serviciul Vamal.”
+- La articolul 118, alineatul (2) se completează cu textul „ , dar care nu poate fi mai
+mare decât cuantumul drepturilor de import sau export”.
+## 7. Articolul 141
+## 1
+se completează cu alineatul (5) cu următorul cuprins:
+
+„(5) Prin derogare de la prevederile alin. (3), se permite introducerea în regim de
+import a categoriilor de deșeuri în condițiile prevăzute la art. 63 și în anexa nr.7 din Legea
+nr. 209/2016 privind deșeurile.”
+- La articolul 375:
+alineatul (1) va avea următorul cuprins:
+„(1) Bunuri culturale mobile sunt bunurile cu trăsături de relativă creație originală, cu
+semnificație  de  mărturie  istorică  privind  comportamentele  tehnice,  sociale,  estetice,
+religioase, mitologice și de viață cotidiană ale unei societăți.”
+alineatul (4) se abrogă.
+- La articolul 384, alineatul (4) va avea următorul cuprins:
+„(4) Dacă contravenția prevăzută la alin. (2) a fost constatată în urma controlului
+ulterior și dacă la momentul vămuirii mărfurile au fost supuse controlului documentar și a
+fost acordat liberul de vamă, persoana se sancționează cu amendă în mărime de la 3% la 5%
+din suma diminuată a drepturilor de import, iar dacă mărfurile au fost supuse controlului
+fizic total și a fost acordat liberul de vamă, persoana se sancționează cu amendă în mărime
+de la 1% la 2% din suma diminuată a drepturilor de import.”
+- La articolul 415, alineatul (5) va avea următorul cuprins:
+„(5)  Dacă  decizia  Serviciului  Vamal  asupra  cazului  de  contravenție  vamală  cu
+răspundere materială este contestată cu cerere prealabilă, aparatul central al Serviciului
+Vamal,  la  cererea  persoanei  afectate,  suspendă  executarea  acesteia  până  la  finalizarea
+procedurii prealabile.”
+- Articolul 419 se abrogă.
+## 12. Articolul 427:
+la alineatele (12) și (13), textul ,,31 decembrie 2025” se substituie cu textul ,,31
+decembrie 2026”;
+la alineatul (19), textul ,,1 august 2025” se substituie cu textul „1 august 2026”.
+Art. XVIII. – La articolul 2 litera a) din Legea nr. 337/2022 privind Programul de
+rambursare a TVA pentru producătorii agricoli (Monitorul Oficial al Republicii Moldova,
+2022, nr. 413–425, art. 764), cu modificările ulterioare, textul „95%” se substituie cu textul
+## ,,70%”.
+Art. XIX. – La articolul VI din Legea nr. 25/2023 pentru modificarea unor acte
+normative (Monitorul Oficial al Republicii Moldova, 2023, nr. 92, art. 136), cu modificările
+ulterioare, alineatul (1) se completează cu litera e) cu următorul cuprins:
+,,e) art. I pct. 3, care va intra în vigoare la 21 martie 2029.”
+
+Art.  XX.  –  Legea  nr.  69/2023  privind  implementarea  prevederilor  Acordului
+multilateral  al  autorităților  competente  pentru  schimbul  automat  de  informații  privind
+conturile financiare (Monitorul Oficial al Republicii Moldova, 2023, nr. 126, art. 199), cu
+modificările ulterioare, se modifică după cum urmează:
+- La articolul 8 alineatul (1), cuvintele „de către instituțiile financiare raportoare” se
+exclud.
+- La articolul 9, cuvintele „și de Codul administrativ” se exclud.
+Art. XXI. – La articolul 7 din Legea taxei de stat nr. 213/2023 (Monitorul Oficial al
+Republicii Moldova, 2023, nr. 306–309, art. 549), cu modificările ulterioare, alineatul (2) va
+avea următorul cuprins:
+„(2) Cererea de restituire a sumei de bani plătite ca taxă de stat poate fi depusă la
+Serviciul Fiscal de Stat în termen de cel mult 3 ani de la data apariției dreptului la
+restituire. Restituirea sumei de bani plătite ca taxă de stat se efectuează de către Serviciul
+Fiscal de Stat conform modului stabilit de Guvern.”
+Art. XXII. – Legea nr. 28/2024 cu privire la frontiera de stat a Republicii Moldova
+(Monitorul Oficial al Republicii Moldova, 2024, nr. 93–95, art. 139) se modifică după cum
+urmează:
+- La articolul 45, alineatele (8) și (9) vor avea următorul cuprins:
+„(8) Prevederile alin. (7) nu se aplică:
+a) punctelor de trecere situate în porturi și aeroporturi, unde activitățile respective
+vor  fi  conforme  cadrului  normativ  național  și  internațional  și  nu  vor  aduce  atingere
+controalelor la frontieră; și
+b) proprietarilor de imobile și persoanelor juridice care au desfășurat activități de
+producție, activități comerciale și de altă natură în posturile vamale înainte de intrarea în
+vigoare a prezentei legi.
+(9) Activitățile în punctele de trecere rutiere permise de legislația în vigoare, cu
+excepția controlului la trecerea frontierei și a controlului vamal, se desfășoară cu acordul
+prealabil  al  Poliției  de  Frontieră  și  al  Serviciului  Vamal,  eliberându-se  în  acest  scop
+permise.”
+- Articolul 63 se completează cu alineatul (1
+## 1
+) cu următorul cuprins:
+## „(1
+## 1
+) Prevederile art. 45 alin. (8) lit. b) se aplică până la semnarea și ratificarea
+tratatului de aderare de toate statele membre ale UE și Republica Moldova.”
+Art. XXIII. – La articolul VIII alineatul (2) din Legea nr.146/2025 pentru modificarea
+unor acte normative (regimul datoriilor vamale și penalitățile aferente pentru persoanele cu
+dizabilități locomotorii, reglementări privind primele de asigurare obligatorie de asistență
+medicală) (Monitorul Oficial al Republicii Moldova, 2025, nr.340–342, art.401), textul „art.
+V” se substituie cu textul „art.VI”.
+
+Art. XXIV. – (1) Prin derogare de la prevederile Legii nr. 172/2014 privind aprobarea
+Nomenclaturii combinate a mărfurilor, se permite, până la data de 31 octombrie 2025
+inclusiv, plasarea în liberă circulație (import) cu scutire de la plata taxei vamale a cărnii
+congelate de animale din specia porcine, clasificată la pozițiile tarifare 020322 și 020329, în
+cantitate de 1200 de tone, în baza principiului „primul venit – primul servit”.
+(2)  În  baza  datelor  prezentate  la  solicitare  de  către  Serviciul  Vamal,  Ministerul
+Agriculturii și Industriei Alimentare va prezenta lunar Guvernului informația cu privire la
+cantitățile importate la pozițiile tarifare menționate la alin. (1).
+Art. XXV. – Prin derogare de la prevederile Codului fiscal nr. 1163/1997, ale Codului
+vamal nr. 95/2021 și ale Legii nr. 172/2014 privind aprobarea Nomenclaturii combinate a
+mărfurilor,  se  permite  Zonei  Economice  Libere  „Bălți”,  în  scopul  dotării  Centrului  de
+instruire inter-companii TechZone din municipiul Chișinău, str. Miorița 5, scoaterea din
+regim vamal zonă liberă de la Compania ICS „GG Cables & Wires EE” SRL, parte a grupului
+internațional Gebauer & Griller (GG Group), și plasarea sub regim vamal general și punerea
+în liberă circulație (importul), cu scutirea de plata drepturilor de import, a mărfurilor donate
+prevăzute în anexele nr. 1 și nr. 2, cu drept de transmitere ulterioară a acestora cu titlu
+gratuit centrului menționat.
+anexa nr. 1
+anexa nr. 2
+Art. XXVI. ‒ (1) Prin derogare de la prevederile art. 56 alin. (2) din Legea nr.
+100/2017 cu privire la actele normative, prezenta lege intră în vigoare la data publicării în
+Monitorul Oficial al Republicii Moldova, cu excepția:
+a) art. I, care intră în vigoare în termen de 30 de zile de la data publicării prezentei
+legi în Monitorul Oficial al Republicii Moldova;
+b) art. II pct. 12 partea ce vizează modificarea art. 96 lit. b) liniuța a zecea și pct. 19,
+care intră în vigoare la data publicării prezentei legi în Monitorul Oficial al Republicii
+Moldova, dar se aplică începând cu perioada fiscală 2025;
+c) art. XVIII, care intră în vigoare la data publicării prezentei legi în Monitorul Oficial
+al Republicii Moldova, dar se aplică pentru rambursările efectuate începând cu anul 2022;
+d) art. II pct. 4 partea ce vizează modificarea art. 24 alin. (19
+## 3
+), pct. 5, 11, pct. 12
+partea ce vizează modificarea art. 96 lit. b) liniuța a doua, pct. 17, 20–23, 27, 28, art. IV, V,
+VII–IX, XIII, art. XIV pct. 4 și 5, art. XV, art. XVII pct. 3, 6, 8 și 9, art. XXI, XXII, care intră în
+vigoare la 1 ianuarie 2026;
+e) art. II pct. 18, 25, 26, art. VI, XVI, art. XVII pct. 4, care intră în vigoare la 1 ianuarie
+## 2027.
+(2) Guvernul, în termen de 5 luni de la data publicării prezentei legi, va aduce actele
+sale normative în conformitate cu aceasta.
+
+(3) Prin derogare de la prevederile art. 226
+## 19
+alin. (4
+## 1
+) din Codul fiscal nr. 1163/1997
+în redacția Legii nr. 214/2024 pentru modificarea unor acte normative (ce vizează politica
+bugetar-fiscală  și  vamală),  dosarul  privind  prețurile  de  transfer  pentru  tranzacțiile
+desfășurate pe parcursul anului 2024 este întocmit și prezentat de contribuabilul specificat
+la art. 226
+## 19
+alin. (2) din Codul fiscal nr. 1163/1997 în redacția Legii nr. 214/2024 pentru
+modificarea unor acte normative (ce vizează politica bugetar-fiscală și vamală), la solicitarea
+Serviciului Fiscal de Stat, în termen de 120 de zile din momentul solicitării. Neprezentarea
+dosarului privind prețurile de transfer pentru anul 2024 în termenul stabilit la art. 226
+## 19
+alin. (4
+## 1
+) din Codul fiscal nr. 1163/1997 în redacția Legii nr. 214/2024 pentru modificarea
+unor acte normative (ce vizează politica bugetar-fiscală și vamală) nu se consideră încălcare
+a legislației fiscale și prevederile art. 260 alin. (12) din Codul fiscal nr. 1163/1997 nu se
+aplică.
+(4) Calculul și raportarea impozitului unic ca urmare a ajustării conform cap. 11
+## 2
+din
+titlul V al Codului fiscal nr. 1163/1997, pentru tranzacțiile desfășurate pe parcursul anului
+2024, se efectuează prin prezentarea unei dări de seama cu privire la impozitul unic pentru
+tranzacții cu persoane afiliate către Serviciul Fiscal de Stat, până la 25 decembrie 2025.
+Formularul  și  modul  de  completare  a  dării  de  seamă  se  aprobă  de  către  Ministerul
+## Finanțelor.
+PREȘEDINTELE PARLAMENTULUI Igor GROSU
+Nr. 187. Chișinău, 10 iulie 2025.

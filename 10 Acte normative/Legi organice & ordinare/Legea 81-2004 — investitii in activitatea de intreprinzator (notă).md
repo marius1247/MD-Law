@@ -5,8 +5,8 @@ act: "[[Legea 81-2004 — investitii in activitatea de intreprinzator (text)]]"
 domeniu: ['comercial', 'investiții']
 enabling_act: "[[Legea 235-2006 — principii reglementare intreprinzator (text)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/Legea 81-2004.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Investment in Enterprise Activity Law — Analysis
 
-**Raw text:** [[Legea 81-2004 — investitii in activitatea de intreprinzator (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Drept comercial]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[Legea 81-2004 — investitii in activitatea de intreprinzator (text)]] · **Hub:** [[MOC — Drept comercial]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Governs state support for business investment: investment certificates, tax incentives, priority sectors, and Government-approved investment projects.
@@ -67,7 +64,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Drept comercial]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Legea 81-2004 — investitii in activitatea de intreprinzator (text)]]
 
 ---
 

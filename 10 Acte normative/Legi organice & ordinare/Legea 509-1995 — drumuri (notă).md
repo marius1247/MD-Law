@@ -5,8 +5,8 @@ act: "[[Legea 509-1995 — drumuri (text)]]"
 domeniu: ['transport', 'infrastructură']
 enabling_act: "[[Legea 436-2006 — administratia publica locala (text)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/Legea 509-1995.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Roads Law — Analysis
 
-**Raw text:** [[Legea 509-1995 — drumuri (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Drept comercial]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[Legea 509-1995 — drumuri (text)]] · **Hub:** [[MOC — Drept comercial]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Governs national and local road network classification, construction, maintenance funding, road servitudes, and toll mechanisms.
@@ -67,7 +64,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Drept comercial]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Legea 509-1995 — drumuri (text)]]
 
 ---
 

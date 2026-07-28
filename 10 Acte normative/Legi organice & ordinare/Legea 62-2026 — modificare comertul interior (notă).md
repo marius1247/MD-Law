@@ -5,8 +5,8 @@ act: "[[Legea 62-2026 — modificare comertul interior (text)]]"
 domeniu: ['comercial', 'comerț']
 enabling_act: "[[Legea 231-2010 — comertul interior (notă)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending, amendment]
-status: draft
+tags: [act-note, analysis, amendment]
+status: active
 upload_source: "Uploads/Legea 62-2026.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Amendment to Domestic Trade Law (LP62/2026) — Analysis
 
-**Raw text:** [[Legea 62-2026 — modificare comertul interior (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Drept comercial]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[Legea 62-2026 — modificare comertul interior (text)]] · **Hub:** [[MOC — Drept comercial]]
 
 > [!info] Amendment-only act
 > This is a modifying law, not a standalone framework. Analysis focuses on what changed and links to parent acts.
@@ -70,7 +67,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Drept comercial]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Legea 62-2026 — modificare comertul interior (text)]]
 
 ---
 

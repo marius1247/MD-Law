@@ -5,8 +5,8 @@ act: "[[Legea 336-2022 — modificare Regulamentul Parlamentului (text)]]"
 domeniu: ['constitutional', 'parlamentar']
 enabling_act: "[[Legea 797-1996 — Regulamentul Parlamentului (notă)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending, amendment]
-status: draft
+tags: [act-note, analysis, amendment]
+status: active
 upload_source: "Uploads/Legea 336-2022.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Amendment to Parliament Regulations (LP336/2022) — Analysis
 
-**Raw text:** [[Legea 336-2022 — modificare Regulamentul Parlamentului (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Proceduri]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[Legea 336-2022 — modificare Regulamentul Parlamentului (text)]] · **Hub:** [[MOC — Proceduri]]
 
 > [!info] Amendment-only act
 > This is a modifying law, not a standalone framework. Analysis focuses on what changed and links to parent acts.
@@ -68,7 +65,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Proceduri]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Legea 336-2022 — modificare Regulamentul Parlamentului (text)]]
 
 ---
 

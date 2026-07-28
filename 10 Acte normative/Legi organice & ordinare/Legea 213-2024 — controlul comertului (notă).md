@@ -5,8 +5,8 @@ act: "[[Legea 213-2024 — controlul comertului (text)]]"
 domeniu: ['comercial', 'control']
 enabling_act: "[[Legea 231-2010 — comertul interior (text)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/Legea 213-2024.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Trade Control Law — Analysis
 
-**Raw text:** [[Legea 213-2024 — controlul comertului (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Drept comercial]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[Legea 213-2024 — controlul comertului (text)]] · **Hub:** [[MOC — Drept comercial]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Establishes state market surveillance and trade control mechanisms: inspection powers, product safety, traceability, and sanctions for non-compliant goods.
@@ -67,7 +64,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Drept comercial]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Legea 213-2024 — controlul comertului (text)]]
 
 ---
 

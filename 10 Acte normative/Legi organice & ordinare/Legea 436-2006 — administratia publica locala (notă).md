@@ -5,8 +5,8 @@ act: "[[Legea 436-2006 — administratia publica locala (text)]]"
 domeniu: ['administrativ', 'local']
 enabling_act: "[[Constituția RM — text]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/Legea 436-2006.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Local Public Administration Law — Analysis
 
-**Raw text:** [[Legea 436-2006 — administratia publica locala (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Proceduri]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[Legea 436-2006 — administratia publica locala (text)]] · **Hub:** [[MOC — Proceduri]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Governs organisation and operation of local public authorities (mayor, local council), local autonomy, competences, budgets, and property of administrative-territorial units.
@@ -67,7 +64,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Proceduri]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Legea 436-2006 — administratia publica locala (text)]]
 
 ---
 

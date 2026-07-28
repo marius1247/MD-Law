@@ -5,8 +5,8 @@ act: "[[Legea 303-2013 — serviciul public apa (text)]]"
 domeniu: ['utilități', 'apă']
 enabling_act: "[[Legea 436-2006 — administratia publica locala (text)]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/Legea 303-2013.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Public Water Supply Service Law — Analysis
 
-**Raw text:** [[Legea 303-2013 — serviciul public apa (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Energetică]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[Legea 303-2013 — serviciul public apa (text)]] · **Hub:** [[MOC — Energetică]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Regulates public water supply and sewerage services: operator designation, service contracts, tariffs, quality standards, and consumer rights.
@@ -67,7 +64,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Energetică]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Legea 303-2013 — serviciul public apa (text)]]
 
 ---
 

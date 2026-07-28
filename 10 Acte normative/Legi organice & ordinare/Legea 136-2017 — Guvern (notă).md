@@ -5,8 +5,8 @@ act: "[[Legea 136-2017 — Guvern (text)]]"
 domeniu: ['administrativ', 'executiv']
 enabling_act: "[[Constituția RM — text]]"
 analysis_tier: law-house
-tags: [act-note, analysis, uploads-pending]
-status: draft
+tags: [act-note, analysis]
+status: active
 upload_source: "Uploads/Legea 136-2017.md"
 created: 2026-07-28
 updated: 2026-07-28
@@ -14,10 +14,7 @@ updated: 2026-07-28
 
 # Government Organisation Law — Analysis
 
-**Raw text:** [[Legea 136-2017 — Guvern (text)]] ⚠️ *pending ingestion from Uploads* · **Hub:** [[MOC — Proceduri]]
-
-> [!warning] Text not yet ingested
-> Raw legis.md dump in `Uploads/`. Working `(text)` file to be created per [[Status ingestie — Uploads]].
+**Raw text:** [[Legea 136-2017 — Guvern (text)]] · **Hub:** [[MOC — Proceduri]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Defines Government structure, ministries, competences, decision-making procedure, and relationship with Parliament and President.
@@ -67,7 +64,7 @@ updated: 2026-07-28
 ## 6. Connections in the vault
 
 * **Hub:** [[MOC — Proceduri]]
-* **Ingestion:** [[Status ingestie — Uploads]]
+* **Text:** [[Legea 136-2017 — Guvern (text)]]
 
 ---
 

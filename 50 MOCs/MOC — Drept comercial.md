@@ -66,6 +66,25 @@ Moldova has **no commercial code**; the Civil Code governs civil and commercial 
 | [[Legea 160-2011 — reglementarea prin autorizare (text)\|Legea nr. 160/2011]] | ✅ complete | [[Legea 160-2011 — reglementarea prin autorizare (notă)]] |
 | [[Codul civil 1107-2002 — text — Cartea III\|Codul civil — Cartea III]] (obligations) | ✅ complete | [[Codul civil 1107-2002 (notă)]] · [[MOC — Drept civil]] |
 
+## Uploads queue — analysis ready, text pending
+*Full tracker: [[Status ingestie — Uploads]]*
+
+| Act | Analysis | Text |
+|---|---|---|
+| [[Legea 202-2017 — activitatea bancilor (notă)\|L202/2017]] banking | ✅ | ⏳ Uploads |
+| [[Legea 548-1995 — Banca Nationala a Moldovei (notă)\|L548/1995]] NBM | ✅ | ⏳ Uploads |
+| [[Legea 1-2018 — organizatiile de creditare (notă)\|L1/2018]] NBFI | ✅ | ⏳ Uploads |
+| [[Legea 171-2012 — piata de capital (notă)\|L171/2012]] capital markets | ✅ | ⏳ Uploads |
+| [[Legea 92-2022 — activitatea de asigurare (notă)\|L92/2022]] insurance | ✅ | ⏳ Uploads |
+| [[Legea 114-2012 — servicii de plata (notă)\|L114/2012]] payment services | ✅ | ⏳ Uploads |
+| [[Legea 308-2017 — prevenirea spalarii banilor (notă)\|L308/2017]] AML | ✅ | ⏳ Uploads |
+| [[Legea 231-2010 — comertul interior (notă)\|L231/2010]] domestic trade | ✅ | ⏳ Uploads |
+| [[Legea 213-2024 — controlul comertului (notă)\|L213/2024]] trade control | ✅ | ⏳ Uploads |
+| [[Legea 81-2004 — investitii in activitatea de intreprinzator (notă)\|L81/2004]] investment | ✅ | ⏳ Uploads |
+| [[Codul transportului feroviar 19-2022 (notă)\|Cod transport feroviar]] | ✅ | ⏳ Uploads |
+| [[Codul aerian 301-2017 (notă)\|Cod aerian]] | ✅ | ⏳ Uploads |
+| [[Legea 1194-1997 — transporturi (notă)\|L1194/1997]] transport | ✅ | ⏳ Uploads |
+
 ## Still open
 - The **state aid law** (exact number — verify on legis.md)
 - **Legea nr. 845/1992** — legacy entrepreneurship; track its replacement (project 345/MDED/2025)

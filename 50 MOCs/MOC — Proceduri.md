@@ -22,7 +22,17 @@ Civil and administrative procedure — how disputes and state decisions are cont
 | [[Codul de procedura civila 225-2003 (text)\|Codul de procedură civilă nr. 225/2003]] | ✅ | [[Codul de procedura civila 225-2003 (notă)]] |
 | [[Codul de executare 443-2004 (text)\|Codul de executare nr. 443/2004]] | ✅ | [[Codul de executare 443-2004 (notă)]] |
 | [[Legea 23-2008 — arbitraj (text)\|Legea nr. 23/2008]] (arbitraj) | ✅ | [[Legea 23-2008 — arbitraj (notă)]] |
-| Mediation law | ❌ still to download |
+
+## Uploads queue — analysis ready, text pending
+| Act | Analysis | Text |
+|---|---|---|
+| [[Legea 74-2025 — Curtea Constitutionala (notă)\|L74/2025]] Constitutional Court | ✅ | ⏳ Uploads |
+| [[Legea 436-2006 — administratia publica locala (notă)\|L436/2006]] local admin | ✅ | ⏳ Uploads |
+| [[Legea 136-2017 — Guvern (notă)\|L136/2017]] Government | ✅ | ⏳ Uploads |
+| [[Legea 797-1996 — Regulamentul Parlamentului (notă)\|L797/1996]] Parliament rules | ✅ | ⏳ Uploads |
+| [[Legea 1234-2000 — procedura de alegere (notă)\|L1234/2000]] electoral procedure | ✅ | ⏳ Uploads |
+
+Tracker: [[Status ingestie — Uploads]]
 
 ## Concepts (to write)
 - [[Concept — Act administrativ individual]] · [[Concept — Contencios administrativ]] · [[Concept — Căi de atac]] · [[Concept — Prescripție]]

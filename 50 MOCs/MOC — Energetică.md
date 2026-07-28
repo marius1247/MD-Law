@@ -21,7 +21,8 @@ Domain hub for the **energy sector**. 22 acts across three tiers. Core primary l
 ## Analysis layer
 - **[[Energetică — sinteza sectorului]]** — the domain synthesis
 - **Law House dossiers (cross-act):** [[Energetică — metodologii tarifare (notă)]] · [[Energetică — licențiere cross-border și REMIT (notă)]] · [[Energetică — contencios administrativ și precedente (notă)]]
-- **Vault audit:** [[Audit vault — Law House Knowledge Engine — 2026-07-28]]
+- **Sector dossiers:** [[Energetică — sector gaze ANRE (notă)]] · [[Energetică — sector electricitate ANRE (notă)]] · [[Energetică — tarife regenerabile si utilitati (notă)]]
+- **Vault audit:** [[Audit vault — Law House Knowledge Engine — 2026-07-28]] · [[Status ingestie — Uploads]]
 - Act companions: **[[Legea 164-2025 — energia electrica (notă)|L164/2025]]** *(the law in force)* · [[Legea 108-2016 — gazele naturale (notă)|L108/2016]] · [[Legea 174-2017 — energetica (notă)|L174/2017]] · [[Legea 10-2016 — surse regenerabile (notă)|L10/2016]] · [[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (notă)|L117/2009]] · [[Codul administrativ 116-2018 (notă)|CA 116/2018]] · [[Legea 107-2016 — energia electrica (notă)|L107/2016]] *(superseded)*
 - Concepts: [[Concept — Tarif reglementat]] · [[Concept — Licență în energetică]] · [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Producător eligibil]] · [[Concept — Parte responsabilă de echilibrare]]
 

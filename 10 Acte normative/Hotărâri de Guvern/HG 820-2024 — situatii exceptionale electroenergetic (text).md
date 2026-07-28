@@ -1,20 +1,33 @@
 ---
-title: "HG nr. 820/2024 — Regulamentul privind situațiile excepționale în sectorul electroenergetic (text)"
+title: HG nr. 820/2024 — Regulamentul privind situațiile excepționale în sectorul
+  electroenergetic (text)
 type: act-text
 act_type: hotărâre-guvern
-nr: "820"
+nr: '820'
 an: 2024
 data_adoptarii: 2024-12-11
-domeniu: [energetică, energie-electrică, securitate]
+domeniu:
+- energetică
+- energie-electrică
+- securitate
 in_vigoare: true
-mo_publicare: "17.12.2024 în MO Nr. 525-528 art. 954"
-legis_id: "146237"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=146237"
+mo_publicare: 17.12.2024 în MO Nr. 525-528 art. 954
+legis_id: '146237'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=146237
 continut: doar-dispozitiv
 text_complet: false
-status_ingestie: "dispozitiv complet — anexa lipsă"
-tags: [act, text, energetică]
+status_ingestie: dispozitiv complet — anexa lipsă
+tags:
+- act
+- text
+- energetică
+- acte_normative
 created: 2026-07-22
+domain: energie_electrica
+issuer: Guvern
+legal_status: in_vigoare
+last_amended: '2024-01-01'
+updated: '2024-01-01'
 ---
 
 # HG nr. 820/2024 — Regulamentul privind situațiile excepționale în sectorul electroenergetic

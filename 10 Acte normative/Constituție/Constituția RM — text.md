@@ -1,19 +1,31 @@
 ---
-title: "Constituția Republicii Moldova (text)"
+title: Constituția Republicii Moldova (text)
 type: act-text
 act_type: constituție
-nr: "CRM1"
+nr: CRM1
 an: 1994
 data_adoptarii: 1994-07-29
-domeniu: [constituțional, drepturi-fundamentale, guvernanță-de-stat]
+domeniu:
+- constituțional
+- drepturi-fundamentale
+- guvernanță-de-stat
 forta_juridica: 1
 in_vigoare: true
-mo_publicare: "MO nr. 78 art. 140 din 29.03.2016 (republicare)"
-legis_id: "136130"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=136130"
+mo_publicare: MO nr. 78 art. 140 din 29.03.2016 (republicare)
+legis_id: '136130'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=136130
 versiune_text: 2024-11-05
-tags: [act, text, constituție]
+tags:
+- act
+- text
+- constituție
+- acte_normative
 created: 2026-07-22
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '1994-01-01'
+updated: '1994-01-01'
 ---
 
 # Constituția Republicii Moldova

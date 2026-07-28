@@ -1,20 +1,29 @@
 ---
-title: "Legea 74-2020 — achizitii sectoriale (text)"
+title: Legea 74-2020 — achizitii sectoriale (text)
 type: act-text
 act_type: lege-organică
-nr: "74"
+nr: '74'
 an: 2020
-domeniu: [achiziții, energetică]
+domeniu:
+- achiziții
+- energetică
 in_vigoare: true
-legis_id: "155279"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=155279"
+legis_id: '155279'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=155279
 continut: text-integral
 text_complet: true
 articole_numarate: 107
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: energie_electrica
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea 74/2020 — achiziții sectoare energetică/apă/transport/poștă

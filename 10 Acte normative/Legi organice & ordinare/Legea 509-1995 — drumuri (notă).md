@@ -1,15 +1,24 @@
 ---
-title: "Legea 509-1995 — drumuri (notă)"
+title: Legea 509-1995 — drumuri (notă)
 type: act-note
-act: "[[Legea 509-1995 — drumuri (text)]]"
-domeniu: ['transport', 'infrastructură']
-enabling_act: "[[Legea 436-2006 — administratia publica locala (text)]]"
+act: '[[Legea 509-1995 — drumuri (text)]]'
+domeniu:
+- transport
+- infrastructură
+enabling_act: '[[Legea 436-2006 — administratia publica locala (text)]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 509-1995.md"
+upload_source: Uploads/Legea 509-1995.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Roads Law — Analysis

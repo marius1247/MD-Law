@@ -1,15 +1,24 @@
 ---
-title: "HG 280-2024 — program dezvoltare industriala (notă)"
+title: HG 280-2024 — program dezvoltare industriala (notă)
 type: act-note
-act: "[[HG 280-2024 — program dezvoltare industriala (text)]]"
-domeniu: ['industrial', 'politică']
-enabling_act: "[[Legea 136-2017 — Guvern (text)]]"
+act: '[[HG 280-2024 — program dezvoltare industriala (text)]]'
+domeniu:
+- industrial
+- politică
+enabling_act: '[[Legea 136-2017 — Guvern (text)]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/HG 280-2024.md"
+upload_source: Uploads/HG 280-2024.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Guvern
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # National Industrial Development Programme 2024-2028 — Analysis

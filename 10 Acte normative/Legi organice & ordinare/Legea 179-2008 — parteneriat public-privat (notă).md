@@ -1,15 +1,24 @@
 ---
-title: "Legea 179-2008 — parteneriat public-privat (notă)"
+title: Legea 179-2008 — parteneriat public-privat (notă)
 type: act-note
-act: "[[Legea 179-2008 — parteneriat public-privat (text)]]"
-domeniu: ['comercial', 'PPP']
-enabling_act: "[[Legea 74-2020 — achizitii sectoriale (text)]]"
+act: '[[Legea 179-2008 — parteneriat public-privat (text)]]'
+domeniu:
+- comercial
+- PPP
+enabling_act: '[[Legea 74-2020 — achizitii sectoriale (text)]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 179-2008.md"
+upload_source: Uploads/Legea 179-2008.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Public-Private Partnership Law — Analysis

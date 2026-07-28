@@ -1,12 +1,24 @@
 ---
-title: "Legea 287-2017 — contabilitate (notă)"
+title: Legea 287-2017 — contabilitate (notă)
 type: act-note
-act: "[[Legea 287-2017 — contabilitate (text)]]"
-domeniu: [fiscal, contabilitate]
-tags: [act-note, analysis, contabilitate, raportare-financiară, fiscal]
+act: '[[Legea 287-2017 — contabilitate (text)]]'
+domeniu:
+- fiscal
+- contabilitate
+tags:
+- act-note
+- analysis
+- contabilitate
+- raportare-financiară
+- fiscal
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea nr. 287/2017 contabilității și raportării financiare — Analysis

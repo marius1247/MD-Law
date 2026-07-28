@@ -1,15 +1,24 @@
 ---
-title: "Legea 92-2022 — activitatea de asigurare (notă)"
+title: Legea 92-2022 — activitatea de asigurare (notă)
 type: act-note
-act: "[[Legea 92-2022 — activitatea de asigurare (text)]]"
-domeniu: ['financiar', 'asigurări']
-enabling_act: "[[Codul civil 1107-2002 (notă)]]"
+act: '[[Legea 92-2022 — activitatea de asigurare (text)]]'
+domeniu:
+- financiar
+- asigurări
+enabling_act: '[[Codul civil 1107-2002 (notă)]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 92-2022.md"
+upload_source: Uploads/Legea 92-2022.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Insurance Activity Law — Analysis

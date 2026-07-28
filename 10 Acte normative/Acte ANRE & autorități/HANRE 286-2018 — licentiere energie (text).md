@@ -1,17 +1,24 @@
 ---
-title: "HANRE 286-2018 — licentiere energie (text)"
+title: HANRE 286-2018 — licentiere energie (text)
 type: act-text
 act_type: hotărâre-anre
-nr: "286"
+nr: '286'
 an: 2018
 in_vigoare: true
 continut: text-integral
 text_complet: true
 articole_numarate: 0
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-28
 updated: 2026-07-28
 source_ingest: uploads-folder
+domain: null
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 # HANRE 286-2018 — licentiere energie
 

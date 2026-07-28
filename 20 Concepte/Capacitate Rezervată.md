@@ -1,14 +1,21 @@
 ---
+title: Capacitate Rezervată
 type: concept
 domain: racordare_acces
+domeniu:
+- racordare
+- acces
+- transport
+- energetică
 status: definit
 tags:
-  - concept
-  - acces
-  - transport
-  - retea
-  - capacitate
-created: 2026-07-28
+- concept
+- acces
+- transport
+- retea
+- capacitate
+created: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # 🔋 Capacitate Rezervată

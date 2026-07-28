@@ -1,23 +1,34 @@
 ---
-title: "Legea nr. 164/2025 cu privire la energia electrică (text)"
+title: Legea nr. 164/2025 cu privire la energia electrică (text)
 type: act-text
 act_type: lege-organică
-nr: "164"
+nr: '164'
 an: 2025
 data_adoptarii: 2025-06-26
-domeniu: [energetică, energie-electrică]
+domeniu:
+- energetică
+- energie-electrică
 in_vigoare: true
 data_intrarii_in_vigoare: 2025-08-19
-abroga: "Legea nr. 107/2016 cu privire la energia electrică"
-mo_publicare: "19.08.2025 în MONITORUL OFICIAL Nr. 437-440 art. 598"
-legis_id: "152515"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=152515"
+abroga: Legea nr. 107/2016 cu privire la energia electrică
+mo_publicare: 19.08.2025 în MONITORUL OFICIAL Nr. 437-440 art. 598
+legis_id: '152515'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=152515
 continut: text-integral
 text_complet: true
-consolidare: "MODIFICAT prin LP101/2026 (în vigoare 26.06.2026)"
-tags: [act, text, energetică, UE]
+consolidare: MODIFICAT prin LP101/2026 (în vigoare 26.06.2026)
+tags:
+- act
+- text
+- energetică
+- UE
+- acte_normative
 created: 2026-07-23
 updated: 2026-07-23
+domain: energie_electrica
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-23'
 ---
 
 # Legea nr. 164/2025 cu privire la energia electrică

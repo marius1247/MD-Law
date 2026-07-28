@@ -1,12 +1,23 @@
 ---
-title: "Legea 23-2008 — arbitraj (notă)"
+title: Legea 23-2008 — arbitraj (notă)
 type: act-note
-act: "[[Legea 23-2008 — arbitraj (text)]]"
-domeniu: [procedură, arbitraj]
-tags: [act-note, analysis, arbitraj, procedură]
+act: '[[Legea 23-2008 — arbitraj (text)]]'
+domeniu:
+- procedură
+- arbitraj
+tags:
+- act-note
+- analysis
+- arbitraj
+- procedură
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea nr. 23/2008 cu privire la arbitraj — Analysis

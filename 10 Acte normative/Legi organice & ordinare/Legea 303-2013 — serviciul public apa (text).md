@@ -1,17 +1,24 @@
 ---
-title: "Legea 303-2013 — serviciul public apa (text)"
+title: Legea 303-2013 — serviciul public apa (text)
 type: act-text
 act_type: lege-organică
-nr: "303"
+nr: '303'
 an: 2013
 in_vigoare: true
 continut: text-integral
 text_complet: true
 articole_numarate: 39
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-28
 updated: 2026-07-28
 source_ingest: uploads-folder
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 # Legea 303-2013 — serviciul public apa
 

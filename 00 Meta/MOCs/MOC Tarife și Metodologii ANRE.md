@@ -1,12 +1,19 @@
 ---
+title: MOC Tarife și Metodologii ANRE
 type: moc
 domain: tarife_metodologii
+domeniu:
+- tarife
+- metodologii
+- energetică
+status: draft
 tags:
-  - moc
-  - tarife
-  - metodologii
-  - anre
-created: 2026-07-28
+- moc
+- tarife
+- metodologii
+- anre
+created: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # 📊 Map of Content: Tarife și Metodologii ANRE

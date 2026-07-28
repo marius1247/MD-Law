@@ -1,15 +1,24 @@
 ---
-title: "Legea 74-2025 — Curtea Constitutionala (notă)"
+title: Legea 74-2025 — Curtea Constitutionala (notă)
 type: act-note
-act: "[[Legea 74-2025 — Curtea Constitutionala (text)]]"
-domeniu: ['constitutional', 'contencios']
-enabling_act: "[[Constituția RM — text]]"
+act: '[[Legea 74-2025 — Curtea Constitutionala (text)]]'
+domeniu:
+- constitutional
+- contencios
+enabling_act: '[[Constituția RM — text]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 74-2025.md"
+upload_source: Uploads/Legea 74-2025.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Constitutional Court Law — Analysis

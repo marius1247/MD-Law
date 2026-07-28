@@ -1,21 +1,33 @@
 ---
-title: "Legea nr. 107/2016 cu privire la energia electrică (text)"
+title: Legea nr. 107/2016 cu privire la energia electrică (text)
 type: act-text
 act_type: lege-organică
-nr: "107"
+nr: '107'
 an: 2016
 data_adoptarii: 2016-05-27
-domeniu: [energetică, energie-electrică]
+domeniu:
+- energetică
+- energie-electrică
 in_vigoare: false
-abrogat_prin: "Legea nr. 164/2025, în vigoare 19.08.2025"
-mo_publicare: "08.07.2016 în MONITORUL OFICIAL Nr. 193-203 art. 413"
-legis_id: "121988"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=121988"
+abrogat_prin: Legea nr. 164/2025, în vigoare 19.08.2025
+mo_publicare: 08.07.2016 în MONITORUL OFICIAL Nr. 193-203 art. 413
+legis_id: '121988'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=121988
 continut: text-integral
 text_complet: false
 status_ingestie: TRUNCHIAT — necesită completare
-tags: [act, text, energetică, abrogat]
+tags:
+- act
+- text
+- energetică
+- abrogat
+- acte_normative
 created: 2026-07-22
+domain: energie_electrica
+issuer: Parlament
+legal_status: abrogat
+last_amended: '2016-01-01'
+updated: '2016-01-01'
 ---
 
 # Legea nr. 107/2016 cu privire la energia electrică

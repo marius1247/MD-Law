@@ -1,15 +1,25 @@
 ---
-title: "Legea 187-2025 — modificare BNM (notă)"
+title: Legea 187-2025 — modificare BNM (notă)
 type: act-note
-act: "[[Legea 187-2025 — modificare BNM (text)]]"
-domeniu: ['financiar', 'bancar']
-enabling_act: "[[Legea 548-1995 — Banca Nationala a Moldovei (notă)]]"
+act: '[[Legea 187-2025 — modificare BNM (text)]]'
+domeniu:
+- financiar
+- bancar
+enabling_act: '[[Legea 548-1995 — Banca Nationala a Moldovei (notă)]]'
 analysis_tier: law-house
-tags: [act-note, analysis, amendment]
+tags:
+- act-note
+- analysis
+- amendment
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 187-2025.md"
+upload_source: Uploads/Legea 187-2025.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Amendment to NBM Law (LP187/2025) — Analysis

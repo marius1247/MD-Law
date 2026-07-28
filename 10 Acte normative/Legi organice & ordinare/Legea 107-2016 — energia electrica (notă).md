@@ -1,11 +1,22 @@
 ---
-title: "Legea 107-2016 — energia electrica (notă)"
+title: Legea 107-2016 — energia electrica (notă)
 type: act-note
-act: "[[Legea 107-2016 — energia electrica (text)]]"
-domeniu: [energetică, energie-electrică]
-tags: [act-note, analysis, energetică]
+act: '[[Legea 107-2016 — energia electrica (text)]]'
+domeniu:
+- energetică
+- energie-electrică
+tags:
+- act-note
+- analysis
+- energetică
+- acte_normative
 status: superseded
 created: 2026-07-22
+domain: energie_electrica
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # Legea nr. 107/2016 cu privire la energia electrică — Analysis

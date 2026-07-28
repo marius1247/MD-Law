@@ -1,12 +1,18 @@
 ---
+title: Loc de Consum
 type: concept
 domain: general_reglementat
+domeniu:
+- general reglementat
+- racordare
+- energetică
 status: definit
 tags:
-  - concept
-  - racordare
-  - consumator
-created: 2026-07-28
+- concept
+- racordare
+- consumator
+created: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # 🏠 Loc de Consum

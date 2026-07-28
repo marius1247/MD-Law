@@ -1,22 +1,31 @@
 ---
-title: "Codul civil 1107-2002 — text — Cartea III"
+title: Codul civil 1107-2002 — text — Cartea III
 type: act-text
 act_type: cod
-nr: "1107"
+nr: '1107'
 an: 2002
-domeniu: [civil]
-carte: "III"
-carte_titlu: "Obligațiile"
+domeniu:
+- civil
+carte: III
+carte_titlu: Obligațiile
 in_vigoare: true
-legis_id: "149719"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=149719"
+legis_id: '149719'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=149719
 continut: text-integral
 text_complet: true
 articole_numarate: 1380
-tags: [act, text, civil]
+tags:
+- act
+- text
+- civil
+- acte_normative
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: null
+issuer: Autoritate
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Codul civil nr. 1107/2002 — Cartea III. Obligațiile

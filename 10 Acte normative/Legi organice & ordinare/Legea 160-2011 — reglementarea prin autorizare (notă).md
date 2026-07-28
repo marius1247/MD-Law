@@ -1,12 +1,25 @@
 ---
-title: "Legea 160-2011 — reglementarea prin autorizare (notă)"
+title: Legea 160-2011 — reglementarea prin autorizare (notă)
 type: act-note
-act: "[[Legea 160-2011 — reglementarea prin autorizare (text)]]"
-domeniu: [comercial, autorizare]
-tags: [act-note, analysis, comercial, autorizare, permise, ghișeu-unic]
+act: '[[Legea 160-2011 — reglementarea prin autorizare (text)]]'
+domeniu:
+- comercial
+- autorizare
+tags:
+- act-note
+- analysis
+- comercial
+- autorizare
+- permise
+- ghișeu-unic
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea nr. 160/2011 privind reglementarea prin autorizare — Analysis

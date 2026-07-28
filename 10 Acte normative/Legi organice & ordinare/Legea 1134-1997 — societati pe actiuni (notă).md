@@ -1,12 +1,23 @@
 ---
-title: "Legea 1134-1997 — societati pe actiuni (notă)"
+title: Legea 1134-1997 — societati pe actiuni (notă)
 type: act-note
-act: "[[Legea 1134-1997 — societati pe actiuni (text)]]"
-domeniu: [societăți, guvernanță, valori-mobiliare]
-tags: [act-note, analysis, societăți]
+act: '[[Legea 1134-1997 — societati pe actiuni (text)]]'
+domeniu:
+- societăți
+- guvernanță
+- valori-mobiliare
+tags:
+- act-note
+- analysis
+- societăți
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea nr. 1134/1997 privind societățile pe acțiuni — Analysis

@@ -1,12 +1,23 @@
 ---
-title: "Legea 220-2007 — inregistrarea de stat (notă)"
+title: Legea 220-2007 — inregistrarea de stat (notă)
 type: act-note
-act: "[[Legea 220-2007 — inregistrarea de stat (text)]]"
-domeniu: [societăți, înregistrare, publicitate]
-tags: [act-note, analysis, societăți]
+act: '[[Legea 220-2007 — inregistrarea de stat (text)]]'
+domeniu:
+- societăți
+- înregistrare
+- publicitate
+tags:
+- act-note
+- analysis
+- societăți
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea nr. 220/2007 privind înregistrarea de stat — Analysis

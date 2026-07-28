@@ -1,17 +1,24 @@
 ---
-title: "Legea 509-1995 — drumuri (text)"
+title: Legea 509-1995 — drumuri (text)
 type: act-text
 act_type: lege-ordinară
-nr: "509"
+nr: '509'
 an: 1995
 in_vigoare: true
 continut: text-integral
 text_complet: true
 articole_numarate: 20
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-28
 updated: 2026-07-28
 source_ingest: uploads-folder
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 # Legea 509-1995 — drumuri
 

@@ -1,20 +1,29 @@
 ---
-title: "Legea 92-2014 — energia termica si cogenerarea (text)"
+title: Legea 92-2014 — energia termica si cogenerarea (text)
 type: act-text
 act_type: lege-organică
-nr: "92"
+nr: '92'
 an: 2014
-domeniu: [energetică, energie-termică]
+domeniu:
+- energetică
+- energie-termică
 in_vigoare: true
-legis_id: "151415"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=151415"
+legis_id: '151415'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=151415
 continut: text-integral
 text_complet: true
 articole_numarate: 61
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: energie_electrica
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea 92/2014 — energia termică și cogenerarea

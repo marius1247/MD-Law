@@ -1,20 +1,32 @@
 ---
-title: "HANRE 168-2019 — racordarea la retelele electrice (text)"
+title: HANRE 168-2019 — racordarea la retelele electrice (text)
 type: act-text
 act_type: act-anre
-nr: "168"
+nr: '168'
 an: 2019
-domeniu: [energetică, energie-electrică, racordare]
+domeniu:
+- energetică
+- energie-electrică
+- racordare
 in_vigoare: true
-legis_id: "154261"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=154261"
+legis_id: '154261'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=154261
 continut: text-integral
 text_complet: true
 articole_numarate: 0
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
+- racordare
+- acces
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: racordare_acces
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # HANRE 168/2019 — racordarea la rețelele electrice

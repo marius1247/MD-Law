@@ -1,17 +1,24 @@
 ---
-title: "Legea 92-2022 — activitatea de asigurare (text)"
+title: Legea 92-2022 — activitatea de asigurare (text)
 type: act-text
 act_type: lege-organică
-nr: "92"
+nr: '92'
 an: 2022
 in_vigoare: true
 continut: text-integral
 text_complet: true
 articole_numarate: 124
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-28
 updated: 2026-07-28
 source_ingest: uploads-folder
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 # Legea 92-2022 — activitatea de asigurare
 

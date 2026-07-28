@@ -1,20 +1,29 @@
 ---
-title: "Legea 149-2012 — insolvabilitate (text)"
+title: Legea 149-2012 — insolvabilitate (text)
 type: act-text
 act_type: lege-organică
-nr: "149"
+nr: '149'
 an: 2012
-domeniu: [societăți, insolvabilitate]
+domeniu:
+- societăți
+- insolvabilitate
 in_vigoare: true
-legis_id: "152605"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=152605"
+legis_id: '152605'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=152605
 continut: text-integral
 text_complet: true
 articole_numarate: 271
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea 149/2012 — insolvabilitate

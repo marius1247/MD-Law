@@ -1,11 +1,18 @@
 ---
+title: MOC Piața de Energie Electrică
 type: moc
 domain: energie_electrica
+domeniu:
+- energie electrică
+- piață
+- energetică
+status: draft
 tags:
-  - moc
-  - piata_energiei
-  - anre
-created: 2026-07-28
+- moc
+- piata_energiei
+- anre
+created: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # ⚡ Map of Content: Piața de Energie Electrică
@@ -31,7 +38,7 @@ Note centrală de indexare pentru cadrul normativ, participanții și regulile c
 
 ## 4. Indice Automatizat de Acte (Dataview)
 ```dataview
-TABLE issuer AS "Emitent", status AS "Statut", last_amended AS "Ultima Modificare"
+TABLE issuer AS "Emitent", legal_status AS "Statut", last_amended AS "Ultima Modificare"
 FROM #acte_normative AND "10 Acte normative"
 WHERE domain = "energie_electrica"
 SORT file.name ASC

@@ -1,12 +1,26 @@
 ---
-title: "HANRE 311-2026 — racordarea la retelele electrice (notă)"
+title: HANRE 311-2026 — racordarea la retelele electrice (notă)
 type: act-note
-act: "[[HANRE 311-2026 — racordarea la retelele electrice (text)]]"
-domeniu: [energetică, energie-electrică, racordare]
-tags: [act-note, analysis, energetică, racordare, ANRE]
+act: '[[HANRE 311-2026 — racordarea la retelele electrice (text)]]'
+domeniu:
+- energetică
+- energie-electrică
+- racordare
+tags:
+- act-note
+- analysis
+- energetică
+- racordare
+- ANRE
+- acte_normative
+- acces
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: racordare_acces
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # HANRE nr. 311/2026 — racordarea la rețelele electrice — Analysis

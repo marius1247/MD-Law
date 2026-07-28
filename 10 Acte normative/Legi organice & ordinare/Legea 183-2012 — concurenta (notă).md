@@ -1,12 +1,25 @@
 ---
-title: "Legea 183-2012 — concurenta (notă)"
+title: Legea 183-2012 — concurenta (notă)
 type: act-note
-act: "[[Legea 183-2012 — concurenta (text)]]"
-domeniu: [comercial, concurență]
-tags: [act-note, analysis, comercial, concurență, antitrust, UE]
+act: '[[Legea 183-2012 — concurenta (text)]]'
+domeniu:
+- comercial
+- concurență
+tags:
+- act-note
+- analysis
+- comercial
+- concurență
+- antitrust
+- UE
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea nr. 183/2012 concurenței — Analysis

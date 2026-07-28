@@ -1,12 +1,27 @@
 ---
-title: "HANRE 168-2019 — racordarea la retelele electrice (notă)"
+title: HANRE 168-2019 — racordarea la retelele electrice (notă)
 type: act-note
-act: "[[HANRE 168-2019 — racordarea la retelele electrice (text)]]"
-domeniu: [energetică, energie-electrică, racordare]
-tags: [act-note, analysis, energetică, racordare, ANRE, abrogat]
+act: '[[HANRE 168-2019 — racordarea la retelele electrice (text)]]'
+domeniu:
+- energetică
+- energie-electrică
+- racordare
+tags:
+- act-note
+- analysis
+- energetică
+- racordare
+- ANRE
+- abrogat
+- acte_normative
+- acces
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: racordare_acces
+issuer: ANRE
+legal_status: abrogat
+last_amended: '2026-07-26'
 ---
 
 # HANRE nr. 168/2019 — racordarea la rețelele electrice — Analysis

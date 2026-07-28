@@ -1,12 +1,26 @@
 ---
-title: "HANRE 113-2019 — furnizarea gazelor naturale (notă)"
+title: HANRE 113-2019 — furnizarea gazelor naturale (notă)
 type: act-note
-act: "[[HANRE 113-2019 — furnizarea gazelor naturale (text)]]"
-domeniu: [energetică, gaze-naturale, furnizare]
-tags: [act-note, analysis, energetică, gaze, furnizare, ANRE]
+act: '[[HANRE 113-2019 — furnizarea gazelor naturale (text)]]'
+domeniu:
+- energetică
+- gaze-naturale
+- furnizare
+tags:
+- act-note
+- analysis
+- energetică
+- gaze
+- furnizare
+- ANRE
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: gaze_naturale
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # HANRE nr. 113/2019 — furnizarea gazelor naturale — Analysis

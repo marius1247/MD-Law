@@ -1,15 +1,24 @@
 ---
-title: "Legea 436-2006 — administratia publica locala (notă)"
+title: Legea 436-2006 — administratia publica locala (notă)
 type: act-note
-act: "[[Legea 436-2006 — administratia publica locala (text)]]"
-domeniu: ['administrativ', 'local']
-enabling_act: "[[Constituția RM — text]]"
+act: '[[Legea 436-2006 — administratia publica locala (text)]]'
+domeniu:
+- administrativ
+- local
+enabling_act: '[[Constituția RM — text]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 436-2006.md"
+upload_source: Uploads/Legea 436-2006.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Local Public Administration Law — Analysis

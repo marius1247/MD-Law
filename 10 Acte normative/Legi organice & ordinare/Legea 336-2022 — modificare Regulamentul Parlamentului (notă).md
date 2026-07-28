@@ -1,15 +1,25 @@
 ---
-title: "Legea 336-2022 — modificare Regulamentul Parlamentului (notă)"
+title: Legea 336-2022 — modificare Regulamentul Parlamentului (notă)
 type: act-note
-act: "[[Legea 336-2022 — modificare Regulamentul Parlamentului (text)]]"
-domeniu: ['constitutional', 'parlamentar']
-enabling_act: "[[Legea 797-1996 — Regulamentul Parlamentului (notă)]]"
+act: '[[Legea 336-2022 — modificare Regulamentul Parlamentului (text)]]'
+domeniu:
+- constitutional
+- parlamentar
+enabling_act: '[[Legea 797-1996 — Regulamentul Parlamentului (notă)]]'
 analysis_tier: law-house
-tags: [act-note, analysis, amendment]
+tags:
+- act-note
+- analysis
+- amendment
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 336-2022.md"
+upload_source: Uploads/Legea 336-2022.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Amendment to Parliament Regulations (LP336/2022) — Analysis

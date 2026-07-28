@@ -1,20 +1,33 @@
 ---
-title: "HANRE nr. 534/2019 — Regulile pieței gazelor naturale (text)"
+title: HANRE nr. 534/2019 — Regulile pieței gazelor naturale (text)
 type: act-text
 act_type: act-anre
-nr: "534"
+nr: '534'
 an: 2019
 data_adoptarii: 2019-12-27
-domeniu: [energetică, gaze-naturale, piață]
+domeniu:
+- energetică
+- gaze-naturale
+- piață
 in_vigoare: true
-mo_publicare: "21.02.2020 în MONITORUL OFICIAL Nr. 55-61 art. 199"
-legis_id: "120439"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=120439"
+mo_publicare: 21.02.2020 în MONITORUL OFICIAL Nr. 55-61 art. 199
+legis_id: '120439'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=120439
 continut: text-integral
 text_complet: true
 status_ingestie: complet
-tags: [act, text, energetică]
+tags:
+- act
+- text
+- energetică
+- acte_normative
+- piata_energiei
 created: 2026-07-22
+domain: gaze_naturale
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2019-01-01'
+updated: '2019-01-01'
 ---
 
 # HANRE nr. 534/2019 — Regulile pieței gazelor naturale

@@ -1,17 +1,24 @@
 ---
-title: "Legea 81-2004 — investitii in activitatea de intreprinzator (text)"
+title: Legea 81-2004 — investitii in activitatea de intreprinzator (text)
 type: act-text
 act_type: lege-organică
-nr: "81"
+nr: '81'
 an: 2004
 in_vigoare: true
 continut: text-integral
 text_complet: true
 articole_numarate: 24
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-28
 updated: 2026-07-28
 source_ingest: uploads-folder
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 # Legea 81-2004 — investitii in activitatea de intreprinzator
 

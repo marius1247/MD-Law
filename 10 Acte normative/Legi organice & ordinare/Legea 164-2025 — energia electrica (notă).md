@@ -1,11 +1,23 @@
 ---
-title: "Legea 164-2025 — energia electrica (notă)"
+title: Legea 164-2025 — energia electrica (notă)
 type: act-note
-act: "[[Legea 164-2025 — energia electrica (text)]]"
-domeniu: [energetică, energie-electrică]
-tags: [act-note, analysis, energetică, UE]
+act: '[[Legea 164-2025 — energia electrica (text)]]'
+domeniu:
+- energetică
+- energie-electrică
+tags:
+- act-note
+- analysis
+- energetică
+- UE
+- acte_normative
 status: draft
 created: 2026-07-23
+domain: energie_electrica
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # Legea nr. 164/2025 cu privire la energia electrică — Analysis

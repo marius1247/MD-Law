@@ -1,20 +1,32 @@
 ---
-title: "HANRE 112-2019 — racordarea la retelele de gaze (text)"
+title: HANRE 112-2019 — racordarea la retelele de gaze (text)
 type: act-text
 act_type: act-anre
-nr: "112"
+nr: '112'
 an: 2019
-domeniu: [energetică, gaze-naturale, racordare]
+domeniu:
+- energetică
+- gaze-naturale
+- racordare
 in_vigoare: true
-legis_id: "149126"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=149126"
+legis_id: '149126'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=149126
 continut: text-integral
 text_complet: true
 articole_numarate: 0
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
+- racordare
+- acces
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: racordare_acces
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # HANRE 112/2019 — racordarea la rețelele de gaze

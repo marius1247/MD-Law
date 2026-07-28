@@ -1,20 +1,29 @@
 ---
-title: "Legea 174-2017 — energetica (text)"
+title: Legea 174-2017 — energetica (text)
 type: act-text
 act_type: lege-organică
-nr: "174"
+nr: '174'
 an: 2017
-domeniu: [energetică, cadru-general]
+domeniu:
+- energetică
+- cadru-general
 in_vigoare: true
-legis_id: "150492"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=150492"
+legis_id: '150492'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=150492
 continut: text-integral
 text_complet: true
 articole_numarate: 42
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: energie_electrica
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea 174/2017 — energetică

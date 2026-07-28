@@ -1,15 +1,25 @@
 ---
-title: "Legea 62-2026 — modificare comertul interior (notă)"
+title: Legea 62-2026 — modificare comertul interior (notă)
 type: act-note
-act: "[[Legea 62-2026 — modificare comertul interior (text)]]"
-domeniu: ['comercial', 'comerț']
-enabling_act: "[[Legea 231-2010 — comertul interior (notă)]]"
+act: '[[Legea 62-2026 — modificare comertul interior (text)]]'
+domeniu:
+- comercial
+- comerț
+enabling_act: '[[Legea 231-2010 — comertul interior (notă)]]'
 analysis_tier: law-house
-tags: [act-note, analysis, amendment]
+tags:
+- act-note
+- analysis
+- amendment
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 62-2026.md"
+upload_source: Uploads/Legea 62-2026.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Amendment to Domestic Trade Law (LP62/2026) — Analysis

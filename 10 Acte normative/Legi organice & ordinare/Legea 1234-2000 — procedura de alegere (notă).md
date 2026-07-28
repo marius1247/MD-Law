@@ -1,15 +1,24 @@
 ---
-title: "Legea 1234-2000 — procedura de alegere (notă)"
+title: Legea 1234-2000 — procedura de alegere (notă)
 type: act-note
-act: "[[Legea 1234-2000 — procedura de alegere (text)]]"
-domeniu: ['electoral', 'administrativ']
-enabling_act: "[[Constituția RM — text]]"
+act: '[[Legea 1234-2000 — procedura de alegere (text)]]'
+domeniu:
+- electoral
+- administrativ
+enabling_act: '[[Constituția RM — text]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 1234-2000.md"
+upload_source: Uploads/Legea 1234-2000.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Electoral Procedure Law — Analysis

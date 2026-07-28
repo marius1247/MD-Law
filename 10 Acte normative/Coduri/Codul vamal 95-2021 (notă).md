@@ -1,12 +1,26 @@
 ---
-title: "Codul vamal 95-2021 (notă)"
+title: Codul vamal 95-2021 (notă)
 type: act-note
-act: "[[Codul vamal 95-2021 (text)]]"
-domeniu: [fiscal, vamal, comercial]
-tags: [act-note, analysis, vamal, fiscal, import-export, UE]
+act: '[[Codul vamal 95-2021 (text)]]'
+domeniu:
+- fiscal
+- vamal
+- comercial
+tags:
+- act-note
+- analysis
+- vamal
+- fiscal
+- import-export
+- UE
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: null
+issuer: Autoritate
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Codul vamal nr. 95/2021 — Overview analysis

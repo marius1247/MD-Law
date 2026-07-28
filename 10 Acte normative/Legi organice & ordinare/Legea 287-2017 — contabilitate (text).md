@@ -1,20 +1,29 @@
 ---
-title: "Legea 287-2017 — contabilitate (text)"
+title: Legea 287-2017 — contabilitate (text)
 type: act-text
 act_type: lege-organică
-nr: "287"
+nr: '287'
 an: 2017
-domeniu: [fiscal, contabilitate]
+domeniu:
+- fiscal
+- contabilitate
 in_vigoare: true
-legis_id: "154725"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=154725"
+legis_id: '154725'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=154725
 continut: text-integral
 text_complet: true
 articole_numarate: 37
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea 287/2017 — contabilitate și raportare financiară

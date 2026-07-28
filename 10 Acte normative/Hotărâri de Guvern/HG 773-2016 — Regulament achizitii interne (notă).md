@@ -1,15 +1,24 @@
 ---
-title: "HG 773-2016 — Regulament achizitii interne (notă)"
+title: HG 773-2016 — Regulament achizitii interne (notă)
 type: act-note
-act: "[[HG 773-2016 — Regulament achizitii interne (text)]]"
-domeniu: ['achiziții', 'guvern']
-enabling_act: "[[Legea 74-2020 — achizitii sectoriale (text)]]"
+act: '[[HG 773-2016 — Regulament achizitii interne (text)]]'
+domeniu:
+- achiziții
+- guvern
+enabling_act: '[[Legea 74-2020 — achizitii sectoriale (text)]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/HG 773-2016.md"
+upload_source: Uploads/HG 773-2016.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Guvern
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Internal Procurement Regulation — Analysis

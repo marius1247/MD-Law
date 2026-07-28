@@ -1,13 +1,19 @@
 ---
+title: Furnizor de Ultimă Opțiune
 type: concept
 domain: piata_energiei
+domeniu:
+- piața energiei
+- furnizare
+- energetică
 status: definit
 tags:
-  - concept
-  - furnizare
-  - protectie_consumatori
-  - anre
-created: 2026-07-28
+- concept
+- furnizare
+- protectie_consumatori
+- anre
+created: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # 🛡️ Furnizor de Ultimă Opțiune (FUO)

@@ -1,21 +1,32 @@
 ---
-title: "Legea nr. 108/2016 cu privire la gazele naturale (text)"
+title: Legea nr. 108/2016 cu privire la gazele naturale (text)
 type: act-text
 act_type: lege-organică
-nr: "108"
+nr: '108'
 an: 2016
 data_adoptarii: 2016-05-27
-domeniu: [energetică, gaze-naturale]
+domeniu:
+- energetică
+- gaze-naturale
 in_vigoare: true
-mo_publicare: "08.07.2016 în MONITORUL OFICIAL Nr. 193-203 art. 415"
-legis_id: "151419"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=151419"
+mo_publicare: 08.07.2016 în MONITORUL OFICIAL Nr. 193-203 art. 415
+legis_id: '151419'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=151419
 continut: text-integral
 text_complet: true
-consolidare: "MODIFICAT prin LP227/2025 (în vigoare 30.12.2025)"
-tags: [act, text, energetică, gaze-naturale]
+consolidare: MODIFICAT prin LP227/2025 (în vigoare 30.12.2025)
+tags:
+- act
+- text
+- energetică
+- gaze-naturale
+- acte_normative
 created: 2026-07-22
 updated: 2026-07-23
+domain: gaze_naturale
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-23'
 ---
 
 # Legea nr. 108/2016 cu privire la gazele naturale

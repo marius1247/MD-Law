@@ -1,14 +1,20 @@
 ---
+title: Baza Activelor Reglementate
 type: concept
 domain: tarife
+domeniu:
+- tarife
+- metodologii
+- energetică
 status: definit
 tags:
-  - concept
-  - tarife
-  - metodologie
-  - active_reglementate
-  - anre
-created: 2026-07-28
+- concept
+- tarife
+- metodologie
+- active_reglementate
+- anre
+created: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # 🏦 Baza Activelor Reglementate (BAR)

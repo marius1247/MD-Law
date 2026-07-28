@@ -1,17 +1,24 @@
 ---
-title: "Legea 74-2025 — Curtea Constitutionala (text)"
+title: Legea 74-2025 — Curtea Constitutionala (text)
 type: act-text
 act_type: lege-organică
-nr: "74"
+nr: '74'
 an: 2025
 in_vigoare: true
 continut: text-integral
 text_complet: true
 articole_numarate: 52
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-28
 updated: 2026-07-28
 source_ingest: uploads-folder
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 # Legea 74-2025 — Curtea Constitutionala
 

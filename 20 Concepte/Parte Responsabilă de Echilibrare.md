@@ -1,13 +1,19 @@
 ---
+title: Parte Responsabilă de Echilibrare
 type: concept
 domain: piata_energiei
+domeniu:
+- piața energiei
+- echilibrare
+- energetică
 status: definit
 tags:
-  - concept
-  - echilibrare
-  - piata_energiei
-  - operare
-created: 2026-07-28
+- concept
+- echilibrare
+- piata_energiei
+- operare
+created: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # ⚖️ Parte Responsabilă de Echilibrare (PRE)

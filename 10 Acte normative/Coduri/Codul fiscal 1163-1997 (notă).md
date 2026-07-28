@@ -1,12 +1,24 @@
 ---
-title: "Codul fiscal 1163-1997 (notă)"
+title: Codul fiscal 1163-1997 (notă)
 type: act-note
-act: "[[Codul fiscal 1163-1997 (text) — Index]]"
-domeniu: [fiscal]
-tags: [act-note, analysis, fiscal, impozite, TVA, administrare-fiscală]
+act: '[[Codul fiscal 1163-1997 (text) — Index]]'
+domeniu:
+- fiscal
+tags:
+- act-note
+- analysis
+- fiscal
+- impozite
+- TVA
+- administrare-fiscală
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: null
+issuer: Autoritate
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Codul fiscal nr. 1163/1997 — Master analysis

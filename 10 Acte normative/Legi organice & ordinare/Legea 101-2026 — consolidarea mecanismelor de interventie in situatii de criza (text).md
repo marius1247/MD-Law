@@ -1,21 +1,40 @@
 ---
-title: "Legea nr. 101/2026 pentru modificarea unor acte normative (consolidarea mecanismelor de intervenție în situații de criză) (text)"
+title: Legea nr. 101/2026 pentru modificarea unor acte normative (consolidarea mecanismelor
+  de intervenție în situații de criză) (text)
 type: act-text
 act_type: lege-organică
-nr: "101"
+nr: '101'
 an: 2026
 data_adoptarii: 2026-06-04
-domeniu: [energetică, situații-de-criză, achiziții]
+domeniu:
+- energetică
+- situații-de-criză
+- achiziții
 in_vigoare: true
 data_intrarii_in_vigoare: 2026-06-26
-mo_publicare: "26.06.2026 în MONITORUL OFICIAL Nr. 280-283 art. 282"
-legis_id: "155085"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=155085"
+mo_publicare: 26.06.2026 în MONITORUL OFICIAL Nr. 280-283 art. 282
+legis_id: '155085'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=155085
 continut: text-integral
 text_complet: true
-modifica: ["Legea 461/2001", "Codul contravențional 218/2008", "Legea 131/2015", "Legea 164/2025"]
-tags: [act, text, energetică, modificator, criză]
+modifica:
+- Legea 461/2001
+- Codul contravențional 218/2008
+- Legea 131/2015
+- Legea 164/2025
+tags:
+- act
+- text
+- energetică
+- modificator
+- criză
+- acte_normative
 created: 2026-07-23
+domain: energie_electrica
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-01-01'
+updated: '2026-01-01'
 ---
 
 # Legea nr. 101/2026 — modificarea unor acte normative (mecanisme de intervenție în situații de criză)

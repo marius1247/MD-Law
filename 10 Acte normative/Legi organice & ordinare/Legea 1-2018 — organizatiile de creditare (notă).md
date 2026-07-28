@@ -1,15 +1,24 @@
 ---
-title: "Legea 1-2018 — organizatiile de creditare (notă)"
+title: Legea 1-2018 — organizatiile de creditare (notă)
 type: act-note
-act: "[[Legea 1-2018 — organizatiile de creditare (text)]]"
-domeniu: ['financiar', 'NBFI']
-enabling_act: "[[Legea 548-1995 — Banca Nationala a Moldovei (text)]]"
+act: '[[Legea 1-2018 — organizatiile de creditare (text)]]'
+domeniu:
+- financiar
+- NBFI
+enabling_act: '[[Legea 548-1995 — Banca Nationala a Moldovei (text)]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 1-2018.md"
+upload_source: Uploads/Legea 1-2018.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Non-Bank Credit Organizations Law — Analysis

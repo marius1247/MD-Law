@@ -1,13 +1,24 @@
 ---
-title: "Codul administrativ 116-2018 (notă)"
+title: Codul administrativ 116-2018 (notă)
 type: act-note
-act: "[[Codul administrativ 116-2018 (text)]]"
-domeniu: [procedură, administrativ]
-tags: [act-note, analysis, administrativ, contencios]
+act: '[[Codul administrativ 116-2018 (text)]]'
+domeniu:
+- procedură
+- administrativ
+tags:
+- act-note
+- analysis
+- administrativ
+- contencios
+- acte_normative
 analysis_tier: law-house
 status: draft
 created: 2026-07-26
 updated: 2026-07-28
+domain: null
+issuer: Autoritate
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Codul administrativ nr. 116/2018 — Analysis

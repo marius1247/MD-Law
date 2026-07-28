@@ -1,15 +1,26 @@
 ---
-title: "Legea 10-2016 — surse regenerabile (notă)"
+title: Legea 10-2016 — surse regenerabile (notă)
 type: act-note
-act: "[[Legea 10-2016 — surse regenerabile (text)]]"
-domeniu: [energetică, regenerabile]
-tags: [act-note, analysis, energetică, regenerabile]
-enabling_act: "[[Legea 174-2017 — energetica (text)]]"
-eu_directives: "Directive (EU) 2018/2001 (RED); amended by Law 329/2023 (net billing)"
+act: '[[Legea 10-2016 — surse regenerabile (text)]]'
+domeniu:
+- energetică
+- regenerabile
+tags:
+- act-note
+- analysis
+- energetică
+- regenerabile
+- acte_normative
+enabling_act: '[[Legea 174-2017 — energetica (text)]]'
+eu_directives: Directive (EU) 2018/2001 (RED); amended by Law 329/2023 (net billing)
 analysis_tier: law-house
 status: draft
 created: 2026-07-23
 updated: 2026-07-28
+domain: energie_regenerabila
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Legea nr. 10/2016 privind promovarea utilizării energiei din surse regenerabile — Analysis

@@ -1,13 +1,19 @@
 ---
+title: Aviz de Racordare
 type: concept
 domain: racordare_acces
+domeniu:
+- racordare
+- acces
+- energetică
 status: definit
 tags:
-  - concept
-  - racordare
-  - aviz
-  - autorizare
-created: 2026-07-28
+- concept
+- racordare
+- aviz
+- autorizare
+created: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # 📋 Aviz de Racordare

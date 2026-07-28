@@ -1,15 +1,28 @@
 ---
-title: "HANRE 423-2019 — Codul retelelor electrice (notă)"
+title: HANRE 423-2019 — Codul retelelor electrice (notă)
 type: act-note
-act: "[[HANRE 423-2019 — Codul retelelor electrice (text)]]"
-domeniu: [energetică, energie-electrică, rețele]
-enabling_act: "[[Legea 164-2025 — energia electrica (text)]]"
-eu_directives: "ENTSO-E grid code principles; Regulation (EU) 2019/943"
+act: '[[HANRE 423-2019 — Codul retelelor electrice (text)]]'
+domeniu:
+- energetică
+- energie-electrică
+- rețele
+enabling_act: '[[Legea 164-2025 — energia electrica (text)]]'
+eu_directives: ENTSO-E grid code principles; Regulation (EU) 2019/943
 analysis_tier: law-house
-tags: [act-note, analysis, energetică, rețele, ANRE]
+tags:
+- act-note
+- analysis
+- energetică
+- rețele
+- ANRE
+- acte_normative
 status: draft
 created: 2026-07-28
 updated: 2026-07-28
+domain: energie_electrica
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # HANRE nr. 423/2019 — Codul rețelelor electrice — Analysis

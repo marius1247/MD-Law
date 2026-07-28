@@ -1,19 +1,29 @@
 ---
-title: "Codul civil 1107-2002 (text) — Index"
+title: Codul civil 1107-2002 (text) — Index
 type: act-text
 act_type: cod
-nr: "1107"
+nr: '1107'
 an: 2002
-domeniu: [civil]
+domeniu:
+- civil
 in_vigoare: true
-legis_id: "149719"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=149719"
+legis_id: '149719'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=149719
 continut: index
 text_complet: true
-tags: [act, text, civil, index]
+tags:
+- act
+- text
+- civil
+- index
+- acte_normative
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: null
+issuer: Autoritate
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Codul civil nr. 1107/2002 — Index

@@ -1,17 +1,24 @@
 ---
-title: "HG 854-2006 — transporturi auto calatori (text)"
+title: HG 854-2006 — transporturi auto calatori (text)
 type: act-text
 act_type: hotărâre-guvern
-nr: "854"
+nr: '854'
 an: 2006
 in_vigoare: true
 continut: text-integral
 text_complet: true
 articole_numarate: 0
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-28
 updated: 2026-07-28
 source_ingest: uploads-folder
+domain: null
+issuer: Guvern
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 # HG 854-2006 — transporturi auto calatori
 

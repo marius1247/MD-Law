@@ -1,12 +1,25 @@
 ---
-title: "Legea 235-2006 — principii reglementare intreprinzator (notă)"
+title: Legea 235-2006 — principii reglementare intreprinzator (notă)
 type: act-note
-act: "[[Legea 235-2006 — principii reglementare intreprinzator (text)]]"
-domeniu: [comercial, reglementare]
-tags: [act-note, analysis, comercial, reglementare, autorizare, better-regulation]
+act: '[[Legea 235-2006 — principii reglementare intreprinzator (text)]]'
+domeniu:
+- comercial
+- reglementare
+tags:
+- act-note
+- analysis
+- comercial
+- reglementare
+- autorizare
+- better-regulation
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea nr. 235/2006 — basic principles for regulating business activity

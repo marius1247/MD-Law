@@ -1,15 +1,24 @@
 ---
-title: "Legea 62-2008 — reglementarea valutara (notă)"
+title: Legea 62-2008 — reglementarea valutara (notă)
 type: act-note
-act: "[[Legea 62-2008 — reglementarea valutara (text)]]"
-domeniu: ['financiar', 'FX']
-enabling_act: "[[Legea 548-1995 — Banca Nationala a Moldovei (text)]]"
+act: '[[Legea 62-2008 — reglementarea valutara (text)]]'
+domeniu:
+- financiar
+- FX
+enabling_act: '[[Legea 548-1995 — Banca Nationala a Moldovei (text)]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 62-2008.md"
+upload_source: Uploads/Legea 62-2008.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Foreign Exchange Regulation Law — Analysis

@@ -1,13 +1,19 @@
 ---
+title: Loc de Măsurare
 type: concept
 domain: general_reglementat
+domeniu:
+- general reglementat
+- măsurare
+- energetică
 status: definit
 tags:
-  - concept
-  - masurare
-  - retea
-  - contorizare
-created: 2026-07-28
+- concept
+- masurare
+- retea
+- contorizare
+created: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # 📏 Loc de Măsurare

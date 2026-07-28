@@ -1,12 +1,24 @@
 ---
-title: "HANRE 420-2019 — Codul retelelor de gaze naturale (notă)"
+title: HANRE 420-2019 — Codul retelelor de gaze naturale (notă)
 type: act-note
-act: "[[HANRE 420-2019 — Codul retelelor de gaze naturale (text)]]"
-domeniu: [energetică, gaze-naturale]
-tags: [act-note, analysis, energetică, gaze, ANRE]
+act: '[[HANRE 420-2019 — Codul retelelor de gaze naturale (text)]]'
+domeniu:
+- energetică
+- gaze-naturale
+tags:
+- act-note
+- analysis
+- energetică
+- gaze
+- ANRE
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: gaze_naturale
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # HANRE nr. 420/2019 — Codul rețelelor de gaze naturale — Analysis

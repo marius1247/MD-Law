@@ -1,12 +1,23 @@
 ---
-title: "Legea 149-2012 — insolvabilitate (notă)"
+title: Legea 149-2012 — insolvabilitate (notă)
 type: act-note
-act: "[[Legea 149-2012 — insolvabilitate (text)]]"
-domeniu: [societăți, insolvabilitate, comercial]
-tags: [act-note, analysis, societăți]
+act: '[[Legea 149-2012 — insolvabilitate (text)]]'
+domeniu:
+- societăți
+- insolvabilitate
+- comercial
+tags:
+- act-note
+- analysis
+- societăți
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea nr. 149/2012 a insolvabilității — Analysis

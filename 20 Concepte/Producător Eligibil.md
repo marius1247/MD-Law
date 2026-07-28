@@ -1,12 +1,17 @@
 ---
+title: Producător Eligibil
 type: concept
 domain: energie_regenerabila
+domeniu:
+- energie regenerabilă
+- energetică
 status: definit
 tags:
-  - concept
-  - regenerabile
-  - statut_legal
-created: 2026-07-28
+- concept
+- regenerabile
+- statut_legal
+created: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # 🍃 Producător Eligibil

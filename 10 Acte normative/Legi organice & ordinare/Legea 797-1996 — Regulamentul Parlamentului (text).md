@@ -1,17 +1,24 @@
 ---
-title: "Legea 797-1996 — Regulamentul Parlamentului (text)"
+title: Legea 797-1996 — Regulamentul Parlamentului (text)
 type: act-text
 act_type: lege-organică
-nr: "797"
+nr: '797'
 an: 1996
 in_vigoare: true
 continut: text-integral
 text_complet: true
 articole_numarate: 150
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-28
 updated: 2026-07-28
 source_ingest: uploads-folder
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 # Legea 797-1996 — Regulamentul Parlamentului
 

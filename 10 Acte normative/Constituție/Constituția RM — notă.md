@@ -1,12 +1,22 @@
 ---
-title: "Constituția RM — notă"
+title: Constituția RM — notă
 type: act-note
-act: "[[Constituția RM — text]]"
-domeniu: [constituțional, guvernanță-de-stat]
-tags: [act-note, analysis, constituție]
+act: '[[Constituția RM — text]]'
+domeniu:
+- constituțional
+- guvernanță-de-stat
+tags:
+- act-note
+- analysis
+- constituție
+- acte_normative
 status: draft
 created: 2026-07-22
 updated: 2026-07-22
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-22'
 ---
 
 # Constituția Republicii Moldova — Analysis

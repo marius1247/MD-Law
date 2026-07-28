@@ -1,20 +1,31 @@
 ---
-title: "HANRE 383-2026 — modificare Regulile pietei energiei electrice (text)"
+title: HANRE 383-2026 — modificare Regulile pietei energiei electrice (text)
 type: act-text
 act_type: act-anre
-nr: "383"
+nr: '383'
 an: 2026
-domeniu: [energetică, energie-electrică, piață]
+domeniu:
+- energetică
+- energie-electrică
+- piață
 in_vigoare: true
-legis_id: "155151"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=155151"
+legis_id: '155151'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=155151
 continut: text-integral
 text_complet: true
 articole_numarate: 0
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
+- piata_energiei
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: energie_electrica
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # HANRE 383/2026 — modificare Regulile pieței EE

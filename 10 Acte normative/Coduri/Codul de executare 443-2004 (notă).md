@@ -1,12 +1,23 @@
 ---
-title: "Codul de executare 443-2004 (notă)"
+title: Codul de executare 443-2004 (notă)
 type: act-note
-act: "[[Codul de executare 443-2004 (text)]]"
-domeniu: [procedură, executare]
-tags: [act-note, analysis, executare, procedură]
+act: '[[Codul de executare 443-2004 (text)]]'
+domeniu:
+- procedură
+- executare
+tags:
+- act-note
+- analysis
+- executare
+- procedură
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: null
+issuer: Autoritate
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Codul de executare nr. 443/2004 — Analysis

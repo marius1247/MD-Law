@@ -1,20 +1,35 @@
 ---
-title: "HANRE nr. 64/2018 — Metodologia tarifelor pentru serviciul de distribuție a energiei electrice (text)"
+title: HANRE nr. 64/2018 — Metodologia tarifelor pentru serviciul de distribuție a
+  energiei electrice (text)
 type: act-text
 act_type: act-anre
-nr: "64"
+nr: '64'
 an: 2018
 data_adoptarii: 2018-02-22
-domeniu: [energetică, energie-electrică, tarife]
+domeniu:
+- energetică
+- energie-electrică
+- tarife
 in_vigoare: true
-mo_publicare: "09.03.2018 în MO Nr. 77-83 art. 374"
-legis_id: "103739"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=103739"
+mo_publicare: 09.03.2018 în MO Nr. 77-83 art. 374
+legis_id: '103739'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=103739
 continut: doar-dispozitiv
 text_complet: false
-status_ingestie: "dispozitiv complet — anexa lipsă"
-tags: [act, text, energetică]
+status_ingestie: dispozitiv complet — anexa lipsă
+tags:
+- act
+- text
+- energetică
+- acte_normative
+- tarife
+- metodologie
 created: 2026-07-22
+domain: tarife_metodologii
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2018-01-01'
+updated: '2018-01-01'
 ---
 
 # HANRE nr. 64/2018 — Metodologia tarifelor pentru serviciul de distribuție a energiei electrice

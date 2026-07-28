@@ -1,12 +1,23 @@
 ---
-title: "Legea 92-2014 — energia termica si cogenerarea (notă)"
+title: Legea 92-2014 — energia termica si cogenerarea (notă)
 type: act-note
-act: "[[Legea 92-2014 — energia termica si cogenerarea (text)]]"
-domeniu: [energetică, energie-termică]
-tags: [act-note, analysis, energetică, termoficare]
+act: '[[Legea 92-2014 — energia termica si cogenerarea (text)]]'
+domeniu:
+- energetică
+- energie-termică
+tags:
+- act-note
+- analysis
+- energetică
+- termoficare
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: energie_electrica
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea nr. 92/2014 cu privire la energia termică și promovarea cogenerării — Analysis

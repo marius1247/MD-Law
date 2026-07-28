@@ -1,20 +1,29 @@
 ---
-title: "Codul administrativ 116-2018 (text)"
+title: Codul administrativ 116-2018 (text)
 type: act-text
 act_type: cod
-nr: "116"
+nr: '116'
 an: 2018
-domeniu: [procedură, administrativ]
+domeniu:
+- procedură
+- administrativ
 in_vigoare: true
-legis_id: "149723"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=149723"
+legis_id: '149723'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=149723
 continut: text-integral
 text_complet: true
 articole_numarate: 260
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: null
+issuer: Autoritate
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Codul administrativ 116/2018

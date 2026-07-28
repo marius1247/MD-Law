@@ -1,20 +1,32 @@
 ---
-title: "HANRE nr. 169/2019 — Regulament privind furnizarea energiei electrice (text)"
+title: HANRE nr. 169/2019 — Regulament privind furnizarea energiei electrice (text)
 type: act-text
 act_type: act-anre
-nr: "169"
+nr: '169'
 an: 2019
 data_adoptarii: 2019-05-31
-domeniu: [energetică, energie-electrică, furnizare]
+domeniu:
+- energetică
+- energie-electrică
+- furnizare
 in_vigoare: true
-mo_publicare: "28.06.2019 în MONITORUL OFICIAL Nr. 209-216 art. 1094"
-legis_id: "114962"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=114962"
+mo_publicare: 28.06.2019 în MONITORUL OFICIAL Nr. 209-216 art. 1094
+legis_id: '114962'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=114962
 continut: text-integral
 text_complet: false
 status_ingestie: TRUNCHIAT — necesită completare
-tags: [act, text, energetică]
+tags:
+- act
+- text
+- energetică
+- acte_normative
 created: 2026-07-22
+domain: energie_electrica
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2019-01-01'
+updated: '2019-01-01'
 ---
 
 # HANRE nr. 169/2019 — Regulament privind furnizarea energiei electrice

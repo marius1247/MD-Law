@@ -1,15 +1,24 @@
 ---
-title: "Legea 308-2017 — prevenirea spalarii banilor (notă)"
+title: Legea 308-2017 — prevenirea spalarii banilor (notă)
 type: act-note
-act: "[[Legea 308-2017 — prevenirea spalarii banilor (text)]]"
-domeniu: ['financiar', 'AML']
-enabling_act: "[[Legea 548-1995 — Banca Nationala a Moldovei (text)]]"
+act: '[[Legea 308-2017 — prevenirea spalarii banilor (text)]]'
+domeniu:
+- financiar
+- AML
+enabling_act: '[[Legea 548-1995 — Banca Nationala a Moldovei (text)]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 308-2017.md"
+upload_source: Uploads/Legea 308-2017.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # AML/CFT Law — Analysis

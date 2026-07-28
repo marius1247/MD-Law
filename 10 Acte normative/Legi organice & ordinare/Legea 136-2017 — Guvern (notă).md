@@ -1,15 +1,24 @@
 ---
-title: "Legea 136-2017 — Guvern (notă)"
+title: Legea 136-2017 — Guvern (notă)
 type: act-note
-act: "[[Legea 136-2017 — Guvern (text)]]"
-domeniu: ['administrativ', 'executiv']
-enabling_act: "[[Constituția RM — text]]"
+act: '[[Legea 136-2017 — Guvern (text)]]'
+domeniu:
+- administrativ
+- executiv
+enabling_act: '[[Constituția RM — text]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 136-2017.md"
+upload_source: Uploads/Legea 136-2017.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Government Organisation Law — Analysis

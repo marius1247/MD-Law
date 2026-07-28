@@ -1,17 +1,24 @@
 ---
-title: "Legea 548-1995 — Banca Nationala a Moldovei (text)"
+title: Legea 548-1995 — Banca Nationala a Moldovei (text)
 type: act-text
 act_type: lege-ordinară
-nr: "548"
+nr: '548'
 an: 1995
 in_vigoare: true
 continut: text-integral
 text_complet: true
 articole_numarate: 70
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-28
 updated: 2026-07-28
 source_ingest: uploads-folder
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 # Legea 548-1995 — Banca Nationala a Moldovei
 

@@ -1,22 +1,31 @@
 ---
-title: "Codul fiscal 1163-1997 — text — Titlul II"
+title: Codul fiscal 1163-1997 — text — Titlul II
 type: act-text
 act_type: cod
-nr: "1163"
+nr: '1163'
 an: 1997
-domeniu: [fiscal]
-titlu: "II"
-titlu_nume: "Impozitul pe venit"
+domeniu:
+- fiscal
+titlu: II
+titlu_nume: Impozitul pe venit
 in_vigoare: true
-legis_id: "152862"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=152862"
+legis_id: '152862'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=152862
 continut: text-integral
 text_complet: true
 articole_numarate: 142
-tags: [act, text, fiscal]
+tags:
+- act
+- text
+- fiscal
+- acte_normative
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: null
+issuer: Autoritate
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Codul fiscal nr. 1163/1997 — Titlul II. Impozitul pe venit

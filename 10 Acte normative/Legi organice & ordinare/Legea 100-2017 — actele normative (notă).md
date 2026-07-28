@@ -1,12 +1,21 @@
 ---
-title: "Legea 100-2017 — actele normative (notă)"
+title: Legea 100-2017 — actele normative (notă)
 type: act-note
-act: "[[Legea 100-2017 — actele normative (text)]]"
-domeniu: [sistemul-juridic, tehnica-legislativă]
-tags: [act-note, analysis]
+act: '[[Legea 100-2017 — actele normative (text)]]'
+domeniu:
+- sistemul-juridic
+- tehnica-legislativă
+tags:
+- act-note
+- analysis
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea nr. 100/2017 — Analysis

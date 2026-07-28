@@ -1,14 +1,20 @@
 ---
+title: Devieri Financiare
 type: concept
 domain: tarife
+domeniu:
+- tarife
+- metodologii
+- energetică
 status: definit
 tags:
-  - concept
-  - tarife
-  - metodologie
-  - devieri
-  - anre
-created: 2026-07-28
+- concept
+- tarife
+- metodologie
+- devieri
+- anre
+created: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # 📉 Devieri Financiare

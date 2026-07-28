@@ -1,12 +1,23 @@
 ---
-title: "Codul de procedura civila 225-2003 (notă)"
+title: Codul de procedura civila 225-2003 (notă)
 type: act-note
-act: "[[Codul de procedura civila 225-2003 (text)]]"
-domeniu: [procedură, civil]
-tags: [act-note, analysis, procedură, civil]
+act: '[[Codul de procedura civila 225-2003 (text)]]'
+domeniu:
+- procedură
+- civil
+tags:
+- act-note
+- analysis
+- procedură
+- civil
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: null
+issuer: Autoritate
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Codul de procedură civilă nr. 225/2003 — Analysis

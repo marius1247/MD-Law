@@ -1,20 +1,29 @@
 ---
-title: "HANRE 310-2026 — modificare Codul retelelor de gaze naturale (text)"
+title: HANRE 310-2026 — modificare Codul retelelor de gaze naturale (text)
 type: act-text
 act_type: act-anre
-nr: "310"
+nr: '310'
 an: 2026
-domeniu: [energetică, gaze-naturale]
+domeniu:
+- energetică
+- gaze-naturale
 in_vigoare: true
-legis_id: "154280"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=154280"
+legis_id: '154280'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=154280
 continut: text-integral
 text_complet: true
 articole_numarate: 0
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: gaze_naturale
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # HANRE 310/2026 — modificare Codul rețelelor de gaze

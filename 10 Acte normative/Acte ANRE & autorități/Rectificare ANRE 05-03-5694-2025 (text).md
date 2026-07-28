@@ -1,20 +1,28 @@
 ---
-title: "Rectificare ANRE 05-03-5694-2025 (text)"
+title: Rectificare ANRE 05-03-5694-2025 (text)
 type: act-text
 act_type: act-anre
-nr: "05-03/5694"
+nr: 05-03/5694
 an: 2025
-domeniu: [apă-canalizare]
+domeniu:
+- apă-canalizare
 in_vigoare: true
-legis_id: "151210"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=151210"
+legis_id: '151210'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=151210
 continut: text-integral
 text_complet: true
 articole_numarate: 0
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: null
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Rectificare ANRE 05-03/5694/2025

@@ -1,15 +1,25 @@
 ---
-title: "Legea 108-2016 — gazele naturale (notă)"
+title: Legea 108-2016 — gazele naturale (notă)
 type: act-note
-act: "[[Legea 108-2016 — gazele naturale (text)]]"
-domeniu: [energetică, gaze-naturale]
-tags: [act-note, analysis, energetică]
-enabling_act: "[[Legea 174-2017 — energetica (text)]]"
-eu_directives: "Directive 2009/73/EC (Third Energy Package)"
+act: '[[Legea 108-2016 — gazele naturale (text)]]'
+domeniu:
+- energetică
+- gaze-naturale
+tags:
+- act-note
+- analysis
+- energetică
+- acte_normative
+enabling_act: '[[Legea 174-2017 — energetica (text)]]'
+eu_directives: Directive 2009/73/EC (Third Energy Package)
 analysis_tier: law-house
 status: draft
 created: 2026-07-23
 updated: 2026-07-28
+domain: gaze_naturale
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Legea nr. 108/2016 cu privire la gazele naturale — Analysis

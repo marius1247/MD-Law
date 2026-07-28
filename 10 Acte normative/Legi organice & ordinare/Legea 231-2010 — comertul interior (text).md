@@ -1,17 +1,24 @@
 ---
-title: "Legea 231-2010 — comertul interior (text)"
+title: Legea 231-2010 — comertul interior (text)
 type: act-text
 act_type: lege-organică
-nr: "231"
+nr: '231'
 an: 2010
 in_vigoare: true
 continut: text-integral
 text_complet: true
 articole_numarate: 23
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-28
 updated: 2026-07-28
 source_ingest: uploads-folder
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 # Legea 231-2010 — comertul interior
 

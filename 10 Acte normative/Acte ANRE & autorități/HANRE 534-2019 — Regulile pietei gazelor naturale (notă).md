@@ -1,15 +1,29 @@
 ---
-title: "HANRE 534-2019 — Regulile pietei gazelor naturale (notă)"
+title: HANRE 534-2019 — Regulile pietei gazelor naturale (notă)
 type: act-note
-act: "[[HANRE 534-2019 — Regulile pietei gazelor naturale (text)]]"
-domeniu: [energetică, gaze-naturale, piață]
-enabling_act: "[[Legea 108-2016 — gazele naturale (text)]]"
-eu_directives: "Regulation (EU) 715/2009 (CAM NC); Directive 2009/73/EC"
+act: '[[HANRE 534-2019 — Regulile pietei gazelor naturale (text)]]'
+domeniu:
+- energetică
+- gaze-naturale
+- piață
+enabling_act: '[[Legea 108-2016 — gazele naturale (text)]]'
+eu_directives: Regulation (EU) 715/2009 (CAM NC); Directive 2009/73/EC
 analysis_tier: law-house
-tags: [act-note, analysis, energetică, piață-gaze, ANRE]
+tags:
+- act-note
+- analysis
+- energetică
+- piață-gaze
+- ANRE
+- acte_normative
+- piata_energiei
 status: draft
 created: 2026-07-28
 updated: 2026-07-28
+domain: gaze_naturale
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # HANRE nr. 534/2019 — Regulile pieței gazelor naturale — Analysis

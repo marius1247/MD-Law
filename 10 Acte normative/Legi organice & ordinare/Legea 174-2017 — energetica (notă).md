@@ -1,15 +1,24 @@
 ---
-title: "Legea 174-2017 — energetica (notă)"
+title: Legea 174-2017 — energetica (notă)
 type: act-note
-act: "[[Legea 174-2017 — energetica (text)]]"
-domeniu: [energetică]
-tags: [act-note, analysis, energetică]
-enabling_act: ""
-eu_directives: "Energy Community Treaty; Regulation (EU) 2018/1999 (governance)"
+act: '[[Legea 174-2017 — energetica (text)]]'
+domeniu:
+- energetică
+tags:
+- act-note
+- analysis
+- energetică
+- acte_normative
+enabling_act: ''
+eu_directives: Energy Community Treaty; Regulation (EU) 2018/1999 (governance)
 analysis_tier: law-house
 status: draft
 created: 2026-07-26
 updated: 2026-07-28
+domain: energie_electrica
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Legea nr. 174/2017 cu privire la energetică — Analysis

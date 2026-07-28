@@ -1,15 +1,24 @@
 ---
-title: "HANRE 286-2018 — licentiere energie (notă)"
+title: HANRE 286-2018 — licentiere energie (notă)
 type: act-note
-act: "[[HANRE 286-2018 — licentiere energie (text)]]"
-domeniu: ['energetică', 'licențiere']
-enabling_act: "[[Legea 174-2017 — energetica (text)]]"
+act: '[[HANRE 286-2018 — licentiere energie (text)]]'
+domeniu:
+- energetică
+- licențiere
+enabling_act: '[[Legea 174-2017 — energetica (text)]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/HANRE 286-2018.md"
+upload_source: Uploads/HANRE 286-2018.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: energie_electrica
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # ANRE Energy Licensing Regulation — Analysis

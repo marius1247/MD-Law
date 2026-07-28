@@ -1,17 +1,24 @@
 ---
-title: "Legea 308-2017 — prevenirea spalarii banilor (text)"
+title: Legea 308-2017 — prevenirea spalarii banilor (text)
 type: act-text
 act_type: lege-organică
-nr: "308"
+nr: '308'
 an: 2017
 in_vigoare: true
 continut: text-integral
 text_complet: true
 articole_numarate: 37
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-28
 updated: 2026-07-28
 source_ingest: uploads-folder
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 # Legea 308-2017 — prevenirea spalarii banilor
 

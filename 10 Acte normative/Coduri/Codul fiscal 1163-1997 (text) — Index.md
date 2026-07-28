@@ -1,19 +1,29 @@
 ---
-title: "Codul fiscal 1163-1997 (text) — Index"
+title: Codul fiscal 1163-1997 (text) — Index
 type: act-text
 act_type: cod
-nr: "1163"
+nr: '1163'
 an: 1997
-domeniu: [fiscal]
+domeniu:
+- fiscal
 in_vigoare: true
-legis_id: "152862"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=152862"
+legis_id: '152862'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=152862
 continut: index
 text_complet: true
-tags: [act, text, fiscal, index]
+tags:
+- act
+- text
+- fiscal
+- index
+- acte_normative
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: null
+issuer: Autoritate
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Codul fiscal nr. 1163/1997 — Index

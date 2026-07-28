@@ -1,17 +1,24 @@
 ---
-title: "Codul transportului feroviar 19-2022 (text)"
+title: Codul transportului feroviar 19-2022 (text)
 type: act-text
 act_type: cod
-nr: "19"
+nr: '19'
 an: 2022
 in_vigoare: true
 continut: text-integral
 text_complet: true
 articole_numarate: 133
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-28
 updated: 2026-07-28
 source_ingest: uploads-folder
+domain: null
+issuer: Autoritate
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 # Codul transportului feroviar 19-2022
 

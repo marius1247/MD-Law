@@ -1,15 +1,24 @@
 ---
-title: "Legea 213-2024 — controlul comertului (notă)"
+title: Legea 213-2024 — controlul comertului (notă)
 type: act-note
-act: "[[Legea 213-2024 — controlul comertului (text)]]"
-domeniu: ['comercial', 'control']
-enabling_act: "[[Legea 231-2010 — comertul interior (text)]]"
+act: '[[Legea 213-2024 — controlul comertului (text)]]'
+domeniu:
+- comercial
+- control
+enabling_act: '[[Legea 231-2010 — comertul interior (text)]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 213-2024.md"
+upload_source: Uploads/Legea 213-2024.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Trade Control Law — Analysis

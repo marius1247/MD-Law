@@ -1,15 +1,24 @@
 ---
-title: "Legea 131-2007 — siguranta traficului rutier (notă)"
+title: Legea 131-2007 — siguranta traficului rutier (notă)
 type: act-note
-act: "[[Legea 131-2007 — siguranta traficului rutier (text)]]"
-domeniu: ['transport', 'rutier']
-enabling_act: "[[Legea 509-1995 — drumuri (text)]]"
+act: '[[Legea 131-2007 — siguranta traficului rutier (text)]]'
+domeniu:
+- transport
+- rutier
+enabling_act: '[[Legea 509-1995 — drumuri (text)]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 131-2007.md"
+upload_source: Uploads/Legea 131-2007.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Road Traffic Safety Law — Analysis

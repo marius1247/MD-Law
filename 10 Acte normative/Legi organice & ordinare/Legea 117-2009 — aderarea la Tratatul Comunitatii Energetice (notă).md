@@ -1,11 +1,24 @@
 ---
-title: "Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (notă)"
+title: Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (notă)
 type: act-note
-act: "[[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (text)]]"
-domeniu: [energetică, internațional, UE]
-tags: [act-note, analysis, energetică, UE]
+act: '[[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (text)]]'
+domeniu:
+- energetică
+- internațional
+- UE
+tags:
+- act-note
+- analysis
+- energetică
+- UE
+- acte_normative
 status: draft
 created: 2026-07-23
+domain: energie_electrica
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # Legea nr. 117/2009 — Energy Community Treaty accession — Analysis

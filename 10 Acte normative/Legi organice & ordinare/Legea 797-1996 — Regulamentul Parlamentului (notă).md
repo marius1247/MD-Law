@@ -1,15 +1,24 @@
 ---
-title: "Legea 797-1996 — Regulamentul Parlamentului (notă)"
+title: Legea 797-1996 — Regulamentul Parlamentului (notă)
 type: act-note
-act: "[[Legea 797-1996 — Regulamentul Parlamentului (text)]]"
-domeniu: ['constitutional', 'parlamentar']
-enabling_act: "[[Constituția RM — text]]"
+act: '[[Legea 797-1996 — Regulamentul Parlamentului (text)]]'
+domeniu:
+- constitutional
+- parlamentar
+enabling_act: '[[Constituția RM — text]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 797-1996.md"
+upload_source: Uploads/Legea 797-1996.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Parliament Regulations Law — Analysis

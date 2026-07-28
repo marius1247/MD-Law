@@ -1,12 +1,25 @@
 ---
-title: "Legea 86-2026 — modificare Legea contabilitatii (notă)"
+title: Legea 86-2026 — modificare Legea contabilitatii (notă)
 type: act-note
-act: "[[Legea 86-2026 — modificare Legea contabilitatii (text)]]"
-domeniu: [fiscal, contabilitate]
-tags: [act-note, analysis, contabilitate, raportare-financiară, thresholds, UE]
+act: '[[Legea 86-2026 — modificare Legea contabilitatii (text)]]'
+domeniu:
+- fiscal
+- contabilitate
+tags:
+- act-note
+- analysis
+- contabilitate
+- raportare-financiară
+- thresholds
+- UE
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea nr. 86/2026 — accounting threshold reset from 2027

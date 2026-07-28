@@ -1,13 +1,19 @@
 ---
+title: Tarif de Distribuție
 type: concept
 domain: tarife
+domeniu:
+- tarife
+- distribuție
+- energetică
 status: definit
 tags:
-  - concept
-  - tarife
-  - distributie
-  - retea
-created: 2026-07-28
+- concept
+- tarife
+- distributie
+- retea
+created: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # 🔌 Tarif de Distribuție

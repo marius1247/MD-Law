@@ -1,17 +1,24 @@
 ---
-title: "Legea 1234-2000 — procedura de alegere (text)"
+title: Legea 1234-2000 — procedura de alegere (text)
 type: act-text
 act_type: lege-organică
-nr: "1234"
+nr: '1234'
 an: 2000
 in_vigoare: true
 continut: text-integral
 text_complet: true
 articole_numarate: 14
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-28
 updated: 2026-07-28
 source_ingest: uploads-folder
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 # Legea 1234-2000 — procedura de alegere
 

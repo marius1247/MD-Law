@@ -1,21 +1,33 @@
 ---
-title: "Legea nr. 10/2016 privind promovarea utilizării energiei din surse regenerabile (text)"
+title: Legea nr. 10/2016 privind promovarea utilizării energiei din surse regenerabile
+  (text)
 type: act-text
 act_type: lege-organică
-nr: "10"
+nr: '10'
 an: 2016
 data_adoptarii: 2016-02-26
-domeniu: [energetică, regenerabile]
+domeniu:
+- energetică
+- regenerabile
 in_vigoare: true
-mo_publicare: "25.03.2016 în MONITORUL OFICIAL Nr. 69-77 art. 117"
-legis_id: "151418"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=151418"
+mo_publicare: 25.03.2016 în MONITORUL OFICIAL Nr. 69-77 art. 117
+legis_id: '151418'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=151418
 continut: text-integral
 text_complet: true
-consolidare: "MODIFICAT prin LP227/2025 (în vigoare 30.12.2025)"
-tags: [act, text, energetică, regenerabile]
+consolidare: MODIFICAT prin LP227/2025 (în vigoare 30.12.2025)
+tags:
+- act
+- text
+- energetică
+- regenerabile
+- acte_normative
 created: 2026-07-22
 updated: 2026-07-23
+domain: energie_regenerabila
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-23'
 ---
 
 # Legea nr. 10/2016 privind promovarea utilizării energiei din surse regenerabile

@@ -1,17 +1,24 @@
 ---
-title: "Codul aerian 301-2017 (text)"
+title: Codul aerian 301-2017 (text)
 type: act-text
 act_type: cod
-nr: "301"
+nr: '301'
 an: 2017
 in_vigoare: true
 continut: text-integral
 text_complet: true
 articole_numarate: 50
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-28
 updated: 2026-07-28
 source_ingest: uploads-folder
+domain: null
+issuer: Autoritate
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 # Codul aerian 301-2017
 

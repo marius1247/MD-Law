@@ -1,11 +1,18 @@
 ---
+title: MOC Racordare și Acces la Rețele
 type: moc
 domain: racordare_acces
+domeniu:
+- racordare
+- acces
+- infrastructură
+status: draft
 tags:
-  - moc
-  - racordare
-  - infrastructura
-created: 2026-07-28
+- moc
+- racordare
+- infrastructura
+created: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # 🔌 Map of Content: Racordare și Acces la Rețele
@@ -30,7 +37,7 @@ Centrul de comandă pentru normele privind accesul la rețelele electrice, de ga
 
 ## 4. Acte de Racordare și Acces (Dataview)
 ```dataview
-TABLE domain AS "Sector", status AS "Statut"
+TABLE domain AS "Sector", legal_status AS "Statut"
 FROM #acte_normative
 WHERE contains(tags, "racordare") OR contains(tags, "acces")
 SORT file.name ASC

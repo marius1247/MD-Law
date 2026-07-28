@@ -1,17 +1,24 @@
 ---
-title: "Legea 62-2026 — modificare comertul interior (text)"
+title: Legea 62-2026 — modificare comertul interior (text)
 type: act-text
 act_type: lege-organică
-nr: "62"
+nr: '62'
 an: 2026
 in_vigoare: true
 continut: text-integral
 text_complet: true
 articole_numarate: 0
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-28
 updated: 2026-07-28
 source_ingest: uploads-folder
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 # Legea 62-2026 — modificare comertul interior
 

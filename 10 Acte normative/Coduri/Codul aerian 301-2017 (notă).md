@@ -1,15 +1,24 @@
 ---
-title: "Codul aerian 301-2017 (notă)"
+title: Codul aerian 301-2017 (notă)
 type: act-note
-act: "[[Codul aerian 301-2017 (text)]]"
-domeniu: ['transport', 'aviatie']
-enabling_act: "[[Legea 1194-1997 — transporturi (text)]]"
+act: '[[Codul aerian 301-2017 (text)]]'
+domeniu:
+- transport
+- aviatie
+enabling_act: '[[Legea 1194-1997 — transporturi (text)]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/Cod aerian 301-2017.md"
+upload_source: Uploads/Cod aerian 301-2017.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Autoritate
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Air Code — Analysis

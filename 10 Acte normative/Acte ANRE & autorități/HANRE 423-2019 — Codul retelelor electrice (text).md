@@ -1,21 +1,30 @@
 ---
-title: "HANRE 423-2019 — Codul retelelor electrice (text)"
+title: HANRE 423-2019 — Codul retelelor electrice (text)
 type: act-text
 act_type: act-anre
-nr: "423"
+nr: '423'
 an: 2019
-domeniu: [energetică, energie-electrică]
+domeniu:
+- energetică
+- energie-electrică
 in_vigoare: true
-legis_id: "151929"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=151929"
+legis_id: '151929'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=151929
 continut: doar-dispozitiv
 text_complet: false
-status_ingestie: "dispozitiv complet — anexa lipsă"
+status_ingestie: dispozitiv complet — anexa lipsă
 articole_numarate: 0
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: energie_electrica
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # HANRE 423/2019 — Codul rețelelor electrice (dispozitiv)

@@ -1,13 +1,19 @@
 ---
+title: Punct de Delimitare
 type: concept
 domain: general_reglementat
+domeniu:
+- general reglementat
+- racordare
+- energetică
 status: definit
 tags:
-  - concept
-  - racordare
-  - proprietate
-  - retea
-created: 2026-07-28
+- concept
+- racordare
+- proprietate
+- retea
+created: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # 📍 Punct de Delimitare

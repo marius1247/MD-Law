@@ -1,21 +1,32 @@
 ---
-title: "Legea nr. 139/2018 cu privire la eficiența energetică (text)"
+title: Legea nr. 139/2018 cu privire la eficiența energetică (text)
 type: act-text
 act_type: lege-organică
-nr: "139"
+nr: '139'
 an: 2018
 data_adoptarii: 2018-07-19
-domeniu: [energetică, eficiență-energetică]
+domeniu:
+- energetică
+- eficiență-energetică
 in_vigoare: true
-mo_publicare: "17.08.2018 în MONITORUL OFICIAL Nr. 309-320 art. 476"
-legis_id: "148767"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=148767"
+mo_publicare: 17.08.2018 în MONITORUL OFICIAL Nr. 309-320 art. 476
+legis_id: '148767'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=148767
 continut: text-integral
 text_complet: true
-consolidare: "MODIFICAT prin LP111/2025 (în vigoare 03.06.2025)"
-tags: [act, text, energetică, eficiență-energetică]
+consolidare: MODIFICAT prin LP111/2025 (în vigoare 03.06.2025)
+tags:
+- act
+- text
+- energetică
+- eficiență-energetică
+- acte_normative
 created: 2026-07-22
 updated: 2026-07-23
+domain: energie_electrica
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-23'
 ---
 
 # Legea nr. 139/2018 cu privire la eficiența energetică

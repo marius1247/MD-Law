@@ -1,17 +1,25 @@
 ---
-title: "Legea 171-2012 — piata de capital (text)"
+title: Legea 171-2012 — piata de capital (text)
 type: act-text
 act_type: lege-organică
-nr: "171"
+nr: '171'
 an: 2012
 in_vigoare: true
 continut: text-integral
 text_complet: true
 articole_numarate: 140
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
+- piata_energiei
 created: 2026-07-28
 updated: 2026-07-28
 source_ingest: uploads-folder
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 # Legea 171-2012 — piata de capital
 

@@ -1,20 +1,29 @@
 ---
-title: "Legea 100-2017 — actele normative (text)"
+title: Legea 100-2017 — actele normative (text)
 type: act-text
 act_type: lege-organică
-nr: "100"
+nr: '100'
 an: 2017
-domeniu: [tehnică-legislativă, sistemul-juridic]
+domeniu:
+- tehnică-legislativă
+- sistemul-juridic
 in_vigoare: true
-legis_id: "153007"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=153007"
+legis_id: '153007'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=153007
 continut: text-integral
 text_complet: true
 articole_numarate: 79
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea 100/2017 — actele normative

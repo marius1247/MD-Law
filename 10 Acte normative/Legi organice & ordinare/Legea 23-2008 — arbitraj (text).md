@@ -1,20 +1,29 @@
 ---
-title: "Legea 23-2008 — arbitraj (text)"
+title: Legea 23-2008 — arbitraj (text)
 type: act-text
 act_type: lege-organică
-nr: "23"
+nr: '23'
 an: 2008
-domeniu: [procedură, arbitraj]
+domeniu:
+- procedură
+- arbitraj
 in_vigoare: true
-legis_id: "95607"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=95607"
+legis_id: '95607'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=95607
 continut: text-integral
 text_complet: true
 articole_numarate: 36
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea 23/2008 — arbitraj

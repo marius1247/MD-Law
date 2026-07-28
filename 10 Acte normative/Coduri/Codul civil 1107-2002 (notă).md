@@ -1,12 +1,22 @@
 ---
-title: "Codul civil 1107-2002 (notă)"
+title: Codul civil 1107-2002 (notă)
 type: act-note
-act: "[[Codul civil 1107-2002 (text) — Index]]"
-domeniu: [civil]
-tags: [act-note, analysis, civil, contracte]
+act: '[[Codul civil 1107-2002 (text) — Index]]'
+domeniu:
+- civil
+tags:
+- act-note
+- analysis
+- civil
+- contracte
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: null
+issuer: Autoritate
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Codul civil nr. 1107/2002 — Master analysis note

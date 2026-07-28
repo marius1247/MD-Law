@@ -1,20 +1,29 @@
 ---
-title: "Legea 235-2006 — principii reglementare intreprinzator (text)"
+title: Legea 235-2006 — principii reglementare intreprinzator (text)
 type: act-text
 act_type: lege-organică
-nr: "235"
+nr: '235'
 an: 2006
-domeniu: [comercial, autorizare]
+domeniu:
+- comercial
+- autorizare
 in_vigoare: true
-legis_id: "142654"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=142654"
+legis_id: '142654'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=142654
 continut: text-integral
 text_complet: true
 articole_numarate: 21
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea 235/2006 — principii reglementare întreprinzător

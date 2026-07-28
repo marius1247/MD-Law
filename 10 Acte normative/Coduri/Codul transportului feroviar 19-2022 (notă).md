@@ -1,15 +1,24 @@
 ---
-title: "Codul transportului feroviar 19-2022 (notă)"
+title: Codul transportului feroviar 19-2022 (notă)
 type: act-note
-act: "[[Codul transportului feroviar 19-2022 (text)]]"
-domeniu: ['transport', 'infrastructură']
-enabling_act: "[[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (text)]]"
+act: '[[Codul transportului feroviar 19-2022 (text)]]'
+domeniu:
+- transport
+- infrastructură
+enabling_act: '[[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (text)]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/Cod transport feroviar 19-2022.md"
+upload_source: Uploads/Cod transport feroviar 19-2022.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Autoritate
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Railway Transport Code — Analysis

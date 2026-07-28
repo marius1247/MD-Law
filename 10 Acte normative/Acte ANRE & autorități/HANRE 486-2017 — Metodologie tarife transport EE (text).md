@@ -1,23 +1,35 @@
 ---
-title: "HANRE 486-2017 — Metodologie tarife transport EE (text)"
+title: HANRE 486-2017 — Metodologie tarife transport EE (text)
 type: act-text
 act_type: act-anre
-nr: "486"
+nr: '486'
 an: 2017
-domeniu: [energetică, energie-electrică, tarife]
-legis_id: "140021"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=140021"
+domeniu:
+- energetică
+- energie-electrică
+- tarife
+legis_id: '140021'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=140021
 continut: doar-dispozitiv
 text_complet: false
 in_vigoare: false
-abrogat_prin: "HANRE 626/2023"
-status_ingestie: "ABROGAT — dispozitiv only"
+abrogat_prin: HANRE 626/2023
+status_ingestie: ABROGAT — dispozitiv only
 articole_numarate: 0
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
+- tarife
+- metodologie
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
-abrogat_prin: "HANRE 626/2023"---
+domain: tarife_metodologii
+issuer: ANRE
+legal_status: abrogat
+last_amended: '2026-07-26'
+---
 
 # HANRE 486/2017 — Metodologie tarife transport EE (ABROGAT)
 

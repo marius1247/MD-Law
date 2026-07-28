@@ -1,15 +1,24 @@
 ---
-title: "Legea 114-2012 — servicii de plata (notă)"
+title: Legea 114-2012 — servicii de plata (notă)
 type: act-note
-act: "[[Legea 114-2012 — servicii de plata (text)]]"
-domeniu: ['financiar', 'plăți']
-enabling_act: "[[Legea 548-1995 — Banca Nationala a Moldovei (text)]]"
+act: '[[Legea 114-2012 — servicii de plata (text)]]'
+domeniu:
+- financiar
+- plăți
+enabling_act: '[[Legea 548-1995 — Banca Nationala a Moldovei (text)]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 114-2012.md"
+upload_source: Uploads/Legea 114-2012.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Payment Services Law — Analysis

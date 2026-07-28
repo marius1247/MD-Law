@@ -1,20 +1,35 @@
 ---
-title: "HANRE nr. 375/2017 — Metodologia tarifelor fixe și prețurilor la energia electrică din surse regenerabile (text)"
+title: HANRE nr. 375/2017 — Metodologia tarifelor fixe și prețurilor la energia electrică
+  din surse regenerabile (text)
 type: act-text
 act_type: act-anre
-nr: "375"
+nr: '375'
 an: 2017
 data_adoptarii: 2017-09-28
-domeniu: [energetică, regenerabile, tarife]
+domeniu:
+- energetică
+- regenerabile
+- tarife
 in_vigoare: true
-mo_publicare: "10.11.2017 în MO Nr. 390-395 art. 1988"
-legis_id: "103972"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=103972"
+mo_publicare: 10.11.2017 în MO Nr. 390-395 art. 1988
+legis_id: '103972'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=103972
 continut: doar-dispozitiv
 text_complet: false
-status_ingestie: "dispozitiv complet — anexa lipsă"
-tags: [act, text, energetică]
+status_ingestie: dispozitiv complet — anexa lipsă
+tags:
+- act
+- text
+- energetică
+- acte_normative
+- tarife
+- metodologie
 created: 2026-07-22
+domain: tarife_metodologii
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2017-01-01'
+updated: '2017-01-01'
 ---
 
 # HANRE nr. 375/2017 — Metodologia tarifelor fixe și prețurilor la energia electrică din surse regenerabile

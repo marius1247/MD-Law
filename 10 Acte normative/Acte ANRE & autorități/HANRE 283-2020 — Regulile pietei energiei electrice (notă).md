@@ -1,12 +1,26 @@
 ---
-title: "HANRE 283-2020 — Regulile pietei energiei electrice (notă)"
+title: HANRE 283-2020 — Regulile pietei energiei electrice (notă)
 type: act-note
-act: "[[HANRE 283-2020 — Regulile pietei energiei electrice (text)]]"
-domeniu: [energetică, energie-electrică, piață]
-tags: [act-note, analysis, energetică, piață-electricitate, ANRE]
+act: '[[HANRE 283-2020 — Regulile pietei energiei electrice (text)]]'
+domeniu:
+- energetică
+- energie-electrică
+- piață
+tags:
+- act-note
+- analysis
+- energetică
+- piață-electricitate
+- ANRE
+- acte_normative
+- piata_energiei
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: energie_electrica
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # HANRE nr. 283/2020 — Regulile pieței energiei electrice — Analysis

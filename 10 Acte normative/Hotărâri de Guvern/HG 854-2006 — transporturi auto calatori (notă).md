@@ -1,15 +1,24 @@
 ---
-title: "HG 854-2006 — transporturi auto calatori (notă)"
+title: HG 854-2006 — transporturi auto calatori (notă)
 type: act-note
-act: "[[HG 854-2006 — transporturi auto calatori (text)]]"
-domeniu: ['transport', 'rutier']
-enabling_act: "[[Legea 1194-1997 — transporturi (text)]]"
+act: '[[HG 854-2006 — transporturi auto calatori (text)]]'
+domeniu:
+- transport
+- rutier
+enabling_act: '[[Legea 1194-1997 — transporturi (text)]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/HG 854-2006.md"
+upload_source: Uploads/HG 854-2006.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Guvern
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Passenger Road Transport Regulation — Analysis

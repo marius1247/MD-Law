@@ -1,19 +1,33 @@
 ---
-title: "Legea nr. 117/2009 pentru aderarea RM la Tratatul de constituire a Comunităţii Energetice (text)"
+title: Legea nr. 117/2009 pentru aderarea RM la Tratatul de constituire a Comunităţii
+  Energetice (text)
 type: act-text
 act_type: lege-organică
-nr: "117"
+nr: '117'
 an: 2009
 data_adoptarii: 2009-12-23
-domeniu: [energetică, internațional, UE]
+domeniu:
+- energetică
+- internațional
+- UE
 in_vigoare: true
-mo_publicare: "22.01.2010 în MONITORUL OFICIAL Nr. 8-10 art. 6"
-legis_id: "3445"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=3445"
+mo_publicare: 22.01.2010 în MONITORUL OFICIAL Nr. 8-10 art. 6
+legis_id: '3445'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=3445
 continut: text-integral
 text_complet: true
-tags: [act, text, energetică, UE]
+tags:
+- act
+- text
+- energetică
+- UE
+- acte_normative
 created: 2026-07-23
+domain: energie_electrica
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2009-01-01'
+updated: '2009-01-01'
 ---
 
 # Legea nr. 117/2009 pentru aderarea Republicii Moldova la Tratatul de constituire a Comunităţii Energetice

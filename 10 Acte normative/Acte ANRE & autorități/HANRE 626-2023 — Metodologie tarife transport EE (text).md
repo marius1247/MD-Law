@@ -1,20 +1,32 @@
 ---
-title: "HANRE 626-2023 — Metodologie tarife transport EE (text)"
+title: HANRE 626-2023 — Metodologie tarife transport EE (text)
 type: act-text
 act_type: act-anre
-nr: "626"
+nr: '626'
 an: 2023
-domeniu: [energetică, energie-electrică, tarife]
+domeniu:
+- energetică
+- energie-electrică
+- tarife
 in_vigoare: true
-legis_id: "154057"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=154057"
+legis_id: '154057'
+legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=154057
 continut: text-integral
 text_complet: true
 articole_numarate: 0
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
+- tarife
+- metodologie
 created: 2026-07-26
 updated: 2026-07-26
 source_ingest: manual-browser-download
+domain: tarife_metodologii
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # HANRE 626/2023 — Metodologie tarife transport EE

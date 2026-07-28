@@ -1,10 +1,12 @@
 ---
+title: 00 Index Concepte
 type: dashboard
 tags:
-  - index
-  - concepte
-  - dataview
-created: 2026-07-28
+- index
+- concepte
+- dataview
+created: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # 🧠 Index Central: Concepte Atomice de Drept Energetic

@@ -1,12 +1,23 @@
 ---
-title: "Legea 135-2007 — SRL (notă)"
+title: Legea 135-2007 — SRL (notă)
 type: act-note
-act: "[[Legea 135-2007 — SRL (text)]]"
-domeniu: [societăți, SRL, guvernanță]
-tags: [act-note, analysis, societăți]
+act: '[[Legea 135-2007 — SRL (text)]]'
+domeniu:
+- societăți
+- SRL
+- guvernanță
+tags:
+- act-note
+- analysis
+- societăți
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea nr. 135/2007 privind societățile cu răspundere limitată — Analysis

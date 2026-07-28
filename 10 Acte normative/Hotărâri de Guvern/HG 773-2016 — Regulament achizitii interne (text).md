@@ -1,17 +1,24 @@
 ---
-title: "HG 773-2016 — Regulament achizitii interne (text)"
+title: HG 773-2016 — Regulament achizitii interne (text)
 type: act-text
 act_type: hotărâre-guvern
-nr: "773"
+nr: '773'
 an: 2016
 in_vigoare: true
 continut: text-integral
 text_complet: true
 articole_numarate: 0
-tags: [act, text]
+tags:
+- act
+- text
+- acte_normative
 created: 2026-07-28
 updated: 2026-07-28
 source_ingest: uploads-folder
+domain: null
+issuer: Guvern
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 # HG 773-2016 — Regulament achizitii interne
 

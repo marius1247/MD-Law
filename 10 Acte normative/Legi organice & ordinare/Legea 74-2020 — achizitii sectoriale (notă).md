@@ -1,12 +1,24 @@
 ---
-title: "Legea 74-2020 — achizitii sectoriale (notă)"
+title: Legea 74-2020 — achizitii sectoriale (notă)
 type: act-note
-act: "[[Legea 74-2020 — achizitii sectoriale (text)]]"
-domeniu: [achiziții, energetică]
-tags: [act-note, analysis, achiziții, energetică, utilități]
+act: '[[Legea 74-2020 — achizitii sectoriale (text)]]'
+domeniu:
+- achiziții
+- energetică
+tags:
+- act-note
+- analysis
+- achiziții
+- energetică
+- utilități
+- acte_normative
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: energie_electrica
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # Legea nr. 74/2020 privind achizițiile în sectoarele energeticii, apei, transporturilor și serviciilor poștale — Analysis

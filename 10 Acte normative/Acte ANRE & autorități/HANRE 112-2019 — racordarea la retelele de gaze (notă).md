@@ -1,12 +1,27 @@
 ---
-title: "HANRE 112-2019 — racordarea la retelele de gaze (notă)"
+title: HANRE 112-2019 — racordarea la retelele de gaze (notă)
 type: act-note
-act: "[[HANRE 112-2019 — racordarea la retelele de gaze (text)]]"
-domeniu: [energetică, gaze-naturale, racordare]
-tags: [act-note, analysis, energetică, gaze, racordare, ANRE]
+act: '[[HANRE 112-2019 — racordarea la retelele de gaze (text)]]'
+domeniu:
+- energetică
+- gaze-naturale
+- racordare
+tags:
+- act-note
+- analysis
+- energetică
+- gaze
+- racordare
+- ANRE
+- acte_normative
+- acces
 status: draft
 created: 2026-07-26
 updated: 2026-07-26
+domain: racordare_acces
+issuer: ANRE
+legal_status: in_vigoare
+last_amended: '2026-07-26'
 ---
 
 # HANRE nr. 112/2019 — racordarea la rețelele de gaze naturale — Analysis

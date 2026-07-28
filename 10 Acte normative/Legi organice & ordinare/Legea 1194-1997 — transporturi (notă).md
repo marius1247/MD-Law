@@ -1,15 +1,23 @@
 ---
-title: "Legea 1194-1997 — transporturi (notă)"
+title: Legea 1194-1997 — transporturi (notă)
 type: act-note
-act: "[[Legea 1194-1997 — transporturi (text)]]"
-domeniu: ['transport']
-enabling_act: "[[Codul civil 1107-2002 (notă)]]"
+act: '[[Legea 1194-1997 — transporturi (text)]]'
+domeniu:
+- transport
+enabling_act: '[[Codul civil 1107-2002 (notă)]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 1194-1997.md"
+upload_source: Uploads/Legea 1194-1997.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Transport Law — Analysis

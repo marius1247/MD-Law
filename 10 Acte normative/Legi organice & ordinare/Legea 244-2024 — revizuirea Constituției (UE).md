@@ -1,10 +1,20 @@
 ---
-title: "Legea 244-2024 — revizuirea Constituției (UE)"
+title: Legea 244-2024 — revizuirea Constituției (UE)
 type: act-note
-domeniu: [constituțional]
-tags: [act-note, stub, constituție]
+domeniu:
+- constituțional
+tags:
+- act-note
+- stub
+- constituție
+- acte_normative
 status: stub
 created: 2026-07-22
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # Legea nr. 244 din 20.10.2024 — revizuirea Constituției (EU integration)

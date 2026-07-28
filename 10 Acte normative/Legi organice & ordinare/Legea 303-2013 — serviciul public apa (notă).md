@@ -1,15 +1,24 @@
 ---
-title: "Legea 303-2013 — serviciul public apa (notă)"
+title: Legea 303-2013 — serviciul public apa (notă)
 type: act-note
-act: "[[Legea 303-2013 — serviciul public apa (text)]]"
-domeniu: ['utilități', 'apă']
-enabling_act: "[[Legea 436-2006 — administratia publica locala (text)]]"
+act: '[[Legea 303-2013 — serviciul public apa (text)]]'
+domeniu:
+- utilități
+- apă
+enabling_act: '[[Legea 436-2006 — administratia publica locala (text)]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 303-2013.md"
+upload_source: Uploads/Legea 303-2013.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Public Water Supply Service Law — Analysis

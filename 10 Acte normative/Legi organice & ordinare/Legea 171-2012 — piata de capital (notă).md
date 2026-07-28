@@ -1,15 +1,25 @@
 ---
-title: "Legea 171-2012 — piata de capital (notă)"
+title: Legea 171-2012 — piata de capital (notă)
 type: act-note
-act: "[[Legea 171-2012 — piata de capital (text)]]"
-domeniu: ['financiar', 'piață-capital']
-enabling_act: "[[Codul civil 1107-2002 (notă)]]"
+act: '[[Legea 171-2012 — piata de capital (text)]]'
+domeniu:
+- financiar
+- piață-capital
+enabling_act: '[[Codul civil 1107-2002 (notă)]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
+- piata_energiei
 status: active
-upload_source: "Uploads/Legea 171-2012.md"
+upload_source: Uploads/Legea 171-2012.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Capital Market Law — Analysis

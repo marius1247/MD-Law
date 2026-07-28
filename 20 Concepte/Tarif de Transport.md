@@ -1,12 +1,18 @@
 ---
+title: Tarif de Transport
 type: concept
 domain: tarife
+domeniu:
+- tarife
+- transport
+- energetică
 status: definit
 tags:
-  - concept
-  - tarife
-  - transport
-created: 2026-07-28
+- concept
+- tarife
+- transport
+created: '2026-07-28'
+updated: '2026-07-28'
 ---
 
 # 🚚 Tarif de Transport

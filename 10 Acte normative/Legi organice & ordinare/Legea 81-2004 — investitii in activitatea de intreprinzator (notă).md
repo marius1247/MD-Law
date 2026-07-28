@@ -1,15 +1,24 @@
 ---
-title: "Legea 81-2004 — investitii in activitatea de intreprinzator (notă)"
+title: Legea 81-2004 — investitii in activitatea de intreprinzator (notă)
 type: act-note
-act: "[[Legea 81-2004 — investitii in activitatea de intreprinzator (text)]]"
-domeniu: ['comercial', 'investiții']
-enabling_act: "[[Legea 235-2006 — principii reglementare intreprinzator (text)]]"
+act: '[[Legea 81-2004 — investitii in activitatea de intreprinzator (text)]]'
+domeniu:
+- comercial
+- investiții
+enabling_act: '[[Legea 235-2006 — principii reglementare intreprinzator (text)]]'
 analysis_tier: law-house
-tags: [act-note, analysis]
+tags:
+- act-note
+- analysis
+- acte_normative
 status: active
-upload_source: "Uploads/Legea 81-2004.md"
+upload_source: Uploads/Legea 81-2004.md
 created: 2026-07-28
 updated: 2026-07-28
+domain: null
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
 ---
 
 # Investment in Enterprise Activity Law — Analysis

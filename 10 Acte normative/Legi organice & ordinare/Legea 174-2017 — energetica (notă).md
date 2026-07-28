@@ -4,9 +4,12 @@ type: act-note
 act: "[[Legea 174-2017 — energetica (text)]]"
 domeniu: [energetică]
 tags: [act-note, analysis, energetică]
+enabling_act: ""
+eu_directives: "Energy Community Treaty; Regulation (EU) 2018/1999 (governance)"
+analysis_tier: law-house
 status: draft
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-07-28
 ---
 
 # Legea nr. 174/2017 cu privire la energetică — Analysis
@@ -178,6 +181,23 @@ Do not use it as the only authority for:
 - L174 has been amended repeatedly, including governance-sensitive parts. Always check the current consolidation before relying on director appointment/removal rules.
 - Energy/climate governance provisions may become more important as Moldova moves toward EU accession and post-2024 constitutional EU-law priority.
 - For any tier-3 act issued under repealed [[Legea 107-2016 — energia electrica (text)|L107/2016]], the L174 competence layer is not enough; the electricity-specific enabling basis must now be checked against [[Legea 164-2025 — energia electrica (text)|L164/2025]].
+
+## 13. Legal ambiguities, vulnerabilities & risk matrix
+
+| Provision | Identified flaw / ambiguity | Practical risk | Recommended strategy |
+| :--- | :--- | :--- | :--- |
+| **Art. 8 (PSO mandate)** | Vague criteria for financial compensation of operators carrying public service obligations | Liquidity crisis from delayed tariff adjustments for PSO costs | File administrative challenge under [[Codul administrativ 116-2018 (notă)]] requesting interim protection |
+| **Art. 29 (sanctions)** | Discretionary turnover-based fine range (5–10%) | Disproportionate penalties without prior audit or warning | Challenge under proportionality (CA arts. 21–29); seek art. 214 suspension |
+| **Arts. 8–11 (ANRE independence)** | Political pressure on director appointments during tariff cycles | Regulatory capture; non-acquis-compliant decisions | Plead institutional independence; cite Energy Community Secretariat monitoring |
+| **Arts. 31¹–31⁷ (PCIs)** | Permitting complexity for cross-border infrastructure | Project delays beyond developer control | Invoke PCI procedures; coordinate with Energy Community project registry |
+
+## 14. Client action checklist / compliance roadmap
+
+- [ ] Audit annual regulatory contribution payments to ANRE against turnover calculations (up to 0.15% of revenues).
+- [ ] Monitor ANRE public consultation sessions for market-rule or PSO amendments.
+- [ ] Evaluate financial exposure from PSO mandates; file formal cost-recovery petitions within 30 days.
+- [ ] On ANRE sanction: file cerere prealabilă within 30 days and simultaneous art. 214 suspension motion.
+- [ ] For tariff disputes: trace vires from sectoral law → L174 competence → specific HANRE methodology.
 
 ## Sources
 [[Legea 174-2017 — energetica (text)]] — legis.md doc_id `150492`, manual-browser download, complete consolidation as of 2026-07-26.

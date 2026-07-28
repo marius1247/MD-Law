@@ -4,9 +4,10 @@ type: act-note
 act: "[[Codul administrativ 116-2018 (text)]]"
 domeniu: [procedură, administrativ]
 tags: [act-note, analysis, administrativ, contencios]
+analysis_tier: law-house
 status: draft
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-07-28
 ---
 
 # Codul administrativ nr. 116/2018 — Analysis
@@ -293,6 +294,24 @@ But once a normative act exists and an authority applies it in an individual dec
 - Treat reasoning defects as legal defects, not drafting style.
 - In discretion cases, plead legality/proportionality, not merely preference.
 - Preserve suspension strategy from day one.
+
+## 20. Legal ambiguities, vulnerabilities & risk matrix
+
+| Provision | Identified flaw / ambiguity | Practical risk | Recommended strategy |
+| :--- | :--- | :--- | :--- |
+| **Art. 162 (30-day limit)** | Conflicting appeal deadlines in secondary ANRE regulations (e.g. 15 days) | Client follows HANRE deadline and misses judicial rights | Always apply 30-day CA art. 162 as overriding procedural rule |
+| **Art. 214 (execution stay)** | High evidentiary threshold for tariff decision suspension | Immediate financial harm during 12–24 month litigation | File detailed financial audit proving imminent irreparable damage |
+| **Art. 225 (judicial control)** | Court cannot replace technical discretion — only review legality | Weak pleading on tariff methodology disputes | Plead competence, procedure, reasoning and proportionality — not preference |
+| **Art. 208 (prior procedure)** | Special laws may modify prior-complaint requirements | Inadmissible court action | Check whether normative vs. individual act before choosing route |
+
+## 21. Client action checklist / compliance roadmap
+
+- [ ] Log exact receipt/publication dates of all ANRE decisions for strict 30-day cerere prealabilă calculation.
+- [ ] Ensure electronic petitions to ANRE carry valid advanced qualified electronic signature.
+- [ ] When challenging ANRE penalty or tariff: simultaneously file art. 214 suspension application.
+- [ ] Request and analyse the full administrative file before drafting court pleadings.
+- [ ] Classify the act (individual vs. normative) before choosing the remedy pathway.
+- [ ] For energy disputes: cross-reference [[Energetică — contencios administrativ și precedente (notă)]] for sector-specific precedents.
 
 ## Sources
 [[Codul administrativ 116-2018 (text)]] — legis.md doc_id `149723`, complete text, manual-browser download 2026-07-26; current consolidation records LP187/2025 with entry into force 01.01.2027.

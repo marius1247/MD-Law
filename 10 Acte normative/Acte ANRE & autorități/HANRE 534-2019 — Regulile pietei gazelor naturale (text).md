@@ -24,7 +24,7 @@ created: 2026-07-22
 > Verificați versiunea consolidată curentă înainte de a vă baza pe text.
 
 > [!note] Notă analitică
-> [[MOC — Energetică]]
+> [[HANRE 534-2019 — Regulile pietei gazelor naturale (notă)]] · [[MOC — Energetică]]
 
 ---
 

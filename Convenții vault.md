@@ -43,6 +43,9 @@ Article-anchored: `[[<act> (text)#Articolul N]]`. Every act text uses `### Artic
 - `20 Domenii` — one synthesis note per domain. English. This is where the *reasoning* lives.
 - `30 Concepte` — atomic concept notes, one institution or term each, linked from everywhere.
 
+## Law House analysis standard (added 2026-07-28)
+Every `— notă` companion should follow the blueprint in [[Template — Act (notă)]] and [[Audit vault — Law House Knowledge Engine — 2026-07-28]]: executive summary, statutory hierarchy, risk matrix, jurisprudence, client checklist. Cross-act themes use `20 Domenii/` dossiers with `analysis_tier: law-house`.
+
 ## Ingestion workflow (how texts get here)
 1. Find the act's `doc_id` on legis.md.
 2. Pull full text: `https://www.legis.md/cautare/downloadpdf/<doc_id>` (returns clean plain text).

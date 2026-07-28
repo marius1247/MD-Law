@@ -25,7 +25,7 @@ source_ingest: manual-browser-download
 > Descărcați anexa de pe [legis.md](https://www.legis.md/cautare/getResults?lang=ro&doc_id=151929) sau [ANRE › Hotărâri](https://anre.md/acte-normative-3-18).
 
 > [!info] Sursă
-> legis.md doc_id [151929](https://www.legis.md/cautare/getResults?lang=ro&doc_id=151929). Hub: [[MOC — Energetică]] · [[Status ingestie — Energetica]].
+> legis.md doc_id [151929](https://www.legis.md/cautare/getResults?lang=ro&doc_id=151929). Hub: [[MOC — Energetică]] · [[Status ingestie — Energetica]] · Analiză: [[HANRE 423-2019 — Codul retelelor electrice (notă)]].
 
 ---
 

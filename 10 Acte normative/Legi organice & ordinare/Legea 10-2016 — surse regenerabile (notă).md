@@ -4,8 +4,12 @@ type: act-note
 act: "[[Legea 10-2016 — surse regenerabile (text)]]"
 domeniu: [energetică, regenerabile]
 tags: [act-note, analysis, energetică, regenerabile]
+enabling_act: "[[Legea 174-2017 — energetica (text)]]"
+eu_directives: "Directive (EU) 2018/2001 (RED); amended by Law 329/2023 (net billing)"
+analysis_tier: law-house
 status: draft
 created: 2026-07-23
+updated: 2026-07-28
 ---
 
 # Legea nr. 10/2016 privind promovarea utilizării energiei din surse regenerabile — Analysis
@@ -54,10 +58,38 @@ Steps 2 and 5 are where projects fail. Step 3 is where clients think the risk is
 - Market participation, dispatch and priority sit in [[Legea 107-2016 — energia electrica (text)|L107/2016]]
 - The EU frame is the Renewable Energy Directive as applied through the **Energy Community**; expect movement toward the RED II/III architecture — auctions as default, self-consumption and renewable energy communities as new categories
 
+## Net billing transition (Law 329/2023)
+
+| Regime | Period | Mechanism |
+|---|---|---|
+| **Net metering** (*contorizare netă*) | Pre-2024 | Physical kWh-for-kWh netting monthly/annually |
+| **Net billing** (*facturare netă*) | From 01.01.2024 | Monetary netting: injection valued at day-ahead/bilateral market average price |
+| **Legacy rights** | Installations active before 31.12.2023 | Retain net metering until 31.12.2027 (art. 39¹ transitional clauses) |
+
+Commercial prosumers: model self-consumption above 70%; deploy BESS to minimise grid injection during low-price hours.
+
+## Legal ambiguities, vulnerabilities & risk matrix
+
+| Provision | Identified flaw / ambiguity | Practical risk | Recommended strategy |
+| :--- | :--- | :--- | :--- |
+| **Art. 10, 35 (capacity quotas)** | Quota exhaustion without transparent public registry | Project stranded after land/grid investment | Pre-audit ANRE quota availability before eligible-producer application |
+| **Art. 37² (commissioning deadline)** | 24-month deadline with DSO grid delays beyond developer control | Bank guarantee forfeiture | File extension request before expiry; invoke CA arts. 21–25 proportionality |
+| **Art. 36¹ (bank guarantees)** | Strict 15-day deposit after ANRE decision | Automatic nullification of eligible status | Pre-clear SWIFT/LC formats with ANRE legal department |
+| **Art. 39¹ (net billing price)** | Injection valued at volatile market prices | Revenue uncertainty for commercial prosumers | Optimise self-consumption; deploy storage |
+
+## Client action checklist / compliance roadmap
+
+- [ ] Confirm quota headroom for technology and capacity band before application.
+- [ ] Secure connection permit — verify capacity, cost allocation, expiry, and >200 kW financial guarantee.
+- [ ] Obtain eligible-producer status (administrative or auction) within available quotas.
+- [ ] Execute 15-year PPA with S.A. Energocom; allocate BRP/imbalance risk explicitly.
+- [ ] For prosumers: execute amended supply contract for monetary netting under net billing.
+- [ ] Track guarantees of origin separately from energy offtake.
+
 ## Open questions
-- Current quota and ceiling price — verify at [ANRE](https://anre.md) and in the Government decision
-- Whether the 200 kW guarantee reaches existing permit holders
-- Guarantees-of-origin provisions sit partly beyond the truncation point
+- Current quota and ceiling price — verify at [ANRE](https://anre.md) and Government decision.
+- Whether the 200 kW guarantee reaches existing permit holders.
+- Eligible-producer confirmation procedures — HANRE 251/2019 not yet ingested.
 
 ## Sources
-[[Legea 10-2016 — surse regenerabile (text)]] — legis.md (partial)
+[[Legea 10-2016 — surse regenerabile (text)]] — legis.md (partial; truncated at art. 34).

@@ -4,8 +4,12 @@ type: act-note
 act: "[[Legea 108-2016 — gazele naturale (text)]]"
 domeniu: [energetică, gaze-naturale]
 tags: [act-note, analysis, energetică]
+enabling_act: "[[Legea 174-2017 — energetica (text)]]"
+eu_directives: "Directive 2009/73/EC (Third Energy Package)"
+analysis_tier: law-house
 status: draft
 created: 2026-07-23
+updated: 2026-07-28
 ---
 
 # Legea nr. 108/2016 cu privire la gazele naturale — Analysis
@@ -54,10 +58,27 @@ So gas law in Moldova is only formally about market rules. In substance it is ab
 - [[HANRE 113-2019 — furnizarea gazelor naturale (text)]] — supply *(truncated)*
 - Gas tariff methodologies HANRE 535/2019 and 443/2020 — **not yet ingested**, a real gap
 
+## Legal ambiguities, vulnerabilities & risk matrix
+
+| Provision | Identified flaw / ambiguity | Practical risk | Recommended strategy |
+| :--- | :--- | :--- | :--- |
+| **Art. 2 & 99 (reconciliation)** | Settlement delays or default by designated reconciliation entity | Regional DSO cash-flow deficits waiting for equalisation | Pre-litigation petition to ANRE demanding reconciliation audit |
+| **Art. 74 (gas servitude)** | No clear procedural rules for agricultural land compensation | Landowner lawsuits halting pipeline construction | Pre-agreed voluntary compensation based on certified agricultural appraisals |
+| **Unbundling (arts. 13–15)** | Incumbent corporate structure changes faster than regulatory enforcement | Foreclosure of third-party access | Verify current TSO certification; monitor Energy Community Secretariat reports |
+| **PSO withdrawal (2026)** | Large industrial consumers losing public-service protection | Abrupt shift to market tariffs from 01.04.2026 | Review supply contracts 60 days before PSO expiry; secure alternative supplier |
+
+## Client action checklist / compliance roadmap
+
+- [ ] Audit DSO distribution revenue streams against ANRE uniform tariff reconciliation decisions.
+- [ ] Review gas supply and balancing contracts for compliance with [[HANRE 534-2019 — Regulile pietei gazelor naturale (notă)]].
+- [ ] Verify connection permits (*avize de racordare*) separate connection costs from network expansion.
+- [ ] Register for REMIT if engaging in wholesale gas trading → [[Energetică — licențiere cross-border și REMIT (notă)]].
+- [ ] For industrial consumers: confirm PSO withdrawal status and negotiate market-based supply before 01.04.2026.
+
 ## Open questions
-- Complete the text manually — this act and L107/2016 are the two priorities.
 - Verify the current corporate perimeter of the incumbent before relying on any unbundling analysis; this changes.
-- **Legea nr. 164/2025** (REMIT transposition) applies to wholesale gas as much as electricity — market abuse liability is new and uncovered in the vault.
+- Gas tariff methodologies HANRE 535/2019 and 443/2020 — not yet ingested.
+- **REMIT** obligations under L108 arts. 94¹–94⁶ — see [[Energetică — licențiere cross-border și REMIT (notă)]].
 
 ## Sources
-[[Legea 108-2016 — gazele naturale (text)]] — legis.md (partial)
+[[Legea 108-2016 — gazele naturale (text)]] — legis.md doc_id complete consolidation ingested 2026-07-23.

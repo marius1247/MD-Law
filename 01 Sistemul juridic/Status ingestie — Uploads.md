@@ -73,5 +73,5 @@ updated: 2026-07-28
 ## Next steps
 
 1. Deepen `— notă` analyses with article-level citations from ingested texts
-2. Add `legis_id` / `legis_url` metadata where doc_ids are resolved
-3. Optional: remove ingested files from `Uploads/` queue folder
+2. ~~Add `legis_id` / `legis_url` metadata where doc_ids are resolved~~ — **30 acts** tagged `legis_id_pending` + `legis_search_hint` (2026-08-05); resolve via manual legis.md browser
+3. Download **L325/2025 annexes** and full **HANRE 423** annex from legis.md

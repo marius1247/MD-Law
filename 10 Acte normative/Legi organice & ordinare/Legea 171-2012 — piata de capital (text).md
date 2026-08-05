@@ -5,6 +5,8 @@ act_type: lege-organică
 nr: '171'
 an: 2012
 in_vigoare: true
+legis_id_pending: true
+legis_search_hint: '171/2012'
 continut: text-integral
 text_complet: true
 articole_numarate: 140
@@ -14,13 +16,12 @@ tags:
 - acte_normative
 - piata_energiei
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-05
 source_ingest: uploads-folder
 domain: null
 issuer: Parlament
 legal_status: in_vigoare
-last_amended: '2026-07-28'
----
+last_amended: '2026-07-28'---
 # Legea 171-2012 — piata de capital
 
 > [!info] Sursă & versiune

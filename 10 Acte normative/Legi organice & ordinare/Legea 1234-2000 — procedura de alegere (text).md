@@ -5,6 +5,8 @@ act_type: lege-organică
 nr: '1234'
 an: 2000
 in_vigoare: true
+legis_id_pending: true
+legis_search_hint: '1234/2000'
 continut: text-integral
 text_complet: true
 articole_numarate: 14
@@ -13,13 +15,12 @@ tags:
 - text
 - acte_normative
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-05
 source_ingest: uploads-folder
 domain: null
 issuer: Parlament
 legal_status: in_vigoare
-last_amended: '2026-07-28'
----
+last_amended: '2026-07-28'---
 # Legea 1234-2000 — procedura de alegere
 
 > [!info] Sursă & versiune

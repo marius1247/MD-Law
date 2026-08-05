@@ -50,6 +50,7 @@ All hubs and all 21 concept notes: [[00 - Index general]].
 - [[Status ingestie — Energetica]] — energy corpus completeness & currency map
 - [[SOURCE INDEX]] — map of every raw legis.md dump → working text
 - [[Audit ingestie — 2026-07-26]] — what was ingested, mistakes found, structure rules
+- [[Audit currency — Phase A — 2026-08-05]] · [[Audit L164 transition — HANRE 283-169-423 — 2026-08-05]] — Phase A trust & safety audits
 - `00 Inbox/` — capture, unfiled · `99 Attachments/source-legis/` — **all original full-text dumps (one place)**
 
 > [!danger] Before citing any `— text` file — check currency first, completeness second

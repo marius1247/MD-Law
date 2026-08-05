@@ -3,7 +3,7 @@ title: "SOURCE INDEX — legis.md dumps"
 type: reference
 tags: [reference, meta, ingestion]
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-08-05
 ---
 
 # Source index — raw legis.md dumps
@@ -34,7 +34,7 @@ updated: 2026-07-26
 | `150766` | [`150766.md`](150766.md) | `10 Acte normative/Coduri/Codul de procedura civila 225-2003 (text).md` |
 | `151210` | [`151210.md`](151210.md) | `10 Acte normative/Acte ANRE & autorități/Rectificare ANRE 05-03-5694-2025 (text).md` |
 | `151415` | [`151415.md`](151415.md) | `10 Acte normative/Legi organice & ordinare/Legea 92-2014 — energia termica si cogenerarea (text).md` |
-| `151929` | [`151929.md`](151929.md) | `10 Acte normative/Acte ANRE & autorități/HANRE 423-2019 — Codul retelelor electrice (text).md` |
+| `151929` | [`151929.md`](151929.md) | `10 Acte normative/Acte ANRE & autorități/HANRE 423-2019 — Codul retelelor electrice (text).md` — decision + partial annex via [`supplement-hanre-656-2021-cod-retele-electric.md`](supplement-hanre-656-2021-cod-retele-electric.md) |
 | `152605` | [`152605.md`](152605.md) | `10 Acte normative/Legi organice & ordinare/Legea 149-2012 — insolvabilitate (text).md` |
 | `152862` | [`152862.md`](152862.md) | `10 Acte normative/Coduri/Codul fiscal 1163-1997 (text) — Index.md`<br>`10 Acte normative/Coduri/Codul fiscal 1163-1997 — text — Titlul I.md`<br>`10 Acte normative/Coduri/Codul fiscal 1163-1997 — text — Titlul II.md`<br>`10 Acte normative/Coduri/Codul fiscal 1163-1997 — text — Titlul III.md`<br>`10 Acte normative/Coduri/Codul fiscal 1163-1997 — text — Titlul IV.md`<br>`10 Acte normative/Coduri/Codul fiscal 1163-1997 — text — Titlul IX.md`<br>`10 Acte normative/Coduri/Codul fiscal 1163-1997 — text — Titlul V.md`<br>`10 Acte normative/Coduri/Codul fiscal 1163-1997 — text — Titlul VI.md`<br>`10 Acte normative/Coduri/Codul fiscal 1163-1997 — text — Titlul VII.md`<br>`10 Acte normative/Coduri/Codul fiscal 1163-1997 — text — Titlul VIII.md`<br>`10 Acte normative/Coduri/Codul fiscal 1163-1997 — text — Titlul VI¹.md`<br>`10 Acte normative/Coduri/Codul fiscal 1163-1997 — text — Titlul X.md` |
 | `153007` | [`153007.md`](153007.md) | `10 Acte normative/Legi organice & ordinare/Legea 100-2017 — actele normative (text).md` |
@@ -67,10 +67,10 @@ updated: 2026-07-26
 
 ## Still incomplete in vault (no adequate source dump yet)
 
-- `HANRE 423/2019` — electricity network code **annex** (source 151929 is decision-only)
+- `HANRE 423/2019` — **partial annex** ingested (656/2021 insert); **full legis.md consolidare** still needed (incl. HANRE 646/2025)
 - `HANRE 169/2019` — electricity supply regulation (still truncated; source 148195 is a *different* act: HANRE 169/**2025** water/sewerage)
 - `HANRE 64/2018`, `HANRE 375/2017` — tariff methodology annexes
 - `HG 820/2024` — risk-preparedness annex
 
 ## See also
-[[Convenții vault]] · [[Status ingestie — Energetica]] · [[Roadmap]]
+[[Audit currency — Phase A — 2026-08-05]] · [[Audit L164 transition — HANRE 283-169-423 — 2026-08-05]] · [[Convenții vault]] · [[Status ingestie — Energetica]] · [[Roadmap]]

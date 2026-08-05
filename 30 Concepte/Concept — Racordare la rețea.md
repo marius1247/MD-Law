@@ -37,7 +37,7 @@ Each stage carries a **regulated maximum time limit**. Missing them is the opera
 ## Governing provisions
 - [[HANRE 168-2019 — racordarea la retelele electrice (text)]] — connection to electricity networks *(truncated toward the end)*
 - [[HANRE 112-2019 — racordarea la retelele de gaze (text)]] — connection to gas networks *(truncated toward the end)*
-- [[HANRE 423-2019 — Codul retelelor electrice (text)]] — technical requirements at the connection point *(annex missing)*
+- [[HANRE 423-2019 — Codul retelelor electrice (text)]] — technical requirements *(partial annex — HANRE 656/2021 insert)*
 - [[HANRE 420-2019 — Codul retelelor de gaze naturale (text)]] — gas equivalent *(annex missing)*
 - [[Legea 107-2016 — energia electrica (text)|L107/2016]] — the enabling provisions *(mostly beyond truncation)*
 

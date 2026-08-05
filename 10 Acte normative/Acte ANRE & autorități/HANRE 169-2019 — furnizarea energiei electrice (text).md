@@ -25,8 +25,10 @@ created: 2026-07-22
 domain: energie_electrica
 issuer: ANRE
 legal_status: in_vigoare
-last_amended: '2019-01-01'
-updated: '2019-01-01'
+last_amended: '2026-08-05'
+updated: '2026-08-05'
+currency_checked: 2026-08-05
+l164_transition: enabling L107 abrogated — see Audit L164 transition
 ---
 
 # HANRE nr. 169/2019 — Regulament privind furnizarea energiei electrice
@@ -36,8 +38,8 @@ updated: '2019-01-01'
 > Verificați versiunea consolidată curentă înainte de a vă baza pe text.
 
 > [!danger] TEXT INCOMPLET — trunchiat la descărcare
-> Extragerea automată de pe legis.md este limitată la ~100 KB, iar acest act depășește limita. Textul de mai jos se **întrerupe brusc** (ultimul articol complet: **n/a**) și **NU conține actul integral**. Nu citați din acest fișier fără verificare.
-> Sursa completă: [legis.md doc_id 114962](https://www.legis.md/cautare/getResults?lang=ro&doc_id=114962).
+> Extragerea automată de pe legis.md este limitată la ~100 KB. Textul se **întrerupe brusc** la pct. 146 și **NU conține actul integral**.
+> **L164 transition:** enabling basis was L107/2016 (abrogated). See [[Audit L164 transition — HANRE 283-169-423 — 2026-08-05]].
 
 > [!note] Notă analitică
 > [[MOC — Energetică]]

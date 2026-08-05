@@ -30,8 +30,11 @@ The Civil Code and private law — the backbone of commercial and contract law.
 > [!warning] 2018–19 reform
 > The modernisation folded several standalone laws into the Code on a DCFR-influenced model. **Pre-reform commentary is unsafe.** Always cite the republicată 2019 consolidation (and later amendments, incl. LP76/2026 in force 01.01.2027).
 
-## Concepts (to write)
-- [[Concept — Persoană juridică]] · [[Concept — Act juridic]] · [[Concept — Uzufruct]] · [[Concept — Contract]] · [[Concept — Răspundere civilă]] · [[Concept — Prescripție extinctivă]]
+## Synthesis
+[[Drept civil — sinteza]]
+
+## Concepts
+- [[Concept — Prescripție]] · *(to write: Persoană juridică, Act juridic, Uzufruct, Contract, Răspundere civilă)*
 
 ## Open threads
 - Because the Civil Code is huge (~2600 articles), use the **hybrid** rule: ingest full text per Book, write atomic concept notes only for institutions you actually analyse.

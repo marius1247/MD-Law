@@ -5,6 +5,8 @@ act_type: lege-organică
 nr: '202'
 an: 2017
 in_vigoare: true
+legis_id_pending: true
+legis_search_hint: '202/2017'
 continut: text-integral
 text_complet: true
 articole_numarate: 149
@@ -13,13 +15,12 @@ tags:
 - text
 - acte_normative
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-05
 source_ingest: uploads-folder
 domain: null
 issuer: Parlament
 legal_status: in_vigoare
-last_amended: '2026-07-28'
----
+last_amended: '2026-07-28'---
 # Legea 202-2017 — activitatea bancilor
 
 > [!info] Sursă & versiune

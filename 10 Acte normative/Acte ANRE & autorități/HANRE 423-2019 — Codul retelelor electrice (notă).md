@@ -33,6 +33,9 @@ last_amended: '2026-08-05'
 > [!warning] Partial annex ingested (Phase A — 2026-08-05)
 > The vault includes the **HANRE 656/2021** amendment insert (operational security, balancing, PARTEA II–V) from supplement archive. This is **not** the official legis.md consolidated annex and may omit original 2019 PARTEA ÎNTÂI technical chapters and **HANRE 646/2025** substitutions. Re-verify on [legis.md doc_id 151929](https://www.legis.md/cautare/getResults?lang=ro&doc_id=151929) before citing numeric parameters.
 
+> [!note] User PDF upload (2026-08-05) — decision text only
+> Uploaded PDF `151929_6852.pdf` contains **2 pages** (dispozitiv + annex header only). Archived: `99 Attachments/source-legis/151929-pdf-upload.md`. **Full network-code annex still required** from legis.md browser download.
+
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Mandatory technical operational requirements for system security — grid frequency, voltage stability, dispatch protocols, fault ride-through, and technical connection parameters across HV/MV/LV networks.
 > **Primary business risk:** Curtailment or immediate disconnection of generation facilities (especially renewables) for technical non-compliance; uncompensated emergency curtailment under broad TSO discretion.

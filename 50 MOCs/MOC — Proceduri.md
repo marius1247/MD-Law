@@ -35,7 +35,10 @@ Civil and administrative procedure — how disputes and state decisions are cont
 
 Tracker: [[Status ingestie — Uploads]]
 
-## Concepts (to write)
+## Synthesis
+[[Proceduri — sinteza]]
+
+## Concepts
 - [[Concept — Act administrativ individual]] · [[Concept — Contencios administrativ]] · [[Concept — Căi de atac]] · [[Concept — Prescripție]]
 
 ## Authorities

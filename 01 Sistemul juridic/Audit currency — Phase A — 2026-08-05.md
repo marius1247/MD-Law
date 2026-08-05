@@ -111,14 +111,14 @@ status: reviewed
 | **LP76/2026** civil code | Cartea I art. 307 etc. | Already in text; effective 01.01.2027 |
 | **LP41/2026** SRL | L135/2007 | In vault header |
 | **Fiscal / Customs Code rewrite** | Cod fiscal Titlu map | Monitor MF concept |
-| **L131/2015** procurement | Achiziții hub empty | **Ingest next** (Phase B) |
+| **L131/2015** procurement | **Superseded** — [[Legea 325-2025 — achizitii publice (notă)|L325/2025]] ingested; in force **01.01.2027** |
 | **Ministerul Energiei legal framework page** | External only | Still lists **L107/2016** — do not use as currency source |
 
 ---
 
 ## Metadata hygiene (structure)
 
-1. **28 upload-sourced `(text)` files** lack `legis_id` / `legis_url` — frontmatter not Dataview-ready. Extract from `Uploads/*.md` or legis.md search.
+1. **30 upload-ingested `(text)` files** now carry `legis_id_pending: true` + `legis_search_hint` — resolve `doc_id` via manual legis.md browser (automated fetch blocked by Cloudflare in cloud).
 2. **[[Constituția RM — text]]** and keystone codes share consolidation discipline — run annual `MODIFICAT` header scan after each 1 January fiscal package.
 3. **MOC currency banners** on Achiziții, Proceduri, Drept civil — replace with link to **this audit** and `currency_checked` date after each pass.
 
@@ -126,10 +126,11 @@ status: reviewed
 
 ## Recommended next actions (Phase B)
 
-1. Ingest **Legea 131/2015** (general public procurement).
-2. Batch-add `legis_id` to upload-ingested acts from `Uploads/` sources.
+1. ~~Ingest **Legea 131/2015**~~ → **Done:** [[Legea 325-2025 — achizitii publice (text)|L325/2025]] ingested (successor; abrogates L131/2015 from 01.01.2027).
+2. Resolve `legis_id` for upload batch using manual legis.md `doc_id` from browser downloads (`legis_id_pending` hints in frontmatter).
 3. Re-run this audit after **manual legis.md consolidation check** for acts flagged ⚠️.
 4. Ingest or archive **L845/1992** with explicit **superseded** banner until replacement law passes.
+5. Download **L325/2025 annexes 1–14** and **full HANRE 423/2019 annex** from legis.md.
 
 ---
 

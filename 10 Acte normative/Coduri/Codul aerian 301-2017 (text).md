@@ -5,6 +5,8 @@ act_type: cod
 nr: '301'
 an: 2017
 in_vigoare: true
+legis_id_pending: true
+legis_search_hint: '301/2017'
 continut: text-integral
 text_complet: true
 articole_numarate: 50
@@ -13,13 +15,12 @@ tags:
 - text
 - acte_normative
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-05
 source_ingest: uploads-folder
 domain: null
 issuer: Autoritate
 legal_status: in_vigoare
-last_amended: '2026-07-28'
----
+last_amended: '2026-07-28'---
 # Codul aerian 301-2017
 
 > [!info] Sursă & versiune

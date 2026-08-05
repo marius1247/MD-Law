@@ -68,6 +68,13 @@ Superscript "bis" articles (art. 36¹ etc.) that pdftotext flattens were reconst
 - [[Audit L164 transition — HANRE 283-169-423 — 2026-08-05]] — L164 HANRE transition verdicts
 - [[HANRE 423-2019 — Codul retelelor electrice (text)]] — partial annex ingested (HANRE 656/2021 supplement)
 
+## Done — Phase B & C (2026-08-05)
+- [[Legea 325-2025 — achizitii publice (text)|L325/2025]] general procurement — PDF ingest (91 articles; annexes pending)
+- Upload batch: `legis_id_pending` + `legis_search_hint` on 30 acts (`scripts/add_legis_metadata.py`)
+- Domain syntheses: [[Achiziții publice — sinteza]] · [[Proceduri — sinteza]] · [[Drept civil — sinteza]]
+- Authorities: [[AAP]] · [[ANSC]]
+- Concepts: procurement (4) + procedure (4) in `30 Concepte/`
+
 ## Next — highest value first
 
 ### 1. Re-verify the remaining pre-L164 HANRE layer
@@ -77,11 +84,11 @@ Superscript "bis" articles (art. 36¹ etc.) that pdftotext flattens were reconst
 Gas tariff methodologies (HANRE 535/2019, 443/2020), quality of service (422/2019, 537/2020), network development (94/2019), dispatch (316/2018), gas metering (297/2022), **HANRE 24/2017** (licence-holder procurement), electricity network code annex (423/2019), distribution & renewables tariff methodology annexes (64/2018, 375/2017).
 
 ### 3. General public procurement
-**Legea nr. 131/2015** — the core procurement statute (L74/2020 sectoral is already in). Plus AAP/ANSC authority profiles.
+**[[Legea 325-2025 — achizitii publice (notă)|Legea nr. 325/2025]]** — ingested; in force **01.01.2027**; abrogates L131/2015. **Annexes 1–14** still need legis.md download. AAP/ANSC profiles written.
 
 ### 4. Deepen analysis layer
-- Domain syntheses for Achiziții / Proceduri / Drept civil (currently thin)
-- Atomic concepts for those domains
+- ~~Domain syntheses for Achiziții / Proceduri / Drept civil~~ — **draft syntheses written**
+- ~~Atomic concepts for those domains~~ — **8 concepts written** (procurement + procedure)
 - Double-tax-treaty table; IT Park regime detail; SNC map
 - State aid law (exact number — verify on legis.md)
 

@@ -63,10 +63,15 @@ Superscript "bis" articles (art. 36¹ etc.) that pdftotext flattens were reconst
 
 ---
 
+## Done — Phase A trust & safety (2026-08-05)
+- [[Audit currency — Phase A — 2026-08-05]] — non-energy MOC currency pass
+- [[Audit L164 transition — HANRE 283-169-423 — 2026-08-05]] — L164 HANRE transition verdicts
+- [[HANRE 423-2019 — Codul retelelor electrice (text)]] — partial annex ingested (HANRE 656/2021 supplement)
+
 ## Next — highest value first
 
 ### 1. Re-verify the remaining pre-L164 HANRE layer
-[[HANRE 283-2020 — Regulile pietei energiei electrice (text)|HANRE 283/2020]] still rests on L107 enabling articles (even though amended 2026). [[HANRE 423-2019 — Codul retelelor electrice (text)|HANRE 423/2019]] annex is **still missing**. Check [ANRE › Hotărâri](https://anre.md/acte-normative-3-18) for re-adoptions under L164.
+[[HANRE 283-2020 — Regulile pietei energiei electrice (text)|HANRE 283/2020]] — **transitional operative** (383/2026 amend); enabling L107 abrogated → see [[Audit L164 transition — HANRE 283-169-423 — 2026-08-05]]. [[HANRE 423-2019 — Codul retelelor electrice (text)|HANRE 423/2019]] — **partial annex**; full consolidare still needed from legis.md.
 
 ### 2. Remaining energy tier-3 downloads
 Gas tariff methodologies (HANRE 535/2019, 443/2020), quality of service (422/2019, 537/2020), network development (94/2019), dispatch (316/2018), gas metering (297/2022), **HANRE 24/2017** (licence-holder procurement), electricity network code annex (423/2019), distribution & renewables tariff methodology annexes (64/2018, 375/2017).

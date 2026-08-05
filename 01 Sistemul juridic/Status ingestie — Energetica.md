@@ -62,7 +62,7 @@ Other newly relevant amendment/transition acts now present:
 
 | Act | Problem | Priority |
 |---|---|---|
-| [[HANRE 423-2019 — Codul retelelor electrice (text)]] | **decision-only; annex missing** | High. Still needed by [[HANRE 311-2026 — racordarea la retelele electrice (notă)]] and technical connection/network-code analysis |
+| [[HANRE 423-2019 — Codul retelelor electrice (text)]] | **partial annex** (656/2021 insert; not full consolidare) | High — see [[Audit L164 transition — HANRE 283-169-423 — 2026-08-05]] |
 | [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]] | likely annex/methodology completeness should be rechecked | Medium |
 | [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]] | likely annex/methodology completeness should be rechecked | Medium |
 | [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] | earlier flagged as detached-annex risk | Medium |
@@ -116,7 +116,7 @@ Individual **tariff decisions and licences** were *not* ingested. ANRE issues th
 
 ## Current priorities
 
-1. Complete [[HANRE 423-2019 — Codul retelelor electrice (text)]] annex.
+1. Complete [[HANRE 423-2019 — Codul retelelor electrice (text)]] — **full consolidated annex** from legis.md (partial 656/2021 insert done Phase A).
 2. Re-check electricity HANRE acts for L164-based re-adoption/replacement.
 3. Re-check distribution/renewables tariff methodology annex status.
 4. Watch for a gas equivalent of [[Legea 164-2025 — energia electrica (text)|L164/2025]].

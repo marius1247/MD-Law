@@ -90,8 +90,8 @@ Moldova is an **Energy Community** contracting party by [[Legea 117-2009 — ade
 ## Priority gaps — highest value first
 1. ✅ **Done** — core energy laws complete; HANRE 283 and 420 annexes complete; L174/L92/L100 complete (2026-07-26).
 2. ✅ **Done** — electricity connection regulation re-adopted under L164 as [[HANRE 311-2026 — racordarea la retelele electrice (text)|HANRE 311/2026]] (abrogates 168/2019). Transport tariff methodology replaced by [[HANRE 626-2023 — Metodologie tarife transport EE (text)|HANRE 626/2023]] + [[HANRE 261-2026 — modificare Metodologie tarife transport EE (text)|261/2026]].
-3. **Still missing annex:** [[HANRE 423-2019 — Codul retelelor electrice (text)|HANRE 423/2019]] electricity network code.
-4. **Currency-check** remaining L107-based HANRE acts (esp. market rules 283/2020 even after 383/2026 amend).
+3. **Partial annex:** [[HANRE 423-2019 — Codul retelelor electrice (text)|HANRE 423/2019]] — 656/2021 insert ingested; **full consolidare** still needed → [[Audit L164 transition — HANRE 283-169-423 — 2026-08-05]].
+4. **Currency-check** L107-based HANRE layer — audit done 2026-08-05; see [[Audit L164 transition — HANRE 283-169-423 — 2026-08-05]].
 5. Watch for the **gas equivalent of L164/2025**.
 6. Remaining tier-3 downloads: gas tariff methodologies, QoS, dispatch, metering, HANRE 24/2017.
 

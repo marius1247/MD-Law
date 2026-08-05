@@ -5,12 +5,13 @@ domeniu: civil
 tags: [moc, index, civil]
 created: 2026-07-22
 status: stub
+updated: 2026-08-05
 ---
 
 # MOC — Drept civil
 
-> [!warning] Not currency-checked — verify before relying on this list
-> This hub was written from the act inventory as it stood in July 2026 and **has not been verified against current consolidations**. The energy domain taught this lesson expensively: [[Legea 107-2016 — energia electrica (text)|L107/2016]] sat in this vault for a day as the flagship electricity act before it turned out to have been **repealed in August 2025**. Procurement, procedure and civil law are all under active EU-accession alignment. **Check each act on legis.md before treating it as in force.**
+> [!tip] Currency audit — Phase A (2026-08-05)
+> [[Codul civil 1107-2002 (text) — Index]] consolidation includes **LP76/2026** (in force **01.01.2027**). Report: [[Audit currency — Phase A — 2026-08-05]].
 
 
 The Civil Code and private law — the backbone of commercial and contract law.

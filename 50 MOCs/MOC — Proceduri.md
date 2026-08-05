@@ -5,12 +5,13 @@ domeniu: procedură
 tags: [moc, index, procedură]
 created: 2026-07-22
 status: stub
+updated: 2026-08-05
 ---
 
 # MOC — Proceduri
 
-> [!warning] Not currency-checked — verify before relying on this list
-> This hub was written from the act inventory as it stood in July 2026 and **has not been verified against current consolidations**. The energy domain taught this lesson expensively: [[Legea 107-2016 — energia electrica (text)|L107/2016]] sat in this vault for a day as the flagship electricity act before it turned out to have been **repealed in August 2025**. Procurement, procedure and civil law are all under active EU-accession alignment. **Check each act on legis.md before treating it as in force.**
+> [!tip] Currency audit — Phase A (2026-08-05)
+> Hub inventory checked against vault `MODIFICAT` headers. Full report: [[Audit currency — Phase A — 2026-08-05]]. **Re-verify consolidations on legis.md before operational citation.**
 
 
 Civil and administrative procedure — how disputes and state decisions are contested.

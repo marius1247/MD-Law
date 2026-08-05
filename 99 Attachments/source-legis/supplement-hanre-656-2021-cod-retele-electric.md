@@ -1,100 +1,24 @@
----
-title: HANRE 423-2019 — Codul retelelor electrice (text)
-type: act-text
-act_type: act-anre
-nr: '423'
-an: 2019
-domeniu:
-- energetică
-- energie-electrică
-in_vigoare: true
-legis_id: '151929'
-legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=151929
-continut: dispozitiv + anexa partiala
-text_complet: false
-status_ingestie: anexa partiala — HANRE 656/2021 insert via supplement; verificati consolidarea HANRE 646/2025 la legis.md
-articole_numarate: 0
-tags:
-- act
-- text
-- acte_normative
-created: 2026-07-26
-updated: 2026-08-05
-source_ingest: manual-browser-download + supplement-hanre-656-2021
-annex_sources:
-- 99 Attachments/source-legis/151929.md
-- 99 Attachments/source-legis/supplement-hanre-656-2021-cod-retele-electric.md
-currency_checked: 2026-08-05
-domain: energie_electrica
-issuer: ANRE
-legal_status: in_vigoare
-last_amended: '2026-08-05'
-enabling_act_l107: abrogated — see L164/2025
----
-
-# HANRE 423/2019 — Codul rețelelor electrice
-
-> [!warning] Anexa partiala — nu text consolidat oficial complet
-> **Dispozitivul** provine din legis.md doc_id [151929](https://www.legis.md/cautare/getResults?lang=ro&doc_id=151929).
-> **Anexa** include textul substanțial inserat prin modificările HANRE **656/2021** (sursă: [[supplement-hanre-656-2021-cod-retele-electric|supplement archive]]), **PARTEA ÎNTÂI titlu + definiții + PARTEA II–V**.
-> **Nu include** încă consolidarea oficială post-HANRE **646/2025** (substituții „modul generator”) și poate lipsi conținut din anexa originală 2019 neatinsă de HANRE 656.
-> Verificați întotdeauna versiunea consolidată curentă pe legis.md înainte de citare operațională.
-
-> [!info] Sursă & versiune
-> Hub: [[MOC — Energetică]] · [[Status ingestie — Energetica]] · Analiză: [[HANRE 423-2019 — Codul retelelor electrice (notă)]]
-
----
-
-## Republica Moldova
-## AGENȚIA NAȚIONALĂ PENTRU REGLEMENTARE ÎN ENERGETICĂ
-HOTĂRÂRE Nr. HANRE423/2019
-din 22.11.2019
-cu privire la aprobarea Codului rețelelor electrice
-Publicat : 24.01.2020 în MONITORUL OFICIAL Nr. 14-23 art. 63 Data intrării în vigoare
-## MODIFICAT
-HANRE646 din 04.11.25, MO605-607/09.12.25 art.1063; în vigoare 09.12.25
-## NOTĂ:
-Pe tot parcursul textului:
-cuvintele „o unitate generatoare” se substituie cu cuvintele „un modul generator”;
-cuvintele „unitatea generatoare” se substituie cu cuvintele „modulul generator”;
-cuvintele „unitate generatoare” se substituie cu cuvintele „modul generator”;
-cuvintele „o nouă unitate generatoare” se substituie cu cuvintele „un nou modul
-generator”  prin  HANRE646  din  04.11.25,  MO605-607/09.12.25  art.1063;  în  vigoare
-## 09.12.25
-## Înregistrat:
-Ministerul Justiţiei al Republicii Moldova
-nr. 1513 din 20 decembrie 2019
-Ministru ___________ Fadei NAGACEVSCHI
-În temeiul art. 53 alin. (4) și art. 96 alin. (8) din Legea nr. 107 din 27 mai 2016 cu
-privire la energia electrică (Monitorul Oficial al Republicii Moldova, 2016, nr.193-203, art.
-413), Consiliul de administrație al Agenţiei Naţionale pentru Reglementare în Energetică
-## HOTĂRĂŞTE:
-- Se aprobă Codul rețelelor electrice (se anexează).
-- La Normele tehnice ale reţelelor electrice de transport, aprobate prin Hotărârea
-Consiliului de administrație al Agenției Naționale pentru Reglementare în Energetică nr.266
-
-din 20 noiembrie 2007 (Monitorul Oficial al Republicii Moldova, 2007, nr.188-191, art.694),
-pct.4 literele a) și f), pct.9 lit. g), pct.13, Capitolul V „Condiții de racordare la rețeaua
-electrică  de  transport”,  Capitolul  VI  „Testare,  control  și  monitorizare”  și  Capitolul  VII
-„Schimburi de informații” se abrogă.
-- La Normele tehnice ale reţelelor electrice de distribuție, aprobate prin Hotărârea
-Consiliului de administrație al Agenției Naționale pentru Reglementare în Energetică nr.
-267 din 20 noiembrie 2007 (Monitorul Oficial al Republicii Moldova, 2007, nr. 188-191, art.
-695), pct. 12 litera f) și Capitolul V „Condiții de racordare la rețelele electrice de distribuție”
-se abrogă.
-- Controlul asupra executării prezentei hotărâri se pune în sarcina subdiviziunilor
-Agenției Naționale pentru Reglementare în Energetică.
-DIRECTORUL GENERAL Veaceslav UNTILA
-Directori Octavian CALMÎC
-Eugen CARPOV
-Ștefan CREANGĂ
-Nr. 423/2019. Chişinău, 22 noiembrie 2019.
-
----
-
-## ANEXĂ — Codul rețelelor electrice (partial, HANRE 656/2021 insert)
-
-Codul rețelelor electrice, aprobat prin Hotărârea 
+Republica Moldova
+Agenția Națională pentru Reglementare în Energetică
+ANRE
+str. Alexandr Pușkin 52/A, MD 2005Chișinău, Tel: 022 823 955, anre@anre.md, http://www.anre.md
+CONSILIUL DE ADMINISTRAȚIE
+HOTĂRÂRE nr. ___________
+din _______ 2021
+mun. Chișinău
+Înregistrat:
+Ministerul Justiției 
+Nr. din _________ _ 
+____________________________
+Ministru 
+pentru modificarea Codului rețelelor electrice, aprobat prin Hotărârea Consiliului de 
+administrație al ANRE 
+nr. 423/2019 din 22 noiembrie 2019
+În temeiul art. 53 alin. (4) și art. 96 alin. (8) din Legea nr. 107/2016 cu privire la energia 
+electrică (Monitorul Oficial al Republicii Moldova, 2016, nr.193-203, art. 413) cu modificările 
+ulterioare, Consiliul de administrație al Agenției Naționale pentru Reglementare în Energetică 
+H O T Ă R Ă Ș T E:
+1. Se aprobă modificările ce se operează în Codul rețelelor electrice, aprobat prin Hotărârea 
 Consiliului de Administrație al Agenției Naționale pentru Reglementare în Energetică nr. 
 423/2019 din 22 noiembrie 2019 (Monitorul Oficial al Republicii Moldova, 2020, nr. 14-23, art. 
 63), înregistrat la Ministerul Justiției cu nr. 1513 din 20 decembrie 2019, (se anexează).
@@ -585,13 +509,13 @@ care o unitate
 generatoare este de tip D
 0,5 MW 3 MW 10 MW
 4. După pct. 613 se completează cu următoarele prevederi:
-## PARTEA A DOUA
-##### SECURITATEA OPERAȚIONALĂ
-### TITLUL I
+PARTEA A DOUA
+SECURITATEA OPERAȚIONALĂ
+TITLUL I
 CERINȚE PRIVIND SECURITATEA OPERAȚIONALĂ
-#### CAPITOLUL I
+CAPITOLUL I
 Stările sistemului, măsurile de remediere și limitele de siguranță în funcționare
-##### Secțiunea 1
+Secțiunea 1
 Clasificarea stărilor sistemului
 614. Sistemul electroenergetic este în starea normală de funcționare în cazul în care sunt 
 îndeplinite toate condițiile de mai jos:
@@ -636,7 +560,7 @@ următoarele condiții este îndeplinită:
 planuri de restaurare.
 618. Sistemul electroenergetic este în stare de restaurare atunci când, în stare urgență sau de 
 colaps, OST a început să activeze măsuri din planul de restaurare.
-##### Secțiunea 2
+Secțiunea 2
 Monitorizare și determinarea stărilor sistemului de către OST
 619. OST determină starea sistemului electroenergetic în decursul funcționării în timp real.
 620. OST monitorizează în timp real următorii parametri ai sistemului electroenergetic, pe 
@@ -659,7 +583,7 @@ următoarele obligații:
 1) să informeze OST ai sistemelor vecine cu privire la starea sistemului său și
 2) să furnizeze informații suplimentare OST ai sistemelor vecine cu privire la elementele 
 sistemului său de transport care fac parte din zona de observabilitate a acestor OST.
-##### Secțiunea 3
+Secțiunea 3
 Măsuri de remediere în cadrul operării sistemului
 623. OST se străduiește să asigure că sistemul electroenergetic rămâne în stare normală de 
 funcționare și este responsabil de gestionarea situațiilor de nerespectare a siguranței în 
@@ -692,7 +616,7 @@ c) riscurile de defecțiune cauzate de comportamentul echipamentelor;
 4) să acorde prioritate măsurilor de remediere care pun la dispoziție cea mai mare capacitate 
 interzonală pentru alocarea capacităților, respectând totodată toate limitele de siguranță în 
 funcționare.
-##### Secțiunea 4
+Secțiunea 4
 Categorii de măsuri de remediere
 626. OST utilizează, fără a se limita, următoarele categorii de măsuri de remediere:
 1) modificarea duratei unei retrageri planificate din exploatare sau repunerea în serviciu a 
@@ -729,7 +653,7 @@ dacă redispecerizarea sau comercializarea în contrapartidă nu este posibilă 
 starea de alertă.
 627. Dacă este necesar și justificat pentru a menține siguranța în funcționare, fiecare OST
 poate pregăti și activa măsuri de remediere suplimentare.
-##### Secțiunea 5
+Secțiunea 5
 Pregătirea, activarea și coordonarea măsurilor de remediere
 628. OST pregătește și activează măsurile de remediere pentru a preveni deteriorarea stării 
 sistemului, pe baza următoarelor elemente:
@@ -755,7 +679,7 @@ dispozițiile date de OST.
 632. În cazul unor contingențe care au doar consecințe asupra stării sistemului electroenergetic 
 național și nerespectarea siguranței în funcționare nu trebuie gestionată în mod coordonat cu alți 
 OST, OST poate decide să nu activeze măsuri de remediere care presupun costuri.
-##### Secțiunea 6
+Secțiunea 6
 Disponibilitatea mijloacelor, instrumentelor și instalațiilor OST
 633. Fiecare OST asigură disponibilitatea, fiabilitatea și redundanța următoarelor elemente:
 1) instalații pentru monitorizarea stării sistemului electroenergetic, inclusiv aplicații pentru 
@@ -777,7 +701,7 @@ disponibilitatea, fiabilitatea și redundanța acestor instrumente, mijloace și
 sistemului OST reexaminează necesitatea actualizării instrumentelor, mijloacelor și instalațiilor 
 critice pentru asigurarea continuității activității. OST pune la dispoziția OSD și utilizatorilor de 
 sistem vizați eventualele noi necesități care îi afectează pe aceștia din urmă.
-##### Secțiunea 7
+Secțiunea 7
 Limitele siguranței în funcționare
 636. OST specifică limitele de siguranță în funcționare pentru fiecare element al sistemului 
 electroenergetic, luând în considerare cel puțin următoarele caracteristici fizice:
@@ -794,7 +718,7 @@ funcționare.
 siguranță în funcționare.
 Capitolul II
 Reglajul tensiunii și gestionarea puterii reactive
-##### Secțiunea 1
+Secțiunea 1
 Obligațiile OST și utilizatorilor de sistem în ceea ce privește limitele de tensiune
 640. OST depune toate eforturile pentru a se asigura că, în timpul stării normale de 
 funcționare, tensiunea rămâne în regim staționar la punctele de racordare ale sistemului de 
@@ -878,7 +802,7 @@ remediere care trebuie aplicate și executate în intervalul de timp prevăzut p
 tranzitorii admisibile.
 Capitolul V
 Analiza și gestionarea contingențelor
-##### Secțiunea 1
+Secțiunea 1
 Lista de contingențe
 658. OST stabilește o listă de contingențe care include contingențe interne și externe din zona 
 sa de observabilitate, evaluând dacă vreuna dintre aceste contingențe pune în pericol siguranța în 
@@ -897,7 +821,7 @@ cu privire la intenția de efectuare a unor modificări topologice asupra elemen
 de transport, care sunt incluse ca contingențe externe în listele de contingențe ale OST vizați.
 663. OST se asigură că datele în timp real sunt suficient de precise pentru a permite 
 convergența calculelor sarcină-flux care se fac în cadrul analizei contingențelor.
-##### Secțiunea 2
+Secțiunea 2
 Analiza contingențelor
 664. OST efectuează analiza contingențelor în zona sa de observabilitate pentru a identifica 
 contingențele care periclitează sau sunt de natură să pericliteze siguranța în funcționare a 
@@ -911,7 +835,7 @@ interconectate.
 datelor operaționale în timp real din zona sa de observabilitate. Punctul de plecare pentru analiza 
 contingențelor în situația cu N elemente în funcțiune este topologia relevantă a sistemului de 
 transport, care include retragerile din exploatare planificate în etapele de planificare operațională.
-##### Secțiunea 3
+Secțiunea 3
 Tratarea contingențelor
 667. OST trebuie să evalueze riscurile asociate fiecărei contingențe după ce face o simulare a 
 tuturor contingențelor din lista de contingențe și după ce evaluează dacă poate menține sistemul 
@@ -930,7 +854,7 @@ funcțiune devine noua situație cu N elemente în funcțiune.
 2) pe durata necesară pregătirii și activării măsurilor de remediere.
 Capitolul VI
 Protecția rețelelor electrice
-##### Secțiunea 1
+Secțiunea 1
 Cerințe generale de protecție
 671. OST operează sistemul de transport cu echipamentele de protecție și cu echipamentele de 
 protecție de rezervă necesare pentru a preveni automat propagarea perturbațiilor care ar putea 
@@ -948,7 +872,7 @@ protecția de rezervă în caz de defecțiune a sistemului de protecție princip
 protecție de rezervă sau în urma oricărei modificări, OST stabilește, de comun acord cu OST
 învecinați, definirea valorilor de referință de protecție pentru liniile de interconexiune și se 
 coordonează cu OST respectivi înainte de a schimba valorile.
-##### Secțiunea 2
+Secțiunea 2
 Scheme de protecție specială
 676. Atunci când OST utilizează o schemă de protecție specială, acesta trebuie:
 1) să se asigure că fiecare schemă de protecție specială acționează în mod selectiv, fiabil și 
@@ -963,7 +887,7 @@ sistemele de protecție utilizate la protecția primară a elementelor sistemulu
 referință cu OST învecinați și cu OSD interconectați la sistemul de transport afectați, 
 inclusiv sistemele de distribuție închise și utilizatorii de sistem afectați care sunt conectați la 
 sistemul de transport.
-##### Secțiunea 3
+Secțiunea 3
 Monitorizarea și evaluarea stabilității dinamice
 677. OST monitorizează stabilitatea dinamică a sistemului de transport prin intermediul unor 
 studii realizate offline. OST fac schimb de date relevante pentru monitorizarea stabilității 
@@ -1007,7 +931,7 @@ contingențe și limitele de regim staționar sunt atinse înainte de limitele d
 trebuie să efectueze o evaluare a stabilității dinamice în toate etapele planificării 
 operaționale și să reevalueze limitele de stabilitate cât mai curând posibil după depistarea 
 unei schimbări semnificative în ceea ce privește situația cu N elemente în funcțiune.
-##### Secțiunea 4
+Secțiunea 4
 Gestionarea stabilității dinamice
 683. În cazul în care evaluarea stabilității dinamice indică faptul că există o nerespectare a 
 limitelor de stabilitate, OST pregătește și activează măsuri de remediere pentru a menține 
@@ -1031,7 +955,7 @@ funcționare și a prevenirii nerespectării limitelor de stabilitate și
 național, în conformitate cu metodologia definite.
 Capitolul VII
 SCHIMB DE DATE
-##### Secțiunea 1
+Secțiunea 1
 Schimbul de date între OST și OSD
 686. OST stabilește zona de observabilitate din sistemele de distribuție racordate la sistemul 
 de transport care este necesară pentru ca OST să stabilească starea sistemului în mod corect și 
@@ -1066,7 +990,7 @@ real, informațiile legate de zona de observabilitate a OST, inclusiv:
 8) producția agregată per sursă de energie primară în zona OSD pentru unitățile generatoare 
 de tip A și
 9) consumul agregat în zona OSD.
-##### Secțiunea 2
+Secțiunea 2
 Schimbul de date între OST, gestionarii de linii de interconexiune sau alte linii și unitățile 
 generatoare conectate la sistemul de transport
 692. Fiecare utilizator de sistem care este gestionar al unui instalații de producere a energiei 
@@ -1150,7 +1074,7 @@ următoarele date privind punctul de racordare al sistemului HVDC sau al liniei 
 1) poziția întrerupătoarelor;
 2) starea de funcționare și
 3) puterea activă și reactivă.
-##### Secțiunea 3
+Secțiunea 3
 Schimbul de date între OST, OSD și unitățile de producție racordate la sistemul de 
 distribuție
 702. Dacă OST nu prevede altfel, fiecare gestionar de instalație de producere a energiei 
@@ -1196,7 +1120,7 @@ secțiunea data, cu frecvența și nivelul de detaliere solicitate de OST.
 energiei electrice al unei unități generatoare de tip B, C sau D, racordat la sistemul de distribuție, 
 în cazul în care acest lucru este necesar pentru analiza siguranței în funcționare și pentru 
 validarea modelelor.
-##### Secțiunea 4
+Secțiunea 4
 Schimbul de date între OST și locurile de consum
 709. Dacă OST nu prevede altfel, fiecare gestionar de loc de consum racordat la sistemul de 
 transport furnizează OST următoarele date structurale:
@@ -1241,7 +1165,7 @@ OST și OSD;
 comandabil.
 Capitolul VII
 CONFORMITATE
-##### Secțiunea 1
+Secțiunea 1
 Responsabilitatea utilizatorilor de sistem
 715. Fiecare utilizator de sistem notifică OST sau OSD la care are un punct de racordare orice 
 modificare planificată a capacităților sale tehnice care ar putea avea un impact asupra 
@@ -1267,7 +1191,7 @@ furnizează consumul comandabil direct OST, furnizorii de redispecerizare la uni
 generatoare sau locurile de consum prin intermediul agregării, precum și alți furnizori de rezerve 
 de putere activă trebuie să se asigure că instalațiile din portofoliul lor respectă cerințele 
 prezentului regulament.
-##### Secțiunea 2
+Secțiunea 2
 Testarea operațională
 719. OST este responsabil de siguranța în funcționare a sistemului electroenergetic național și 
 are, în special, următoarele obligații:
@@ -1333,7 +1257,7 @@ analizele aferente sunt:
 urgență și de restaurare.
 Capitolul IX
 FORMARE
-##### Secțiunea 1
+Secțiunea 1
 Programul de formare
 725. Programul de formare al OST include cunoștințe privind elementele sistemului de 
 transport, operarea sistemului de transport, utilizarea sistemelor și proceselor la locul de muncă, 
@@ -1373,7 +1297,7 @@ tehnologii, pe schimbarea modelelor de consum și de producție și pe evoluția
 efectuează conform prevederilor Capitolului X „Personalul operațional și de comandă 
 operațională” din Regulamentul privind dirijarea prin dispecerat a sistemului electroenergetic, 
 aprobat de ANRE prin hotărâre nr.316 din 09.11.2018.
-##### Secțiunea 2
+Secțiunea 2
 Cooperare cu alți OST în materie de formare
 730. În scopul îmbunătățirii cunoașterii caracteristicilor sistemelor de transport din țările 
 învecinate, precum și comunicarea și coordonarea cu angajații OST învecinați responsabili de 
@@ -1386,12 +1310,12 @@ influență reciprocă și de cooperarea operațională necesară.
 732. OST face schimb de experiență dobândită în operarea în timp real, inclusiv prin vizite și 
 schimburi de experiență între membrii personalului operațional responsabil de operarea în timp 
 real cu OST învecinați.
-## PARTEA A TREIA
+PARTEA A TREIA
 PLANIFICAREA OPERAȚIONALĂ
-### TITLUL I
+TITLUL I
 DATELE PENTRU ANALIZA SIGURANȚEI ÎN FUNCȚIONARE
 ÎN PLANIFICAREA OPERAȚIONALĂ
-##### Secțiunea 1
+Secțiunea 1
 Dispoziții generale privind modelul al rețelei
 733. Modelul de rețea constă din elementele sistemului de transport cu tensiunea de 110 kV și 
 mai mare, inclusiv sistemele HDVC. Elementele sistemului cu tensiunea de sub 110 kV se includ 
@@ -1406,7 +1330,7 @@ fiecare dintre intervalele de timp de mai jos, aplicând formatul de date stabil
 736. Modelele individuale de rețea includ informațiile și datele structurale prevăzute în 
 Regulamentul privind dirijarea prin dispecerat a sistemului electroenergetic, aprobat de ANRE, 
 Capitolul „Modelul al rețelei electrice”.
-##### Secțiunea 2
+Secțiunea 2
 Modelul de rețea pe un an
 737. OST evaluează modul de funcționare a sistemului de transport, utilizând următoarele 
 scenarii:
@@ -1442,7 +1366,7 @@ prevăzute privind schimbul de date;
 celei mai bune estimări a variabilelor utilizate pentru determinarea modelului de rețea pe un an, 
 stabilit în conformitate cu prevederile prezentei secțiuni, OST trebuie să actualizeze modelul de 
 rețea pe un an.
-##### Secțiunea 3
+Secțiunea 3
 Modelul de rețea pe o zi și intrazilnic
 742. OST creează modelul de rețea pe o zi sau intrazilnic, în care include:
 1) prognozele actualizate pentru producție și consum;
@@ -1464,7 +1388,7 @@ cauzele acestei deficiențe. În cazul în care cauzele depind de procesele OST 
 modelului de rețea, OST reexaminează aceste procese pentru a obține rezultate mai precise. În 
 cazul în care cauzele depind de variabile furnizare de alte părți, OST cu respectivele părți vor 
 depune eforturi pentru a se asigura că variabilele respective sunt exacte.
-##### Secțiunea 4
+Secțiunea 4
 Controlul calității modelului de rețea
 746. OST trebuie să efectueze controlul de calitate, menit cel puțin să verifice:
 1) coerența statutului de conectare al liniilor de interconexiune cu alți OST;
@@ -1473,9 +1397,9 @@ sistemului de transport care au influență asupra altor zone de reglaj;
 3) coerența suprasarcinilor tranzitorii admisibile pe liniile de interconexiune cu alți OST;
 4) compatibilitatea puterii active și a puterii reactive injectate sau retrase cu valorile 
 operaționale.
-### TITLUL II
+TITLUL II
 ANALIZA SIGURANȚEI ÎN FUNCȚIONARE
-##### Secțiunea 1
+Secțiunea 1
 Dispoziții generale privind modelul al rețelei
 747. OST efectuează analiza a siguranței în funcționare cel puțin pentru următoarele intervale 
 de timp:
@@ -1493,7 +1417,7 @@ exploatare planificate atunci când efectuează aceste analize.
 puțin către OST ale căror elemente sunt incluse în zona de observabilitate a OST și sunt afectate 
 în conformitate cu această analiză a siguranței în funcționare, pentru a permite acestor OST să 
 verifice dacă sunt respectate limitele de siguranță în funcționare în zonele lor de reglaj.
-##### Secțiunea 2
+Secțiunea 2
 Analiza siguranței în funcționare pe un an
 751. OST efectuează analiza ale siguranței în funcționare pe un an în vederea depistării cel 
 puțin a următoarelor restricții:
@@ -1506,7 +1430,7 @@ indisponibilitatea planificată a unor active relevante, restricția este consti
 incompatibilitate a planificării retragerilor din exploatare, iar OST inițiază coordonarea 
 retragerilor din exploatare în conformitate cu prevederile TITLULUI III, în funcție de perioada 
 anului când se inițiază această măsură.
-##### Secțiunea 3
+Secțiunea 3
 Analiza siguranței în funcționare pe o zi, intrazilnică și aproape în timp real
 753. OST efectuează analiza siguranței în funcționare pe o zi, intrazilnică și aproape în timp 
 real pentru a depista posibilele restricții și pentru a pregăti și pune în aplicare măsuri de 
@@ -1516,11 +1440,11 @@ prognoze indică o abatere semnificativă a producției sau a consumului, OST î
 analiza siguranței în funcționare.
 755. La efectuarea analizei în funcționare aproape în timp real în zona sa de observabilitate, 
 OST utilizează estimarea stării.
-### TITLUL III
+TITLUL III
 COORDONAREA RETRAGERILOR DIN EXPLOATARE
-#### CAPITOLUL I
+CAPITOLUL I
 Regiunile de coordonare a retragerilor din exploatare, activele relevante
-##### Secțiunea 1
+Secțiunea 1
 Scopul coordonării retragerilor din exploatare
 756. OST efectuează coordonarea retragerilor din exploatare în conformitate cu principiile 
 prezentului Capitol pentru a monitoriza starea de disponibilitate a activelor relevante și 
@@ -1545,7 +1469,7 @@ un impact asupra operării zonei de reglaj.
 informațiile relevante de care dispune cu privire la proiectele de infrastructură aferente 
 sistemului de transport, care pot avea un impact asupra operării sistemului de distribuție al 
 acestor OSD.
-##### Secțiunea 2
+Secțiunea 2
 Metodologia de evaluare a relevanței activelor pentru coordonarea retragerilor din 
 exploatare
 762. Metodologia de evaluare a relevanței activelor pentru coordonarea retragerilor din 
@@ -1606,7 +1530,7 @@ protecțiilor și evaluării scurt-circuitelor.
 activelor relevante nu este de acord cu o astfel de abordare, OST trebuie să utilizeze metoda de 
 evaluare a relevanței activelor în scopul stabilirii relevanței acestor elemente pentru coordonarea 
 retragerilor din exploatare.
-##### Secțiunea 3
+Secțiunea 3
 Tratamentul activelor relevante aflate într-un sistem de distribuție
 sau într-un sistem de distribuție închis
 770. OST acționează ca agent de planificare a retragerilor din exploatare pentru fiecare 
@@ -1615,9 +1539,9 @@ element de rețea pe care îl gestionează.
 interne racordate la sistemul său de distribuție.
 772. OST coordonează cu OSDI planificarea retragerilor din exploatare ale activelor relevante 
 interne racordate la sistemul său de distribuție.
-#### CAPITOLUL II
+CAPITOLUL II
 Elaborarea și actualizarea planurilor de disponibilitate a activelor relevante
-##### Secțiunea 1
+Secțiunea 1
 Dispoziții generale privind planurile de disponibilitate
 773. Starea de disponibilitate a unui activ trebuie să fie una dintre următoarele:
 1) „disponibil” când activul relevant este gata și capabil să furnizeze serviciul, indiferent 
@@ -1634,7 +1558,7 @@ fie prevăzută cu declarația de disponibilitate.
 776. În cazul în care programele de producție și de consum sunt transmise OST în temeiul 
 Secțiunii 1 din Capitolul V, rezoluția în timp a stărilor de disponibilitate trebuie să fie în 
 concordanță cu aceste programe.
-##### Secțiunea 2
+Secțiunea 2
 Furnizarea propunerilor de plan de disponibilitate pe un an
 777. Înainte de data de 1 septembrie a fiecărui an calendaristic, fiecare OSD sau OSDI 
 prezintă OST un plan de disponibilitate care să acopere anul calendaristic următor pentru fiecare 
@@ -1647,7 +1571,7 @@ exploatare pe un an.
 coordonării retragerilor din exploatare pe un an:
 1) cu respectarea ordinii în care au fost primite cererile de modificare;
 2) cu aplicarea procedurii stabilite în conformitate cu Secțiunea 7.
-##### Secțiunea 3
+Secțiunea 3
 Evaluarea propunerilor de plan de disponibilitate pe un an
 780. OST evaluează într-un interval pe un an dacă din planurile de disponibilitate primite în 
 conformitate cu Secțiunea 2 decurg incompatibilități în planificarea retragerilor din exploatare.
@@ -1669,7 +1593,7 @@ sau de OSDI;
 pentru a atenua incompatibilitățile legate de planificarea retragerilor din exploatare;
 3) să notifice părțile afectate cu privire la planul de disponibilitate alternativ, inclusiv la 
 motivele pentru elaborarea acestuia, precum și la impactul raportat de părțile afectate.
-##### Secțiunea 4
+Secțiunea 4
 Furnizarea planurilor preliminare de disponibilitate pe un an
 783. Înainte de data de 15 septembrie a fiecărui an calendaristic, pentru fiecare activ intern 
 relevant aflat într-un sistem de distribuție, OST coordonează cu OSD planul preliminar de 
@@ -1683,7 +1607,7 @@ anul calendaristic următor pentru toate activele interne relevante.
 786. Înainte de data de 15 noiembrie a fiecărui an calendaristic, sau într-un alt termen stabilit 
 în acorduri bilaterale, OST obține de la OST vecine planurile coordonate de disponibilitate 
 pentru anul calendaristic următor pentru toate activele interne relevante.
-##### Secțiunea 5
+Secțiunea 5
 Validarea planurilor de disponibilitate pe un an în zonele de observabilitate
 787. OST verifică dacă apar incompatibilități în planificarea retragerilor din exploatare atunci 
 când ține cont de toate planurile preliminare de disponibilitate pe un an.
@@ -1703,7 +1627,7 @@ activele relevante implicate în planificare a unei retrageri din exploatare pe 
 cauză;
 2) notifică măsurile luate OSD sau OSDI afectați, inclusiv justificarea acestor măsuri, 
 impactul raportat de către părțile afectate.
-##### Secțiunea 6
+Secțiunea 6
 Planul final de disponibilitate pe un an
 791. Înainte de data de 1 decembrie a fiecărui an calendaristic, OST:
 1) finalizează coordonarea retragerilor din exploatare pe un an ale activelor interne 
@@ -1715,7 +1639,7 @@ de distribuție.
 793. Înainte de data de 1 decembrie a fiecărui an calendaristic, OST furnizează OSDI relevant 
 planurile sale finale de disponibilitate pe un an a fiecărui activ intern relevant aflat într-un sistem 
 de distribuție închis.
-##### Secțiunea 7
+Secțiunea 7
 Actualizarea planului final de disponibilitate pe un an
 794. OST trebuie să poată lansa o procedură pentru modificarea planului final de 
 disponibilitate pe un an în perioada dintre finalizarea coordonării retragerilor din exploatare pe 
@@ -1749,9 +1673,9 @@ OST respectivi validează modificarea solicitată, informează în consecință 
 afectate și actualizează planul final de disponibilitate pe un an;
 3) dacă nu se identifică nicio soluție la incompatibilitățile în planificarea retragerilor din 
 exploatare, OST trebuie să își anuleze procedura de modificare.
-#### CAPITOLUL III
+CAPITOLUL III
 Executarea planului de disponibilitate
-##### Secțiunea 1
+Secțiunea 1
 Procedura de tratare a retragerilor forțate din exploatare
 799. OST elaborează o procedură pentru a remedia situația în care o retragere forțată din 
 exploatare i-ar periclita siguranța în funcționare. Procedura trebuie să permită OST să se asigure 
@@ -1778,7 +1702,7 @@ sau operatorii afectați cu privire la termenul în care siguranța în funcțio
 menținută decât dacă activul sau activele lor relevante în retragere forțată din exploatare revin la 
 starea „disponibil”. Operatorii informează OST dacă sunt capabili să respecte termenul respectiv 
 și furnizează justificări întemeiate dacă nu sunt în măsură să respecte acest termen.
-##### Secțiunea 2
+Secțiunea 2
 Executarea în timp real a planurilor de disponibilitate
 805. Fiecare gestionar al unei instalații de producere a energiei electrice se asigură că toate 
 unitățile generatoare pe care le deține și care sunt declarate în starea „disponibil” sunt pregătite 
@@ -1805,9 +1729,9 @@ sistemul de transport, sau OSD ori OSDI dacă este racordat la un sistem de dist
 sistem de distribuție închis, dispoziții să amâne executarea stării „indisponibil” sau „în test” a 
 respectivului activ relevant conform instrucțiunilor sale și în măsura în care este posibil, 
 respectând totodată limitele tehnice și de siguranță.
-#### CAPITOLUL IV
+CAPITOLUL IV
 Servicii tehnologice de sistem
-##### Secțiunea 1
+Secțiunea 1
 Servicii tehnologice de sistem
 811. OST verifică disponibilitatea serviciilor tehnologice de sistem.
 812. În ceea ce privește serviciile de putere activă și reactivă și în coordonare cu alți OST 
@@ -1818,7 +1742,7 @@ permit asigurarea siguranței în funcționare;
 3) utilizează toate mijloacele disponibile eficiente din punct de vedere economic și fezabile 
 pentru a obține nivelul necesar de servicii tehnologice de sistem.
 813. OST comunică nivelul disponibil al rezervelor de putere activă altor OST, la cerere.
-##### Secțiunea 2
+Secțiunea 2
 Servicii tehnologice de sistem pentru puterea reactivă
 814. Pentru fiecare interval de planificare operațională, OST trebuie să evalueze, față de 
 propriile prognoze, dacă serviciile sale tehnologice de sistem pentru puterea reactivă disponibile 
@@ -1836,9 +1760,9 @@ reactive.
 suficient pentru a menține siguranța în funcționare, OST:
 1) informează OST învecinați;
 2) pregătește și activează măsuri de remediere.
-#### CAPITOLUL V
+CAPITOLUL V
 Programare
-##### Secțiunea 1
+Secțiunea 1
 Notificarea programelor
 817. Fiecare agent de programare transmite OST, dacă acest lucru a fost solicitat de OST, și 
 dacă este cazul, unui terț, următoarele programe:
@@ -1846,7 +1770,7 @@ dacă este cazul, unui terț, următoarele programe:
 2) programele de consum;
 3) programele pentru schimburile comerciale interne;
 4) programele pentru schimburile comerciale externe.
-##### Secțiunea 2
+Secțiunea 2
 Programarea UP / CD
 818. Operatorul de transport și de sistem elaborează în urma unui proces de consultare publică 
 și aprobare de către ANRE și publică pe pagina proprie de internet procedurile necesare în 
@@ -1948,7 +1872,7 @@ conform prevederilor prezentei subsecțiuni.
 conform regulilor anterioare, devine notificare fizică aprobată.
 839. NF aprobate reprezintă obligații ferme pentru PRE respectiv, ele putând fi modificate 
 doar în cazurile prevăzute la Subsecțiunea 2 din Secțiunea curentă.
-##### Secțiunea 3
+Secțiunea 3
 Compensarea dezechilibrelor în D-1
 840. În ziua D-1, după închiderea porților de transmitere a notificărilor fizice și ofertelor 
 zilnice în sistemul PEE, OST analizează pentru fiecare interval orar al Zilei de Livrare:
@@ -2013,7 +1937,7 @@ sau mai mic decât ziua D, sărbători oficiale, evenimente importante cu influe
 consumului etc.), ce UP / CD urmează a se disponibiliza în ziua D+1 ș.a.
 852. Toate operațiile descrise în prezentă Secțiune sunt înregistrate la OST cu eticheta de timp 
 și numele operatorului.
-##### Secțiunea 4
+Secțiunea 4
 Coerența programelor
 853. OST trebuie să verifice dacă programele de producție, de consum și de schimburi 
 comerciale externe sunt echilibrate.
@@ -2021,7 +1945,7 @@ comerciale externe sunt echilibrate.
 schimb agregată sunt echilibrate. În cazul în care apare o nepotrivire și OST nu cade de acord în 
 privința programului schimburilor cu un alt OST în capacitate de schimb agregată, se aplică 
 valoarea cea mai mică.
-##### Secțiunea 5
+Secțiunea 5
 Furnizarea de informații către alți OST
 855. La cererea unui alt OST, OST solicitat calculează și furnizează:
 1) programele schimburilor cu alte sisteme în capacitate de schimb agregată;
@@ -2030,9 +1954,9 @@ Furnizarea de informații către alți OST
 OST alt țării vecine:
 1) programele de producție;
 2) programele de consum. 
-#### CAPITOLUL VI
+CAPITOLUL VI
 Adecvanța
-##### Secțiunea 1
+Secțiunea 1
 Analiza adecvanței zonei de reglaj
 857. OST trebuie să efectueze analiza adecvanței zonei de reglaj evaluând posibilitatea ca 
 suma producției din zona sa de reglaj și a capacităților de import să corespundă consumului total 
@@ -2053,7 +1977,7 @@ estimărilor pentru sursele de energie regenerabile sau a capacităților interz
 influența semnificativ adecvanța preconizată.
 860. Cât mai curând posibil după evaluarea absenței adecvanței în zona sa de reglaj, OST 
 informează în acest sens OST vecini și orice altă parte afectată.
-##### Secțiunea 2
+Secțiunea 2
 Analiza adecvanței zonei de reglaj în intervalul pe o zi și în intervalul intrazilnic
 861. OST efectuează o analiză a adecvanței zonei de reglaj în intervalul de timp pe o zi și în 
 intervalul intrazilnic pe baza următoarelor elemente:
@@ -2070,11 +1994,11 @@ unde este cazul;
 de reglaj;
 2) durata preconizată a unei eventuale absențe a adecvanței;
 3) cantitatea de energie care nu este furnizată în absența adecvanței.
-## PARTEA A PATRA
+PARTEA A PATRA
 REGLAJUL FRECVENȚĂ-PUTERE ȘI REZERVELE
-### TITLUL I
+TITLUL I
 CALITATEA FRECVENȚEI
-##### Secțiunea 1
+Secțiunea 1
 Parametrii care definesc calitatea frecvenței
 863. Parametrii și valorile de bază care definesc calitatea frecvenței sunt:
 1) frecvența nominal - 50 Hz;
@@ -2090,7 +2014,7 @@ noile valori sunt stabilite la nivelul zonei sincrone sau blocului din care face
 electroenergetic național.
 866. OST va propune și va întreprinde toate măsurile necesare întru respectarea valorilor 
 parametrilor care definesc calitatea. 
-##### Secțiunea 2
+Secțiunea 2
 Parametrii-țintă pentru ARRF și criteriile de evaluare a calității frecvenței în cadrul unui 
 bloc RFP
 867. În cazul în care sistemul electroenergetic național este parte a unui bloc RFP, în acordul 
@@ -2115,7 +2039,7 @@ viitor și
 873. OST va conlucra cu OST din cadrul blocului RFP întru elaborarea și întreprinderea 
 măsurilor necesare întru respectarea valorilor parametrilor care definesc calitatea frecvenței și ale 
 parametrilor-țintă pentru calitatea frecvenței.
-##### Secțiunea 3
+Secțiunea 3
 Perioada de variație a sarcinii
 874. Perioadă de variație a sarcinii pentru calculul ARZ este definite după cum urmează:
 1) momentul de început al perioadei de variație a sarcinii este cu 5 minute în prealabil 
@@ -2130,16 +2054,16 @@ contrapartidă, redispecerizare, și altele.
 condițiile normale de funcționare, OST va urma strict timpii de modificare a valorii programate a 
 puterii de schimb. În particular este necesar asigurarea pornirii capacităților de generare într-un 
 mod eșalonat.
-### TITLUL II
+TITLUL II
 STRUCTURA REGLAJULUI FRECVENȚĂ-PUTERE
-##### Secțiunea 1
+Secțiunea 1
 Structura de bază
 877. OST este responsabil de punerea în aplicare a structurii reglajului frecvență-putere în 
 sistemul electroenergetic național și operează în conformitate cu aceasta.
 878. Structura reglajului frecvență-putere include:
 1) o structură de activare și
 2) o structură de responsabilitate.
-##### Secțiunea 2
+Secțiunea 2
 Structura de activare și de responsabilitate
 879. Structura de activare include:
 1) un proces de reținere a frecvenței PReF;
@@ -2181,7 +2105,7 @@ putere activă și ale liniilor de interconexiune virtuale;
 887. OST este în drept de a stabili cerințe suplimentare față de cele menționate privind 
 disponibilitatea, fiabilitatea și redundanța infrastructurii tehnice.
 888. OST are dreptul de a forma un bloc RFP cu alți OST.
-##### Secțiunea 3
+Secțiunea 3
 Procesul de reținere a frecvenței
 889. Obiectivul de reglaj al PReF este stabilizarea frecvenței sistemului prin activarea RSF.
 890. Caracteristica generală a activării RSF reflectă o scădere monotonă a activării RSF ca 
@@ -2190,7 +2114,7 @@ funcție a abaterii de frecvență.
 de reținere a frecvenței.
 892. Utilizatorii de sistem calificați pentru procesului de reținere a frecvenței vor coopera cu 
 OST întru implementarea procesului și asigurarea RSF conform indicațiilor OST.
-##### Secțiunea 3
+Secțiunea 3
 Procesul de restabilire a frecvenței
 893. Obiectivul de reglaj al PRF este:
 1) reglarea ARRF spre valoarea zero pe durata de restabilire a frecvenței;
@@ -2226,7 +2150,7 @@ preciza în acordul operațional în blocul RFP, un OST din cadrul blocului, car
 1) să calculeze și să monitorizeze ARRF din întregul bloc RFP și
 2) să ia în considerare ARRF din întregul bloc RFP la calculul valorii de referință pentru 
 activarea aRRF, în plus față de ARRF din zona sa RFP.
-##### Secțiunea 4
+Secțiunea 4
 Procesul de înlocuire a rezervelor
 901. Obiectivul de reglaj al PIR trebuie să îndeplinească cel puțin unul dintre următoarele 
 obiective prin activarea RI:
@@ -2234,7 +2158,7 @@ obiective prin activarea RI:
 2) susținerea activării RRF;
 902. PIR se operează prin instrucțiunile de activare manuală a RI în vederea îndeplinirii 
 obiectivului de reglaj.
-##### Secțiunea 5
+Secțiunea 5
 Procesul de compensare a dezechilibrelor
 903. Obiectivul de reglaj al procesului de compensare a dezechilibrelor vizează reducerea 
 cantității de activări simultane a RRF contrare în diverse zone RFP participante prin transferul de 
@@ -2254,7 +2178,7 @@ inclusă în calculul ARRF;
 907. OST implementează transferul de putere la compensarea dezechilibrelor astfel încât să nu 
 se depășească cantitatea reală a RRF activate, necesară pentru reglarea la zero a ARRF, fără 
 transfer de putere la compensarea dezechilibrelor.
-##### Secțiunea 6
+Secțiunea 6
 Procesul de activare a RRF transfrontaliere
 908. Obiectivul de reglaj al procesului de activare a RRF transfrontaliere este acela de a 
 permite OST să efectueze PRF prin transferul de putere la restabilirea frecvenței cu alte sisteme 
@@ -2276,7 +2200,7 @@ manual; sau
 912. Procesul de activare a RRF transfrontaliere trebuie să includă un mecanism de rezervă 
 care să asigure că transferul de putere la restabilirea frecvenței este zero sau este limitat la o 
 valoare la care poate fi garantată siguranța în funcționare.
-##### Secțiunea 7
+Secțiunea 7
 Procesul de activare a RI transfrontaliere
 913. Obiectivul de reglaj al procesului de activare a RI transfrontaliere este acela de a permite 
 unui OST să efectueze PIR prin valoarea programată a puterii de schimb cu alte sisteme 
@@ -2299,7 +2223,7 @@ să asigure că valoarea programată a puterii de schimb este zero sau este limi
 care poate fi garantată siguranța în funcționare.
 TITLU III
 OPERAREA REGLAJULUI FRECVENȚĂ-PUTERE
-##### Secțiunea 1
+Secțiunea 1
 Stările sistemului legate de frecvența sistemului
 918. OST utilizează zona sa de reglaj cu rezerve suficiente crescătoare sau descrescătoare de 
 putere activă, care pot include rezerve partajate sau schimbate, pentru a face față dezechilibrelor 
@@ -2337,14 +2261,14 @@ unităților generatoare sau al unităților consumatoare din sistemul electroen
 a reduce sau pentru a elimina încălcarea cerințelor privind rezerva de putere activă.
 TITLU IV
 REZERVE PENTRU STABILIZAREA FRECVENȚEI
-##### Secțiunea 1
+Secțiunea 1
 Dimensionarea RSF
 923. OST, de comun acord cu alți OST din aceiași zonă sincronă din care face parte sistemul 
 electroenergetic național, specifică în acordurile operaționale, reguli de dimensionare a RSF.
 924. Valoarea RSF necesară a fi asigurată în sistemul electroenergetic național este stabilită în 
 conformitate cu obligația de RSF care revine sistemului electroenergetic național în cadrul zonei 
 sincrone din care face parte. 
-##### Secțiunea 2
+Secțiunea 2
 Cerințe tehnice minime pentru RSF
 925. OST se asigură că RSF au proprietățile următoare:
 1) Efectul maxim combinat al insensibilității inerente a răspunsului la abaterile de 
@@ -2404,7 +2328,7 @@ cu o rezoluție temporală de cel puțin 10 secunde.
 934. La cererea OST și dacă este necesar pentru verificarea activării RSF, furnizorul de RSF 
 pune la dispoziție informațiile solicitate privind instalațiile tehnice care fac parte din aceeași 
 unitate furnizoare de RSF.
-##### Secțiunea 3
+Secțiunea 3
 Procesul de calificare prealabilă pentru RSF
 935. OST elaborează un proces de calificare prealabilă pentru RSF și pune la dispoziția 
 publicului detalii cu privire la procesul de calificare prealabilă pentru RSF.
@@ -2419,7 +2343,7 @@ schimbat și
 3) în cazul modernizării echipamentelor legate de activarea RSF.
 938. La solicitarea OST producătorii vor prezenta informația necesară și vor realiza testele 
 necesare pentru procesul de calificare pentru RSF.
-##### Secțiunea 4
+Secțiunea 4
 Furnizarea de RSF
 939. OST asigură disponibilitatea cel puțin a RSF obligatorii convenite între toți OST din 
 aceeași zonă sincronă.
@@ -2445,9 +2369,9 @@ sau a indisponibilității unei unități furnizoare de RSF ori unui grup furniz
 curând posibil din punct de vedere tehnic și în conformitate cu condițiile stabilite de OST.
 945. Perioada minimă de activare care trebuie asigurată de furnizorii de RSF este de minim 15 
 minute și maxim 30 minute.
-### TITLUL V
+TITLUL V
 REZERVE PENTRU RESTABILIREA FRECVENȚEI
-##### Secțiunea 1
+Secțiunea 1
 Dimensionarea RRF
 946. OST de comun acord cu OST din blocul RFP din care face parte sistemul electroenergetic 
 național, stabilește regulile de dimensionare a RRF în acordul operațional de bloc RFP.
@@ -2479,7 +2403,7 @@ RRF și RI este suficientă pentru a acoperi dezechilibrele negative din blocul 
 național, stabilește în acordul operațional în blocul RFP repartizarea specifică a 
 responsabilităților între OST aferente RRF stabilite pentru întreg blocul.
 949. OST trebuie să aibă o capacitate de rezervă suficientă pe RRF, în orice moment.
-##### Secțiunea 2
+Secțiunea 2
 Cerințe tehnice minime pentru RRF
 950. Cerințele tehnice minime pentru RRF sunt următoarele:
 1) o unitate furnizoare de RRF sau un grup furnizor de RRF trebuie să activeze RRF în 
@@ -2523,7 +2447,7 @@ posibil.
 cerințele privind disponibilitatea RRF, cu cerințele privind viteza de variație a sarcinii și cu 
 cerințele de racordare prin intermediul unităților furnizoare de RRF și al grupurilor furnizoare de 
 RRF.
-##### Secțiunea 3
+Secțiunea 3
 Procesul de calificare prealabilă pentru RRF
 955. OST elaborează un proces de calificare prealabilă pentru RRF și clarifică și pune la 
 dispoziția publicului detalii cu privire la acesta.
@@ -2551,9 +2475,9 @@ schimbat.
 furnizoare de RRF de la furnizarea de RRF pe baza unor argumente tehnice, cum ar fi distribuția 
 geografică a unităților generatoare sau a unităților consumatoare care aparțin unui grup furnizor 
 de RRF.
-### TITLUL VI
+TITLUL VI
 REZERVE DE ÎNLOCUIRE
-##### Secțiunea 1
+Secțiunea 1
 Dimensionarea RI
 961. OST are dreptul de a implementa un proces de înlocuire a rezervelor.
 962. OST de comun acord cu OST din blocul RFP din care face parte sistemul electroenergetic 
@@ -2583,7 +2507,7 @@ pentru implementarea regulilor de dimensionare a RI.
 conformitate cu regulile de dimensionare a RI. OST precizează, în acordul operațional în blocul 
 RFP, o procedură de escaladare pentru situațiile de risc grav de capacitate de rezervă insuficientă 
 pe RI.
-##### Secțiunea 2
+Secțiunea 2
 Cerințe tehnice minime pentru RI
 967. Unitățile de furnizare a RI și grupurile de furnizare a RI trebuie să respecte următoarele 
 cerințe tehnice minime:
@@ -2619,7 +2543,7 @@ acestuia din urmă, cât de curând posibil.
 971. OST asigură monitorizarea conformității și respectarea cerințelor tehnice pentru RI, 
 cerințelor privind disponibilitatea RI și cerințelor de racordare în ceea ce privește unitățile sale 
 furnizoare de RI și grupurile sale furnizoare de RI.
-##### Secțiunea 3
+Secțiunea 3
 Procesul de calificare prealabilă pentru RI
 972. OST elaborează un proces de calificare prealabilă pentru RI și clarifică și pune la 
 dispoziția publicului detalii cu privire la acesta.
@@ -2644,9 +2568,9 @@ decizia sa potențialului furnizor de RI.
 977. Pentru a asigura siguranța în funcționare, OST are dreptul de a refuza furnizarea de RI de 
 către grupurile furnizoare de RI pe baza unor argumente tehnice, cum ar fi distribuția geografică 
 a unităților generatoare sau a unităților consumatoare care formează un grup furnizor de RI.
-### TITLUL VII
+TITLUL VII
 SCHIMBUL ȘI PARTAJAREA DE REZERVE
-##### Secțiunea 1
+Secțiunea 1
 Schimbul și partajarea de RSFîntr-o zonă sincronă
 978. Schimbul de RSF implică transferul unei RSF obligatorii de la OST către alți OST pentru 
 capacitatea de rezervă pe RSF corespunzătoare atribuită OST.
@@ -2662,7 +2586,7 @@ rezervă pe RSF care face obiectul schimbului de RSF.
 putere rezultate din activarea capacității de rezervă pe RSF care face obiectul schimbului de 
 RSF.
 982. OST nu partajează RSF cu alți OST pentru a-și îndeplini RSF obligatorie.
-##### Secțiunea 2
+Secțiunea 2
 Schimbul și partajarea de RRF și de RI într-o zonă sincronă
 983. OST de comun acord cu OST din blocul RFP din care face parte sistemul electroenergetic 
 național, definește în acordul operațional, rolurile și responsabilitățile în ceea ce privește 
@@ -2692,7 +2616,7 @@ rezerve stabilite în regulile de dimensionare a RRF sau RI.
 987. OST de comun acord cu OST din blocul RFP din care face parte sistemul electroenergetic 
 național, definește în acordul operațional în blocul RFP, rolurile și responsabilitățile OST în ceea 
 ce privește schimbul sau partajarea de RRF și/sau de RI cu OST din alte blocuri RFP.
-##### Secțiunea 3
+Secțiunea 3
 Schimbul și partajarea de RSF, RRF și de RI între zonele sincrone
 988. OST are dreptul de a utiliza procesul de schimb sau partajare de RSF, RRF, RI între 
 zonele sincrone.
@@ -2711,7 +2635,7 @@ fiecărei linii de interconexiune HVDC care conectează zone sincrone și
 991. OST poate refuza schimbul sau partajarea în cazul în care acesta ar genera fluxuri de 
 putere care încalcă limitele de siguranță în funcționare în momentul activării capacității de 
 rezervă pe RRF și RI care face obiectul schimbului de RRF sau RI.
-### TITLUL VIII
+TITLUL VIII
 COOPERAREA CU OSD
 992. OST și OSD cooperează în vederea facilitării și permiterii furnizării de rezerve de putere 
 activă prin intermediul grupurilor de furnizare a rezervelor sau al unităților de furnizare a 
@@ -2742,11 +2666,11 @@ grupurilor de furnizare a rezervelor.
 996. OSD are dreptul, în cooperare cu OST, să stabilească limite temporare pentru furnizarea 
 de rezerve de putere activă situate în sistemul său de distribuție, înainte de activarea rezervelor. 
 OST respectiv stabilește procedurile aplicabile de comun acord cu OSD.
-## PARTEA V
+PARTEA V
 ASIGURAREA ECHILIBRULUI SISTEMULUI ELECTROENERGETIC
 TITLU I
 FUNCȚII ȘI RESPONSABILITĂȚI
-##### Secțiunea 1
+Secțiunea 1
 Rolul operatorului sistemului de transport
 997. În contextul Titlului dat OST reprezintă operatorul sistemului de transport responsabil de 
 dirijarea operativ-tehnologică unică a sistemului electroenergetic.
@@ -2754,7 +2678,7 @@ dirijarea operativ-tehnologică unică a sistemului electroenergetic.
 echilibrare, pentru a garanta siguranța în funcționare.
 999. OST aplică un model de autodispecerizare pentru a stabili programele de producere și de 
 consum. 
-##### Secțiunea 2
+Secțiunea 2
 Cooperarea cu operatorii de sisteme de distribuție
 1000. Operatorii de sisteme de distribuție, operatorii de transport și de sistem, furnizorii de 
 servicii de echilibrare și părțile responsabile cu echilibrarea cooperează pentru a asigura o 
@@ -2764,7 +2688,7 @@ decontarea dezechilibrelor către OST, în conformitate cu Codul dat, Regulile p
 electrice și alte documente în vigoare.
 1002. Operatorii de sisteme de distribuție raportează OST orice limite, care ar putea afecta 
 îndeplinirea cerințelor prevăzute în prezentul regulament.
-##### Secțiunea 3
+Secțiunea 3
 Rolul furnizorilor de servicii de echilibrare
 1003. Un furnizor de servicii de echilibrare trebuie să se califice pentru transmiterea de oferte 
 de energie de echilibrare sau de capacitate pentru echilibrare care sunt activate sau achiziționate 
@@ -2795,7 +2719,7 @@ aferente proceselor integrate de planificare.
 1010. În cazul fiecărui produs de energie de echilibrare sau de capacitate pentru echilibrare, 
 unitatea de furnizare a rezervelor, grupul de furnizare a rezervelor, locul de consum sau terțul și 
 părțile asociate responsabile cu trebuie să aparțină aceleiași zone de programare.
-##### Secțiunea 4
+Secțiunea 4
 Rolul părților responsabile cu echilibrarea
 1011. În timp real, fiecare parte responsabilă cu echilibrarea depune eforturi pentru a fi 
 echilibrată sau pentru a contribui la echilibrarea sistemului electroenergetic.
@@ -2803,7 +2727,7 @@ echilibrată sau pentru a contribui la echilibrarea sistemului electroenergetic.
 dezechilibrele care urmează să fie decontate cu OST.
 1013. Înainte de ora de închidere a porții pieței intrazilnice, fiecare parte responsabilă cu 
 echilibrarea poate modifica programele necesare pentru a-și calcula poziția.
-##### Secțiunea 5
+Secțiunea 5
 Clauze și condiții în materie de echilibrare
 1014. Furnizori de servicii de echilibrare vor fi considerați producătorii care dispun de grupuri 
 generatoare de tip B, C și D pentru care urmează să parcurgă etapa de calificare și pentru care 
@@ -2836,7 +2760,7 @@ TITLU II
 SERVICIILE DE ECHILIBRARE
 Capitolul 1
 Energia de echilibrare
-##### Secțiunea 1
+Secțiunea 1
 Activarea ofertelor de energie de echilibrare din listele cu ordine de merit
 1024. Pentru a menține echilibrul sistemului în conformitate, OST utilizează oferte de energie 
 de echilibrare, care sunt disponibile pentru livrare, pe baza listelor cu ordine de merit. 
@@ -2870,7 +2794,7 @@ după închiderea porții pieței intrazilnice.
 merit până la volumul total al energiei de echilibrare disponibile. Volumul total al energiei de 
 echilibrare care poate fi activat de către OST este suma volumelor din ofertele de energie de 
 echilibrare din listele cu ordine de merit comune sau interne.
-##### Secțiunea 2
+Secțiunea 2
 Funcția de optimizare a activării
 1035. OST instituie o funcție de optimizare a activării, în vederea optimizării activării ofertelor 
 de energie de echilibrare din diferite liste cu ordine de merit. Această funcție ia în considerare cel 
@@ -2906,7 +2830,7 @@ partea furnizorilor de servicii de echilibrare din sistemul electroenergetic na�
 care această decizie contribuie la atenuarea gravității stării actuale a sistemului.
 Capitolul II
 Capacitatea pentru echilibrare
-##### Secțiunea 1
+Secțiunea 1
 Norme privind achizițiile
 1043. OST trebuie să revizuiască și să definească periodic și cel puțin o dată pe an cerințele 
 privind necesarul de capacitate în rezervă, în temeiul normelor în materie de dimensionare. OST
@@ -2923,7 +2847,7 @@ vecine, luând în considerare capacitatea interzonală disponibilă.
 conformitate cu prevederile Regulilor pieței energiei electrice.
 1045. Achiziția de capacitate pentru echilibrare de creștere și de reducere, cel puțin în cazul 
 rezervelor pentru restabilirea frecvenței și al rezervelor de înlocuire, poate fi efectuează separat.
-##### Secțiunea 2
+Secțiunea 2
 Schimbul de capacitate pentru echilibrare
 1046. OST, de comun acord cu alți OST, este în drept de a realiza schimb reciproc de capacitate 
 pentru echilibrare și elaborează o propunere privind instituirea de norme și de procese comune și 

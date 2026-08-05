@@ -37,5 +37,5 @@ Navigation hubs for the vault. Each domain map links the raw acts, analysis note
 [[Sistemul de drept al RM (overview)]] · [[Ierarhia actelor normative]] · [[Monitorul Oficial]] · [[Procesul legislativ]] · [[Glosar juridic]] · [[00 - Harta instituțională|Harta instituțională]] · [[Status ingestie — Uploads]]
 
 ## Data quality — two separate risks
-1. **Currency.** [[Legea 107-2016 — energia electrica (text)|L107/2016]] was **repealed** in August 2025 by [[Legea 164-2025 — energia electrica (text)|L164/2025]] and sat in this vault as the flagship electricity act regardless. A repealed act does not announce itself. **Check before citing.**
-2. **Completeness.** Automated ingestion stops at ~96–102 KB, mid-sentence. → [[Status ingestie — Energetica]] · [[Convenții vault]]
+1. **Currency.** Audited 2026-08-05 for non-energy hubs → [[Audit currency — Phase A — 2026-08-05]]. Energy L164 HANRE layer → [[Audit L164 transition — HANRE 283-169-423 — 2026-08-05]]. [[Legea 107-2016 — energia electrica (text)|L107/2016]] was **repealed** August 2025.
+2. **Completeness.** Automated ingestion stops at ~96–102 KB. HANRE 169/2019 still truncated; HANRE 423/2019 partial annex only. → [[Status ingestie — Energetica]] · [[Convenții vault]]

@@ -105,14 +105,14 @@ New/updated analysis notes created on 2026-07-26:
 - [[HANRE 311-2026 — racordarea la retelele electrice (notă)]]
 - [[HANRE 626-2023 — Metodologie tarife transport EE (notă)]]
 
-**Batch 1 — deep Law House notes (2026-08-06)** — acts that had `(text)` but no `(notă)` / concepts:
+**Batches 1–4 — Law House notes for all former note-less texts (2026-08-06):**
 
-- [[Legea 139-2018 — eficienta energetica (notă)]] ✅ complete text analysed
-- [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)]] ✅ amending package
-- [[HG 820-2024 — situatii exceptionale electroenergetic (notă)]] ⚠️ dispositif-only (annex still missing)
-- Concepts: [[Concept — Audit energetic]] · [[Concept — Contract de performanță energetică]] · [[Concept — Parte obligată (eficiență energetică)]] · [[Concept — Eficiența energetică înainte de toate]] · [[Concept — Situație de criză în domeniul petrolier]] · [[Concept — Situație excepțională electroenergetică]]
-- Authority: [[CNED]]
-- Remaining backlog: [[Analysis backlog — texts without notes]] (Batches 2–4)
+- Batch 1: [[Legea 139-2018 — eficienta energetica (notă)]] · [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)]] · [[HG 820-2024 — situatii exceptionale electroenergetic (notă)]] ⚠️ annex missing · [[CNED]]
+- Batch 2: [[HANRE 169-2019 — furnizarea energiei electrice (notă)]] ⚠️ truncated · [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (notă)]] · [[HANRE 177-2026 — modificarea unor hotarari ANRE (notă)]]
+- Batch 3: [[HANRE 261-2026 — modificare Metodologie tarife transport EE (notă)]] · [[HANRE 64-2018 — Metodologie tarife distributie EE (notă)]] ⚠️ annex · [[HANRE 375-2017 — Metodologie tarife regenerabile (notă)]] ⚠️ annex · [[HANRE 486-2017 — Metodologie tarife transport EE (notă)]] *(abrogated)*
+- Batch 4: [[HANRE 328-2025 — modificare Codul retelelor de gaze naturale (notă)]] · [[HANRE 310-2026 — modificare Codul retelelor de gaze naturale (notă)]] · [[HANRE 169-2025 — investitii apa si canalizare (notă)]] · [[Rectificare ANRE 05-03-5694-2025 (notă)]]
+- New concepts: [[Concept — Piața organizată a contractelor bilaterale]] · [[Concept — Capacitate condiționată]] (+ Batch 1 EE/crisis concepts)
+- Follow-up annex/parent gaps: [[Analysis backlog — texts without notes]]
 
 Procedure/civil/procurement support notes also created because they are needed for energy disputes and contracts:
 

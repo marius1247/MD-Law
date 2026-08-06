@@ -24,8 +24,9 @@ Domain hub for the **energy sector**. 22 acts across three tiers. Core primary l
 - **Sector dossiers:** [[Energetică — sector gaze ANRE (notă)]] · [[Energetică — sector electricitate ANRE (notă)]] · [[Energetică — tarife regenerabile si utilitati (notă)]]
 - **Vault audit:** [[Audit vault — Law House Knowledge Engine — 2026-07-28]] · [[Status ingestie — Uploads]]
 - Act companions: **[[Legea 164-2025 — energia electrica (notă)|L164/2025]]** *(the law in force)* · [[Legea 108-2016 — gazele naturale (notă)|L108/2016]] · [[Legea 174-2017 — energetica (notă)|L174/2017]] · [[Legea 10-2016 — surse regenerabile (notă)|L10/2016]] · **[[Legea 139-2018 — eficienta energetica (notă)|L139/2018]]** · [[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (notă)|L117/2009]] · **[[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)|L101/2026]]** · **[[HG 820-2024 — situatii exceptionale electroenergetic (notă)|HG 820/2024]]** · [[Codul administrativ 116-2018 (notă)|CA 116/2018]] · [[Legea 107-2016 — energia electrica (notă)|L107/2016]] *(superseded)*
-- Concepts: [[Concept — Tarif reglementat]] · [[Concept — Licență în energetică]] · [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Producător eligibil]] · [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Audit energetic]] · [[Concept — Contract de performanță energetică]] · [[Concept — Parte obligată (eficiență energetică)]] · [[Concept — Eficiența energetică înainte de toate]] · [[Concept — Situație de criză în domeniul petrolier]] · [[Concept — Situație excepțională electroenergetică]]
-- Analysis backlog (remaining texts without notes): [[Analysis backlog — texts without notes]]
+- Concepts: [[Concept — Tarif reglementat]] · [[Concept — Licență în energetică]] · [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Producător eligibil]] · [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Audit energetic]] · [[Concept — Contract de performanță energetică]] · [[Concept — Parte obligată (eficiență energetică)]] · [[Concept — Eficiența energetică înainte de toate]] · [[Concept — Situație de criză în domeniul petrolier]] · [[Concept — Situație excepțională electroenergetică]] · [[Concept — Piața organizată a contractelor bilaterale]] · [[Concept — Capacitate condiționată]]
+- Analysis backlog (annex/parent gaps): [[Analysis backlog — texts without notes]]
+- Water/utilities (ANRE, outside energy cascade): [[HANRE 169-2025 — investitii apa si canalizare (notă)]] · [[Rectificare ANRE 05-03-5694-2025 (notă)]]
 
 ## The implementation chain
 Moldovan energy regulation runs in a strict cascade. This is the mental model for the whole domain:
@@ -58,25 +59,25 @@ Each ANRE act below names the exact article of the parent law it is issued under
 ## Tier 3 — ANRE acts (`10 Legislation/Authority Acts`)
 
 **Market rules**
-- [[HANRE 283-2020 — Regulile pietei energiei electrice (text)]] — electricity market rules ✅ *full annex* · [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)|notă]] · amended by [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (text)|383/2026]]
+- [[HANRE 283-2020 — Regulile pietei energiei electrice (text)]] — electricity market rules ✅ *full annex* · [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)|notă]] · amended by [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (text)|383/2026]] · [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (notă)|383 notă]] · [[Concept — Piața organizată a contractelor bilaterale|POCB]]
 - [[HANRE 534-2019 — Regulile pietei gazelor naturale (text)]] — gas market rules ✅ *full text* · [[HANRE 534-2019 — Regulile pietei gazelor naturale (notă)|notă]]
 
 **Network codes**
 - [[HANRE 423-2019 — Codul retelelor electrice (text)]] *(annex still missing)* · [[HANRE 423-2019 — Codul retelelor electrice (notă)|notă]]
-- [[HANRE 420-2019 — Codul retelelor de gaze naturale (text)]] ✅ *full annex* · [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)|notă]] · amended by [[HANRE 328-2025 — modificare Codul retelelor de gaze naturale (text)|328/2025]] + [[HANRE 310-2026 — modificare Codul retelelor de gaze naturale (text)|310/2026]]
+- [[HANRE 420-2019 — Codul retelelor de gaze naturale (text)]] ✅ *full annex* · [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)|notă]] · amended by [[HANRE 328-2025 — modificare Codul retelelor de gaze naturale (text)|328/2025]] ([[HANRE 328-2025 — modificare Codul retelelor de gaze naturale (notă)|notă]]) + [[HANRE 310-2026 — modificare Codul retelelor de gaze naturale (text)|310/2026]] ([[HANRE 310-2026 — modificare Codul retelelor de gaze naturale (notă)|notă]]) · [[Concept — Capacitate condiționată]]
 
 **Connection & supply procedures** — the operational rules consumers and developers actually deal with
 - [[HANRE 311-2026 — racordarea la retelele electrice (text)]] — **current** electricity connection regulation under L164/2025 ✅ · [[HANRE 311-2026 — racordarea la retelele electrice (notă)|notă]]
 - ~~[[HANRE 168-2019 — racordarea la retelele electrice (text)]]~~ — **abrogated** by HANRE 311/2026; historical · [[HANRE 168-2019 — racordarea la retelele electrice (notă)|notă]]
-- [[HANRE 169-2019 — furnizarea energiei electrice (text)]] — electricity supply *(verify currency under L164)*
+- [[HANRE 169-2019 — furnizarea energiei electrice (text)]] — electricity supply · [[HANRE 169-2019 — furnizarea energiei electrice (notă)|notă]] ⚠️ *truncated; L164 currency conflicts*
 - [[HANRE 112-2019 — racordarea la retelele de gaze (text)]] — gas connection ✅ · [[HANRE 112-2019 — racordarea la retelele de gaze (notă)|notă]]
-- [[HANRE 113-2019 — furnizarea gazelor naturale (text)]] — gas supply ✅ · [[HANRE 113-2019 — furnizarea gazelor naturale (notă)|notă]]
+- [[HANRE 113-2019 — furnizarea gazelor naturale (text)]] — gas supply ✅ · [[HANRE 113-2019 — furnizarea gazelor naturale (notă)|notă]] · amended by [[HANRE 177-2026 — modificarea unor hotarari ANRE (notă)|177/2026]]
 
 **Tariff methodologies** — how regulated prices are actually computed
-- [[HANRE 626-2023 — Metodologie tarife transport EE (text)]] — electricity transmission ✅ *(replaces 486/2017)* · [[HANRE 626-2023 — Metodologie tarife transport EE (notă)|notă]] · amended by [[HANRE 261-2026 — modificare Metodologie tarife transport EE (text)|261/2026]]
-- ~~[[HANRE 486-2017 — Metodologie tarife transport EE (text)]]~~ — **abrogated**
-- [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]] — electricity distribution *(annex completeness to recheck)*
-- [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]] — fixed tariffs for renewables *(annex completeness to recheck)*
+- [[HANRE 626-2023 — Metodologie tarife transport EE (text)]] — electricity transmission ✅ *(replaces 486/2017)* · [[HANRE 626-2023 — Metodologie tarife transport EE (notă)|notă]] · amended by [[HANRE 261-2026 — modificare Metodologie tarife transport EE (text)|261/2026]] ([[HANRE 261-2026 — modificare Metodologie tarife transport EE (notă)|notă]])
+- ~~[[HANRE 486-2017 — Metodologie tarife transport EE (text)]]~~ — **abrogated** · [[HANRE 486-2017 — Metodologie tarife transport EE (notă)|historic notă]]
+- [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]] — electricity distribution · [[HANRE 64-2018 — Metodologie tarife distributie EE (notă)|notă]] ⚠️ *annex missing*
+- [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]] — fixed tariffs for renewables · [[HANRE 375-2017 — Metodologie tarife regenerabile (notă)|notă]] ⚠️ *annex missing*
 
 ## Authorities
 - [[ANRE]] — the regulator: licensing, tariffs, network codes, market monitoring

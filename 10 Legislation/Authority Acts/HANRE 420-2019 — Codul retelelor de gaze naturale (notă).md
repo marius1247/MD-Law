@@ -23,6 +23,10 @@ last_amended: '2026-07-26'
 
 # HANRE nr. 420/2019 — Codul rețelelor de gaze naturale — Analysis
 
+> [!tip] Amending notes
+> [[HANRE 328-2025 — modificare Codul retelelor de gaze naturale (notă)]] · [[HANRE 310-2026 — modificare Codul retelelor de gaze naturale (notă)]] · [[Concept — Capacitate condiționată]]
+
+
 **Raw text:** [[HANRE 420-2019 — Codul retelelor de gaze naturale (text)]] ✅ *complete annex text* · **Gas law:** [[Legea 108-2016 — gazele naturale (notă)]] · **Hub:** [[MOC — Energetică]] · **Regulator:** [[ANRE]]
 
 > [!success] Annex now complete

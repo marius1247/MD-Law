@@ -31,7 +31,7 @@ last_amended: '2026-07-26'
 > HANRE 626/2023 expressly abrogates [[HANRE 486-2017 — Metodologie tarife transport EE (text)|HANRE 486/2017]]. The old methodology is now historical. Use HANRE 626/2023 for current electricity transmission tariff methodology.
 
 > [!warning] Currency nuance
-> The original 2023 decision was issued under [[Legea 107-2016 — energia electrica (text)|L107/2016]]. It was then amended by **HANRE 261/2026**, in force 23.05.2026, after [[Legea 164-2025 — energia electrica (text)|L164/2025]] entered the system. The text is currently consolidated and in force, but the legal-basis trail should be checked in any formal opinion because L107 was repealed on 19.08.2025.
+> The original 2023 decision was issued under [[Legea 107-2016 — energia electrica (text)|L107/2016]]. It was then amended by **HANRE 261/2026**, in force 23.05.2026, after [[Legea 164-2025 — energia electrica (text)|L164/2025]] entered the system. The text is currently consolidated and in force, but the legal-basis trail should be checked in any formal opinion because L107 was repealed on 19.08.2025. Amend analysis: [[HANRE 261-2026 — modificare Metodologie tarife transport EE (notă)]].
 
 ## 1. What it is
 

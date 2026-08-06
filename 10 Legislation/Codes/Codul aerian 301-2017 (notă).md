@@ -14,7 +14,7 @@ tags:
 status: active
 upload_source: uploads/Cod aerian 301-2017.md
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-06
 domain: null
 issuer: Autoritate
 legal_status: in_vigoare
@@ -41,7 +41,7 @@ last_amended: '2026-07-28'
 
 ## 2. Practical legal mechanics & key provisions
 
-*Full article-anchored text in companion `(text)` file — use wikilinks `[[act (text)#Articolul N]]` for citations.*
+*Cite operative articles as `[[Codul aerian 301-2017 (text)#Articolul N]]`. Deep article-by-article mechanics below are thin — expand on next pass; do not leave placeholder `act (text)` links.*
 
 ---
 

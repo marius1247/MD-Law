@@ -15,7 +15,7 @@ eu_directives: Directive 2009/73/EC (Third Energy Package)
 analysis_tier: law-house
 status: draft
 created: 2026-07-23
-updated: 2026-07-28
+updated: 2026-08-06
 domain: gaze_naturale
 issuer: Parlament
 legal_status: in_vigoare
@@ -30,7 +30,7 @@ last_amended: '2026-07-28'
 > The complete consolidated act — **114 base articles plus bis articles (142 headings)** — was manually downloaded and ingested on 2026-07-23 ([[Legea 108-2016 — gazele naturale (text)]]), current to LP227/2025 (in force 30.12.2025). Unbundling, third-party access, transport, storage, supply, tariffs and consumer protection are all now present.
 
 ## What it is
-The sectoral organic law for natural gas, **transposing Directive 2009/73/EC** (EU internal gas market). It is deliberately the mirror image of [[Legea 107-2016 — energia electrica (text)|L107/2016]]: same architecture, same delegation logic, same regulator. Learn one and you have most of the other.
+The sectoral organic law for natural gas, **transposing Directive 2009/73/EC** (EU internal gas market — **third package**). Architecturally it was drafted as the mirror of repealed [[Legea 107-2016 — energia electrica (text)|L107/2016]] (same delegation logic, same regulator). **Do not treat electricity as still on that mirror:** electricity moved to the **fourth package** under [[Legea 164-2025 — energia electrica (notă)|L164/2025]]. Gas remains a package behind — that asymmetry is the live legislative forecast.
 
 ## Structure (as ingested, Cap. I–III)
 - **Cap. I** — purpose and scope, definitions, regulatory objectives
@@ -62,11 +62,11 @@ So gas law in Moldova is only formally about market rules. In substance it is ab
 **Public service obligations for large industrial gas consumers are being withdrawn** — a process run from October 2025 and targeted for completion on **1 April 2026**. Effect: large industrial users move to fully market-based supply, while PSO protection concentrates on households and small consumers. Any supply contract with an industrial consumer drafted before this needs review — the regulated fallback it assumed may no longer exist. → [[Concept — Furnizor de ultimă opțiune]]
 
 ## Where the operative rules actually are
-- [[HANRE 534-2019 — Regulile pietei gazelor naturale (text)]] — market rules, **complete text in the vault**. The single best specimen of ANRE drafting available here; use it as the model for reading the electricity rules too.
-- [[HANRE 420-2019 — Codul retelelor de gaze naturale (text)]] — network code *(annex missing)*
-- [[HANRE 112-2019 — racordarea la retelele de gaze (text)]] — connection *(truncated)*
-- [[HANRE 113-2019 — furnizarea gazelor naturale (text)]] — supply *(truncated)*
-- Gas tariff methodologies HANRE 535/2019 and 443/2020 — **not yet ingested**, a real gap
+- [[HANRE 534-2019 — Regulile pietei gazelor naturale (notă)|HANRE 534/2019]] — market rules ✅
+- [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)|HANRE 420/2019]] — network code ✅ *annex complete*; conditional capacity via [[HANRE 328-2025 — modificare Codul retelelor de gaze naturale (notă)|328/2025]] + [[HANRE 310-2026 — modificare Codul retelelor de gaze naturale (notă)|310/2026]] · [[Concept — Capacitate condiționată]]
+- [[HANRE 112-2019 — racordarea la retelele de gaze (notă)|HANRE 112/2019]] — connection ✅
+- [[HANRE 113-2019 — furnizarea gazelor naturale (notă)|HANRE 113/2019]] — supply ✅; retail modernisation [[HANRE 177-2026 — modificarea unor hotarari ANRE (notă)|177/2026]] (fixed-price ≥12m, comparison tool, >50 MWh/day imbalance)
+- Gas tariff methodologies HANRE **535/2019** and **443/2020** — **not yet ingested**, a real gap
 
 ## Legal ambiguities, vulnerabilities & risk matrix
 

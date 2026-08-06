@@ -33,7 +33,7 @@ updated: 2026-07-28
 | `Cod transport feroviar 19-2022.md` | [[Codul transportului feroviar 19-2022 (notă)]] | ✅ complete | [[MOC — Drept comercial]] |
 | `Codul de procedura civila 225-2003.md` | ✅ [[Codul de procedura civila 225-2003 (notă)]] | ✅ complete | [[MOC — Proceduri]] |
 | `Codul fiscal 1163-1997.md` | ✅ [[Codul fiscal 1163-1997 (notă)]] | ✅ complete (by Titlu) | [[MOC — Fiscalitate & Contabilitate]] |
-| `HANRE 286-2018.md` | [[HANRE 286-2018 — licentiere energie (notă)]] | ✅ complete | [[MOC — Energetică]] |
+| `HANRE 286-2018.md` | [[HANRE 286-2018 — licentiere energie (notă)]] ⚠️ *filename says licențiere; act = tariff/price application procedure* | ✅ complete | [[MOC — Energetică]] |
 | `HG 280-2024.md` | [[HG 280-2024 — program dezvoltare industriala (notă)]] | ✅ complete | [[MOC — Drept comercial]] |
 | `HG 773-2016.md` | [[HG 773-2016 — Regulament achizitii interne (notă)]] | ✅ complete | [[MOC — Achiziții publice & Statul]] |
 | `HG 854-2006.md` | [[HG 854-2006 — transporturi auto calatori (notă)]] | ✅ complete | [[MOC — Drept comercial]] |

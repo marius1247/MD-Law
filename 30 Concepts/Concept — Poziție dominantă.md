@@ -43,7 +43,7 @@ Dominance in Moldova is often **structural and lawful** — a single transmissio
 ## Governing provisions *(to ingest)*
 - **Legea concurenței nr. 183/2012** — dominance, abuse, agreements, merger control
 - Consiliul Concurenței implementing regulations — market definition, fining methodology
-- Sector statutes: [[Legea 107-2016 — energia electrica (text)|L107/2016]], [[Legea 108-2016 — gazele naturale (text)|L108/2016]]
+- Sector statutes: [[Legea 164-2025 — energia electrica (notă)|L164/2025]] (live electricity), [[Legea 108-2016 — gazele naturale (notă)|L108/2016]] (gas); L107 only for legacy
 
 ## Related
 [[Concept — Ajutor de stat]] · [[Concept — Unbundling]] · [[Concept — Autorizarea activității de întreprinzător]] · [[Drept comercial — synthesis]] · [[Consiliul Concurenței]]

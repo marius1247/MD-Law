@@ -3,16 +3,16 @@ title: "Concept — Parte responsabilă de echilibrare"
 type: concept
 domeniu: [energetică]
 tags: [concept, energetică, piață]
-status: draft
+status: reviewed
 created: 2026-07-23
+updated: 2026-08-06
 ---
 
 # Concept — Parte responsabilă de echilibrare
 
 **RO:** parte responsabilă de echilibrare (PRE) · **EN:** balance responsible party (BRP)
 
-> [!danger] Base act replaced — 19 August 2025
-> References below to **Legea 107/2016** are to a **repealed** statute. It was abrogated in full by [[Legea 164-2025 — energia electrica (notă)|Legea nr. 164/2025]], which transposes the EU **fourth package** (Dir. 2019/944, Reg. 2019/943), **REMIT** and **CACM**. Article numbering is entirely different, and new regulated activities — **storage, aggregation, trading** — were added. Verify every L107 citation against L164/2025 before use.
+> Live electricity frame: [[Legea 164-2025 — energia electrica (text)#Articolul 90. Responsabilitatea privind echilibrarea|L164 arts. 90–91]] + [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)|HANRE 283/2020]] (as amended). L107 market organisation cites are historical only.
 
 ## Definition
 The market participant that assumes **financial responsibility for the imbalance** between the volumes it has scheduled (nominated) and the volumes actually injected into or withdrawn from the system within its balancing perimeter.
@@ -43,12 +43,10 @@ Wind and solar output is forecast, not chosen. An intermittent generator carries
 → [[Concept — Producător eligibil]]
 
 ## Governing provisions
-- [[HANRE 283-2020 — Regulile pietei energiei electrice (text)]] — electricity market rules: BRP registration, nomination, imbalance settlement *(annex missing — the operative rules are not in the vault)*
-- [[HANRE 534-2019 — Regulile pietei gazelor naturale (text)]] — gas market rules, **complete text**; the gas balancing regime is the best worked example available in this vault
-- [[Legea 107-2016 — energia electrica (text)|L107/2016]] — market organisation *(beyond truncation)*
+- [[Legea 164-2025 — energia electrica (text)#Articolul 90. Responsabilitatea privind echilibrarea|L164 arts. 90–91]] — balancing responsibility / balancing market
+- [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)]] — BRP registration, nomination, imbalance settlement ✅ · [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (notă)|383/2026 POCB]]
+- [[HANRE 534-2019 — Regulile pietei gazelor naturale (notă)]] — gas market rules ✅; gas balancing as parallel specimen
+- Gas network balancing / conditional-capacity exclusion → [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)]] · [[Concept — Capacitate condiționată]]
 
 ## Related
-[[Concept — Producător eligibil]] · [[Concept — Tarif reglementat]] · [[Energetică — synthesis]] · [[ANRE]]
-
-## Notes / conclusions
-> The BRP concept is where market design stops being law and starts being engineering economics. Cross-reference [[FP — Marginal Pricing in Electricity Markets]] (GeoMacro vault) before drafting or reviewing any PPA imbalance clause.
+[[Concept — Producător eligibil]] · [[Concept — Tarif reglementat]] · [[Concept — Piața organizată a contractelor bilaterale]] · [[Energetică — synthesis]] · [[ANRE]]

@@ -11,13 +11,15 @@ tags:
 - energetică
 - UE
 - acte_normative
-status: draft
+status: reviewed
+analysis_tier: law-house
+depth: expert
 created: 2026-07-23
 domain: energie_electrica
 issuer: Parlament
 legal_status: in_vigoare
 last_amended: '2026-07-28'
-updated: '2026-07-28'
+updated: '2026-08-06'
 ---
 
 # Legea nr. 164/2025 cu privire la energia electrică — Analysis
@@ -106,19 +108,40 @@ Read alongside the post-2022 ENTSO-E synchronisation via Romania, this is the le
 
 For a renewables developer this is a genuine change in the option set: a flexible connection may be available years earlier than a firm one, at the cost of accepting curtailment risk. Whether that trade is worth taking is now a live commercial question. → [[Concept — Racordare la rețea]]
 
-## 8. What to do about it
+## 8. Legal ambiguities, vulnerabilities & risk matrix
 
-1. **Re-check anything in the vault or in a file that cites L107/2016.** The article numbering has changed completely.
-2. **Complete this text manually** — it is now the principal act of the domain and only art. 1 is in the vault. Art. 2 (150+ definitions) is the priority.
-3. **Expect the whole tier-3 layer to be rewritten.** ANRE must re-adopt the market rules, network codes, supply and connection regulations under the new enabling articles. Every HANRE in this vault is issued under L107/2016 and is living on transitional provisions. Check each before relying on it.
-4. **Clients to warn:** anyone trading wholesale (REMIT), anyone doing storage/aggregation/trading (licensing), anyone holding a pre-August-2025 connection permit (transitional rules).
+| Provision | Identified flaw / ambiguity | Practical risk | Recommended strategy |
+| :--- | :--- | :--- | :--- |
+| **Arts. 18–23 licensing** | New activities (storage, aggregation, trading) with thresholds still being operationalised | Operating without the right licence class | Map activity → art. 18 type before market entry; see [[Concept — Licență în energetică]] |
+| **REMIT (art. 2 + monitoring powers)** | Inside-information duties on outages/capacity | Manipulation / failure-to-publish liability | Adopt REMIT publication SOP; use [ANRE REMIT portal](https://remit.anre.md/pages/legal-framework) |
+| **Art. 115 last resort ≥6 months** | Conflicts with [[HANRE 169-2019 — furnizarea energiei electrice (notă)|HANRE 169]] 90-day text | Wrong consumer-exit advice | Apply L164 over HANRE 169 until re-adopted |
+| **Art. 114 US perimeter** | Micro + small companies (not old “small” only) | Wrong US eligibility | Re-screen non-household portfolio |
+| **Flexible connection (art. 2)** | Curtailment economics undefined in statute | Bankability fights | Price curtailment in PPA; check [[HANRE 311-2026 — racordarea la retelele electrice (notă)]] |
+| **Tier-3 under L107** | Market rules / network code / supply still L107-origin | Ultra vires / transitional uncertainty | Prefer post-L164 acts (311, 383, 261); currency-check the rest |
+| **Art. 150(21¹) via L101** | Mid-auction capacity lock after art. 72(10) repeal | Auction disputes | [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)]] |
+| **Central buyer / eligible plants** | Cross-ref to [[Legea 10-2016 — surse regenerabile (notă)|L10/2016]] support | Double offtake structures | Align PPA, BRP and GO tracking |
+
+## 9. Client action checklist / compliance roadmap
+
+- [ ] Re-map every internal memo that still cites **L107 article numbers**.
+- [ ] Licensing: confirm whether storage / aggregation / trading needs a new licence class.
+- [ ] Wholesale: REMIT registration + inside-information policy before trading.
+- [ ] Retail suppliers: apply L164 arts. 114–115 over HANRE 169 US/LR timings.
+- [ ] Developers: evaluate flexible vs firm connection under HANRE 311/2026.
+- [ ] US/LR buyers: procurement via bilaterals + PZU/PI/POCB under [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (notă)|383/2026]].
+- [ ] Crisis / security playbooks: [[HG 820-2024 — situatii exceptionale electroenergetic (notă)]] (annex pending) + L101.
+
+## 10. What to do about the vault / tier-3 layer
+
+1. Prefer L164 + post-2025/2026 HANRE acts; treat pre-L164 HANRE as transitional until re-adopted.
+2. Still missing annexes: [[HANRE 423-2019 — Codul retelelor electrice (notă)|423/2019]], HANRE 169 past pt. 146, HG 820 annexes — [[Analysis backlog — texts without notes]].
+3. Unbundling / TSO certification → [[Concept — Unbundling]] (operative chapters now in the L164 text).
 
 ## Open questions
-- The full licensing perimeter for storage, aggregation and trading — thresholds and exemptions *(verify at source)*
-- Unbundling and TSO **certification** provisions — the definition is present (art. 2 pt. 18) but the operative chapter is now in the vault (art. 2 pt. 18 + certification chapter) → [[Concept — Unbundling]]
-- Transitional provisions: how long the existing HANRE acts survive, and the deadline for ANRE to re-adopt
-- Whether capacity mechanisms are provided for
-- The interaction with [[Legea 10-2016 — surse regenerabile (text)|L10/2016]] — the *furnizor central* and *centrală electrică eligibilă* definitions cross-refer to it
+- Exact licence thresholds/exemptions for storage, aggregation and trading
+- ANRE deadline for full re-adoption of remaining L107-era HANRE acts
+- Capacity-mechanism design if/when introduced
+- Gas equivalent of L164 (still third package) — [[Legea 108-2016 — gazele naturale (notă)]]
 
 ## Sources
-[[Legea 164-2025 — energia electrica (text)]] — legis.md doc_id `150244` (partial) · [ANRE REMIT portal](https://remit.anre.md/pages/legal-framework)
+[[Legea 164-2025 — energia electrica (text)]] — legis.md (complete consolidation incl. LP101/2026) · [ANRE REMIT portal](https://remit.anre.md/pages/legal-framework)

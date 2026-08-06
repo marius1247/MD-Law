@@ -20,10 +20,13 @@ issuer: ANRE
 legal_status: in_vigoare
 last_amended: '2026-07-28'
 ---
-# HANRE 286-2018 — licentiere energie
+# HANRE 286-2018 — procedură cereri tarife/prețuri reglementate
+
+> [!danger] Short filename is misleading
+> File stem says *licentiere*. Substance = **Regulation on submission/examination of licence-holders’ applications for base costs and regulated prices/tariffs** (not the licensing regulation). → [[HANRE 286-2018 — licentiere energie (notă)]]
 
 > [!info] Sursă & versiune
-> Text preluat din **uploads/** (legis.md export). Document fără structură pe articole (program, amendament sau regulament pe puncte).
+> Text preluat din **uploads/** (legis.md export). Point-numbered regulation (not article-anchored).
 > Analiză: [[HANRE 286-2018 — licentiere energie (notă)]].
 
 ---

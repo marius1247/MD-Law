@@ -31,7 +31,7 @@ last_amended: '2026-07-26'
 > The decision was issued under art. 7(3)(a) of [[Legea 107-2016 — energia electrica (text)|L107/2016]], which was repealed by [[Legea 164-2025 — energia electrica (text)|L164/2025]] on 19.08.2025. The text is complete and currently recorded as in force, but any reliance should check whether ANRE has re-adopted or further amended the market rules under L164/2025's enabling articles.
 
 > [!success] Annex now complete
-> Earlier vault notes described HANRE 283/2020 as decision-only. That is no longer true. The full annex — the market rules themselves — is now in [[HANRE 283-2020 — Regulile pietei energiei electrice (text)]]. The consolidation includes HANRE 383/2026, in force 01.07.2026, which updates terminology and rewrites significant market provisions.
+> Earlier vault notes described HANRE 283/2020 as decision-only. That is no longer true. The full annex — the market rules themselves — is now in [[HANRE 283-2020 — Regulile pietei energiei electrice (text)]]. The consolidation includes HANRE 383/2026, in force 01.07.2026, which updates terminology and rewrites significant market provisions. Deep amend analysis: [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (notă)]] · [[Concept — Piața organizată a contractelor bilaterale]].
 
 ## 1. What it is
 

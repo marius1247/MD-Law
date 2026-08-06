@@ -12,18 +12,18 @@ tags:
 - raportare-financiară
 - fiscal
 - acte_normative
-status: draft
+status: reviewed
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-08-06
 domain: null
 issuer: Parlament
 legal_status: in_vigoare
-last_amended: '2026-07-26'
+last_amended: '2026-08-06'
 ---
 
 # Legea nr. 287/2017 contabilității și raportării financiare — Analysis
 
-**Raw text:** [[Legea 287-2017 — contabilitate (text)]] ✅ *complete* · **Hub:** [[MOC — Fiscalitate & Contabilitate]] · **Synthesis:** [[Contabilitate & raportare financiară — synthesis]] · **Tax bridge:** [[Codul fiscal 1163-1997 (notă)]]
+**Raw text:** [[Legea 287-2017 — contabilitate (text)]] ✅ *complete* · **Hub:** [[MOC — Fiscalitate & Contabilitate]] · **Synthesis:** [[Contabilitate & raportare financiară — synthesis]] · **Horizon:** [[Fiscalitate & Contabilitate — horizon and gaps]] · **Tax bridge:** [[Codul fiscal 1163-1997 (notă)]]
 
 > [!summary] Accounting law is the legal base under tax and company law
 > This act decides what financial information exists, who signs it, what standard applies, when statements are filed, who is audited and which groups consolidate. Those outputs feed [[Concept — Impozit pe venit]], profit distributions, net-assets tests, insolvency analysis and lender due diligence.
@@ -213,6 +213,10 @@ This is a gateway provision: actual sanctions may be in the Contravention Code, 
 - Add a dedicated note for statutory audit law and audit oversight.
 - Build [[Concept — Situații financiare]] around legal functions: tax base, distributable profit, net assets, insolvency dating and director liability.
 - Track practical effects of the 2027 threshold reset under [[Legea 86-2026 — modificare Legea contabilitatii (notă)]].
+
+## Related / connections
+
+[[MOC — Fiscalitate & Contabilitate]] · [[Contabilitate & raportare financiară — synthesis]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Legea 86-2026 — modificare Legea contabilitatii (notă)]] · [[Concept — Situații financiare]] · [[Codul fiscal 1163-1997 (notă)]] · [[SFS]]
 
 ## Sources
 

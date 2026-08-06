@@ -13,18 +13,18 @@ tags:
 - thresholds
 - UE
 - acte_normative
-status: draft
+status: reviewed
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-08-06
 domain: null
 issuer: Parlament
 legal_status: in_vigoare
-last_amended: '2026-07-26'
+last_amended: '2026-08-06'
 ---
 
 # Legea nr. 86/2026 — accounting threshold reset from 2027
 
-**Raw text:** [[Legea 86-2026 — modificare Legea contabilitatii (text)]] ✅ *complete* · **Amends:** [[Legea 287-2017 — contabilitate (text)]] · **Main note:** [[Legea 287-2017 — contabilitate (notă)]] · **Synthesis:** [[Contabilitate & raportare financiară — synthesis]]
+**Raw text:** [[Legea 86-2026 — modificare Legea contabilitatii (text)]] ✅ *complete* · **Amends:** [[Legea 287-2017 — contabilitate (text)]] · **Main note:** [[Legea 287-2017 — contabilitate (notă)]] · **Synthesis:** [[Contabilitate & raportare financiară — synthesis]] · **Horizon:** [[Fiscalitate & Contabilitate — horizon and gaps]]
 
 > [!danger] Effective 1 January 2027
 > This amendment materially raises the size criteria in [[Legea 287-2017 — contabilitate (text)#Articolul 4. Categoriile entităților și grupurilor|L287 art. 4]]. The practical effect is downward reclassification: many entities that are currently small become micro; many medium become small; some large become medium. Audit, reporting and consolidation obligations may fall away.
@@ -174,6 +174,12 @@ Do not rely on category status where the counterparty is near a threshold.
 - Verify how the two-period movement rule in [[Legea 287-2017 — contabilitate (text)#Articolul 4. Categoriile entităților și grupurilor|L287 art. 4(8)]] interacts in practice with the specific transition in [[Legea 86-2026 — modificare Legea contabilitatii (text)#Art. II. – (1) Prezenta lege intră în vigoare la data de 1 ianuarie 2027.|L86 art. II(2)]].
 - Track Ministry of Finance guidance on applying the reset to non-calendar reporting periods.
 - Add worked examples for borderline micro/small/medium entities.
+
+## Related / connections
+
+[[MOC — Fiscalitate & Contabilitate]] · [[Contabilitate & raportare financiară — synthesis]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Legea 287-2017 — contabilitate (notă)]] · [[Concept — Situații financiare]] · [[Fiscalitate — synthesis]]
+
+> L86 is enacted accounting law (IF 1 Jan 2027). Keep it separate from the draft 2027 Estonian-style CIT rewrite — that draft is **not law** and does not alter these thresholds.
 
 ## Sources
 

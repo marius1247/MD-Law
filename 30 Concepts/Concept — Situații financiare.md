@@ -3,8 +3,9 @@ title: "Concept — Situații financiare"
 type: concept
 domeniu: [contabilitate, societăți]
 tags: [concept, contabilitate, societăți]
-status: draft
+status: reviewed
 created: 2026-07-23
+updated: 2026-08-06
 ---
 
 # Concept — Situații financiare
@@ -25,8 +26,26 @@ The statements are the **factual input** to a series of legal determinations:
 | **Insolvency in fact** | The forensic date that sets the suspect period → [[Concept — Insolvabilitate]] |
 | **Director compliance** | Failure to keep proper accounts is itself a breach → [[Concept — Administrator]] |
 
+## Bridge to L287 + tax reconciliation
+
+Primary act notes: [[Legea 287-2017 — contabilitate (notă)]] · [[Legea 86-2026 — modificare Legea contabilitatii (notă)]] · synthesis [[Contabilitate & raportare financiară — synthesis]].
+
+| L287 anchor | Function |
+|---|---|
+| Art. 4 | Size categories (reset by L86 from **1 Jan 2027**) |
+| Art. 5 | Bookkeeping / statement set (abridged · simplified · complete · IFRS) |
+| Art. 11 / 17 | Primary documents and retention — where most [[SFS]] findings start |
+| Art. 18 / 31 | Management responsibility and signature |
+| Art. 21 | Content of individual statements |
+| Art. 27 / 32 / 33 | Consolidation, audit, filing/publication |
+
+**Tax reconciliation.** Accounting profit under L287 is the *start* of Titlul II taxable income, not the end. Typical adjustments: non-deductibles (art. 24), fiscal vs book depreciation, provisions, related-party pricing, and **timing** under art. 87(11) deferral (payment until distribution through 2026). Keep a standing bridge schedule — it is the first document [[SFS]] requests. A dedicated bridge table is still a horizon gap → [[Fiscalitate & Contabilitate — horizon and gaps]].
+
+> [!note] L86 vs fiscal rewrite
+> Modelling **2027 L86 reclassification** now is correct and enacted. The draft Estonian-style CIT rewrite is a **separate** instrument and **not law** — it does not change L287 thresholds.
+
 ## Reporting framework
-- **SNC** — national accounting standards, the default
+- **SNC** — national accounting standards, the default *(MF orders — corpus not yet ingested)*
 - **IFRS** — mandatory for **public interest entities** (banks, insurers, others designated by law); available to others by election
 
 Medium and large entities prepare **complete statements under SNC**; micro and small entities may use abridged forms.
@@ -45,21 +64,24 @@ Category is determined by not exceeding **two of three** criteria — total asse
 3. **Approve** at the general meeting — approval is a reserved competence, and the profit-distribution resolution rides on it
 4. **File** with the state financial reporting system
 5. **Publish**, where required
+6. **Reconcile** accounting profit → taxable profit for the CIT return
 
 ## Practical points
 - **Responsibility rests with management**, not with the accountant or the outsourced provider. Delegation does not transfer it.
 - **Keep the tax reconciliation** — accounting profit to taxable profit. It is the first document [[SFS]] requests in a control.
 - **Foreign currency** translation and exchange differences are a material P&L item in a volatile-currency environment, not a footnote.
 - In **due diligence**, filed statements are the counterparty's own admissions about its position — read them against the [[ASP]] register extract.
+- Near a size boundary: model L86 **now** for 2027 audit/reporting exposure.
 
-## Governing provisions *(to ingest)*
-- **Legea contabilității și raportării financiare nr. 287/2017**, and amending **Legea nr. 86/2026**
-- **SNC** — approved by Ministry of Finance order, a layer below the law
-- **Codul fiscal** — the adjustments from accounting to taxable profit
+## Governing provisions
+- **Legea contabilității și raportării financiare nr. 287/2017**, and amending **Legea nr. 86/2026** ✅ ingested
+- **SNC** — approved by Ministry of Finance order *(still open)*
+- **Codul fiscal Titlul II** — adjustments from accounting to taxable profit; art. 87(11) deferral
 - **Legea nr. 1134/1997** / **Legea nr. 135/2007** — approval and distribution
+- Statutory audit law *(horizon P2)*
 
 ## Related
-[[Concept — Capital social]] · [[Concept — Adunarea generală]] · [[Concept — Administrator]] · [[Concept — Insolvabilitate]] · [[Concept — Impozit pe venit]] · [[Contabilitate & raportare financiară — synthesis]] · [[SFS]]
+[[Concept — Capital social]] · [[Concept — Adunarea generală]] · [[Concept — Administrator]] · [[Concept — Insolvabilitate]] · [[Concept — Impozit pe venit]] · [[Contabilitate & raportare financiară — synthesis]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Legea 287-2017 — contabilitate (notă)]] · [[SFS]]
 
 ## Notes / conclusions
-> Financial statements are where company law, tax law and insolvency law all read from the same page. That is exactly why the accounting regime deserves legal attention rather than being delegated to the accountants.
+> Financial statements are where company law, tax law and insolvency law all read from the same page. The L287 → Titlul II bridge is the practitioner document; the 2027 L86 reset changes *reporting* load, not CIT rates.

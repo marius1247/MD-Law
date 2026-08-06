@@ -15,7 +15,7 @@ Navigation hubs for the vault. Each domain map links the raw acts, analysis note
 |---|---|---|
 | [[MOC — Energetică]] | [[Energetică — synthesis]] | **Built** — core laws complete; ANRE layer largely complete; L164 transition ongoing |
 | [[MOC — Societăți & Guvernanță corporativă]] | [[Societăți & guvernanță — synthesis]] | **Built** — L135/2007, L1134/1997, L220/2007, L149/2012 + Civil Code Cartea I ingested |
-| [[MOC — Fiscalitate & Contabilitate]] | [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] | **Built** — Fiscal Code (10 Titluri), L287/2017, L86/2026, Customs Code ingested |
+| [[MOC — Fiscalitate & Contabilitate]] | [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] · [[Fiscalitate & Contabilitate — horizon and gaps]] | **Built** — CF Titluri I–X, L287/L86, Customs; horizon tracks 2026 live + 2027 draft |
 | [[MOC — Drept comercial]] | [[Drept comercial — synthesis]] | **Built** — L183/2012, L235/2006, L160/2011 + uploads batch (banking, trade, transport codes) ingested |
 | [[MOC — Achiziții publice & Statul]] | — | **Built** — L74/2020, [[HG 773-2016 — Regulament achizitii interne (notă)]], [[Legea 179-2008 — parteneriat public-privat (notă)]] ingested |
 | [[MOC — Proceduri]] | — | **Built** — Cod administrativ, CPC, Cod de executare, L23/2008, L74/2025, L436/2006, L136/2017, L797/1996, L1234/2000 ingested |

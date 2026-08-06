@@ -4,80 +4,119 @@ type: moc
 domeniu: fiscal
 tags: [moc, index, fiscal]
 created: 2026-07-22
-updated: 2026-07-23
-status: draft
+updated: 2026-08-06
+status: reviewed
 ---
 
 # MOC — Fiscalitate & Contabilitate
 
 Domain hub for **taxation and accounting** — deliberately paired, because accounting supplies the base that tax is levied on.
 
-> [!tip] Start here
-> **[[Fiscalitate — synthesis]]** — the tax system: architecture, rates, procedure.
-> **[[Contabilitate & raportare financiară — synthesis]]** — the accounting regime and the 2027 threshold reset.
+## Start here
+
+> [!tip] Read order
+> 1. **[[Fiscalitate — synthesis]]** — tax architecture, live rates, procedure  
+> 2. **[[Contabilitate & raportare financiară — synthesis]]** — L287 tiers and the 2027 threshold reset  
+> 3. **[[Fiscalitate & Contabilitate — horizon and gaps]]** — 2026 live reforms, 2027 pipeline, ingest gaps  
+> 4. Relevant **Titlu** / act note → concept → [[SFS]]
 
 > [!warning] Everything numeric here is time-stamped
-> Figures verified **July 2026**. The Fiscal Code is amended by the annual fiscal-policy law effective 1 January, every year. Re-verify at [SFS](https://sfs.md) / [Ministerul Finanțelor](https://mf.gov.md) before use.
+> Figures verified **July / August 2026**. The Fiscal Code is amended by the annual fiscal-policy law effective 1 January, every year. Re-verify at [SFS](https://sfs.md) / [Ministerul Finanțelor](https://mf.gov.md) before use. **Do not cite the 2027 Estonian-style CIT draft as enacted.**
 
-## Analysis layer
-- **[[Fiscalitate — synthesis]]** · **[[Contabilitate & raportare financiară — synthesis]]**
-- Concepts: [[Concept — Impozit pe venit]] · [[Concept — TVA]] · [[Concept — Accize]] · [[Concept — Rezident fiscal]] · [[Concept — Situații financiare]]
+---
 
-## Headline rates *(July 2026)*
-| Tax | Rate |
+## Syntheses
+
+| Note | Role |
 |---|---|
-| Corporate income tax | **12%** (agriculture 7%; SME turnover regime **4%**; IT Park **7% of turnover**) |
-| Dividend withholding | **6%** — treaty relief available |
-| VAT | **20%** standard · **8%** reduced (incl. **natural gas transport**) · 0% exports |
-| Personal income tax | **12%** |
-| Social contributions (CNAS) | **24%**, employer |
-| Health insurance (AOAM) | **9%**, employee |
+| [[Fiscalitate — synthesis]] | System architecture, headline rates, procedure, 2026 must-knows |
+| [[Contabilitate & raportare financiară — synthesis]] | L287 size tiers, IFRS/SNC, 2027 L86 reset, tax bridge |
 
-## Primary legislation
-- **Codul fiscal nr. 1163/1997** — organised by **Titluri**; ingest one file per Titlu
-- **Legea contabilității și raportării financiare nr. 287/2017** — as amended by **Legea nr. 86 of 21 May 2026**
-- **Codul vamal** — customs, import VAT and excise
-- The **annual fiscal policy law** — the amendment vehicle
+## Horizon
 
-## The Fiscal Code by Titlu — ingestion map
-| Titlu | Subject | Priority |
-|---|---|---|
-| I | Dispoziții generale — definitions, residence, taxpayer duties | **High** |
-| II | **Impozitul pe venit** | **Highest** |
-| III | **TVA** | **Highest** |
-| IV | Accize | Medium |
-| V | **Administrarea fiscală** — control, appeals, penalties | **High** |
-| VI / VI¹ | Impozitul pe bunurile imobiliare / pe avere | Medium / Low |
-| VII–IX | Taxe locale · resurse naturale · taxe rutiere | Low |
+**[[Fiscalitate & Contabilitate — horizon and gaps]]** — structure already in the vault · reforms live in 2026 · advancing 2027 / EU package · gap list (acts + analysis) · client horizon checklist.
 
-*Verify exact numbering and later additions at ingestion.*
+Key watch: Government **politica fiscală 2027** draft proposes Estonian-style distributed-profit CIT and progressive PIT — **project only, not law**.
 
-## The 2027 accounting reset
-**Legea nr. 86/2026** raises the entity-size thresholds from **1 January 2027**: micro ≤ MDL 8.5M assets / 17M revenue; small ≤ 95M / 190M; medium ≤ 480M / 960M. Many entities move **down** a category, cutting reporting and audit obligations. Small and medium **groups** are exempt from consolidation unless a member is a public interest entity. → [[Contabilitate & raportare financiară — synthesis]]
+---
 
-## Authorities
-- **[[SFS]]** — Serviciul Fiscal de Stat: assessment, control, enforcement, first-instance appeal
-- **Serviciul Vamal** — the border
-- **Ministerul Finanțelor** — policy; approves the **SNC** accounting standards
-- **CNAS** / **CNAM** — social and health contributions
+## Primary acts
 
-## Cross-domain bridges
-- **Company form and profit extraction** → [[Societăți & guvernanță — synthesis]] · [[MOC — Societăți & Guvernanță corporativă]]
-- **Accounts drive distributable profit, the net-assets trigger and insolvency dating** → [[Concept — Situații financiare]]
-- **Appeals run into administrative procedure** → [[MOC — Proceduri]]
-- **8% VAT on gas transport and fuel excise feed regulated tariffs** → [[Concept — Tarif reglementat]] · [[Energetică — synthesis]]
-
-## Primary legislation — now in the vault
 | Act | Text | Analysis |
 |---|---|---|
 | [[Codul fiscal 1163-1997 (text) — Index\|Codul fiscal nr. 1163/1997]] | ✅ Titlurile I–X | [[Codul fiscal 1163-1997 (notă)]] |
 | [[Legea 287-2017 — contabilitate (text)\|Legea nr. 287/2017]] | ✅ complete | [[Legea 287-2017 — contabilitate (notă)]] |
-| [[Legea 86-2026 — modificare Legea contabilitatii (text)\|Legea nr. 86/2026]] | ✅ complete | [[Legea 86-2026 — modificare Legea contabilitatii (notă)]] |
+| [[Legea 86-2026 — modificare Legea contabilitatii (text)\|Legea nr. 86/2026]] | ✅ complete · **IF 1 Jan 2027** | [[Legea 86-2026 — modificare Legea contabilitatii (notă)]] |
 | [[Codul vamal 95-2021 (text)\|Codul vamal nr. 95/2021]] | ✅ complete | [[Codul vamal 95-2021 (notă)]] |
 
-## Still open
-- Build the **double tax treaty** reference table
-- Detail the **IT Park** regime — the most consequential incentive in the system
-- Track the Ministry of Finance's **Fiscal Code / Customs Code rewrite concept**
-- Map **SNC** — a separate normative layer below the accounting law
-- Annual fiscal-policy law (the amendment vehicle) — track each 1 January
+### Fiscal Code by Titlu
+
+| Titlu | Subject | Priority |
+|---|---|---|
+| I | Dispoziții generale — definitions, residence, taxpayer duties | High |
+| II | **Impozitul pe venit** | Highest |
+| III | **TVA** | Highest |
+| IV | Accize | Medium |
+| V | **Administrarea fiscală** — control, appeals, penalties | High |
+| VI / VI¹ | Impozitul pe bunurile imobiliare / pe avere | Medium / Low |
+| VII–IX | Taxe locale · resurse naturale · taxe rutiere | Low |
+| X | Other regimes, incl. IT Park single tax | High (when status applies) |
+
+### 2027 accounting reset (enacted — not yet effective)
+
+**Legea nr. 86/2026** raises entity-size thresholds from **1 January 2027**: micro ≤ MDL 8.5M assets / 17M revenue; small ≤ 95M / 190M; medium ≤ 480M / 960M. Many entities move **down** a category. Model now. Separate from the draft fiscal rewrite. → [[Contabilitate & raportare financiară — synthesis]]
+
+---
+
+## Headline rates *(July / Aug 2026 — verify)*
+
+| Tax | Rate | Notes |
+|---|---|---|
+| Corporate income tax | **12%** (agriculture 7%; SME turnover **4%**; IT Park **7% of turnover**) | **2027 draft** proposes Estonian-style tax on *distributed* profit (indicative 15%) — **not live** |
+| Dividend withholding | **6%** — treaty relief available | Combined with 12% CIT ≈ 17.3% on distributed profit under live rules |
+| VAT | **20%** standard · **8%** reduced (incl. **natural gas transport**) · 0% exports | Registration threshold **1.5 MDL m** (2026); energy reverse charge art. **101⁷** |
+| Personal income tax | **12%** | **2027 draft** proposes progressive 7%+15% — **not live** |
+| Social contributions (CNAS) | **24%**, employer | Outside CF; payroll wedge |
+| Health insurance (AOAM) | **9%**, employee | Outside CF |
+
+---
+
+## Concepts
+
+[[Concept — Impozit pe venit]] · [[Concept — TVA]] · [[Concept — Accize]] · [[Concept — Rezident fiscal]] · [[Concept — Situații financiare]]
+
+## Authorities
+
+- **[[SFS]]** — Serviciul Fiscal de Stat: assessment, control, enforcement, first-instance appeal; comerciant reverse-charge declarations
+- **Serviciul Vamal** — the border *(authority note still open)*
+- **Ministerul Finanțelor** — policy; approves **SNC**
+- **CNAS** / **CNAM** — social and health contributions *(profiles still open)*
+
+## Cross-domain bridges
+
+- **Company form and profit extraction** → [[Societăți & guvernanță — synthesis]] · [[MOC — Societăți & Guvernanță corporativă]]
+- **Accounts drive distributable profit, net-assets trigger, insolvency dating** → [[Concept — Situații financiare]]
+- **Appeals → administrative procedure** → [[MOC — Proceduri]]
+- **8% VAT on gas transport · energy reverse charge · connection-asset deduction** → [[Concept — Tarif reglementat]] · [[Energetică — synthesis]]
+- **B2G e-invoicing (draft, IF = EU accession)** → [[MOC — Achiziții publice & Statul]]
+
+---
+
+## Still open *(from [[Fiscalitate & Contabilitate — horizon and gaps|horizon gaps]])*
+
+**P0 / P1 — acts not in vault**
+- **Annual fiscal-policy laws** (esp. 318/2025 and successors; 2027 package *when enacted*)
+- **HG 93/2013** VAT refund regulation (+ amends)
+- **IT Park** admission law / regulations beyond Titlul X
+- **Double tax treaty** texts (at least RO, UA corridors, NL, DE, US if used)
+
+**P2 — acts / layers**
+- **Statutory audit law** + oversight body
+- **SNC** (MF orders) as a mapped corpus
+- **Serviciul Vamal** authority note; **CNAS/CNAM** profiles
+- Transfer-pricing secondary rules / SFS guides
+
+**Analysis still thin**
+- Dispute workflow note (Titlul V: control → contestation → court)
+- Accounting ↔ tax bridge table (non-deductibles, depreciation, provisions, art. 87(11))
+- Energy × tax dossier; IT Park concept beyond Titlul X

@@ -4,6 +4,7 @@ type: act-note
 act: '[[Codul fiscal 1163-1997 (text) — Index]]'
 domeniu:
 - fiscal
+analysis_tier: law-house
 tags:
 - act-note
 - analysis
@@ -12,21 +13,21 @@ tags:
 - TVA
 - administrare-fiscală
 - acte_normative
-status: draft
+status: reviewed
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-08-06
 domain: null
-issuer: Autoritate
+issuer: Parlament
 legal_status: in_vigoare
-last_amended: '2026-07-26'
+last_amended: '2026-08-06'
 ---
 
 # Codul fiscal nr. 1163/1997 — Master analysis
 
-**Raw text index:** [[Codul fiscal 1163-1997 (text) — Index]] ✅ *complete by Titlu* · **Hub:** [[MOC — Fiscalitate & Contabilitate]] · **Synthesis:** [[Fiscalitate — synthesis]] · **Administrator:** [[SFS]]
+**Raw text index:** [[Codul fiscal 1163-1997 (text) — Index]] ✅ *complete by Titlu* · **Hub:** [[MOC — Fiscalitate & Contabilitate]] · **Synthesis:** [[Fiscalitate — synthesis]] · **Horizon:** [[Fiscalitate & Contabilitate — horizon and gaps]] · **Administrator:** [[SFS]]
 
 > [!warning] Rates, thresholds and exemptions are time-sensitive
-> The Fiscal Code is amended every year through the fiscal-policy package, typically effective 1 January. The rates and thresholds mentioned here are a July 2026 orientation only. **Before quoting any number, re-check the current consolidation, [[SFS]] guidance and Ministry of Finance materials.**
+> The Fiscal Code is amended every year through the fiscal-policy package, typically effective 1 January. The rates and thresholds mentioned here are a July / August 2026 orientation only. **Before quoting any number, re-check the current consolidation, [[SFS]] guidance and Ministry of Finance materials.** Do not cite the 2027 Estonian-style CIT draft as enacted.
 
 > [!summary] The Code is ten statutes inside one code
 > The useful way to read the Fiscal Code is by **Titlu**. Titlul I supplies definitions and principles; Titlul II/III/IV are the main substantive taxes; Titlul V is the procedural code for assessment, audit, appeal and enforcement; Titlurile VI-X are narrower tax regimes.
@@ -160,15 +161,61 @@ For most files, read in this order:
 3. [[Legea 287-2017 — contabilitate (notă)]] for accounting base and documents;
 4. [[Codul fiscal 1163-1997 — text — Titlul V]] for procedure, audit, enforcement and appeal;
 5. [[Codul vamal 95-2021 (notă)]] if goods cross the border;
-6. double tax treaty, SFS guidance and annual fiscal-policy law.
+6. [[Fiscalitate & Contabilitate — horizon and gaps]] — whether a 2026/2027 reform changes the answer;
+7. double tax treaty, SFS guidance and annual fiscal-policy law.
+
+## 11. 2026 live amendments (orientation)
+
+Short map only — substance and commercial bite live in [[Fiscalitate & Contabilitate — horizon and gaps]]. Re-verify before quoting.
+
+| Theme | Live change | Titlu / article |
+|---|---|---|
+| VAT registration threshold | **1.5 MDL m** | Titlul III · art. 112 area |
+| Energy reverse charge | Domestic EE/gas to comerciant; imports of energy + network services | Titlul III · art. **101⁷** |
+| e-Factura deduction clamp | Art. **102(18) abrogated** 01.01.2026 | Titlul III · art. 102 |
+| Independent entrepreneurs | Single tax 15% / 35% above 1.2 MDL m; no books | Titlul II · cap. **10⁴** |
+| Deferred CIT | Art. **87(11)** extended through **2026** | Titlul II · art. 87 |
+| Taxi payroll special regime | Ends **1 July 2026** | Titlul II / payroll returns |
+| Connection asset gifts (energy) | Deductible transfer of connection assets to SO under L164 | Titlul II · art. 24 + [[Legea 164-2025 — energia electrica (notă)]] |
+
+**Not live:** 2027 Estonian-style distributed-profit CIT draft (politica fiscală 2027) — project only. See horizon §3.
+
+## 12. Risk matrix (practitioner)
+
+| Risk | Where it bites | First move |
+|---|---|---|
+| **Wrong regime / threshold** | 4% SME vs 12% CIT; VAT registration at 1.5 MDL m; art. 87(11) eligibility | Model VAT + CIT together; check trade exclusions for deferral |
+| **Energy reverse-charge failure** | Invoice with VAT to comerciant, or reverse charge without valid declaration | Confirm ANRE licence + SFS comerciant declaration (art. 101⁷) |
+| **Invoice / e-Factura evidence** | Deduction denied on defective documents (102(18) clamp gone, but invoice still required) | Valid factura fiscală (art. 117); keep primary docs under L287 |
+| **Independent-entrepreneur recharacterisation** | Cap. 10⁴ used where employment / art. 24(11¹) tests fail | Substance of service vs labour; watch 15%/35% cliff at 1.2 MDL m |
+| **Missed contestation deadline** | Titlul V appeal window after SFS decision | Diary deadline day of receipt; suspension of enforcement is separate |
+| **Accounting ≠ tax** | Non-deductibles, depreciation, provisions, related-party | Keep reconciliation from day one → [[Concept — Situații financiare]] |
+| **Advising on draft 2027 rates** | Citing 15% CIT / progressive PIT as law | Contingency model only; cite live CF |
+
+## 13. Client checklist
+
+- [ ] Confirm advice is under **live 2026 CF**, not the **2027 Estonian-style draft** (contingency only).
+- [ ] Near VAT/SME boundary: remodel at **1.5 MDL m**; keep 4% turnover regime interaction explicit.
+- [ ] Energy wholesale: comerciant declaration + reverse-charge invoicing (art. **101⁷**).
+- [ ] Qualifying SME: decide whether to elect **art. 87(11)** deferral for 2026 profit before year-end.
+- [ ] Independent entrepreneurs / micro-service channels: cap. **10⁴** eligibility and labour-risk screen.
+- [ ] Taxi / payroll special regimes: confirm ordinary salary taxation after **1 July 2026**.
+- [ ] Entities near L287 size lines: model **1 Jan 2027** L86 reclassification now (accounting, not tax rates).
+- [ ] Dispute file: control act → contestation deadline → suspension application diarised.
+- [ ] Cross-border: residency certificate **before** withholding; treaty check → [[Concept — Rezident fiscal]].
+
+Full horizon checklist: [[Fiscalitate & Contabilitate — horizon and gaps#5. Client checklist — horizon watch]].
 
 ## Open questions
 
-- Build separate concept notes for [[Concept — Impozit pe venit]], [[Concept — TVA]], [[Concept — Accize]] and [[Concept — Rezident fiscal]] using the article anchors above.
-- Ingest the current annual fiscal-policy law and link rate amendments to each Titlu.
-- Build a tax-dispute workflow note from [[Codul fiscal 1163-1997 — text — Titlul V#Articolul 214. Principiile generale de efectuare|control]] to [[Codul fiscal 1163-1997 — text — Titlul V#Articolul 267. Dreptul de a contesta decizia|contestare]] to court.
-- Build an [[SFS]] institutional profile with powers, electronic services, rulings/guidance and appeal practice.
+Aligned to [[Fiscalitate & Contabilitate — horizon and gaps|horizon gaps]] (concepts already exist — keep refreshing after each fiscal-policy law):
+
+- **Ingest the annual fiscal-policy law** (esp. 318/2025 and successors; 2027 package *when enacted*) and link rate/regime amendments to each Titlu.
+- Ingest **HG 93/2013** (VAT refund) and **IT Park** admission rules beyond Titlul X.
+- Build a tax-dispute workflow note from [[Codul fiscal 1163-1997 — text — Titlul V#Articolul 214. Principiile generale de efectuare|control]] → [[Codul fiscal 1163-1997 — text — Titlul V#Articolul 267. Dreptul de a contesta decizia|contestare]] → court.
+- Accounting ↔ tax bridge table; energy × tax dossier; treaty reference table; deepen [[SFS]] (electronic services, rulings, comerciant reverse-charge practice).
 
 ## Sources
 
-[[Codul fiscal 1163-1997 (text) — Index]] · [[Codul fiscal 1163-1997 — text — Titlul I]] · [[Codul fiscal 1163-1997 — text — Titlul II]] · [[Codul fiscal 1163-1997 — text — Titlul III]] · [[Codul fiscal 1163-1997 — text — Titlul IV]] · [[Codul fiscal 1163-1997 — text — Titlul V]] · [[Codul fiscal 1163-1997 — text — Titlul VI]] · [[Codul fiscal 1163-1997 — text — Titlul VI¹]] · [[Codul fiscal 1163-1997 — text — Titlul VII]] · [[Codul fiscal 1163-1997 — text — Titlul VIII]] · [[Codul fiscal 1163-1997 — text — Titlul IX]] · [[Codul fiscal 1163-1997 — text — Titlul X]]
+[[Codul fiscal 1163-1997 (text) — Index]] · [[Codul fiscal 1163-1997 — text — Titlul I]] · [[Codul fiscal 1163-1997 — text — Titlul II]] · [[Codul fiscal 1163-1997 — text — Titlul III]] · [[Codul fiscal 1163-1997 — text — Titlul IV]] · [[Codul fiscal 1163-1997 — text — Titlul V]] · [[Codul fiscal 1163-1997 — text — Titlul VI]] · [[Codul fiscal 1163-1997 — text — Titlul VI¹]] · [[Codul fiscal 1163-1997 — text — Titlul VII]] · [[Codul fiscal 1163-1997 — text — Titlul VIII]] · [[Codul fiscal 1163-1997 — text — Titlul IX]] · [[Codul fiscal 1163-1997 — text — Titlul X]] · [[Fiscalitate & Contabilitate — horizon and gaps]]
+

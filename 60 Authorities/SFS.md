@@ -3,13 +3,16 @@ title: "SFS — Serviciul Fiscal de Stat"
 type: authority
 domeniu: [fiscal]
 tags: [authority, fiscal]
-status: draft
+status: reviewed
 created: 2026-07-23
+updated: 2026-08-06
 ---
 
 # SFS — Serviciul Fiscal de Stat
 
 **RO:** Serviciul Fiscal de Stat · **EN:** State Tax Service · **Web:** [sfs.md](https://sfs.md)
+
+Horizon / reforms: [[Fiscalitate & Contabilitate — horizon and gaps]]
 
 ## What it is
 The **national tax administration**, subordinated to the Ministry of Finance. Consolidated from the former territorial tax inspectorates into a single legal entity — which matters procedurally: decisions are decisions of *the Service*, not of a local office.
@@ -21,6 +24,7 @@ The **national tax administration**, subordinated to the Ministry of Finance. Co
 - **Enforcement** — account seizure, asset attachment, third-party recovery
 - **Administrative appeal** — the mandatory first-instance review of its own decisions
 - **Guidance** — generalised explanations and individual rulings
+- **Energy reverse-charge comerciant list** — under Titlul III art. **101⁷**, comercianți file a declaration on own responsibility with SFS (MF sets the modality); status drives whether EE/gas invoices carry VAT or the reverse-charge mention
 
 Customs duties and import VAT/excise sit with the **Serviciul Vamal**; social and health contributions with **CNAS** and **CNAM**, though these are administered in close coordination with SFS.
 
@@ -52,4 +56,4 @@ Most assessments are **evidential rather than substantive**: the transaction was
 - **Codul administrativ nr. 116/2018** — judicial review
 
 ## Related
-[[MOC — Fiscalitate & Contabilitate]] · [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] · [[MOC — Proceduri]] · [[00 - Harta instituțională]]
+[[MOC — Fiscalitate & Contabilitate]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] · [[Concept — TVA]] · [[Codul fiscal 1163-1997 (notă)]] · [[MOC — Proceduri]] · [[00 - Harta instituțională]]

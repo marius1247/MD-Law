@@ -65,12 +65,15 @@ updated: 2026-07-26
 | `146678` | Older Codul vamal dump — superseded by 149774 |
 | `154797` | Older Legea 1134/1997 dump — superseded by 154811 (later in-force date for LP92/2026) |
 
+| `upload-hanre-363-2020` | [`upload-hanre-363-2020.md`](upload-hanre-363-2020.md) | `10 Legislation/Authority Acts/HANRE 363-2020 — schimbarea furnizorului de gaze (text).md` *(mirror PDF; not legis dump)* |
+
 ## Still incomplete in vault (no adequate source dump yet)
 
 - `HANRE 423/2019` — electricity network code **annex** (source 151929 is decision-only)
 - `HANRE 169/2019` — electricity supply regulation (still truncated; source 148195 is a *different* act: HANRE 169/**2025** water/sewerage)
 - `HANRE 64/2018`, `HANRE 375/2017` — tariff methodology annexes
 - `HG 820/2024` — risk-preparedness annex
+- `HANRE 853/2025`, `HANRE 535/2019`, Law `461/2001`, Law `248/2025` — parents not yet dumped (legis.md Cloudflare / no mirror)
 
 ## See also
-[[Conventions]] · [[Status ingestie — Energetica]] · [[Roadmap]]
+[[Conventions]] · [[Status ingestie — Energetica]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]

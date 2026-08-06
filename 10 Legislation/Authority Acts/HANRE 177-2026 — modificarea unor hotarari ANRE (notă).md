@@ -18,7 +18,7 @@ legal_status: in_vigoare
 
 # HANRE nr. 177/2026 — omnibus amendment (gas supply & switching) — Analysis
 
-**Raw text:** [[HANRE 177-2026 — modificarea unor hotarari ANRE (text)]] ✅ · **Parents:** [[HANRE 113-2019 — furnizarea gazelor naturale (text)]] · Regulation on gas supplier switching (ANRE **363/2020**, not yet a vault pair) · **Gas law:** [[Legea 108-2016 — gazele naturale (notă)]] · **Hub:** [[MOC — Energetică]]
+**Raw text:** [[HANRE 177-2026 — modificarea unor hotarari ANRE (text)]] ✅ · **Parents:** [[HANRE 113-2019 — furnizarea gazelor naturale (notă)]] · [[HANRE 363-2020 — schimbarea furnizorului de gaze (notă)]] · **Gas law:** [[Legea 108-2016 — gazele naturale (notă)]] · **Hub:** [[MOC — Energetică]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Gas-retail modernisation package (IF **20.03.2026**): fixed-price ≥12-month products, ANRE offer-comparison tool, digital contracting, imbalance pass-through for large daily consumers, and competitive-market push for mid/large non-households leaving regulated prices.
@@ -80,7 +80,7 @@ Monthly SO reads (actual vs estimated flag); electronic invoices on request; dua
 - [ ] **Mid/large non-households:** confirm art. 89 status; procure competitive supply before resolution notice.
 - [ ] **>50 MWh/day sites:** negotiate imbalance allocation expressly.
 - [ ] **Switching files:** use rescheduling agreements; demand 24-month history.
-- [ ] Ingest / open HANRE **363/2020** when advising switching litigation.
+- [ ] Switching litigation → [[HANRE 363-2020 — schimbarea furnizorului de gaze (notă)]] (now ingested; apply 177 amendments).
 
 ---
 

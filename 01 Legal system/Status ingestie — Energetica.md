@@ -123,11 +123,15 @@ Procedure/civil/procurement support notes also created because they are needed f
 ## Scope decision (deliberate)
 Individual **tariff decisions and licences** were *not* ingested. ANRE issues these continuously; they date fast and would swamp the graph. Only structural acts — rules, codes, procedures, methodologies — are in scope. Current tariffs: [ANRE › Tarife în vigoare](https://anre.md/tarife-in-vigoare-3-204).
 
+## Newly ingested parents (2026-08-06)
+
+- [[HANRE 363-2020 — schimbarea furnizorului de gaze (text)]] ✅ — gas supplier switching; companion [[HANRE 363-2020 — schimbarea furnizorului de gaze (notă)]]; amended by [[HANRE 177-2026 — modificarea unor hotarari ANRE (notă)]].
+
 ## Current priorities
 
-1. Complete [[HANRE 423-2019 — Codul retelelor electrice (text)]] annex.
-2. Re-check electricity HANRE acts for L164-based re-adoption/replacement.
-3. Re-check distribution/renewables tariff methodology annex status.
+1. **Manual download** remaining annexes (legis.md Cloudflare blocks automation): [[HANRE 423-2019 — Codul retelelor electrice (text)]], finish [[HANRE 169-2019 — furnizarea energiei electrice (text)]] past pt. 146, [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]], [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]], [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] annexes — see [[Analysis backlog — texts without notes]].
+2. Ingest still-missing parents: HANRE **853/2025** (balancing T&Cs), **535/2019** (gas transmission tariffs), Laws **461/2001** & **248/2025**.
+3. Re-check electricity HANRE acts for L164-based re-adoption/replacement.
 4. Watch for a gas equivalent of [[Legea 164-2025 — energia electrica (text)|L164/2025]].
 5. Keep amendment acts ([[HANRE 177-2026 — modificarea unor hotarari ANRE (text)]], [[HANRE 261-2026 — modificare Metodologie tarife transport EE (text)]], [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (text)]], [[HANRE 328-2025 — modificare Codul retelelor de gaze naturale (text)]], [[HANRE 310-2026 — modificare Codul retelelor de gaze naturale (text)]]) linked from affected notes.
 

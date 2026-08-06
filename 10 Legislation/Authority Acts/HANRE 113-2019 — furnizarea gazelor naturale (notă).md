@@ -22,7 +22,7 @@ last_amended: '2026-08-06'
 > Consolidated text records [[HANRE 177-2026 — modificarea unor hotarari ANRE (notă)|HANRE 177/2026]]: *reziliere* → **rezoluțiune**, public offers, ANRE offer-comparison tool, fixed-price ≥12-month contracts, large-consumer imbalance pass-through, competitive push for mid/large non-households.
 
 > [!warning] Numbering trap
-> Same number, different year and subject: **113/2019 = gas supply**. Do not confuse with electricity supply ([[HANRE 169-2019 — furnizarea energiei electrice (notă)|169/2019]]) or with gas *connection* ([[HANRE 112-2019 — racordarea la retelele de gaze (notă)|112/2019]]). Switching procedure is HANRE **363/2020** (amended by 177; not yet a vault pair).
+> Same number, different year and subject: **113/2019 = gas supply**. Do not confuse with electricity supply ([[HANRE 169-2019 — furnizarea energiei electrice (notă)|169/2019]]) or with gas *connection* ([[HANRE 112-2019 — racordarea la retelele de gaze (notă)|112/2019]]). Switching procedure: [[HANRE 363-2020 — schimbarea furnizorului de gaze (notă)]] (amended by 177).
 
 ## 1. What it is
 Retail gas-supply regulation for final consumers, suppliers and system operators: supply including last-resort and public-service supply; contracting and billing; disconnection/reconnection; limitation and interruption; service quality; complaints; comparison of supplier offers.
@@ -32,7 +32,7 @@ Customer-facing companion to [[Legea 108-2016 — gazele naturale (notă)]].
 Cites arts. 85(10) and 114(22) of [[Legea 108-2016 — gazele naturale (notă)|L108/2016]].
 Physical connection → [[HANRE 112-2019 — racordarea la retelele de gaze (notă)]].
 Network operation → [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)]].
-177/2026 also amends supplier-switching procedure **363/2020** (not ingested).
+177/2026 also amends supplier-switching procedure → [[HANRE 363-2020 — schimbarea furnizorului de gaze (notă)]].
 
 ## 3. Contracting
 Supply contract between final consumer and supplier; free choice of supplier.

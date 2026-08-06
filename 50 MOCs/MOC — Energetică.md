@@ -72,6 +72,7 @@ Each ANRE act below names the exact article of the parent law it is issued under
 - [[HANRE 169-2019 — furnizarea energiei electrice (text)]] — electricity supply · [[HANRE 169-2019 — furnizarea energiei electrice (notă)|notă]] ⚠️ *truncated; L164 currency conflicts*
 - [[HANRE 112-2019 — racordarea la retelele de gaze (text)]] — gas connection ✅ · [[HANRE 112-2019 — racordarea la retelele de gaze (notă)|notă]]
 - [[HANRE 113-2019 — furnizarea gazelor naturale (text)]] — gas supply ✅ · [[HANRE 113-2019 — furnizarea gazelor naturale (notă)|notă]] · amended by [[HANRE 177-2026 — modificarea unor hotarari ANRE (notă)|177/2026]]
+- [[HANRE 363-2020 — schimbarea furnizorului de gaze (text)]] — gas supplier switching ✅ · [[HANRE 363-2020 — schimbarea furnizorului de gaze (notă)|notă]] · amended by [[HANRE 177-2026 — modificarea unor hotarari ANRE (notă)|177/2026]]
 
 **Tariff methodologies** — how regulated prices are actually computed
 - [[HANRE 626-2023 — Metodologie tarife transport EE (text)]] — electricity transmission ✅ *(replaces 486/2017)* · [[HANRE 626-2023 — Metodologie tarife transport EE (notă)|notă]] · amended by [[HANRE 261-2026 — modificare Metodologie tarife transport EE (text)|261/2026]] ([[HANRE 261-2026 — modificare Metodologie tarife transport EE (notă)|notă]])

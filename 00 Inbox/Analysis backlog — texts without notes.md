@@ -47,8 +47,28 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 | [[HANRE 169-2025 — investitii apa si canalizare (text)]] | [[HANRE 169-2025 — investitii apa si canalizare (notă)]] |
 | [[Rectificare ANRE 05-03-5694-2025 (text)]] | [[Rectificare ANRE 05-03-5694-2025 (notă)]] |
 
-## Follow-ups (annex / parent gaps — not missing notes)
+## Batch 5 — parent ingest + stub deepen (2026-08-06) 🟡
 
-1. Complete annexes: HG 820; HANRE 64/2018; HANRE 375/2017; finish HANRE 169/2019 past pt. 146; HANRE 423/2019 electricity network code.
-2. Ingest parents still thin: HANRE **853/2025** (balancing T&Cs), **363/2020** (gas switching), **535/2019** (gas transmission tariffs), Law **461/2001**, Law **248/2025**.
-3. Optional: dedicated water/utilities MOC if the water corpus grows.
+| Item | Status |
+|---|---|
+| [[HANRE 363-2020 — schimbarea furnizorului de gaze (text)]] / [[HANRE 363-2020 — schimbarea furnizorului de gaze (notă)]] | ✅ ingested from mirror PDF (transautogaz / weblex tipar); 177/2026 amendments reflected |
+| Finance/transport Law House deepen (L202, L548, L171, L92, L1194, HG 854, Cod aerian, Cod feroviar) | ✅ notes deepened from existing vault texts |
+| HANRE **853/2025** balancing T&Cs (PRE/BSP) | ❌ blocked — legis.md Cloudflare; moldelectrica 403 from this environment |
+| HANRE **535/2019** gas transmission tariff methodology | ❌ no usable mirror yet |
+| Law **461/2001** petroleum products market | ❌ legis.md blocked |
+| Law **248/2025** crisis management | ❌ legis.md blocked |
+
+## Follow-ups — annex gaps (need manual browser download)
+
+> [!warning] Fetch ceiling / Cloudflare (reconfirmed 2026-08-06)
+> Automated and headless browser fetches of legis.md hit Cloudflare; ANRE’s 2019 annex files are not exposed as stable direct storage URLs from this environment. Complete these via local browser download into `uploads/` or `99 Attachments/source-legis/`, then re-ingest.
+
+| Act | legis doc_id | Problem |
+|---|---|---|
+| [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] | `146237` | Annexes 1–2 missing |
+| [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]] | `103739` | Methodology annex missing |
+| [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]] | `103972` | Methodology annex missing |
+| [[HANRE 169-2019 — furnizarea energiei electrice (text)]] | `114962` | Truncates mid-pt. 146 |
+| [[HANRE 423-2019 — Codul retelelor electrice (text)]] | `151929` | Network-code annex missing |
+
+Optional next: water/utilities MOC if the water corpus grows.

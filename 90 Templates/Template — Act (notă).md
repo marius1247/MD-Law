@@ -14,7 +14,7 @@ updated:
 
 # <TIP> <NR>/<AN> — <Denumire> — Analysis
 
-**Raw text:** [[<TIP> <NR>-<AN> — <Denumire> (text)]] · **Hub:** [[MOC — <Domeniu>]] · **Synthesis:** [[<Domeniu> — sinteza]]
+**Raw text:** [[<TIP> <NR>-<AN> — <Denumire> (text)]] · **Hub:** [[MOC — <Domeniu>]] · **Synthesis:** [[<Domeniu> — synthesis]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** …
@@ -66,7 +66,7 @@ updated:
 * **Parent / enabling:** [[…]]
 * **Implemented by:** [[…]]
 * **Concepts:** [[Concept — …]]
-* **Domain dossiers:** [[Energetică — sinteza sectorului]]
+* **Domain dossiers:** [[Energetică — synthesis]]
 
 ---
 

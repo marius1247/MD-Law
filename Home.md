@@ -10,31 +10,31 @@ created: 2026-07-22
 Working vault for Moldovan law: **authoritative Romanian legal texts** (downloaded from [legis.md](https://www.legis.md), the State Register of Legal Acts) with an **English analysis layer** on top — summaries, cross-links, and conclusions.
 
 ## How this vault is organised
-Two layers, deliberately:
+Same model as the EU / Romanian vaults — **corpus + analysis**, two layers always:
 
-1. **The law itself** → `10 Acte normative/` holds the raw texts, organised by the hierarchy of normative acts (Constitution → codes → organic/ordinary laws → Government acts → agency acts). Each act = a `— text` note (full RO text, article-anchored) + a companion `— notă` (EN analysis).
-2. **The value-add** → thematic hubs (`20 Domenii` + `50 MOCs`), atomic concept notes (`30 Concepte`), and the institutional map (`60 Autorități`) all link *into* specific articles in layer 1.
+1. **`(text)`** → `10 Legislation/` by instrument type (`Constitution` · `Codes` · `Laws` · `Government Decisions` · `Authority Acts`). Authoritative RO text, article-anchored.
+2. **`(notă)`** → expert EN analysis companions, plus thematic hubs in `20 Domains` + `50 MOCs`, atomic `30 Concepts`, and `60 Authorities`. Industry lives here — not as the primary filing system under `10`.
 
-See [[Convenții vault]] for naming, frontmatter, and the ingestion workflow.
+See [[Conventions]] for the full skeleton, naming, frontmatter, and ingestion workflow.
 
 ## Start here
 - [[Sistemul de drept al RM (overview)]] — how the legal system fits together
 - [[Ierarhia actelor normative]] — the backbone: what outranks what
-- [[Constituția RM — notă]] — the supreme law
+- [[Constituția RM (notă)]] — the supreme law
 - [[Monitorul Oficial]] — how acts are published & enter into force
 
 ## Domain maps (your focus areas)
 | Hub | Read the synthesis first |
 |---|---|
-| [[MOC — Energetică]] | [[Energetică — sinteza sectorului]] |
-| [[MOC — Societăți & Guvernanță corporativă]] | [[Societăți & guvernanță — sinteza]] |
-| [[MOC — Fiscalitate & Contabilitate]] | [[Fiscalitate — sinteza sistemului fiscal]] · [[Contabilitate & raportare financiară — sinteza]] |
-| [[MOC — Drept comercial]] | [[Drept comercial — sinteza]] |
+| [[MOC — Energetică]] | [[Energetică — synthesis]] |
+| [[MOC — Societăți & Guvernanță corporativă]] | [[Societăți & guvernanță — synthesis]] |
+| [[MOC — Fiscalitate & Contabilitate]] | [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] |
+| [[MOC — Drept comercial]] | [[Drept comercial — synthesis]] |
 | [[MOC — Achiziții publice & Statul]] | [[Legea 74-2020 — achizitii sectoriale (notă)]] *(sectoral; general procurement still pending)* |
 | [[MOC — Proceduri]] | [[Codul administrativ 116-2018 (notă)]] |
 | [[MOC — Drept civil]] | [[Codul civil 1107-2002 (notă)]] |
 
-All hubs and all 21 concept notes: [[00 - Index general]].
+All hubs: [[00 - Index general]]. Concept index: [[00 Index Concepts]].
 
 ## Keystone codes (now in vault)
 - [[Codul civil 1107-2002 (text) — Index|Codul civil]] — Cărțile I–V
@@ -54,7 +54,7 @@ All hubs and all 21 concept notes: [[00 - Index general]].
 
 > [!danger] Before citing any `— text` file — check currency first, completeness second
 > **Currency:** [[Legea 107-2016 — energia electrica (text)|L107/2016]] was repealed in August 2025 by [[Legea 164-2025 — energia electrica (text)|L164/2025]]. [[HANRE 168-2019 — racordarea la retelele electrice (text)|HANRE 168/2019]] was abrogated by [[HANRE 311-2026 — racordarea la retelele electrice (text)|HANRE 311/2026]]. [[HANRE 486-2017 — Metodologie tarife transport EE (text)|HANRE 486/2017]] was abrogated by [[HANRE 626-2023 — Metodologie tarife transport EE (text)|HANRE 626/2023]].
-> **Completeness:** automated ingestion stops at ~96–102 KB. Manual browser downloads (now in `source/`) bypass that. Remaining hole: [[HANRE 423-2019 — Codul retelelor electrice (text)|HANRE 423/2019]] annex. Details: [[Status ingestie — Energetica]] · [[Convenții vault]].
+> **Completeness:** automated ingestion stops at ~96–102 KB. Manual browser downloads (now in `99 Attachments/source-legis/`) bypass that. Remaining hole: [[HANRE 423-2019 — Codul retelelor electrice (text)|HANRE 423/2019]] annex. Details: [[Status ingestie — Energetica]] · [[Conventions]].
 
 ## Status *(2026-07-26)*
 Foundations + **energy corpus largely complete** + **keystone texts ingested** for companies, tax, commercial, civil, procedure and sectoral procurement — each with an English analysis companion. See [[Roadmap]] for remaining gaps (L131/2015 general procurement, HANRE 423 annex, distribution/renewables tariff annexes, currency audit of remaining pre-L164 HANRE acts).

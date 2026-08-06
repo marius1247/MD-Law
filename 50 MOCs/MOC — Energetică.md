@@ -16,10 +16,10 @@ Domain hub for the **energy sector**. 22 acts across three tiers. Core primary l
 > **[[Legea 164-2025 — energia electrica (text)|Legea nr. 164/2025]] repealed [[Legea 107-2016 — energia electrica (text)|L107/2016]] in full.** Moldova moved from the EU third package to the **fourth** — plus **REMIT** and **CACM**. New regulated activities: **storage, aggregation, trading**. New actors: active consumers, citizen energy communities, independent aggregators, OPEED. Every ANRE act below was issued under the repealed law and is living on transitional provisions. → [[Legea 164-2025 — energia electrica (notă)]]
 
 > [!tip] Start with the synthesis, not the acts
-> **[[Energetică — sinteza sectorului]]** is the reasoning layer: what the sector is organised around, where the risk sits, what changed in 2025–26. The act list below is the raw material.
+> **[[Energetică — synthesis]]** is the reasoning layer: what the sector is organised around, where the risk sits, what changed in 2025–26. The act list below is the raw material.
 
 ## Analysis layer
-- **[[Energetică — sinteza sectorului]]** — the domain synthesis
+- **[[Energetică — synthesis]]** — the domain synthesis
 - **Law House dossiers (cross-act):** [[Energetică — metodologii tarifare (notă)]] · [[Energetică — licențiere cross-border și REMIT (notă)]] · [[Energetică — contencios administrativ și precedente (notă)]]
 - **Sector dossiers:** [[Energetică — sector gaze ANRE (notă)]] · [[Energetică — sector electricitate ANRE (notă)]] · [[Energetică — tarife regenerabile si utilitati (notă)]]
 - **Vault audit:** [[Audit vault — Law House Knowledge Engine — 2026-07-28]] · [[Status ingestie — Uploads]]
@@ -36,7 +36,7 @@ Moldovan energy regulation runs in a strict cascade. This is the mental model fo
 
 Each ANRE act below names the exact article of the parent law it is issued under (`Temei legal`), so you can trace any obligation back up the chain.
 
-## Tier 1 — Primary legislation (`10 Acte normative/Legi organice & ordinare`)
+## Tier 1 — Primary legislation (`10 Legislation/Laws`)
 | Act | What it governs |
 |---|---|
 | [[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (text)]] | **The anchor.** Accession to the Energy Community Treaty — the source of every acquis obligation below ✅ *full text* |
@@ -48,13 +48,13 @@ Each ANRE act below names the exact article of the parent law it is issued under
 | [[Legea 139-2018 — eficienta energetica (text)]] | Energy efficiency: obligations, audits, energy services ✅ *full text* |
 | [[Legea 92-2014 — energia termica si cogenerarea (text)]] | Thermal energy & cogeneration |
 
-## Tier 2 — Government acts (`10 Acte normative/Hotărâri de Guvern`)
+## Tier 2 — Government acts (`10 Legislation/Government Decisions`)
 - [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] — risk-preparedness; **transposes Regulation (EU) 2019/941** via Energy Community Decision 2021/13/MC-EnC
 
 **Amending laws**
 - [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (text)]] — crisis-intervention package; amends L164/2025 (art. 72(10) repealed, art. 150 amended), plus petroleum, procurement, contraventional code
 
-## Tier 3 — ANRE acts (`10 Acte normative/Acte ANRE & autorități`)
+## Tier 3 — ANRE acts (`10 Legislation/Authority Acts`)
 
 **Market rules**
 - [[HANRE 283-2020 — Regulile pietei energiei electrice (text)]] — electricity market rules ✅ *full annex* · [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)|notă]] · amended by [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (text)|383/2026]]
@@ -83,9 +83,9 @@ Each ANRE act below names the exact article of the parent law it is issued under
 - Î.S. **Moldelectrica** — electricity TSO (obligations under the market rules)
 
 ## EU / Energy Community anchor
-Moldova is an **Energy Community** contracting party by [[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (text)|Legea nr. 117/2009]] — now in the vault in full. EU instruments reach Moldova in the version **adapted and approved by Ministerial Council decision**, which is why acts cite `2021/13/MC-EnC` or `2022/03/MC-EnC` next to the CELEX number. Post-2024 this is reinforced constitutionally by [[Constituția RM — text#Articolul 140¹. Aderarea la tratatele constitutive şi la actele de revizuire a tratatelor constitutive ale Uniunii Europene|art. 140¹]].
+Moldova is an **Energy Community** contracting party by [[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (text)|Legea nr. 117/2009]] — now in the vault in full. EU instruments reach Moldova in the version **adapted and approved by Ministerial Council decision**, which is why acts cite `2021/13/MC-EnC` or `2022/03/MC-EnC` next to the CELEX number. Post-2024 this is reinforced constitutionally by [[Constituția RM (text)#Articolul 140¹. Aderarea la tratatele constitutive şi la actele de revizuire a tratatelor constitutive ale Uniunii Europene|art. 140¹]].
 
-**Electricity is now on the fourth package; gas is still on the third.** That asymmetry is the best predictor of what changes next. Full treatment: [[Energetică — sinteza sectorului]] §6.
+**Electricity is now on the fourth package; gas is still on the third.** That asymmetry is the best predictor of what changes next. Full treatment: [[Energetică — synthesis]] §6.
 
 ## Priority gaps — highest value first
 1. ✅ **Done** — core energy laws complete; HANRE 283 and 420 annexes complete; L174/L92/L100 complete (2026-07-26).
@@ -98,6 +98,6 @@ Moldova is an **Energy Community** contracting party by [[Legea 117-2009 — ade
 ## Open threads
 - Not yet ingested: gas tariff methodologies (HANRE 535/2019, 443/2020), quality-of-service (422/2019, 537/2020), network development (94/2019), dispatch (316/2018), gas metering (297/2022), **licence-holder procurement (HANRE 24/2017)** → [[MOC — Achiziții publice & Statul]]
 - **Live transitions:** L164/2025 changeover; gas PSO withdrawal for large industrials; market-based procurement of electricity including network losses.
-- Unbundling is executed through company law → [[Societăți & guvernanță — sinteza]] · [[Legea 135-2007 — SRL (notă)]] / [[Legea 1134-1997 — societati pe actiuni (notă)]]
+- Unbundling is executed through company law → [[Societăți & guvernanță — synthesis]] · [[Legea 135-2007 — SRL (notă)]] / [[Legea 1134-1997 — societati pe actiuni (notă)]]
 - Cross-vault: [[FP — Marginal Pricing in Electricity Markets]] (GeoMacro) for market economics
 - Cross-vault RO: `Romanian Law/50 MOCs/MOC — Energetică` · L123/2012 (EE+gas) · L220/2008 (GC) · OUG 33/2007 (ANRE) — comparative notes in RO act `— notă` companions

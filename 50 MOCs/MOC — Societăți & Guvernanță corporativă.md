@@ -13,10 +13,10 @@ status: draft
 Domain hub for **company law and corporate governance**: how a company comes into existence, who decides what inside it, and who is liable when it fails.
 
 > [!tip] Start here
-> **[[Societăți & guvernanță — sinteza]]** — the reasoning layer: SRL vs SA, the governance triangle, registration, reorganisation, insolvency.
+> **[[Societăți & guvernanță — synthesis]]** — the reasoning layer: SRL vs SA, the governance triangle, registration, reorganisation, insolvency.
 
 ## Analysis layer
-- **[[Societăți & guvernanță — sinteza]]** — domain synthesis
+- **[[Societăți & guvernanță — synthesis]]** — domain synthesis
 - Concepts: [[Concept — Capital social]] · [[Concept — Acțiune vs parte socială]] · [[Concept — Adunarea generală]] · [[Concept — Consiliul societății]] · [[Concept — Administrator]] · [[Concept — Insolvabilitate]]
 
 ## The layers of the law
@@ -51,10 +51,10 @@ Domain hub for **company law and corporate governance**: how a company comes int
 - **Banca Națională a Moldovei** — banking (outside CNPF's perimeter)
 
 ## Cross-domain bridges
-- **Reporting and accounts** → [[Contabilitate & raportare financiară — sinteza]] · [[MOC — Fiscalitate & Contabilitate]]
-- **Tax consequences of form and distribution** → [[Fiscalitate — sinteza sistemului fiscal]]
-- **Contracts, competition, permits** → [[MOC — Drept comercial]] · [[Drept comercial — sinteza]]
-- **Energy unbundling is executed as a corporate reorganisation** → [[Concept — Unbundling]] · [[Energetică — sinteza sectorului]]
+- **Reporting and accounts** → [[Contabilitate & raportare financiară — synthesis]] · [[MOC — Fiscalitate & Contabilitate]]
+- **Tax consequences of form and distribution** → [[Fiscalitate — synthesis]]
+- **Contracts, competition, permits** → [[MOC — Drept comercial]] · [[Drept comercial — synthesis]]
+- **Energy unbundling is executed as a corporate reorganisation** → [[Concept — Unbundling]] · [[Energetică — synthesis]]
 
 ## Primary legislation — now in the vault
 | Act | Text | Analysis |

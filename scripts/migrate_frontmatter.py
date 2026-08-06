@@ -252,7 +252,7 @@ def augment_act_tags(meta: dict, filename: str) -> list[str]:
 def update_concepts_and_mocs() -> int:
     changed = 0
     for fname, spec in CONCEPT_FILES.items():
-        path = ROOT / "20 Concepte" / fname
+        path = ROOT / "30 Concepts" / fname
         if not path.exists():
             continue
         _, body = split_frontmatter(path.read_text(encoding="utf-8"))
@@ -270,7 +270,7 @@ def update_concepts_and_mocs() -> int:
         changed += 1
 
     for fname, spec in MOC_FILES.items():
-        path = ROOT / "00 Meta/MOCs" / fname
+        path = ROOT / "50 MOCs" / fname
         if not path.exists():
             continue
         _, body = split_frontmatter(path.read_text(encoding="utf-8"))
@@ -287,7 +287,7 @@ def update_concepts_and_mocs() -> int:
         path.write_text(render_frontmatter(meta) + body, encoding="utf-8")
         changed += 1
 
-    dashboard = ROOT / "20 Concepte/00 Index Concepte.md"
+    dashboard = ROOT / "30 Concepts/00 Index Concepte.md"
     if dashboard.exists():
         _, body = split_frontmatter(dashboard.read_text(encoding="utf-8"))
         dashboard.write_text(render_frontmatter(DASHBOARD_META) + body, encoding="utf-8")
@@ -297,7 +297,7 @@ def update_concepts_and_mocs() -> int:
 
 def migrate_acts() -> int:
     changed = 0
-    acts_root = ROOT / "10 Acte normative"
+    acts_root = ROOT / "10 Legislation"
     for path in sorted(acts_root.rglob("*.md")):
         text = path.read_text(encoding="utf-8")
         meta, body = split_frontmatter(text)
@@ -323,7 +323,7 @@ def main() -> None:
     concept_moc_count = update_concepts_and_mocs()
     act_count = migrate_acts()
     print(f"Updated {concept_moc_count} concept/MOC/dashboard notes")
-    print(f"Updated {act_count} act notes in 10 Acte normative/")
+    print(f"Updated {act_count} act notes in 10 Legislation/")
 
 
 if __name__ == "__main__":

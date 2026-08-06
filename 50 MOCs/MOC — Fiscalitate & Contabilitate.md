@@ -13,14 +13,14 @@ status: draft
 Domain hub for **taxation and accounting** — deliberately paired, because accounting supplies the base that tax is levied on.
 
 > [!tip] Start here
-> **[[Fiscalitate — sinteza sistemului fiscal]]** — the tax system: architecture, rates, procedure.
-> **[[Contabilitate & raportare financiară — sinteza]]** — the accounting regime and the 2027 threshold reset.
+> **[[Fiscalitate — synthesis]]** — the tax system: architecture, rates, procedure.
+> **[[Contabilitate & raportare financiară — synthesis]]** — the accounting regime and the 2027 threshold reset.
 
 > [!warning] Everything numeric here is time-stamped
 > Figures verified **July 2026**. The Fiscal Code is amended by the annual fiscal-policy law effective 1 January, every year. Re-verify at [SFS](https://sfs.md) / [Ministerul Finanțelor](https://mf.gov.md) before use.
 
 ## Analysis layer
-- **[[Fiscalitate — sinteza sistemului fiscal]]** · **[[Contabilitate & raportare financiară — sinteza]]**
+- **[[Fiscalitate — synthesis]]** · **[[Contabilitate & raportare financiară — synthesis]]**
 - Concepts: [[Concept — Impozit pe venit]] · [[Concept — TVA]] · [[Concept — Accize]] · [[Concept — Rezident fiscal]] · [[Concept — Situații financiare]]
 
 ## Headline rates *(July 2026)*
@@ -53,7 +53,7 @@ Domain hub for **taxation and accounting** — deliberately paired, because acco
 *Verify exact numbering and later additions at ingestion.*
 
 ## The 2027 accounting reset
-**Legea nr. 86/2026** raises the entity-size thresholds from **1 January 2027**: micro ≤ MDL 8.5M assets / 17M revenue; small ≤ 95M / 190M; medium ≤ 480M / 960M. Many entities move **down** a category, cutting reporting and audit obligations. Small and medium **groups** are exempt from consolidation unless a member is a public interest entity. → [[Contabilitate & raportare financiară — sinteza]]
+**Legea nr. 86/2026** raises the entity-size thresholds from **1 January 2027**: micro ≤ MDL 8.5M assets / 17M revenue; small ≤ 95M / 190M; medium ≤ 480M / 960M. Many entities move **down** a category, cutting reporting and audit obligations. Small and medium **groups** are exempt from consolidation unless a member is a public interest entity. → [[Contabilitate & raportare financiară — synthesis]]
 
 ## Authorities
 - **[[SFS]]** — Serviciul Fiscal de Stat: assessment, control, enforcement, first-instance appeal
@@ -62,10 +62,10 @@ Domain hub for **taxation and accounting** — deliberately paired, because acco
 - **CNAS** / **CNAM** — social and health contributions
 
 ## Cross-domain bridges
-- **Company form and profit extraction** → [[Societăți & guvernanță — sinteza]] · [[MOC — Societăți & Guvernanță corporativă]]
+- **Company form and profit extraction** → [[Societăți & guvernanță — synthesis]] · [[MOC — Societăți & Guvernanță corporativă]]
 - **Accounts drive distributable profit, the net-assets trigger and insolvency dating** → [[Concept — Situații financiare]]
 - **Appeals run into administrative procedure** → [[MOC — Proceduri]]
-- **8% VAT on gas transport and fuel excise feed regulated tariffs** → [[Concept — Tarif reglementat]] · [[Energetică — sinteza sectorului]]
+- **8% VAT on gas transport and fuel excise feed regulated tariffs** → [[Concept — Tarif reglementat]] · [[Energetică — synthesis]]
 
 ## Primary legislation — now in the vault
 | Act | Text | Analysis |

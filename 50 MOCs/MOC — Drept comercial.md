@@ -13,10 +13,10 @@ status: draft
 Domain hub for **commercial law** — the business-facing slice: the right to trade, market conduct, competition, sector authorisation.
 
 > [!tip] Start here
-> **[[Drept comercial — sinteza]]** — the reasoning layer: the monist model, the entrepreneurship framework in transition, competition, state aid, EU alignment.
+> **[[Drept comercial — synthesis]]** — the reasoning layer: the monist model, the entrepreneurship framework in transition, competition, state aid, EU alignment.
 
 ## Analysis layer
-- **[[Drept comercial — sinteza]]** — domain synthesis
+- **[[Drept comercial — synthesis]]** — domain synthesis
 - Concepts: [[Concept — Autorizarea activității de întreprinzător]] · [[Concept — Poziție dominantă]] · [[Concept — Ajutor de stat]] · [[Concept — Insolvabilitate]]
 
 ## Scope boundary — read this before filing anything here
@@ -52,10 +52,10 @@ Moldova has **no commercial code**; the Civil Code governs civil and commercial 
 - **[[ANRE]]** — energy, as a sector regulator displacing general rules within its perimeter
 
 ## Cross-domain bridges
-- **Entity questions** → [[MOC — Societăți & Guvernanță corporativă]] · [[Societăți & guvernanță — sinteza]]
-- **Tax and customs** → [[MOC — Fiscalitate & Contabilitate]] · [[Fiscalitate — sinteza sistemului fiscal]]
+- **Entity questions** → [[MOC — Societăți & Guvernanță corporativă]] · [[Societăți & guvernanță — synthesis]]
+- **Tax and customs** → [[MOC — Fiscalitate & Contabilitate]] · [[Fiscalitate — synthesis]]
 - **Bid rigging** → [[MOC — Achiziții publice & Statul]]
-- **Renewables support and PSO compensation are state aid** → [[Concept — Ajutor de stat]] · [[Energetică — sinteza sectorului]]
+- **Renewables support and PSO compensation are state aid** → [[Concept — Ajutor de stat]] · [[Energetică — synthesis]]
 - **Challenging an authority's decision** → [[MOC — Proceduri]]
 
 ## Primary legislation — now in the vault

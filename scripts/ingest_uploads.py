@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Ingest raw Uploads/*.md into article-anchored (text) files in 10 Acte normative/."""
+"""Ingest raw uploads/*.md into article-anchored (text) files in 10 Legislation/."""
 
 from __future__ import annotations
 
@@ -9,9 +9,9 @@ from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-UPLOADS = ROOT / "Uploads"
+UPLOADS = ROOT / "uploads"
 SOURCE_DIR = ROOT / "99 Attachments/source-legis"
-ACTS = ROOT / "10 Acte normative"
+ACTS = ROOT / "10 Legislation"
 
 SKIP_UPLOADS = {
     "Codul fiscal 1163-1997.md",
@@ -40,7 +40,7 @@ def find_note_files() -> list[Path]:
 
 
 def parse_upload_source(note_text: str) -> str | None:
-    m = re.search(r'upload_source:\s*"(Uploads/[^"]+)"', note_text)
+    m = re.search(r'upload_source:\s*"(uploads/[^"]+)"', note_text)
     return m.group(1) if m else None
 
 
@@ -172,7 +172,7 @@ def build_header_block(act_link: str, note_title: str, complete: bool, article_c
     return f"""# {display}
 
 > [!info] Sursă & versiune
-> Text preluat din **Uploads/** (legis.md export). {article_note}
+> Text preluat din **uploads/** (legis.md export). {article_note}
 > Analiză: [[{analysis}]].
 {warn}
 ---
@@ -194,17 +194,17 @@ def update_note(note_path: Path, act_link: str) -> None:
         "·",
     )
     text = re.sub(
-        r">\s*\[!warning\]\s*Text not yet ingested\n>\s*Raw legis\.md dump in `Uploads/`\. Working `\(text\)` file to be created per \[\[Status ingestie — Uploads\]\]\. Analysis based on published act structure and consolidation\.\n\n",
+        r">\s*\[!warning\]\s*Text not yet ingested\n>\s*Raw legis\.md dump in `uploads/`\. Working `\(text\)` file to be created per \[\[Status ingestie — Uploads\]\]\. Analysis based on published act structure and consolidation\.\n\n",
         "",
         text,
     )
     text = re.sub(
-        r">\s*\[!warning\]\s*Text not yet ingested\n>\s*Raw legis\.md dump in `Uploads/`\. Working `\(text\)` file to be created per \[\[Status ingestie — Uploads\]\]\.\n\n",
+        r">\s*\[!warning\]\s*Text not yet ingested\n>\s*Raw legis\.md dump in `uploads/`\. Working `\(text\)` file to be created per \[\[Status ingestie — Uploads\]\]\.\n\n",
         "",
         text,
     )
     text = re.sub(
-        r"## Sources\n\nUploads/[^\n]+ — pending migration to `10 Acte normative/`\.\n?",
+        r"## Sources\n\nuploads/[^\n]+ — pending migration to `10 Legislation/`\.\n?",
         f"## Sources\n\n[[{act_link}]]\n",
         text,
     )
@@ -271,7 +271,7 @@ def ingest_note(note_path: Path) -> dict:
 
 
 def update_status_tracker(results: list[dict]) -> None:
-    path = ROOT / "01 Sistemul juridic/Status ingestie — Uploads.md"
+    path = ROOT / "01 Legal system/Status ingestie — Uploads.md"
     text = path.read_text(encoding="utf-8")
     ingested = sum(1 for r in results if r.get("status") == "ingested")
     text = re.sub(
@@ -290,7 +290,7 @@ def update_status_tracker(results: list[dict]) -> None:
             continue
         upload = r.get("upload", "")
         if not upload:
-            m = re.search(r"upload_source: \"Uploads/([^\"]+)\"", "")
+            m = re.search(r"upload_source: \"uploads/([^\"]+)\"", "")
         note = r["note"].replace(" (notă).md", "").replace("(notă).md", "")
         # generic replace pending in table rows that match ingested notes
     for r in results:

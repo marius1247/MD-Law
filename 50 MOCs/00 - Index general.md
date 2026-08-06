@@ -13,16 +13,18 @@ Navigation hubs for the vault. Each domain map links the raw acts, analysis note
 ## Domains
 | Hub | Synthesis | State |
 |---|---|---|
-| [[MOC — Energetică]] | [[Energetică — sinteza sectorului]] | **Built** — core laws complete; ANRE layer largely complete; L164 transition ongoing |
-| [[MOC — Societăți & Guvernanță corporativă]] | [[Societăți & guvernanță — sinteza]] | **Built** — L135/2007, L1134/1997, L220/2007, L149/2012 + Civil Code Cartea I ingested |
-| [[MOC — Fiscalitate & Contabilitate]] | [[Fiscalitate — sinteza sistemului fiscal]] · [[Contabilitate & raportare financiară — sinteza]] | **Built** — Fiscal Code (10 Titluri), L287/2017, L86/2026, Customs Code ingested |
-| [[MOC — Drept comercial]] | [[Drept comercial — sinteza]] | **Built** — L183/2012, L235/2006, L160/2011 + Uploads batch (banking, trade, transport codes) ingested |
+| [[MOC — Energetică]] | [[Energetică — synthesis]] | **Built** — core laws complete; ANRE layer largely complete; L164 transition ongoing |
+| [[MOC — Societăți & Guvernanță corporativă]] | [[Societăți & guvernanță — synthesis]] | **Built** — L135/2007, L1134/1997, L220/2007, L149/2012 + Civil Code Cartea I ingested |
+| [[MOC — Fiscalitate & Contabilitate]] | [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] | **Built** — Fiscal Code (10 Titluri), L287/2017, L86/2026, Customs Code ingested |
+| [[MOC — Drept comercial]] | [[Drept comercial — synthesis]] | **Built** — L183/2012, L235/2006, L160/2011 + uploads batch (banking, trade, transport codes) ingested |
 | [[MOC — Achiziții publice & Statul]] | — | **Built** — L74/2020, [[HG 773-2016 — Regulament achizitii interne (notă)]], [[Legea 179-2008 — parteneriat public-privat (notă)]] ingested |
 | [[MOC — Proceduri]] | — | **Built** — Cod administrativ, CPC, Cod de executare, L23/2008, L74/2025, L436/2006, L136/2017, L797/1996, L1234/2000 ingested |
 | [[MOC — Drept civil]] | — | **Partial** — Codul civil complete (Cărțile I–V); synthesis still thin |
 
-## Concepts (`30 Concepte`)
-**Energy** — [[Concept — Tarif reglementat]] · [[Concept — Licență în energetică]] · [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Producător eligibil]] · [[Concept — Parte responsabilă de echilibrare]]
+## Concepts (`30 Concepts`)
+**Energy** — [[Concept — Tarif reglementat]] · [[Concept — Licență în energetică]] · [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Producător eligibil]] · [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Aviz de racordare]] · [[Concept — Loc de consum]] · [[Concept — Loc de măsurare]] · [[Concept — Punct de delimitare]] · [[Concept — Capacitate rezervată]] · [[Concept — Baza activelor reglementate]] · [[Concept — Devieri financiare]] · [[Concept — Tarif de transport]] · [[Concept — Tarif de distribuție]]
+
+Energy sub-MOCs: [[MOC — Piața de energie electrică]] · [[MOC — Racordare și acces la rețele]] · [[MOC — Tarife și metodologii ANRE]] · full index [[00 Index Concepts]]
 
 **Companies** — [[Concept — Capital social]] · [[Concept — Acțiune vs parte socială]] · [[Concept — Adunarea generală]] · [[Concept — Consiliul societății]] · [[Concept — Administrator]] · [[Concept — Insolvabilitate]]
 
@@ -30,7 +32,7 @@ Navigation hubs for the vault. Each domain map links the raw acts, analysis note
 
 **Commercial** — [[Concept — Autorizarea activității de întreprinzător]] · [[Concept — Poziție dominantă]] · [[Concept — Ajutor de stat]]
 
-## Authorities (`60 Autorități & Instituții`)
+## Authorities (`60 Authorities`)
 [[Parlamentul RM]] · [[Președintele RM]] · [[Guvernul RM]] · [[Curtea Constituțională]] · [[ANRE]] · [[ASP]] · [[CNPF]] · [[SFS]] · [[Consiliul Concurenței]]
 
 ## Foundations
@@ -38,4 +40,4 @@ Navigation hubs for the vault. Each domain map links the raw acts, analysis note
 
 ## Data quality — two separate risks
 1. **Currency.** [[Legea 107-2016 — energia electrica (text)|L107/2016]] was **repealed** in August 2025 by [[Legea 164-2025 — energia electrica (text)|L164/2025]] and sat in this vault as the flagship electricity act regardless. A repealed act does not announce itself. **Check before citing.**
-2. **Completeness.** Automated ingestion stops at ~96–102 KB, mid-sentence. → [[Status ingestie — Energetica]] · [[Convenții vault]]
+2. **Completeness.** Automated ingestion stops at ~96–102 KB, mid-sentence. → [[Status ingestie — Energetica]] · [[Conventions]]

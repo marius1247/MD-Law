@@ -4,7 +4,7 @@ type: moc
 domeniu: energetică
 tags: [moc, index, energetică]
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-08-06
 status: draft
 ---
 
@@ -23,8 +23,9 @@ Domain hub for the **energy sector**. 22 acts across three tiers. Core primary l
 - **Law House dossiers (cross-act):** [[Energetică — metodologii tarifare (notă)]] · [[Energetică — licențiere cross-border și REMIT (notă)]] · [[Energetică — contencios administrativ și precedente (notă)]]
 - **Sector dossiers:** [[Energetică — sector gaze ANRE (notă)]] · [[Energetică — sector electricitate ANRE (notă)]] · [[Energetică — tarife regenerabile si utilitati (notă)]]
 - **Vault audit:** [[Audit vault — Law House Knowledge Engine — 2026-07-28]] · [[Status ingestie — Uploads]]
-- Act companions: **[[Legea 164-2025 — energia electrica (notă)|L164/2025]]** *(the law in force)* · [[Legea 108-2016 — gazele naturale (notă)|L108/2016]] · [[Legea 174-2017 — energetica (notă)|L174/2017]] · [[Legea 10-2016 — surse regenerabile (notă)|L10/2016]] · [[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (notă)|L117/2009]] · [[Codul administrativ 116-2018 (notă)|CA 116/2018]] · [[Legea 107-2016 — energia electrica (notă)|L107/2016]] *(superseded)*
-- Concepts: [[Concept — Tarif reglementat]] · [[Concept — Licență în energetică]] · [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Producător eligibil]] · [[Concept — Parte responsabilă de echilibrare]]
+- Act companions: **[[Legea 164-2025 — energia electrica (notă)|L164/2025]]** *(the law in force)* · [[Legea 108-2016 — gazele naturale (notă)|L108/2016]] · [[Legea 174-2017 — energetica (notă)|L174/2017]] · [[Legea 10-2016 — surse regenerabile (notă)|L10/2016]] · **[[Legea 139-2018 — eficienta energetica (notă)|L139/2018]]** · [[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (notă)|L117/2009]] · **[[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)|L101/2026]]** · **[[HG 820-2024 — situatii exceptionale electroenergetic (notă)|HG 820/2024]]** · [[Codul administrativ 116-2018 (notă)|CA 116/2018]] · [[Legea 107-2016 — energia electrica (notă)|L107/2016]] *(superseded)*
+- Concepts: [[Concept — Tarif reglementat]] · [[Concept — Licență în energetică]] · [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Producător eligibil]] · [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Audit energetic]] · [[Concept — Contract de performanță energetică]] · [[Concept — Parte obligată (eficiență energetică)]] · [[Concept — Eficiența energetică înainte de toate]] · [[Concept — Situație de criză în domeniul petrolier]] · [[Concept — Situație excepțională electroenergetică]]
+- Analysis backlog (remaining texts without notes): [[Analysis backlog — texts without notes]]
 
 ## The implementation chain
 Moldovan energy regulation runs in a strict cascade. This is the mental model for the whole domain:
@@ -45,14 +46,14 @@ Each ANRE act below names the exact article of the parent law it is issued under
 | ~~[[Legea 107-2016 — energia electrica (text)]]~~ | **ABROGATED 19.08.2025.** Historical reference only; still governs legacy installations and pre-19.08.2025 project designs |
 | [[Legea 108-2016 — gazele naturale (text)]] | Natural gas: transport, distribution, storage, supply, unbundling ✅ *full text* |
 | [[Legea 10-2016 — surse regenerabile (text)]] | Renewables: support scheme, eligible producers, fixed tariffs, net metering ✅ *full text* |
-| [[Legea 139-2018 — eficienta energetica (text)]] | Energy efficiency: obligations, audits, energy services ✅ *full text* |
+| [[Legea 139-2018 — eficienta energetica (text)]] | Energy efficiency: obligation scheme, audits, ESCOs/EPCs, metering ✅ *full text* · [[Legea 139-2018 — eficienta energetica (notă)|notă]] |
 | [[Legea 92-2014 — energia termica si cogenerarea (text)]] | Thermal energy & cogeneration |
 
 ## Tier 2 — Government acts (`10 Legislation/Government Decisions`)
-- [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] — risk-preparedness; **transposes Regulation (EU) 2019/941** via Energy Community Decision 2021/13/MC-EnC
+- [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] — risk-preparedness; **transposes Regulation (EU) 2019/941** via Energy Community Decision 2021/13/MC-EnC · [[HG 820-2024 — situatii exceptionale electroenergetic (notă)|notă]] ⚠️ *annex missing*
 
 **Amending laws**
-- [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (text)]] — crisis-intervention package; amends L164/2025 (art. 72(10) repealed, art. 150 amended), plus petroleum, procurement, contraventional code
+- [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (text)]] — crisis-intervention package; amends L164/2025 (art. 72(10) repealed, art. 150 amended), plus petroleum, procurement, contraventional code · [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)|notă]]
 
 ## Tier 3 — ANRE acts (`10 Legislation/Authority Acts`)
 
@@ -79,7 +80,8 @@ Each ANRE act below names the exact article of the parent law it is issued under
 
 ## Authorities
 - [[ANRE]] — the regulator: licensing, tariffs, network codes, market monitoring
-- **Ministerul Energiei** — sector policy, Government acts
+- [[CNED]] — energy efficiency / FEE implementation, auditor register, savings M&V (under [[Legea 139-2018 — eficienta energetica (notă)|L139/2018]])
+- **Ministerul Energiei** — sector policy, Government acts, HG 820 execution control
 - Î.S. **Moldelectrica** — electricity TSO (obligations under the market rules)
 
 ## EU / Energy Community anchor

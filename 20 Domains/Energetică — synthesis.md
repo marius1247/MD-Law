@@ -5,6 +5,7 @@ domeniu: [energetică]
 tags: [domain, analysis, energetică]
 status: draft
 created: 2026-07-23
+updated: 2026-08-06
 ---
 
 # Energy — sector synthesis
@@ -97,8 +98,8 @@ Alignment landmarks in the corpus:
 |---|---|---|
 | [[Legea 164-2025 — energia electrica (text)|L164/2025]] | **Dir. (EU) 2019/944** + **Reg. (EU) 2019/943** + **REMIT** (Reg. 1227/2011) + **CACM** (Reg. 2015/1222) | **Fourth** |
 | [[Legea 108-2016 — gazele naturale (text)|L108/2016]] | Dir. 2009/73/EC — internal gas market | Third |
-| [[Legea 139-2018 — eficienta energetica (text)|L139/2018]] | Energy efficiency directives | — |
-| [[HG 820-2024 — situatii exceptionale electroenergetic (text)|HG 820/2024]] | Reg. (EU) 2019/941 — risk preparedness | Fourth |
+| [[Legea 139-2018 — eficienta energetica (text)|L139/2018]] | Dir. 2012/27/EU (EED) as amended by (EU) 2018/2002 · EnC 2021/14/MC-EnC | EE · [[Legea 139-2018 — eficienta energetica (notă)|notă]] |
+| [[HG 820-2024 — situatii exceptionale electroenergetic (text)|HG 820/2024]] | Reg. (EU) 2019/941 — risk preparedness · EnC 2021/13/MC-EnC | Fourth · [[HG 820-2024 — situatii exceptionale electroenergetic (notă)|notă]] ⚠️ annex missing |
 | ~~[[Legea 107-2016 — energia electrica (text)|L107/2016]]~~ *(repealed)* | Dir. 2009/72/EC | Third |
 
 **Electricity is now a package ahead of gas.** L164/2025 includes the 2024 amending instruments (Dir. 2024/1711, Reg. 2024/1747), so it is a current transposition rather than a lagging one. Gas remains on the third package — expect a gas equivalent of L164/2025 to follow, and treat that as the next major legislative event in the domain.
@@ -112,15 +113,18 @@ Alignment landmarks in the corpus:
 3. **Truncation risk is specific and known.** The most-cited acts in the corpus are cut off before their substantive chapters. Do not infer absence from silence — see [[Status ingestie — Energetica]].
 4. **The entire tier-3 layer is living on transitional provisions.** Every HANRE in this vault was issued under the now-repealed L107/2016. ANRE must re-adopt them under L164/2025's enabling articles. Until it does, each act's continued validity rests on transitional rules — check [ANRE › Hotărâri](https://anre.md/acte-normative-3-18) before relying on any of them.
 5. **Three live transitions overlap right now** (mid-2026): the L164/2025 changeover, PSO withdrawal for industrial gas, and the return to market-based procurement including losses. All three change what a compliant contract looks like.
+6. **Efficiency is now an operational compliance domain, not soft policy.** After LP111/2025, [[Legea 139-2018 — eficienta energetica (notă)|L139/2018]] designates DSOs and petroleum importers as obligated parties, puts large-enterprise audits on a CNED-notification clock with turnover sanctions, and runs EPC/FEE finance through [[CNED]]. Demand-response hooks in L139 still cite repealed L107 — route electricity flexibility through L164.
+7. **Crisis tools are split across instruments.** Petroleum price derogations and procurement ±15% adjustment sit in [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)|L101/2026]]; electricity risk-preparedness sits in [[HG 820-2024 — situatii exceptionale electroenergetic (notă)|HG 820/2024]] (annex still missing). Do not conflate them.
 
 ## 8. Open threads
-- **Complete [[Legea 164-2025 — energia electrica (text)|L164/2025]] manually** — only art. 1 is in the vault; art. 2 alone has 150+ definitions. This is now the single highest-priority ingestion in the vault → [[Status ingestie — Energetica]]
-- Complete **L108/2016** manually
+- ✅ L164/L108 core texts are complete in vault (see [[Status ingestie — Energetica]]); keep currency checks live
 - **Re-check every HANRE** against the new enabling articles; expect wholesale re-adoption
 - Watch for a **gas equivalent of L164/2025** — gas is now a package behind electricity
+- Ingest **HG 820 Annexes 1–2**; parents for L101 (L461/2001, L248/2025, L131/2015) still thin/absent
+- Analysis backlog Batches 2–4: [[Analysis backlog — texts without notes]]
 - Not yet ingested: gas tariff methodologies (HANRE 535/2019, 443/2020), quality of service (422/2019, 537/2020), network development (94/2019), dispatch (316/2018), gas metering (297/2022)
 - **HANRE 24/2017** — procurement by licence-holders → bridges to [[MOC — Achiziții publice & Statul]]
 - Corporate-law overlap: unbundling is executed through **group restructuring** — see [[Societăți & guvernanță — synthesis]]
 
 ## Related
-[[MOC — Energetică]] · [[ANRE]] · [[Concept — Tarif reglementat]] · [[Concept — Unbundling]] · [[Concept — Licență în energetică]] · [[Concept — Racordare la rețea]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Producător eligibil]] · [[Concept — Parte responsabilă de echilibrare]]
+[[MOC — Energetică]] · [[ANRE]] · [[CNED]] · [[Concept — Tarif reglementat]] · [[Concept — Unbundling]] · [[Concept — Licență în energetică]] · [[Concept — Racordare la rețea]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Producător eligibil]] · [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Audit energetic]] · [[Concept — Contract de performanță energetică]] · [[Concept — Parte obligată (eficiență energetică)]]

@@ -22,9 +22,9 @@ Navigation hubs for the vault. Each domain map links the raw acts, analysis note
 | [[MOC — Drept civil]] | — | **Partial** — Codul civil complete (Cărțile I–V); synthesis still thin |
 
 ## Concepts (`30 Concepts`)
-**Energy** — [[Concept — Tarif reglementat]] · [[Concept — Licență în energetică]] · [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Producător eligibil]] · [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Aviz de racordare]] · [[Concept — Loc de consum]] · [[Concept — Loc de măsurare]] · [[Concept — Punct de delimitare]] · [[Concept — Capacitate rezervată]] · [[Concept — Baza activelor reglementate]] · [[Concept — Devieri financiare]] · [[Concept — Tarif de transport]] · [[Concept — Tarif de distribuție]]
+**Energy** — [[Concept — Tarif reglementat]] · [[Concept — Licență în energetică]] · [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Producător eligibil]] · [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Aviz de racordare]] · [[Concept — Loc de consum]] · [[Concept — Loc de măsurare]] · [[Concept — Punct de delimitare]] · [[Concept — Capacitate rezervată]] · [[Concept — Baza activelor reglementate]] · [[Concept — Devieri financiare]] · [[Concept — Tarif de transport]] · [[Concept — Tarif de distribuție]] · [[Concept — Audit energetic]] · [[Concept — Contract de performanță energetică]] · [[Concept — Parte obligată (eficiență energetică)]] · [[Concept — Eficiența energetică înainte de toate]] · [[Concept — Situație de criză în domeniul petrolier]] · [[Concept — Situație excepțională electroenergetică]]
 
-Energy sub-MOCs: [[MOC — Piața de energie electrică]] · [[MOC — Racordare și acces la rețele]] · [[MOC — Tarife și metodologii ANRE]] · full index [[00 Index Concepts]]
+Energy sub-MOCs: [[MOC — Piața de energie electrică]] · [[MOC — Racordare și acces la rețele]] · [[MOC — Tarife și metodologii ANRE]] · full index [[00 Index Concepts]] · backlog [[Analysis backlog — texts without notes]]
 
 **Companies** — [[Concept — Capital social]] · [[Concept — Acțiune vs parte socială]] · [[Concept — Adunarea generală]] · [[Concept — Consiliul societății]] · [[Concept — Administrator]] · [[Concept — Insolvabilitate]]
 
@@ -33,7 +33,7 @@ Energy sub-MOCs: [[MOC — Piața de energie electrică]] · [[MOC — Racordare
 **Commercial** — [[Concept — Autorizarea activității de întreprinzător]] · [[Concept — Poziție dominantă]] · [[Concept — Ajutor de stat]]
 
 ## Authorities (`60 Authorities`)
-[[Parlamentul RM]] · [[Președintele RM]] · [[Guvernul RM]] · [[Curtea Constituțională]] · [[ANRE]] · [[ASP]] · [[CNPF]] · [[SFS]] · [[Consiliul Concurenței]]
+[[Parlamentul RM]] · [[Președintele RM]] · [[Guvernul RM]] · [[Curtea Constituțională]] · [[ANRE]] · [[CNED]] · [[ASP]] · [[CNPF]] · [[SFS]] · [[Consiliul Concurenței]]
 
 ## Foundations
 [[Sistemul de drept al RM (overview)]] · [[Ierarhia actelor normative]] · [[Monitorul Oficial]] · [[Procesul legislativ]] · [[Glosar juridic]] · [[00 - Harta instituțională|Harta instituțională]] · [[Status ingestie — Uploads]]

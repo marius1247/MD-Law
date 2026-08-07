@@ -5,7 +5,7 @@ domeniu: [fiscal]
 tags: [domain, analysis, fiscal]
 status: reviewed
 created: 2026-07-23
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Taxation — synthesis
@@ -74,6 +74,8 @@ There is also **deferred CIT under art. 87(11)** for qualifying SMEs through **2
 
 Note the 8% rate on **natural gas transport** and the domestic **energy reverse charge (art. 101⁷)** — direct bridges to [[Energetică — synthesis]].
 
+**Refund procedure:** [[HG 93-2013 — restituirea TVA (notă)|HG 93/2013]] (consolidated with [[HG 829-2025 — modificare acte fiscale vamale audit (notă)|HG 829/2025]], IF 1 Jan 2026) — chapters XI²/XI³ for art. 101(5¹) reverse-charge excess and the Dec-2025 gas transitional path; general clock **45 days**, staged payout on the art. 4(20⁹) limb.
+
 → [[Concept — TVA]]
 
 ### Personal income tax and the payroll wedge
@@ -100,6 +102,7 @@ Verified against MF summaries and the vault CF consolidation (Aug 2026). Full ta
 |---|---|---|
 | **VAT registration threshold** | Raised to **1.5 MDL m** | Titlul III art. 112 area |
 | **Energy reverse charge** | Domestic EE/gas to **comerciant**; also imports of energy + network services | Titlul III art. **101⁷** — declare comerciant status to [[SFS]] |
+| **VAT refund regulation update** | XI²/XI³ chapters + 45-day / staged-payout clocks; stock-option annex under HG 693/2018 | [[HG 829-2025 — modificare acte fiscale vamale audit (notă)\|HG 829/2025]] → [[HG 93-2013 — restituirea TVA (notă)\|HG 93/2013]] |
 | **e-Factura deduction clamp removed** | Art. **102(18) abrogated** 01.01.2026 | Titlul III art. 102 — paper/other formats no longer automatic denial vs mandatory e-Factura users |
 | **Independent entrepreneurs** | Single tax **15% / 35%** above 1.2 MDL m; no books; SFS computes from ECC + bank data | Titlul II cap. **10⁴** — labour recharacterisation risk if art. 24(11¹) tests fail |
 | **Deferred CIT (art. 87(11))** | Extended through **2026**; ≤249 staff + ≤100 MDL m turnover/assets (trade exclusions) | Titlul II art. 87 — model before year-end |

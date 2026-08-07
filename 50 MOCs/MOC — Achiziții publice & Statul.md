@@ -22,6 +22,7 @@ Public procurement, tenders, and working with the state.
 | [[Legea 74-2020 — achizitii sectoriale (text)\|Legea nr. 74/2020]] — utilities/sectoral (energy, water, transport, postal) | ✅ text + [[Legea 74-2020 — achizitii sectoriale (notă)\|notă]] |
 | Concessions / PPP legislation | ❌ verify current act on legis.md |
 | Government decisions implementing procurement procedures | ❌ |
+| [[Legea 327-2025 — managementul finantelor publice (text)\|Legea nr. 327/2025]] — public-finance management / Inspectoratul Control Financiar de Stat | ✅ text + [[Legea 327-2025 — managementul finantelor publice (notă)\|notă]] |
 
 ## Concepts (to write)
 - [[Concept — Autoritate contractantă]] · [[Concept — Procedură de achiziție]] · [[Concept — Documentația de atribuire]] · [[Concept — Contestare (ANSC)]]

@@ -28,7 +28,7 @@ Domain hub for **company law and corporate governance**: how a company comes int
 | **Procedural** | **Legea nr. 220/2007** | State registration — constitutive, publicity, control |
 | **Failure** | **Legea insolvabilității nr. 149/2012** | Collective procedure: liquidation or restructuring |
 
-**Legacy layer:** **Legea nr. 845/1992** cu privire la antreprenoriat și întreprinderi — still formally in force, largely obsolete, and slated for **complete repeal** by a new entrepreneurship law (Government project 345/MDED/2025) with a **two-year transition** after publication. Check whether the provision you need has already been superseded by the Civil Code.
+**Legacy layer:** [[Legea 845-1992 — antreprenoriat si intreprinderi (text)|Legea nr. 845/1992]] cu privire la antreprenoriat și întreprinderi — ✅ now in vault ([[Legea 845-1992 — antreprenoriat si intreprinderi (notă)|notă]]). Still formally in force, largely obsolete, and slated for **complete repeal** by a new entrepreneurship law (Government project 345/MDED/2025) with a **two-year transition** after publication. Check whether the provision you need has already been superseded by the Civil Code. Latest consol. includes [[Legea 330-2025 — modificare secret comercial (notă)|L330/2025]] (secrets) and [[Legea 327-2025 — managementul finantelor publice (notă)|L327/2025]] (Inspectoratul Control Financiar de Stat).
 
 ## Choosing the form — the first question in any mandate
 | | SRL | SA |
@@ -64,8 +64,11 @@ Domain hub for **company law and corporate governance**: how a company comes int
 | [[Legea 220-2007 — inregistrarea de stat (text)\|Legea nr. 220/2007]] (registration) | ✅ complete | [[Legea 220-2007 — inregistrarea de stat (notă)]] |
 | [[Legea 149-2012 — insolvabilitate (text)\|Legea nr. 149/2012]] (insolvency) | ✅ complete | [[Legea 149-2012 — insolvabilitate (notă)]] |
 | [[Codul civil 1107-2002 — text — Cartea I\|Codul civil — Cartea I]] | ✅ complete | [[Codul civil 1107-2002 (notă)]] |
+| [[Legea 845-1992 — antreprenoriat si intreprinderi (text)\|Legea nr. 845/1992]] (legacy entrepreneurship) | ✅ complete | [[Legea 845-1992 — antreprenoriat si intreprinderi (notă)]] |
+| [[Legea 330-2025 — modificare secret comercial (text)\|Legea nr. 330/2025]] (trade-secrets sweep) | ✅ complete | [[Legea 330-2025 — modificare secret comercial (notă)]] |
 
 ## Still open
 - Track the **new entrepreneurship law** replacing L845/1992 (project 345/MDED/2025)
+- Ingest **Legea nr. 384/2023** (trade secrets) — pivot for L330/2025
 - Beneficial-ownership / AML compliance layer
 - Boundary with [[MOC — Drept comercial]]: **this hub = the entity**; **that hub = the activity**

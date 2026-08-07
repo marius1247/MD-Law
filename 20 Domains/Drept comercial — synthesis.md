@@ -33,7 +33,7 @@ Overlap is unavoidable. When in doubt: if the question is *who owns and controls
 
 **The statutory layer** is in transition:
 
-- **Legea nr. 845/1992** cu privire la antreprenoriat și întreprinderi — the Soviet-era framework act. Still formally in force, riddled with provisions that contradict the Civil Code, and **slated for complete repeal**. A Government project (345/MDED/2025) replaces it with a new entrepreneurship law, entering into force **two years after publication** to allow related legislation to be adapted. Treat 845/1992 as legacy: before relying on any provision, check whether the Civil Code has already displaced it.
+- [[Legea 845-1992 — antreprenoriat si intreprinderi (text)|**Legea nr. 845/1992**]] cu privire la antreprenoriat și întreprinderi — the Soviet-era framework act (**now ingested** — [[Legea 845-1992 — antreprenoriat si intreprinderi (notă)|notă]]). Still formally in force, riddled with provisions that contradict the Civil Code, and **slated for complete repeal**. A Government project (345/MDED/2025) replaces it with a new entrepreneurship law, entering into force **two years after publication** to allow related legislation to be adapted. Treat 845/1992 as legacy: before relying on any provision, check whether the Civil Code has already displaced it. Live residual hooks include cash-acceptance duties, price/markup fines, art. 12(3) commercial-secret refusals (as rewritten by [[Legea 330-2025 — modificare secret comercial (notă)|L330/2025]]), social entrepreneurship and fiscal-monopoly chapters.
 - **Legea nr. 235/2006** privind principiile de bază de reglementare a activității de întreprinzător — the **better-regulation statute**. It sets the principles that constrain the state when it regulates business: proportionality, predictability, transparency, regulatory impact assessment, the "silence is consent" default, and the prohibition on requirements not grounded in law. Underused, and genuinely useful as an argument against an unlawful administrative requirement.
 - **Legea nr. 160/2011** privind reglementarea prin autorizare a activității de întreprinzător — the **permits framework**: the exhaustive list of authorisations, the one-stop-shop principle, time limits, and the rule that no permit may be demanded unless it is on the list.
 
@@ -85,7 +85,7 @@ Almost everything in this domain moves under the **Association Agreement and DCF
 
 ## 8. Open threads
 - Ingest **Legea nr. 183/2012** (competition), **Legea nr. 160/2011** (permits), **Legea nr. 235/2006** (regulation principles)
-- Ingest **Legea nr. 845/1992** for the legacy position, and **track the new entrepreneurship law**
+- Track the **new entrepreneurship law** replacing L845/1992; ingest **Legea nr. 384/2023** (trade secrets pivot for L330/2025)
 - Ingest **Codul civil, Cartea III** (obligations) per Titlu → [[MOC — Drept civil]]
 - Write the **[[Consiliul Concurenței]]** profile out further; add **AGEPI** and **BNM**
 - **HANRE 24/2017** — procurement by energy licence-holders: sits between this hub, energy and procurement

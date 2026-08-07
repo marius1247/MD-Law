@@ -1,0 +1,655 @@
+---
+title: "Legea 327-2025 — managementul finantelor publice (text)"
+type: act-text
+instrument: lege-organică
+act_type: lege-organică
+nr: "327"
+an: 2025
+domeniu:
+- fiscal
+- administrativ
+- finanțe publice
+domain: [fiscal, administrativ, finanțe publice]
+forta_juridica: 3
+in_force: true
+in_vigoare: true
+mo_publicare: "MO 665/31.12.2025 art. 814"
+legis_id: "152360"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=152360"
+version_date: 2025-12-31
+versiune_text: 2025-12-31
+continut: text-integral
+text_complet: true
+articole_numarate: 4
+tags: [act, text, acte_normative]
+created: 2026-08-07
+updated: 2026-08-07
+source_ingest: pdf-upload
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2025-12-31'
+---
+# Legea 327-2025 — managementul finantelor publice
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md** PDF (doc_id [152360](https://www.legis.md/cautare/getResults?lang=ro&doc_id=152360)), export mPDF.
+> Versiune consolidată / publicată: `2025-12-31`. Articole/puncte normalizate pentru ancorare wikilink.
+> Analiză: [[Legea 327-2025 — managementul finantelor publice (notă)]].
+
+---
+
+Republica Moldova
+PARLAMENTUL
+LEGE Nr. LP327/2025
+din 29.12.2025
+pentru modificarea unor acte normative
+(îmbunătățirea managementului finanțelor publice)
+Publicat : 31.12.2025 în MONITORUL OFICIAL Nr. 665 art. 814 Data intrării în vigoare
+Parlamentul adoptă prezenta lege organică.
+### Art. I. – La articolul 10 punctele 6 și 8 din Legea nr. 845/1992 cu privire la
+antreprenoriat și întreprinderi (Monitorul Parlamentului Republicii Moldova, 1994, nr. 2,
+art. 33), cu modificările ulterioare, cuvintele „autoritatea administrativă de inspectare
+financiară din subordinea Ministerului Finanțelor” se substituie cu cuvintele „Inspectoratul
+Control Financiar de Stat”.
+### Art. II. – Legea nr. 489/1999 privind sistemul public de asigurări sociale (Monitorul
+Oficial al Republicii Moldova, 2000, nr. 1–4, art. 2), cu modificările ulterioare, se modifică
+după cum urmează:
+1. La articolul 1, noțiunea „autoritate/instituție publică la autogestiune” se exclude.
+2. În anexa nr. 1, la pozițiile 1.1 și 1.2 coloana a doua, textul
+„autorităților/instituțiilor publice la autogestiune” se substituie cu cuvintele „ai instituțiilor
+publice”.
+### Art. III. – La articolul 23 alineatul (1) din Legea nr. 1420/2002 cu privire la
+filantropie și sponsorizare (Monitorul Oficial al Republicii Moldova, 2002, nr. 185–189, art.
+1394), cu modificările ulterioare, cuvintele „Inspecția financiară” se substituie cu cuvintele
+„Inspectoratul Control Financiar de Stat”.
+### Art. IV. – Legea nr. 397/2003 privind finanțele publice locale (republicată în
+Monitorul Oficial al Republicii Moldova, 2018, nr. 384–395, art. 612), cu modificările
+ulterioare, se modifică după cum urmează:
+1. În cuprinsul legii, cuvintele „notă informativă”, la orice formă gramaticală, se
+substituie cu cuvintele „notă de fundamentare” la forma gramaticală corespunzătoare.
+2. La articolul 1, noțiunea „proiect finanțat din surse externe” se completează cu
+textul „ , care au un buget definit, ale căror resurse sunt utilizate exclusiv pentru scopurile
+proiectului/programului și care au un interval de timp definit pentru implementare”.
+3. La articolul 8:
+alineatul (1) va avea următorul cuprins:
+„(1) În bugetele locale se prevăd alocații necesare pentru realizarea funcțiilor
+autorităților administrației publice locale, ținându-se cont la planificare de respectarea
+următoarelor priorități în alocarea cheltuielilor:
+a) onorarea angajamentelor de deservire a datoriei unităților administrativ-
+teritoriale;
+b) cheltuielile de personal, inclusiv contribuțiile de asigurări sociale de stat
+obligatorii, de achitare a indemnizațiilor, a compensațiilor, a alocațiilor și a ajutoarelor
+sociale;
+c) cheltuielile pentru servicii energetice și comunale;
+d) cheltuielile pentru servicii informaționale și de telecomunicații.”
+alineatul (4) se completează cu textul „ , inclusiv contribuțiile de asigurări sociale de
+stat obligatorii”.
+4. La articolul 28 alineatul (5), după cuvintele „modificări ale” se introduce textul
+„indicatorilor generali (venituri, cheltuieli și sold bugetar) ai”.
+5. Articolul 29 alineatul (5):
+la litera b), după textul „cheltuielile de personal,” se introduce textul „inclusiv
+contribuțiile de asigurări sociale de stat obligatorii,”;
+la litera c), cuvintele „resursele termoenergetice” se substituie cu cuvintele „servicii
+energetice și comunale”;
+alineatul se completează cu litera c¹) cu următorul cuprins:
+„c¹) cheltuielile pentru servicii informaționale și de telecomunicații;”.
+6. La articolul 30, alineatul (5) va avea următorul cuprins:
+„(5) Perioada de blocare a alocațiilor, efectuată în condițiile alin. (1), expiră, după
+caz:
+a) la data indicată în decizia de blocare;
+b) la data intrării în vigoare a deciziei bugetare anuale;
+c) la data intrării în vigoare a deciziei privind modificarea bugetelor respective.”
+7. La articolul 33, litera q) va avea următorul cuprins:
+„q) efectuează monitoringul financiar, supraveghează activitatea instituțiilor
+publice, a întreprinderilor municipale și a societăților comerciale în care autoritățile
+administrației publice locale exercită funcția de fondator sau dețin cota majoritară în
+capitalul social, precum și supraveghează eficiența utilizării patrimoniului acestora;”.
+8. La articolul 35 alineatul (2), cuvintele „Inspecția financiară din subordinea
+Ministerului Finanțelor” se substituie cu cuvintele „Inspectoratul Control Financiar de Stat”.
+### Art. V. – Legea nr. 282/2004 privind regimul metalelor prețioase și pietrelor
+prețioase (Monitorul Oficial al Republicii Moldova, 2004, nr. 171–174, art. 777), cu
+modificările ulterioare, se modifică după cum urmează:
+1. La articolul 9 litera m), textul „lista serviciilor,” și cuvintele „și cuantumul
+tarifelor” se exclud.
+2. Articolul 10:
+la litera c), textul „lista serviciilor,” și cuvintele „și cuantumul tarifelor” se exclud;
+articolul se completează cu litera f) cu următorul cuprins:
+„f) aprobă lista serviciilor și cuantumul tarifelor pentru determinarea titlului și
+marcarea obiectelor din metale prețioase, pentru expertizarea metalelor prețioase,
+diagnosticarea pietrelor prețioase, evaluarea pietrelor prețioase și giuvaiere, a metalelor
+prețioase și a articolelor din ele, calculat în baza metodologiei de calculare a tarifelor
+aprobată de Guvern.”
+3. La articolul 14 alineatul (2) litera e), cuvintele „stabilite de Guvern” se substituie
+cu cuvântul „aprobate”.
+### Art. VI. – La articolul 58 alineatul (1) din Legea nr. 62/2008 privind reglementarea
+valutară (republicată în Monitorul Oficial al Republicii Moldova, 2016, nr. 423–429, art.
+859), cu modificările ulterioare, litera c) va avea următorul cuprins:
+„c) Inspectoratul Control Financiar de Stat și Serviciul Fiscal de Stat;”.
+### Art. VII. – Articolul 402 din Codul contravențional al Republicii Moldova nr.
+218/2008 (republicat în Monitorul Oficial al Republicii Moldova, 2017, nr. 78–84, art. 100),
+cu modificările ulterioare, se modifică după cum urmează:
+la alineatul (1), cuvintele „autoritatea administrativă de inspectare financiară din
+subordinea Ministerului Finanțelor” se substituie cu cuvintele „Inspectoratul Control
+Financiar de Stat”, iar cuvintele „de către autoritatea administrativă de inspectare
+financiară” – cu cuvintele „de către Inspectoratul Control Financiar de Stat”;
+la alineatul (2), textul „conducătorul autorității administrative de inspectare
+financiară din subordinea Ministerului Finanțelor, adjunctul său și conducătorii
+subdiviziunilor teritoriale ale acesteia” se substituie cu cuvintele „persoanele cu funcții de
+răspundere din cadrul Inspectoratului Control Financiar de Stat și conducătorii
+subdiviziunilor teritoriale ale acestuia”.
+### Art. VIII. – Legea nr. 229/2010 privind controlul financiar public intern (republicată
+în Monitorul Oficial al Republicii Moldova, 2019, nr. 86–92, art. 140), cu modificările
+ulterioare, se modifică după cum urmează:
+1. La articolul 2, textul „autorităților/instituțiilor publice la autogestiune” se
+substituie cu cuvintele „instituțiilor publice”.
+2. La articolul 3 noțiunea „entitate publică”, textul „autoritate/instituție publică la
+autogestiune” se substituie cu cuvintele „instituție publică”.
+### Art. IX. – Legea finanțelor publice și responsabilității bugetar-fiscale nr. 181/2014
+(Monitorul Oficial al Republicii Moldova, 2014, nr. 223–230, art. 519), cu modificările
+ulterioare, se modifică după cum urmează:
+1. În cuprinsul legii, cuvintele „investiții capitale” și „autorități publice centrale”, la
+orice formă gramaticală, se substituie cu cuvintele „investiții capitale publice” și, respectiv,
+„autorități ale administrației publice centrale” la forma gramaticală corespunzătoare.
+2. La articolul 1 alineatul (2), după textul „autorități/instituții bugetare,” se introduc
+cuvintele „instituții publice”.
+3. La articolul 2, textul „precum și la asigurarea monitoringului financiar al
+activității autorităților/instituțiilor publice la autogestiune,” se substituie cu textul „la
+executarea, raportarea și controlul bugetului instituției publice finanțate integral din
+venituri proprii, precum și la asigurarea monitoringului financiar al activității instituțiilor
+publice,”.
+4. Articolul 3:
+la noțiunea „administrator de buget”, textul „/instituție” se exclude;
+noțiunea „autoritate/instituție publică la autogestiune” se exclude;
+după noțiunea „angajament” se introduce o noțiune nouă cu următorul cuprins:
+„angajament multianual – obligațiune de plată, asumată de către administratorul de
+buget și/sau de alte autorități/instituții bugetare în conformitate cu actele normative, pentru
+o perioadă care depășește un an;”
+după noțiunea „clasificație bugetară” se introduce o noțiune nouă cu următorul
+cuprins:
+„cont trezorerial – set de caractere alcătuit în baza codurilor clasificației bugetare,
+care asigură evidența analitică a executării bugetelor componente ale bugetului public
+național și a mijloacelor extrabugetare;”
+noțiunea „cont unic trezorerial” va avea următorul cuprins:
+„cont unic trezorerial – totalitate a conturilor de decontare ale Ministerului
+Finanțelor în monedă națională și în valută străină, deschise în sistemul de evidență
+contabilă al Băncii Naționale a Moldovei, considerate ca un tot întreg și destinate efectuării
+operațiunilor de încasări și plăți ale bugetelor componente ale bugetului public național și
+ale instituțiilor publice deservite prin sistemul trezorerial;”
+după noțiunea „inspectare financiară” se introduc două noțiuni noi cu următorul
+cuprins:
+„instituție publică – persoană juridică de drept public care acționează în regim de
+putere publică, constituită în scopul realizării funcției statului și a unităților administrativ-
+teritoriale de prestare a serviciilor publice în sfera de competență a fondatorului instituției
+respective sau a funcției implementare a programelor și proiectelor de dezvoltare, inclusiv a
+celor finanțate din surse externe, și care nu desfășoară activitate comercială. Instituția
+publică se finanțează din venituri bugetare sau integral din venituri proprii;
+investiții capitale publice – cheltuieli bugetare care vizează reconstrucția,
+extinderea, restaurarea mijloacelor fixe existente și crearea mijloacelor fixe noi, inclusiv
+prin construcție;”
+după noțiunea „lege bugetară anuală” se introduce o noțiune nouă cu următorul
+cuprins:
+„lege/decizie de modificare a legii/deciziei bugetare anuale – act normativ prin care
+se modifică, după caz, legea/decizia anterioară prin care a fost adoptat/aprobat bugetul de
+stat, bugetul asigurărilor sociale de stat, fondurile asigurării obligatorii de asistență
+medicală, bugetele locale;”
+la noțiunea „monitoring financiar”, textul „autorităților/instituțiilor publice la
+autogestiune” se substituie cu cuvintele „instituțiilor publice”;
+noțiunea „performanță” va avea următorul cuprins:
+„performanță – rezultat preconizat și obținut ca urmare a implementării
+programelor, obiectivelor ca volum de servicii prestate și ca eficiență a utilizării resurselor
+bugetare;”
+noțiunea „proiect finanțat din surse externe” va avea următorul cuprins:
+„proiect finanțat din surse externe – ansamblu de activități finanțate din granturi
+și/sau împrumuturi acordate Republicii Moldova, Guvernului și/sau autorităților
+administrației publice centrale și/sau locale de către organizațiile internaționale și de către
+alte state pentru atingerea unui obiectiv general și/sau a mai multor obiective specifice,
+care au un buget definit, ale căror resurse sunt utilizate exclusiv pentru scopurile
+proiectului/programului și care au un interval de timp definit pentru implementare;”
+după noțiunea „proiect finanțat din surse externe” se introduc trei noțiuni noi cu
+următorul cuprins:
+„proiect de investiții capitale publice – ansamblu de activități care au un scop comun
+și clar definit, desfășurate într-un anumit interval de timp, a căror implementare are ca
+rezultat reconstrucția, extinderea, restaurarea mijloacelor fixe existente și crearea
+mijloacelor fixe noi, inclusiv prin construcție;
+redistribuire a alocațiilor bugetare – modificări echilibrate de reduceri și majorări
+între diferite niveluri ale clasificației bugetare, autorizate de către Guvern, administratorul
+de buget, autoritățile/instituțiile bugetare;
+revizuire a cheltuielilor bugetare – proces de elaborare, aprobare și implementare a
+măsurilor de eficientizare, bazate pe revizuirea sistematică a cheltuielilor bugetare, a
+proceselor și a politicilor publice;”.
+5. La articolul 15 alineatul (1), textul „către anul 2018,” se exclude.
+6. La articolul 17:
+alineatul (1) va avea următorul cuprins:
+„(1) Proiectele de acte normative cu impact financiar asupra bugetelor, cu excepția
+proiectelor de acte normative ale autorităților administrației publice locale de ambele
+niveluri, inclusiv a celor cu statut juridic special, se avizează obligatoriu de către Ministerul
+Finanțelor.”
+articolul se completează cu alineatul (1¹) cu următorul cuprins:
+„(1¹) Proiectele de acte normative cu impact financiar asupra bugetelor, prezentate
+Ministerului Finanțelor spre avizare, sunt însoțite de nota de fundamentare și fișa financiară
+integrată în textul acesteia, completate conform metodologiei de analiză a impactului de
+reglementare aprobată de Guvern. În lipsa fișei financiare, Ministerul Finanțelor restituie
+proiectele de acte normative fără avizare.”
+7. Articolul 19 se completează cu litera c¹) cu următorul cuprins:
+„c¹) asigură anual elaborarea prognozei principalilor indicatori macroeconomici pe
+termen mediu în cadrul procesului bugetar;”.
+8. La articolul 20 alineatul (1):
+literele f) și g) vor avea următorul cuprins:
+„f) administrează contul unic trezorerial și asigură efectuarea operațiunilor de
+încasări și plăți ale bugetelor componente ale bugetului public național și ale instituțiilor
+publice prin contul unic trezorerial și prin alți prestatori de servicii de plată contractați;
+g) organizează și asigură funcționarea sistemului trezorerial, administrează bugetul
+de stat, precum și monitorizează executarea celorlalte bugete componente ale bugetului
+public național;”
+la litera k), textul „al autorităților publice la autogestiune,” se exclude;
+alineatul se completează cu litera k¹) cu următorul cuprins:
+„k¹) efectuează monitoringul financiar, supraveghează activitatea instituțiilor
+publice care activează în domeniul de competență sau în care exercită funcția de fondator,
+precum și eficiența utilizării patrimoniului acestora;”.
+9. La articolul 21:
+alineatul (1):
+litera a) va avea următorul cuprins:
+„a) organizează sistemele de planificare, executare, evidență contabilă și raportare a
+bugetului în cadrul autorității publice respective și asigură funcționarea corectă a unor
+asemenea sisteme în cadrul autorităților administrative și al instituțiilor bugetare din
+subordine, precum și în cadrul instituțiilor publice în care exercită funcția de fondator;”
+la litera g), cuvintele „pentru instituțiile din subordine” se substituie cu textul
+„pentru autoritățile administrative și instituțiile din subordine, precum și pentru instituțiile
+publice în care exercită funcția de fondator,”;
+la litera h), cuvintele „precum și a rapoartelor privind implementarea acestora” se
+substituie cu textul „a rapoartelor privind implementarea acestora, a rapoartelor de
+performanță”;
+litera j) va avea următorul cuprins:
+„j) asigură monitoringul financiar, supraveghează activitatea instituțiilor publice
+care activează în domeniul de competență sau în care exercită funcția de fondator, precum
+și eficiența utilizării patrimoniului acestora;”
+alineatul (2) va avea următorul cuprins:
+„(2) Pentru realizarea atribuțiilor prevăzute la alin. (1), autoritățile administrației
+publice centrale conlucrează cu alte autorități bugetare, inclusiv cu autorități ale
+administrației publice locale, care, la rândul lor, sunt obligate să colaboreze și să prezinte
+orice informație necesară.”
+10. Legea se completează cu articolul 21¹ cu următorul cuprins:
+„Articolul 21¹. Rolul autorităților publice responsabile
+de revizuirea cheltuielilor bugetare
+(1) Guvernul asigură realizarea continuă și sistemică a activităților de revizuire a
+cheltuielilor bugetare prin:
+a) aprobarea anuală, la propunerea Ministerului Finanțelor, a tematicilor și a
+cadrului de revizuire a cheltuielilor;
+b) aprobarea și publicarea rezultatelor revizuirii cheltuielilor, inclusiv a măsurilor de
+eficientizare a cheltuielilor;
+c) stabilirea autorităților responsabile și a termenelor de implementare a măsurilor
+de eficientizare a cheltuielilor.
+(2) Ministerul Finanțelor, în contextul revizuirii cheltuielilor bugetare:
+a) prezintă anual Guvernului, înaintea următorului proces de elaborare a cadrului
+bugetar pe termen mediu, propunerile de măsuri de eficientizare a cheltuielilor, rezultate
+din revizuirea cheltuielilor;
+b) include măsurile de eficientizare a cheltuielilor, aprobate de Guvern, în politica
+bugetar-fiscală aferentă următorului proces de elaborare a cadrului bugetar pe termen
+mediu;
+c) publică rapoartele anuale ale autorităților administrației publice centrale privind
+implementarea măsurilor de eficientizare a cheltuielilor.
+(3) Revizuirea cheltuielilor se planifică astfel încât să se asigure că aceasta se
+realizează, cel puțin o dată în 7 ani, în fiecare sector.”
+11. În denumirea articolelor 22 și 23, cuvintele „instituției publice” se substituie cu
+cuvintele „autorității administrative”.
+12. La articolul 24 alineatul (1), litera g) va avea următorul cuprins:
+„g) efectuează monitoringul financiar, supraveghează activitatea instituțiilor
+publice, a întreprinderilor municipale și a societăților comerciale în care autoritățile
+administrației publice locale exercită funcția de fondator sau dețin cota majoritară în
+capitalul social, precum și eficiența utilizării patrimoniului acestora;”.
+13. La articolul 28, alineatul (1) se completează cu litera c¹) cu următorul cuprins:
+„c¹) venituri colectate de autoritățile/instituțiile bugetare;”.
+14. Articolul 29 se completează cu alineatul (2¹) cu următorul cuprins:
+„(2¹) Cheltuielile bugetare pot fi efectuate prin intermediul instituțiilor publice
+finanțate integral din venituri proprii, al întreprinderilor de stat și/sau al societăților pe
+acțiuni în cazul implementării de către acestea a proiectelor finanțate din surse externe
+conform acordurilor respective.”
+15. Articolul 33 se completează cu alineatul (3) cu următorul cuprins:
+„(3) Transferurile de la bugetul de stat la bugetul asigurărilor sociale de stat
+repartizate prin alte acte normative decât legea bugetului de stat se includ în bugetul
+asigurărilor sociale de stat în baza dispoziției administratorului de buget.”
+16. Articolul 34 se completează cu alineatul (1¹) cu următorul cuprins:
+„(1¹) Transferurile de la bugetul de stat la fondurile asigurării obligatorii de
+asistență medicală repartizate prin alte acte normative decât legea bugetului de stat se
+includ în fondurile asigurării obligatorii de asistență medicală în baza dispoziției
+administratorului de buget.”
+17. La articolul 40:
+alineatul (4) va avea următorul cuprins:
+„(4) Autoritățile administrației publice centrale și locale asigură implementarea,
+monitorizarea și raportarea proiectelor de investiții capitale publice din domeniile de
+competență.”
+articolul se completează cu alineatul (5) cu următorul cuprins:
+„(5) Autoritățile administrației publice centrale prezintă Ministerului Finanțelor,
+trimestrial, dar nu mai târziu de data de 25 a lunii următoare fiecărui trimestru, rapoarte
+privind nivelul de executare a alocațiilor bugetare, gradul de implementare și performanța
+proiectelor de investiții capitale publice conform cerințelor stabilite de Ministerul
+Finanțelor.”
+18. Articolul 43:
+la alineatul (1), litera b) va avea următorul cuprins:
+„b) venituri din darea în locațiune sau în arendă a patrimoniului public;”
+alineatul (2) va avea următorul cuprins:
+„(2) Metodologia de calculare a tarifelor la lucrările și serviciile contra plată
+efectuate și/sau prestate de către autoritățile/instituțiile bugetare se aprobă de către
+Guvern.”
+articolul se completează cu alineatul (2¹) cu următorul cuprins:
+„(2¹) Nomenclatorul lucrărilor și serviciilor contra plată efectuate și/sau prestate de
+către autoritățile/instituțiile bugetare și mărimea tarifelor la lucrări și servicii, calculată în
+baza metodologiei de calculare a tarifelor aprobată de Guvern, se stabilesc de către
+autoritatea ierarhic superioară/fondatorul acestora, cu excepția cazurilor în care aceasta
+ține de competența Parlamentului, în conformitate cu Legea nr. 160/2011 privind
+reglementarea prin autorizare a activității de întreprinzător.”
+19. Articolul 44 se completează cu alineatul (3) cu următorul cuprins:
+„(3) Autoritățile administrației publice centrale prezintă Ministerului Finanțelor,
+lunar, dar nu mai târziu de data de 5 a lunii următoare, rapoarte privind nivelul de
+executare a alocațiilor bugetare, gradul de implementare și performanța proiectelor
+finanțate din surse externe conform cerințelor stabilite de Ministerul Finanțelor.”
+20. Capitolul III se completează cu secțiunea 5¹ cu următorul cuprins:
+„Secțiunea 5
+1
+Bugetele instituțiilor publice finanțate integral
+din venituri proprii
+### Articolul 45¹. Cheltuielile instituțiilor publice finanțate
+integral din venituri proprii
+Cheltuielile instituțiilor publice finanțate integral din venituri proprii se asigură din:
+a) veniturile constituite din prestarea contra plată a serviciilor conform statutului
+instituției;
+b) alte mijloace bănești intrate legal în posesia instituției.
+### Articolul 45². Veniturile instituțiilor publice finanțate
+integral din venituri proprii
+Veniturile instituțiilor publice din prestarea contra plată a serviciilor conform
+statutului instituției se formează conform nomenclatorului de servicii și mărimii tarifelor la
+aceste servicii, calculate în baza metodologiei de calculare a tarifelor aprobată de Guvern,
+stabilite de către fondatorul acestora, cu excepția cazurilor în care aceasta ține de
+competența Parlamentului, în conformitate cu Legea nr.160/2011 privind reglementarea
+prin autorizare a activității de întreprinzător.
+### Articolul 45³. Principiile de gestionare a finanțelor
+de către instituțiile publice finanțate
+integral din venituri proprii
+(1) Instituțiile publice:
+a) dispun de conturi deschise în contul unic trezorerial al Ministerului Finanțelor;
+b) țin evidența contabilă conform Legii contabilității și raportării financiare nr.
+287/2017 și standardelor de contabilitate;
+c) prezintă Ministerului Finanțelor rapoarte periodice în termenele și modul stabilite
+de către acesta.
+(2) Soldurile de mijloace bănești ale instituțiilor publice înregistrate la conturile
+deschise în contul unic trezorerial al Ministerului Finanțelor la data încheierii anului
+bugetar sunt tranzitorii în anul bugetar următor și sunt accesibile spre utilizare conform
+destinației în limitele bugetelor aprobate ale instituțiilor publice.
+(3) Depășirea veniturilor asupra cheltuielilor ale instituțiilor publice, cu excepția
+instituțiilor medico-sanitare publice încadrate în sistemul asigurărilor obligatorii de
+asistență medicală și a instituțiilor publice de învățământ superior, înregistrată la data
+încheierii anului de gestiune conform situațiilor financiare, se transferă la buget până la
+data de 31 martie a anului următor.
+(4) Activitatea instituțiilor publice este supusă auditului public extern, auditului
+intern, în cazul în care instituțiile au instituită în structura organizatorică o subdiviziune de
+audit intern, precum și verificării din partea organelor de control în conformitate cu
+legislația.
+(5) Prevederile prezentului articol se aplică și instituțiilor medico-sanitare publice
+încadrate în sistemul asigurărilor obligatorii de asistență medicală și instituțiilor publice de
+învățământ superior.”
+21. Articolul 51:
+la alineatul (1), cuvintele „Autoritățile publice centrale” se substituie cu cuvintele
+„Autoritățile bugetare”;
+articolul se completează cu alineatul (2¹) cu următorul cuprins:
+„(2¹) Autoritățile menționate la alin. (1) și (2) și autoritățile bugetare
+independente/autonome planifică în propunerile/proiectele de buget cheltuielile necesare
+pentru realizarea competențelor în limitele de cheltuieli/transferuri interbugetare cuprinse
+în cadrul bugetar pe termen mediu, cu respectarea următoarelor priorități:
+a) cheltuielile de personal, inclusiv contribuțiile de asigurări sociale de stat
+obligatorii, de achitare a burselor, a pensiilor, a indemnizațiilor, a compensațiilor, a
+alocațiilor și a ajutoarelor sociale;
+b) cheltuielile pentru asigurarea obligatorie de asistență medicală a categoriilor de
+persoane pentru care, conform legislației, Guvernul are calitatea de asigurat;
+c) cheltuielile pentru servicii energetice și comunale;
+d) cheltuielile pentru servicii informaționale și de telecomunicații.”
+22. La articolul 60:
+alineatele (1), (3) și (4) vor avea următorul cuprins:
+„(1) Pe parcursul anului bugetar, redistribuirea alocațiilor aprobate prin legea
+bugetului de stat pe anul respectiv sau modificate prin legi se permite:
+a) în baza hotărârilor de Guvern – între subprogramele autorităților bugetare (în
+cadrul unei autorități sau între autorități diferite), cu excepția autorităților independente,
+până la 10 la sută din volumul alocațiilor aprobate la subprogramele respective prin legea
+bugetului de stat pe anul respectiv sau modificate prin legi, și între proiecte de investiții
+capitale publice în cadrul unei autorități a administrației publice centrale;
+b) cu autorizarea Ministerului Finanțelor, în modul stabilit de acesta, – între
+categoriile economice în cadrul unei autorități bugetare, fără majorarea cheltuielilor de
+personal, fără modificarea cheltuielilor pentru investiții capitale publice, a transferurilor
+interbugetare și fără modificarea alocațiilor aprobate pe subprograme;
+c) autorităților/instituțiilor bugetare – în cazul altor redistribuiri decât cele
+prevăzute la lit. a) și b) care nu afectează limitele de alocații bugetare aprobate prin legea
+bugetului de stat pe anul respectiv sau modificate prin legi. Redistribuirea alocațiilor
+bugetare de către autoritățile/instituțiile bugetare se efectuează în modul stabilit de
+Ministerul Finanțelor.”
+„(3) Redistribuirea alocațiilor aprobate prin legea bugetului asigurărilor sociale de
+stat sau prin legea fondurilor asigurării obligatorii de asistență medicală pe anul respectiv
+sau modificate prin legi se permite:
+a) în baza hotărârilor de Guvern – între subprogramele aprobate prin legile
+menționate, până la 10 la sută din volumul alocațiilor aprobate sau modificate prin legi la
+subprogramele respective;
+b) cu autorizarea administratorilor bugetelor respective, în modul stabilit de aceștia,
+– în cazul altor redistribuiri decât cele prevăzute la lit. a), fără majorarea cheltuielilor de
+personal și fără modificarea cheltuielilor pentru investiții capitale publice.
+(4) Redistribuirea alocațiilor bugetare conform alin. (1) și (3) se efectuează începând
+cu 1 aprilie și până la 30 noiembrie a anului bugetar. Propunerile privind redistribuirea
+alocațiilor prezentate după 15 noiembrie a anului bugetar nu se admit spre examinare.”
+articolul se completează cu alineatele (7)–(9) cu următorul cuprins:
+„(7) Prin derogare de la alin. (1) lit. a), Ministerul Finanțelor se autorizează să
+redistribuie, la cererea întemeiată a autorităților bugetare supuse reorganizării, resursele și
+cheltuielile autorităților bugetare ca urmare a reorganizării instituționale a acestora, fără
+modificarea indicatorilor stabiliți ai bugetului de stat la venituri și cheltuieli.
+(8) Prin derogare de la alin. (1) lit. b), Ministerul Finanțelor se autorizează să
+modifice transferurile între bugetul de stat și bugetele locale în următoarele cazuri:
+a) delegarea, în temei legal, a unor competențe sau retragerea lor;
+b) trecerea, în modul stabilit, a unor instituții din subordinea autorităților
+administrației publice locale în subordinea autorităților administrației publice centrale și
+viceversa;
+c) trecerea unor instituții din subordinea autorităților administrației publice locale
+de nivelul întâi în subordinea autorităților administrației publice locale de nivelul al doilea și
+viceversa;
+d) realizarea acțiunilor/măsurilor în cadrul proiectelor finanțate din surse externe,
+care, conform condițiilor stabilite prin acordurile corespunzătoare, prevăd transferuri la
+bugetele locale.
+(9) Prin derogare de la alin. (1) lit. b), Ministerul Finanțelor poate fi autorizat cu alte
+redistribuiri de alocații în cazul unor împuterniciri stabilite prin legea bugetului de stat pe
+anul respectiv.”
+23. Articolul 61:
+se completează cu alineatul (2¹) cu următorul cuprins:
+„(2¹) În cazul în care se atestă un nivel scăzut de executare a cheltuielilor
+autorităților/instituțiilor bugetare (cu excepția celor independente/autonome), Ministerul
+Finanțelor, ca administrator al bugetului de stat, se autorizează să lanseze unilateral
+procedura de modificare a bugetului în lipsa propunerilor din partea acestora.”
+la alineatul (5), după cuvintele „modificări ale” se introduce textul „indicatorilor
+generali (veniturile, cheltuielile și soldul bugetului) ai”;
+articolul se completează cu alineatul (6) cu următorul cuprins:
+„(6) Ministerul Finanțelor, ca administrator al bugetului de stat, se autorizează să
+modifice, pe parcursul anului bugetar, la cererea întemeiată a autorităților bugetare,
+indicatorii stabiliți ai bugetului de stat la venituri și cheltuieli în cuantumul granturilor, al
+donațiilor, al sponsorizărilor și al altor mijloace intrate cu titlu gratuit în posesia
+autorităților/instituțiilor bugetare sau a bugetului de stat, fără modificarea soldului
+bugetului de stat.”
+24. Articolul 62:
+la alineatul (9), textul „autoritățile/instituțiile publice la autogestiune” se substituie
+cu cuvintele „instituțiile publice”;
+alineatul (10) va avea următorul cuprins:
+„(10) Ministerul Finanțelor poate utiliza temporar soldurile de mijloace financiare
+din contul unic trezorerial pentru acoperirea decalajelor temporare de casă ale bugetului de
+stat, cu rambursarea acestora până la sfârșitul anului bugetar și fără a afecta executarea
+plăților finanțate din contul bugetelor componente ale bugetului public național și al
+entităților care se gestionează prin contul unic trezorerial.”
+25. La articolul 66:
+alineatul (3) va avea următorul cuprins:
+„(3) Se permite asumarea angajamentelor multianuale pe o perioadă de până la trei
+ani pentru proiecte de investiții capitale publice, în limitele cheltuielilor prognozate în acest
+scop pe anii respectivi.
+Valoarea angajamentelor multianuale se ajustează anual în conformitate cu
+alocațiile bugetare aprobate în acest scop pe anul bugetar respectiv.
+Pentru proiecte de investiții capitale publice cu valoarea mai mare de 200 de
+milioane de lei, se permite extinderea termenului angajamentelor multianuale pe o perioadă
+de până la doi ani cu acordul Guvernului.”
+la alineatul (3¹), cuvântul „bugetari” se exclude.
+26. Articolul 67 alineatul (2):
+la litera b), după textul „cheltuielile de personal,” se introduce textul „inclusiv
+contribuțiile de asigurări sociale de stat obligatorii,”;
+la litera c), cuvintele „resursele termoenergetice” se substituie cu cuvintele „servicii
+energetice și comunale”;
+alineatul se completează cu litera c¹) cu următorul cuprins:
+„c¹) cheltuielile pentru servicii informaționale și de telecomunicații;”.
+27. La articolul 68, alineatele (3) și (4) se completează cu textul „ , cu excepția
+resurselor aferente proiectelor finanțate din surse externe”.
+28. La articolul 69, alineatul (5) va avea următorul cuprins:
+„(5) Perioada de blocare a alocațiilor, efectuată în condițiile alin. (1), expiră, după
+caz:
+a) la data indicată în decizia de blocare;
+b) la data intrării în vigoare a legii/deciziei bugetare anuale;
+c) la data intrării în vigoare a legii/deciziei privind modificarea bugetelor
+respective.”
+29. La articolul 71 alineatul (1), după cuvintele „Legii contabilității” se introduce
+textul „nr. 113/2007”.
+30. La articolul 75 litera a), textul „autoritățile/instituțiile publice la autogestiune”
+se substituie cu cuvintele „instituțiile publice”.
+31. Articolul 76:
+la alineatul (1), textul „autorităților publice la autogestiune,” se exclude;
+alineatul (2) va avea următorul cuprins:
+„(2) Organele centrale de specialitate ale administrației publice și alte autorități
+administrative asigură monitoringul financiar și supravegherea activității instituțiilor
+publice care activează în domeniul de competență sau în care exercită funcția de fondator,
+precum și supravegherea eficienței utilizării patrimoniului acestora.”
+la alineatul (3), cuvintele „al activității instituțiilor publice la autogestiune” se
+substituie cu cuvintele „și supravegherea activității instituțiilor publice”, iar cuvintele „au
+calitatea” – cu cuvintele „exercită funcția”;
+la alineatul (4), cuvintele „autorităților publice la autogestiune” se substituie cu
+cuvintele „instituțiilor publice”;
+alineatul (5) va avea următorul cuprins:
+„(5) Organele centrale de specialitate ale administrației publice și alte autorități
+administrative prezintă rezultatele monitoringului financiar autorităților publice
+competente, Ministerului Finanțelor și Guvernului. Rezultatele monitoringului financiar se
+iau în considerare în procesul de luare a deciziilor privind administrarea și deetatizarea
+patrimoniului public.”
+32. La articolul 77 alineatul (1), textul „de către autoritățile/instituțiile bugetare” se
+exclude.
+33. Articolul 78 va avea următorul cuprins:
+„Articolul 78. Controlul financiar public extern
+și coordonarea antifraudă
+(1) Controlul financiar public extern și coordonarea antifraudă se realizează de către
+Inspectoratul Control Financiar de Stat în baza unui regulament aprobat de Guvern.
+(2) Controlul financiar public extern include activitățile de inspectare financiară și
+de control al fondurilor de asistență externă, rambursabile sau nerambursabile.
+(3) Inspectarea financiară se realizează la:
+a) autoritățile/instituțiile bugetare;
+b) autoritățile bugetare independente/autonome și instituțiile publice – pe aspecte ce
+țin de corectitudinea utilizării alocațiilor financiare obținute din bugetul public național și
+din prestarea serviciilor, a gestionării/utilizării patrimoniului public, precum și ce țin de
+conformarea la regulile aplicabile în domeniul achizițiilor publice;
+c) întreprinderile de stat/municipale, societățile comerciale în al căror capital social
+statul deține o cotă-parte de cel puțin 25 la sută, precum și la persoanele afiliate acestora –
+pe aspecte ale gestionării/utilizării resurselor financiare și/sau patrimoniului public;
+d) beneficiarii desemnării procentuale din impozitul pe venit;
+e) alte persoane fizice sau juridice – pe aspecte ale administrării patrimoniului
+public și utilizării resurselor bugetului public național și a mijloacelor primite de la entitățile
+specificate la lit. a)–d).
+(4) Controlul fondurilor de asistență externă, rambursabile sau nerambursabile, se
+realizează la beneficiarii primari/secundari ai acestor fonduri.
+(5) Inspectarea financiară se inițiază:
+a) la solicitarea prim-ministrului;
+b) la indicația ministrului finanțelor, care, prin intermediul Inspectoratului Control
+Financiar de Stat, planifică inspectări financiare în funcție de riscurile evaluate;
+c) la solicitarea Curții de Conturi.
+(6) Controlul fondurilor de asistență externă se inițiază la solicitarea autorității
+naționale de management sau a altor autorități naționale implicate în sistemul de
+management și control.
+(7) Coordonarea antifraudă reprezintă un ansamblu de acțiuni privind protecția
+intereselor financiare ale statului și ale finanțatorilor externi, care se realizează prin:
+a) consolidarea cooperării interinstituționale, comunicarea și schimbul de date
+dintre autoritățile specializate/desemnate în lupta antifraudă și mecanismul de coordonare
+și management al asistenței externe;
+b) generarea și diseminarea rapoartelor analitice privind neregulile și suspiciunile
+de fraudă;
+c) monitorizarea și evaluarea rapoartelor analitice privind neregulile și suspiciunile
+de fraudă;
+d) efectuarea și/sau asistarea autorităților împuternicite de finanțatorii asistenței
+externe în efectuarea controalelor și inspectărilor la fața locului, în scopul prevenirii și
+combaterii cazurilor de fraudă și nereguli;
+e) efectuarea unui nou control dacă rezultatele controlului exercitat anterior sunt
+neconcludente, incomplete sau nesatisfăcătoare ori dacă ulterior au fost depistate
+circumstanțe ce atestă existența unor semne de nereguli sau suspiciuni de fraudă.
+(8) Autoritățile implicate în lupta antifraudă și subiecții raportori de nereguli și/sau
+suspiciuni de fraudă furnizează informațiile aferente neregulilor sau suspiciunilor de fraudă
+pentru exercitarea atribuțiilor menționate la alin. (7), în modul stabilit de Guvern.”
+34. La articolul 80 alineatul (7), cuvintele „Inspecția financiară” se substituie cu
+cuvintele „Inspectoratul Control Financiar de Stat”.
+### Art. X. – La articolul 3 din Legea nr. 133/2016 privind declararea averii și a
+intereselor personale (Monitorul Oficial al Republicii Moldova, 2016, nr. 245–246, art. 513),
+cu modificările ulterioare, alineatul (1) se modifică după cum urmează:
+la litera e²), cuvintele „aflate la autogestiune” se exclud;
+litera e³) se abrogă.
+### Art. XI. – La articolul 34 litera g) din Legea integrității nr. 82/2017 (Monitorul
+Oficial al Republicii Moldova, 2017, nr. 229–243, art. 360), cu modificările ulterioare,
+cuvintele „Inspecția Financiară” se substituie cu cuvintele „Inspectoratul Control Financiar
+de Stat”.
+### Art. XII. – Legea nr. 100/2017 cu privire la actele normative (Monitorul Oficial al
+Republicii Moldova, 2018, nr. 7–17, art. 34), cu modificările ulterioare, se modifică după
+cum urmează:
+1. La articolul 32 alineatul (2²), după cuvântul „bugetelor” se introduce textul „ , cu
+excepția proiectelor de acte normative ale autorităților administrației publice locale de
+nivelurile întâi și al doilea, inclusiv ale celor cu statut juridic special,”.
+2. La anexa nr. 1 punctul 2) subpunctul 4.2 din note, alineatul al doilea va avea
+următorul cuprins:
+„La argumentarea costurilor estimative ale punerii în aplicare a actului normativ se
+va ține cont de resursele financiare stabilite în bugetele anuale sau în cadrul bugetar pe
+termen mediu. Suma estimărilor impactului financiar se prezintă în fișa financiară
+completată conform metodologiei de analiză a impactului de reglementare aprobată de
+Guvern. De asemenea, se descifrează calculele din care rezultă costurile menționate supra.”
+### Art. XIII. – Articolul 39 din Legea nr. 271/2017 privind auditul situațiilor financiare
+(Monitorul Oficial al Republicii Moldova, 2018, nr. 7–17, art. 48), cu modificările ulterioare,
+se modifică după cum urmează:
+la alineatul (1), textul „ , din subvenții de la bugetul de stat primite prin intermediul
+Ministerului Finanțelor” se exclude;
+la alineatul (2), cuvântul „Guvern” se substituie cu cuvintele „Ministerul Finanțelor”;
+la alineatul (3), litera j) se abrogă.
+### Art. XIV. – La articolul 9 litera e) din Legea nr. 302/2017 cu privire la Serviciul
+Vamal (Monitorul Oficial al Republicii Moldova, 2018, nr. 68–76, art. 143), cu modificările
+ulterioare, cuvintele „vor activa conform principiului de autogestiune și” se exclud.
+### Art. XV. – Legea nr. 29/2018 privind delimitarea proprietății publice (Monitorul
+Oficial al Republicii Moldova, 2018, nr. 142–148, art. 279), cu modificările ulterioare, se
+modifică după cum urmează:
+1. La articolul 5 alineatul (4) litera a), textul „bugetare, de autoritățile/ instituțiile
+publice cu autogestiune” se substituie cu cuvântul „publice”.
+2. La articolul 9 alineatul (2) litera k), textul „instituțiile bugetare/publice cu
+autogestiune” se substituie cu cuvintele „instituțiile publice”.
+### Art. XVI. – La articolul 24 din Legea nr. 234/2021 cu privire la serviciile publice
+(Monitorul Oficial al Republicii Moldova, 2022, nr. 34–38, art. 34), cu modificările
+ulterioare, alineatul (8) va avea următorul cuprins:
+„(8) Nomenclatorul serviciilor publice contra plată prestate de prestatorii de servicii
+publice și mărimea tarifelor la servicii, calculată în baza metodologiei de calculare a
+tarifelor aprobată de Guvern, se stabilesc de către autoritatea ierarhic superioară/
+fondatorul acestora, cu excepția cazurilor în care aceasta ține de competența Parlamentului,
+în conformitate cu Legea nr. 160/2011 privind reglementarea prin autorizare a activității de
+întreprinzător.”
+### Art. XVII. – La articolul 54 alineatul (5) litera f) din Codul electoral nr. 325/2022
+(Monitorul Oficial al Republicii Moldova, 2022, nr. 426–427, art. 770), cu modificările
+ulterioare, cuvintele „la autogestiune” se exclud.
+### Art. XVIII. – (1) Prezenta lege intră în vigoare la data publicării în Monitorul Oficial
+al Republicii Moldova, cu excepția:
+a) art. XIV, care intră în vigoare la data publicării în Monitorul Oficial al Republicii
+Moldova a Legii privind instituțiile publice;
+b) art. II, a art. IV pct. 7, a art. V, a art. VIII, a art. IX pct. 2 și 3, pct. 4 părțile care
+se referă la noțiunile „autoritate/instituție publică la autogestiune”, „cont unic trezorerial”,
+„instituție publică”, „monitoring financiar”, pct. 8 partea care se referă la literele f), k) și
+k¹), pct. 9 partea care se referă la literele a), g) și j) din alineatul (1) și la alineatul (2), pct.
+12, pct. 18 partea care se referă la alineatele (2) și (2¹), pct. 20, pct. 24 partea ce modifică
+alineatul (9), pct. 30 și 31, pct. 33 ce vizează alineatul (3) litera b) din articolul 78 în partea
+inspectării financiare a instituțiilor publice, a art. X, a art. XV–XVII, care intră în vigoare la 1
+ianuarie 2027.
+(2) Prin derogare de la alin. (1) lit. b), bugetul instituției publice finanțate din
+veniturile bugetare se elaborează și se aprobă conform principiilor, regulilor și procedurilor
+prevăzute de Legea finanțelor publice și responsabilității bugetar-fiscale nr. 181/2014,
+începând cu procesul bugetar pentru anul 2027.
+(3) De la data publicării prezentei legi în Monitorul Oficial al Republicii Moldova și
+până la 1 ianuarie 2027, inspectarea financiară a autorității/instituției publice la
+autogestiune se efectuează pe aspectele menționate la art. IX pct. 33 în partea ce ține de
+articolul 78 alineatul (3) litera b).
+(4) Guvernul, în termen de 6 luni de la data publicării prezentei legi:
+a) va modifica actele sale normative în conformitate cu prezenta lege;
+b) va elabora actele normative necesare pentru implementarea prezentei legi.
+PREȘEDINTELE PARLAMENTULUI Igor GROSU
+Nr. 327. Chișinău, 29 decembrie 2025.

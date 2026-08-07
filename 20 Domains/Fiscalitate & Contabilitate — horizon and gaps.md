@@ -5,7 +5,7 @@ domeniu: [fiscal, contabilitate]
 tags: [domain, analysis, fiscal, contabilitate, horizon, gaps]
 status: reviewed
 created: 2026-08-06
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Fiscalitate & Contabilitate — structure, horizon, gaps
@@ -27,7 +27,9 @@ MOC — Fiscalitate & Contabilitate
 ├── Primary acts
 │   ├── Codul fiscal 1163/1997       (Titluri I–X + master notă)
 │   ├── Legea 287/2017 + Legea 86/2026
-│   └── Codul vamal 95/2021
+│   ├── Codul vamal 95/2021
+│   ├── HG 93/2013 + HG 829/2025     (VAT refund + stock-option annex)
+│   └── Legea 327/2025               (public-finance management; staged IF)
 ├── Concepts
 │   ├── Impozit pe venit · TVA · Accize · Rezident fiscal
 │   └── Situații financiare
@@ -52,6 +54,7 @@ Verified against MF summaries and the vault’s CF consolidation (Aug 2026). Re-
 |---|---|---|---|
 | **VAT registration threshold** | Raised **1.2 → 1.5 MDL m** | Titlul III art. 112 area | More room to stay outside VAT / stay in 4% SME regime |
 | **Energy reverse charge** | Domestic EE/gas to **comerciant**; also imports of energy + network services | Titlul III art. **101⁷** | Energy traders: invoice without VAT + self-account; declare comerciant status to SFS |
+| **VAT refund / ESOP package** | HG 93 refund chapters XI²/XI³; stock-option plan annex; payroll benefit valuation tweak | [[HG 829-2025 — modificare acte fiscale vamale audit (notă)\|HG 829/2025]] (IF 1 Jan 2026) · [[HG 93-2013 — restituirea TVA (notă)\|HG 93/2013]] | Reverse-charge refund math + staged gas payout; GMS ESOP plans must meet 3-year vesting / 25% cap |
 | **e-Factura deduction clamp removed** | Art. 102(18) **abrogated** 01.01.2026 | Titlul III art. 102 | Paper/other formats no longer automatic denial vs mandatory e-Factura users |
 | **Independent entrepreneurs** | Single tax **15% / 35%** above 1.2 MDL m; no books; SFS computes from ECC + bank data | Titlul II cap. **10⁴** | New micro-service channel; labour recharacterisation risk if client fails art. 24(11¹) tests |
 | **Deferred CIT (art. 87(11))** | Extended through **2026**; eligibility ≤249 staff + ≤100 MDL m turnover/assets (with trade exclusions) | Titlul II art. 87 | Cash-tax deferral until distribution — model before year-end |
@@ -80,7 +83,7 @@ Verified against MF summaries and the vault’s CF consolidation (Aug 2026). Re-
 | Gap | Why it matters | Priority |
 |---|---|---|
 | **Annual fiscal-policy laws** (esp. 318/2025 and successors; 2027 package when enacted) | Rate and regime vehicle every 1 January | **P0** |
-| **HG 93/2013** VAT refund regulation (+ later amends) | Cash-flow disputes | **P1** |
+| ~~**HG 93/2013** VAT refund regulation~~ | ✅ ingested with [[HG 829-2025 — modificare acte fiscale vamale audit (notă)\|HG 829/2025]] | done |
 | **IT Park law / regulations** (beyond Titlul X) | Flagship incentive — status rules sit outside CF | **P1** |
 | **Double tax treaty texts** (at least RO, RO/UA corridors, NL, DE, US if used) | Withholding advice | **P1** |
 | **Statutory audit law** + oversight body acts | Who must be audited beyond L287 categories | **P2** |
@@ -103,6 +106,7 @@ Verified against MF summaries and the vault’s CF consolidation (Aug 2026). Re-
 - Codul fiscal Titluri I–X — **ingested**  
 - L287 + L86 — **ingested** with Law House notes  
 - Codul vamal — **ingested**  
+- HG 93/2013 + HG 829/2025 + L327/2025 — **ingested** (2026-08-07 PDF batch)  
 - Master CF note + two domain syntheses + MOC — **present**  
 
 ---

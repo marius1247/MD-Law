@@ -26,7 +26,7 @@ Moldovan company law is **three-layered**, and the layers are not always consist
 | Special | **Legea nr. 1134/1997** (SA) · **Legea nr. 135/2007** (SRL) | Form-specific rules. Prevail over the Civil Code where they differ. |
 | Procedural | **Legea nr. 220/2007** — state registration | How a company comes into and goes out of legal existence; what the register does. |
 
-Sitting across all three: **Legea nr. 845/1992** on entrepreneurship and enterprises — the Soviet-era survivor, still formally in force, largely obsolete, and slated for **complete repeal** by a new entrepreneurship law (Government project 345/MDED/2025) with a **two-year transition** after publication. Treat 845/1992 as a legacy layer: check whether the provision you need has already been superseded by the Civil Code.
+Sitting across all three: [[Legea 845-1992 — antreprenoriat si intreprinderi (text)|**Legea nr. 845/1992**]] on entrepreneurship and enterprises — ✅ ingested ([[Legea 845-1992 — antreprenoriat si intreprinderi (notă)|notă]]); the Soviet-era survivor, still formally in force, largely obsolete, and slated for **complete repeal** by a new entrepreneurship law (Government project 345/MDED/2025) with a **two-year transition** after publication. Treat 845/1992 as a legacy layer: check whether the provision you need has already been superseded by the Civil Code.
 
 The direction of the whole system is **EU company-law alignment** — L1134/1997 has been amended to transpose **Directive (EU) 2017/1132** (codified company law) and **Directive 2007/36/EC** (shareholder rights).
 

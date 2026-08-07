@@ -48,6 +48,9 @@ Key watch: Government **politica fiscală 2027** draft proposes Estonian-style d
 | [[Legea 287-2017 — contabilitate (text)\|Legea nr. 287/2017]] | ✅ complete | [[Legea 287-2017 — contabilitate (notă)]] |
 | [[Legea 86-2026 — modificare Legea contabilitatii (text)\|Legea nr. 86/2026]] | ✅ complete · **IF 1 Jan 2027** | [[Legea 86-2026 — modificare Legea contabilitatii (notă)]] |
 | [[Codul vamal 95-2021 (text)\|Codul vamal nr. 95/2021]] | ✅ complete | [[Codul vamal 95-2021 (notă)]] |
+| [[HG 93-2013 — restituirea TVA (text)\|HG nr. 93/2013]] (VAT refund regulation) | ✅ complete · consol. HG829 | [[HG 93-2013 — restituirea TVA (notă)]] |
+| [[HG 829-2025 — modificare acte fiscale vamale audit (text)\|HG nr. 829/2025]] | ✅ complete · **IF 1 Jan 2026** | [[HG 829-2025 — modificare acte fiscale vamale audit (notă)]] |
+| [[Legea 327-2025 — managementul finantelor publice (text)\|Legea nr. 327/2025]] (public-finance management) | ✅ complete · staged IF → 2027 | [[Legea 327-2025 — managementul finantelor publice (notă)]] |
 
 ### Fiscal Code by Titlu
 

@@ -3,7 +3,7 @@ title: "SOURCE INDEX — legis.md dumps"
 type: reference
 tags: [reference, meta, ingestion]
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-08-07
 ---
 
 # Source index — raw legis.md dumps
@@ -35,6 +35,11 @@ updated: 2026-07-26
 | `151210` | [`151210.md`](151210.md) | `10 Legislation/Authority Acts/Rectificare ANRE 05-03-5694-2025 (text).md` |
 | `151415` | [`151415.md`](151415.md) | `10 Legislation/Laws/Legea 92-2014 — energia termica si cogenerarea (text).md` |
 | `151929` | [`151929.md`](151929.md) | `10 Legislation/Authority Acts/HANRE 423-2019 — Codul retelelor electrice (text).md` |
+| `152300` | [`152300.md`](152300.md) · [`152300.pdf`](152300.pdf) | `10 Legislation/Government Decisions/HG 829-2025 — modificare acte fiscale vamale audit (text).md` |
+| `152350` | [`152350.md`](152350.md) · [`152350.pdf`](152350.pdf) | `10 Legislation/Laws/Legea 330-2025 — modificare secret comercial (text).md` |
+| `152360` | [`152360.md`](152360.md) · [`152360.pdf`](152360.pdf) | `10 Legislation/Laws/Legea 327-2025 — managementul finantelor publice (text).md` |
+| `152472` | [`152472.md`](152472.md) · [`152472.pdf`](152472.pdf) | `10 Legislation/Government Decisions/HG 93-2013 — restituirea TVA (text).md` |
+| `152587` | [`152587.md`](152587.md) · [`152587.pdf`](152587.pdf) | `10 Legislation/Laws/Legea 845-1992 — antreprenoriat si intreprinderi (text).md` |
 | `152605` | [`152605.md`](152605.md) | `10 Legislation/Laws/Legea 149-2012 — insolvabilitate (text).md` |
 | `152862` | [`152862.md`](152862.md) | `10 Legislation/Codes/Codul fiscal 1163-1997 (text) — Index.md`<br>`10 Legislation/Codes/Codul fiscal 1163-1997 — text — Titlul I.md`<br>`10 Legislation/Codes/Codul fiscal 1163-1997 — text — Titlul II.md`<br>`10 Legislation/Codes/Codul fiscal 1163-1997 — text — Titlul III.md`<br>`10 Legislation/Codes/Codul fiscal 1163-1997 — text — Titlul IV.md`<br>`10 Legislation/Codes/Codul fiscal 1163-1997 — text — Titlul IX.md`<br>`10 Legislation/Codes/Codul fiscal 1163-1997 — text — Titlul V.md`<br>`10 Legislation/Codes/Codul fiscal 1163-1997 — text — Titlul VI.md`<br>`10 Legislation/Codes/Codul fiscal 1163-1997 — text — Titlul VII.md`<br>`10 Legislation/Codes/Codul fiscal 1163-1997 — text — Titlul VIII.md`<br>`10 Legislation/Codes/Codul fiscal 1163-1997 — text — Titlul VI¹.md`<br>`10 Legislation/Codes/Codul fiscal 1163-1997 — text — Titlul X.md` |
 | `153007` | [`153007.md`](153007.md) | `10 Legislation/Laws/Legea 100-2017 — actele normative (text).md` |
@@ -74,6 +79,11 @@ updated: 2026-07-26
 - `HANRE 64/2018`, `HANRE 375/2017` — tariff methodology annexes
 - `HG 820/2024` — risk-preparedness annex
 - `HANRE 853/2025`, `HANRE 535/2019`, Law `461/2001`, Law `248/2025` — parents not yet dumped (legis.md Cloudflare / no mirror)
+- **Legea nr. 384/2023** privind protecția secretelor comerciale — pivot for [[Legea 330-2025 — modificare secret comercial (notă)]]; not yet dumped
+
+## PDF batch 2026-08-07
+
+Five legis.md mPDF exports (doc_ids above) ingested from Cursor uploads. PDFs had a short PostScript prefix before `%PDF`; stripped on archive. Working `(text)` built from extracted text with article/Art. anchors; companion `(notă)` written the same day.
 
 ## See also
 [[Conventions]] · [[Status ingestie — Energetica]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]

@@ -88,7 +88,7 @@ Other newly relevant amendment/transition acts now present:
 | [[HANRE 168-2019 — racordarea la retelele electrice (text)]] | **Abrogated** by [[HANRE 311-2026 — racordarea la retelele electrice (text)]] |
 | [[HANRE 486-2017 — Metodologie tarife transport EE (text)]] | **Abrogated** by [[HANRE 626-2023 — Metodologie tarife transport EE (text)]] |
 | [[HANRE 283-2020 — Regulile pietei energiei electrice (text)]] | Complete annex, amended 2026, but originally L107-based; check for L164 re-adoption/replacement |
-| [[HANRE 423-2019 — Codul retelelor electrice (text)]] | Decision-only parent; [[HANRE 656-2021 — modificare Codul retelelor electrice (text)\|656/2021]] ingested; originally L107-based |
+| [[HANRE 423-2019 — Codul retelelor electrice (text)]] | ✅ connection code Titluri I–IV (2026-08-07g); also [[HANRE 656-2021 — modificare Codul retelelor electrice (text)|656/2021]]; originally L107-based → L164 currency |
 
 
 
@@ -202,12 +202,12 @@ Individual **tariff decisions and licences** were *not* ingested. ANRE issues th
 | [[HG 829-2024 — audit energetic intreprinderi mari (text)]] | `146623` | ✅ full (~31 pts) | Large-enterprise audits under L139 |
 | [[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (text)]] | `146906` | ✅ full dispositif | PSO grid access for fixed-price eligible producers · L107/168 currency |
 | [[HG 53-2025 — durabilitate biocarburanti emisii GES (text)]] | `147068` | ✅ full | Biofuel sustainability + GHG methodology |
-| [[HG 74-2025 — calcul consum energie regenerabila (text)]] | `147296` | ⚠️ dispositif only | RES consumption reg. annex missing |
-| [[HG 76-2025 — cotizatii organizatii internationale 2025 (text)]] | `147150` | ⚠️ dispositif only | Budget/peripheral; list annex missing |
+| [[HG 74-2025 — calcul consum energie regenerabila (text)]] | `147296` | ✅ regulation | RES consumption calculation (2026-08-07g) |
+| [[HG 76-2025 — cotizatii organizatii internationale 2025 (text)]] | `147150` | ✅ list | International dues list (2026-08-07g) |
 
 ## Current priorities
 
-1. **Manual download** remaining annexes (legis.md Cloudflare blocks automation): clean consolidation of [[HANRE 423-2019 — Codul retelelor electrice (text)]] (656 helps but is not a consolidation), finish [[HANRE 169-2019 — furnizarea energiei electrice (text)]] past pt. 146, [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]], [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]], [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] annexes — see [[Analysis backlog — texts without notes]].
+1. **Manual download** remaining annexes (legis.md Cloudflare blocks automation): finish [[HANRE 169-2019 — furnizarea energiei electrice (text)]] past pt. 146, [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]], [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]], [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] annexes; keep consolidating [[HANRE 423-2019 — Codul retelelor electrice (text)|423]] with 656/later amends — see [[Analysis backlog — texts without notes]].
 2. Ingest still-missing parents: ~~**422/2019**, **423** connection code, **HG 74/86**~~ ✅ (2026-08-07g) · **L282/2023**, **HG 599/620/517** bodies, **HANRE 23/2017** regulation body, **HANRE 201/2017** GOs.
 3. Re-check electricity HANRE acts for L164-based re-adoption/replacement.
 4. Watch for a gas equivalent of [[Legea 164-2025 — energia electrica (text)|L164/2025]].

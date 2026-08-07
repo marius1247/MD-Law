@@ -5,7 +5,7 @@ domeniu: [energetică]
 tags: [domain, analysis, energetică]
 status: draft
 created: 2026-07-23
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Energy — sector synthesis
@@ -59,7 +59,7 @@ Two separate gates, often confused:
 
 A developer needs both, in that logical order, and the connection process is where projects actually die — queue position, cost allocation, and the operator's capacity assessment.
 
-> **Connection guarantee:** plants **above 200 kW** need a financial guarantee (amount set by ANRE) — see [[HANRE 311-2026 — racordarea la retelele electrice (notă)]] and [[Concept — Racordare la rețea]]. Check transitional reach to pre-reform holders.
+> **Connection guarantee:** plants **above 200 kW** need a financial guarantee (amount set by ANRE). Statute: [[Legea 45-2025 — garantiile avizelor de racordare si tolerante dezechilibre (notă)|LP45/2025]]; live ops: [[HANRE 311-2026 — racordarea la retelele electrice (notă)|311/2026]] · [[Concept — Garanție de bună execuție a avizului de racordare]]. Legacy avisuri had a **30.06.2025** surrender window; unbuilt capacity risks the **50–70% nevalorificare** tax.
 
 ### 3.4 Universal service and the socially exposed consumer → public service obligations
 A liberalised market will not, on its own, supply an unprofitable household. The mechanism is the **public service obligation** (`obligație de serviciu public`, [[Legea 164-2025 — energia electrica (text)#Articolul 17. Obligații de serviciu public|L164 art. 17]]; operational children arts. **114–115**), imposed on named participants and, where it imposes net cost, compensated. Its two operational children are the **supplier of last resort** ([[Concept — Furnizor de ultimă opțiune]]) and universal / regulated-tariff supply.
@@ -80,9 +80,9 @@ This is the pressure point in the current liberalisation programme: PSOs for lar
 - **Fixed tariff** for smaller eligible producers, set by ANRE under [[HANRE 375-2017 — Metodologie tarife regenerabile (text)|methodology 375/2017]];
 - **Auction / ceiling price** for larger capacity, allocated competitively against a quota set by Government.
 
-The gatekeeping concept is **eligible producer** ([[Concept — Producător eligibil]]) — status confers the support, and the capacity quota is what makes it scarce. **Net metering / net billing** handles the prosumer case.
+The gatekeeping concept is **eligible producer** ([[Concept — Producător eligibil]]) — status confers the support, and the capacity quota is what makes it scarce. **Net metering / net billing** handles the prosumer case. [[Legea 45-2025 — garantiile avizelor de racordare si tolerante dezechilibre (notă)|LP45/2025]] widened central-buyer imbalance deadbands to **±8% wind / ±4% PV** (excess-only outside the band) and exempts eligible producers from the connection guarantee.
 
-The binding constraint on Moldovan renewables is not the support level; it is **system integration** — a small, historically import-dependent system with limited flexibility and an interconnection profile reshaped by the post-2022 synchronisation with ENTSO-E via Romania. Legal work on renewables is in practice work on connection, curtailment and balancing exposure, not on tariff.
+The binding constraint on Moldovan renewables is not the support level; it is **system integration** — a small, historically import-dependent system with limited flexibility and an interconnection profile reshaped by the post-2022 synchronisation with ENTSO-E via Romania. Legal work on renewables is in practice work on connection, curtailment and balancing exposure, not on tariff. Strategic envelope: [[HG 86-2025 — Plan national integrat energie clima 2025-2030 (notă)|PNIEC 2025–2030]] (approving HG ingested; **plan annex still missing**).
 
 ## 6. EU alignment — the engine of the whole corpus
 
@@ -100,6 +100,8 @@ Alignment landmarks in the corpus:
 | [[Legea 108-2016 — gazele naturale (text)|L108/2016]] | Dir. 2009/73/EC — internal gas market | Third |
 | [[Legea 139-2018 — eficienta energetica (text)|L139/2018]] | Dir. 2012/27/EU (EED) as amended by (EU) 2018/2002 · EnC 2021/14/MC-EnC | EE · [[Legea 139-2018 — eficienta energetica (notă)|notă]] |
 | [[HG 820-2024 — situatii exceptionale electroenergetic (text)|HG 820/2024]] | Reg. (EU) 2019/941 — risk preparedness · EnC 2021/13/MC-EnC | Fourth · [[HG 820-2024 — situatii exceptionale electroenergetic (notă)|notă]] ⚠️ annex missing |
+| [[HG 10-2024 — guvernanta energetica si actiuni climatice (text)|HG 10/2024]] + [[HG 86-2025 — Plan national integrat energie clima 2025-2030 (text)|HG 86/2025]] | Reg. (EU) 2018/1999 — governance / PNIEC | Climate · PNIEC annex ⚠️ |
+| [[HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (text)|HG 197/2025]] | Delegated Reg. (EU) 2023/2104 (amending 2015/2402) · Dir. 2012/27/EU | EE / HE-CHP GOs · methodology annex ⚠️ |
 | ~~[[Legea 107-2016 — energia electrica (text)|L107/2016]]~~ *(repealed)* | Dir. 2009/72/EC | Third |
 
 **Electricity is now a package ahead of gas.** L164/2025 includes the 2024 amending instruments (Dir. 2024/1711, Reg. 2024/1747), so it is a current transposition rather than a lagging one. Gas remains on the third package — expect a gas equivalent of L164/2025 to follow, and treat that as the next major legislative event in the domain.
@@ -122,8 +124,12 @@ Alignment landmarks in the corpus:
 - Watch for a **gas equivalent of L164/2025** — gas is now a package behind electricity
 - Ingest **HG 820 Annexes 1–2**; L101 parents [[Legea 461-2001 — piata produselor petroliere (notă)|L461]] + [[Legea 248-2025 — managementul situatiilor de criza (notă)|L248]] now ✅; L131/2015 still absent; balancing T&Cs [[HANRE 853-2025 — clauze echilibrare FSE si PRE (notă)|HANRE 853]] ✅ (**IF 1 Jul 2026**)
 - Analysis backlog Batches 2–4: [[Analysis backlog — texts without notes]]
-- Gas transmission methodology [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)|HANRE 535/2019]] — decision ✅, **annex still missing**; amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] ✅. Also not ingested: 443/2020, quality of service (422/2019, 537/2020 — 537 patched by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|833/2023]]), network development (94/2019), dispatch (316/2018), gas metering (297/2022)
+- Gas transmission methodology [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)|HANRE 535/2019]] — decision ✅, **annex still missing**; amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] ✅. Gas DSO: [[HANRE 443-2020 — Metodologie tarife distributie gaze (notă)|443]] decision ✅ / annex ❌ · [[HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (notă)|785]] · [[HANRE 162-2026 — tarife uniforme distributie gaze (notă)|162]] rates ✅. QoS annexes still missing (422/2019, 537/2020 — 537 patched by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|833/2023]]).
 - Electricity network code: parent annex still incomplete; [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|656/2021]] now supplies Parts I–V substance
+- Fetch **PNIEC 2025–2030 annex** ([[HG 86-2025 — Plan national integrat energie clima 2025-2030 (notă)|HG 86]]) and **HE-CHP GO methodology annex** ([[HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (notă)|HG 197]]); ✅ security PSO [[HG 1059-2023 — PSO securitate aprovizionare energie electrica (notă)|HG 1059]] + [[HG 801-2025 — modificare HG 1059-2023 PSO securitate EE (notă)|801]] (to **31.12.2026**)
+- Interconnect corridor: [[Legea 88-2025 — utilitate publica LEA 400 kV Balti-Suceava (notă)|LP88 Bălți–Suceava]] ✅; Vulcănești expropriation patches in [[HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (notă)|HG 596]] (also extends [[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (notă)|HG 26]] to balancing-auction winners)
+- Gas stocks parent [[HG 668-2022 — stocuri securitate gaze naturale (notă)|HG 668]] ✅ — live **56.3 mcm** (HG 299/2026; mid-step [[HG 302-2025 — modificare HG 668-2022 stocuri securitate gaze (notă)|302]] was 50 mcm). Protection zones [[HG 852-2024 — zone protectie retele electrice (notă)|HG 852]] ⚠️ forms. Climate statute [[Legea 74-2024 — actiuni climatice (notă)|LP74/2024]] (Energy Ministry / PNIEC / CNED info). Live net-billing / RES quotas to 2030 via [[HG 599-2025 — limite cote capacitate regenerabile pana 2030 (notă)|HG 599]] ⚠️ annexes; gas QoS [[HANRE 422-2019 — calitate servicii transport distributie gaze (notă)|422]] ⚠️ annex; permissive [[Legea 227-2025 — optimizarea actelor permisive (notă)|LP227]] + [[Legea 317-2025 — modificare acte permisive (notă)|LP317]]
+- CNED org [[HG 1060-2023 — organizare functionare CNED (notă)|HG 1060]] + FEE handover [[HG 620-2025 — transmitere bunuri Fond eficienta energetica CNED (notă)|HG 620]]; plant auth [[HG 517-2024 — Regulament constructie reconstructie centrale electrice (notă)|HG 517]]; thermal supply [[HANRE 23-2017 — furnizarea energiei termice (notă)|HANRE 23]]
 - Licence-holder procurement → [[Legea 74-2020 — achizitii sectoriale (notă)|L74/2020]] / [[MOC — Achiziții publice & Statul]] (HANRE 24 abrogated)
 - Corporate-law overlap: unbundling is executed through **group restructuring** — see [[Societăți & guvernanță — synthesis]]
 

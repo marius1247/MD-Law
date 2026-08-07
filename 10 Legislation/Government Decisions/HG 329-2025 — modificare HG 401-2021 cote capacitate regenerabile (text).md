@@ -1,0 +1,104 @@
+---
+title: "HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile (text)"
+type: act-text
+act_type: hotărâre-guvern
+nr: "329"
+an: 2025
+domeniu:
+- energetică
+- regenerabile
+- facturare netă
+domain: [energetică, regenerabile, facturare netă]
+issuer: Guvern
+in_force: true
+in_vigoare: true
+mo_publicare: "MO 301-304/06.06.2025 art. 332"
+legis_id: "148815"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=148815"
+version_date: 2026-08-07
+versiune_text: 2026-08-07
+continut: dispozitiv — anexa nr. 2 lipsă
+text_complet: false
+puncte_numarate: 5
+articole_numarate: 0
+tags: [act, text, acte_normative, energetică]
+created: 2026-08-07
+updated: 2026-08-07
+source_ingest: pdf-upload-pdftotext
+legal_status: in_vigoare
+enabling_act: "[[Legea 10-2016 — surse regenerabile (text)|L10/2016]] art. 10(1)(e)(e1)(i)"
+amends: "HG 401/2021 (RES capacity limits/quotas to 31.12.2025) — parent not in vault"
+status_ingestie: dispozitiv — anexa nr. 2 lipsă
+---
+# HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md** PDF (doc_id [148815](https://www.legis.md/cautare/getResults?lang=ro&doc_id=148815)), pdftotext + structură ușoară.
+> Analiză: [[HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile (notă)]].
+
+> [!warning] Completeness
+> Anexa nr. 2 (plafoane/cote facturare netă) lipsește din PDF — placeholder „anexa nr.2”.
+
+---
+
+Republica Moldova
+
+GUVERNUL
+HOTĂRÂRE Nr. HG329/2025
+din 05.06.2025
+
+pentru modificarea Hotărârii Guvernului nr. 401/2021
+cu privire la aprobarea limitelor de capacitate, a cotelor
+maxime și a categoriilor de capacitate în domeniul
+energiei electrice din surse regenerabile valabile
+până la data de 31 decembrie 2025
+Publicat : 06.06.2025 în MONITORUL OFICIAL Nr. 301-304 art. 332 Data intrării în vigoare
+
+În temeiul art. 10 alin. (1) lit. e), e1) și i) din Legea nr. 10/2016 privind promovarea
+utilizării energiei din surse regenerabile (Monitorul Oficial al Republicii Moldova, 2016, nr.
+69-77, art. 117), cu modificările ulterioare, Guvernul HOTĂRĂŞTE:
+### Punctul 1. Hotărârea Guvernului nr. 401/2021 cu privire la aprobarea limitelor de capacitate,
+a cotelor maxime și a categoriilor de capacitate în domeniul energiei electrice din surse
+regenerabile valabile până la data de 31 decembrie 2025 (Monitorul Oficial al Republicii
+Moldova, 2021, nr. 302-306, art. 684), cu modificările ulterioare, se modifică după cum
+urmează:
+1.1. la punctul 12, subpunctul 6) va avea următorul cuprins:
+„6) instituția publică care asigură suportul în implementarea politicii statului în
+domeniul eficienței energetice și în promovarea utilizării energiei din surse regenerabile
+monitorizează nivelul de dare în exploatare a centralelor electrice în cadrul mecanismului
+de facturare netă și informează Ministerul Energiei despre atingerea a 90 % din cota de
+capacitate stabilită în anexa nr. 2”;
+1.2. anexa nr. 2 va avea următorul cuprins:
+anexa nr.2
+### Punctul 2. Consumatorii casnici care, la data intrării în vigoare a prezentei hotărâri, au
+semnate contracte de facturare netă pot solicita operatorului sistemului de distribuție și
+furnizorului de energie electrică modificarea plafonului individual de capacitate, conform
+valorii stabilite în anexa nr. 2 la Hotărârea Guvernului nr. 401/2021 cu privire la aprobarea
+limitelor de capacitate, a cotelor maxime și a categoriilor de capacitate în domeniul energiei
+electrice din surse regenerabile valabile până la data de 31 decembrie 2025 (în continuare –
+Hotărârea Guvernului nr. 401/2021).
+
+
+### Punctul 3. Consumatorii casnici cu multiple locuri de consum, care dețin o centrală electrică
+situată în afara locului/locurilor de consum și respectă prevederile art. 391 alin. (5) și ale art.
+392 din Legea nr. 10/2016 privind promovarea utilizării energiei din surse regenerabile, pot
+semna contracte de facturare netă cu furnizorul de energie electrică la valoarea plafonului
+de capacitate individuală stabilită în anexa nr. 2 la Hotărârea Guvernului nr. 401/2021 sau
+în conformitate cu plafonul de capacitate individuală determinat conform formulei privind
+consumul maxim anual din ultimii 3 ani la locurile de consum raportat la coeficientul ce
+exprimă energia electrică generată pe parcursul unui an calendaristic de o centrală
+electrică pentru producerea de energie electrică din surse regenerabile de energie cu
+puterea instalată de 1 kW, dar nu mai mult de 200 kW.
+### Punctul 4. Pentru consumatorii noncasnici cu multiple locuri de consum, care dețin o centrală
+electrică situată în afara locului/locurilor de consum și respectă prevederile art. 391 alin. (5)
+și ale art. 39 2 din Legea nr. 10/2016 privind promovarea utilizării energiei din surse
+regenerabile, plafonul de capacitate individual se va calcula ca suma plafoanelor de
+capacitate individuală, stabilite pentru fiecare loc de consum în conformitate cu anexa nr. 2
+la Hotărârea Guvernului nr. 401/2021, cu condiția ca totala capacitate sumară să nu
+depășească 200 kW.
+### Punctul 5. Prezenta hotărâre intră în vigoare la data publicării în Monitorul Oficial al
+Republicii Moldova.
+PRIM-MINISTRU Dorin RECEAN
+Contrasemnează:
+Ministrul energiei Dorin Junghietu
+Nr. 329. Chişinău, 5 iunie 2025.

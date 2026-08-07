@@ -136,4 +136,48 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 | [[HG 74-2025 — calcul consum energie regenerabila (text)]] | [[HG 74-2025 — calcul consum energie regenerabila (notă)]] ⚠️ annex missing |
 | [[HG 76-2025 — cotizatii organizatii internationale 2025 (text)]] | [[HG 76-2025 — cotizatii organizatii internationale 2025 (notă)]] ⚠️ peripheral |
 
-Optional next: **535/355/537** methodology annexes, **422/2019**, **HG 74/2025** annex, **L282/2023** parent.
+## Batch 11 — energy PDF (2026-08-07e) ✅
+
+| Act | Note |
+|---|---|
+| [[Legea 45-2025 — garantiile avizelor de racordare si tolerante dezechilibre (text)]] | [[Legea 45-2025 — garantiile avizelor de racordare si tolerante dezechilibre (notă)]] · [[Concept — Garanție de bună execuție a avizului de racordare]] |
+| [[HG 86-2025 — Plan national integrat energie clima 2025-2030 (text)]] | [[HG 86-2025 — Plan national integrat energie clima 2025-2030 (notă)]] ⚠️ PNIEC annex missing |
+| [[HG 156-2025 — modificare HG 1059-2023 PSO securitate EE (text)]] | [[HG 156-2025 — modificare HG 1059-2023 PSO securitate EE (notă)]] · parent [[HG 1059-2023 — PSO securitate aprovizionare energie electrica (notă)\|1059]] ✅ · later [[HG 801-2025 — modificare HG 1059-2023 PSO securitate EE (notă)\|801]] |
+| [[HG 158-2025 — modificare norme cheltuieli institutii sociale (text)]] | [[HG 158-2025 — modificare norme cheltuieli institutii sociale (notă)]] ⚠️ peripheral |
+| [[HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (text)]] | [[HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (notă)]] ⚠️ methodology annex missing · [[Concept — Garanții de origine (cogenerare HE)]] |
+
+## Batch 12 — energy PDF (2026-08-07f) ✅
+
+| Act | Note |
+|---|---|
+| [[Legea 88-2025 — utilitate publica LEA 400 kV Balti-Suceava (text)]] | [[Legea 88-2025 — utilitate publica LEA 400 kV Balti-Suceava (notă)]] |
+| [[Legea 227-2025 — optimizarea actelor permisive (text)]] | [[Legea 227-2025 — optimizarea actelor permisive (notă)]] |
+| [[HG 302-2025 — modificare HG 668-2022 stocuri securitate gaze (text)]] | [[HG 302-2025 — modificare HG 668-2022 stocuri securitate gaze (notă)]] |
+| [[HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile (text)]] | [[HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile (notă)]] ⚠️ annex 2 · [[Concept — Facturare netă]] |
+| [[HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (text)]] | [[HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (notă)]] |
+| [[HANRE 422-2019 — calitate servicii transport distributie gaze (text)]] | [[HANRE 422-2019 — calitate servicii transport distributie gaze (notă)]] ⚠️ decision-only |
+
+## Batch 13 — energy PDF (2026-08-07g) ✅
+
+| Act | Note |
+|---|---|
+| [[HG 1060-2023 — organizare functionare CNED (text)]] | [[HG 1060-2023 — organizare functionare CNED (notă)]] ⚠️ annex 4 |
+| [[HG 620-2025 — transmitere bunuri Fond eficienta energetica CNED (text)]] | [[HG 620-2025 — transmitere bunuri Fond eficienta energetica CNED (notă)]] |
+| [[HG 599-2025 — limite cote capacitate regenerabile pana 2030 (text)]] | [[HG 599-2025 — limite cote capacitate regenerabile pana 2030 (notă)]] ⚠️ annexes |
+| [[HG 517-2024 — Regulament constructie reconstructie centrale electrice (text)]] | [[HG 517-2024 — Regulament constructie reconstructie centrale electrice (notă)]] |
+| [[HANRE 23-2017 — furnizarea energiei termice (text)]] | [[HANRE 23-2017 — furnizarea energiei termice (notă)]] ⚠️ form annexes |
+| [[HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (text)]] | [[HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (notă)]] · parent decision [[HANRE 443-2020 — Metodologie tarife distributie gaze (notă)\|443]] ✅ · annex ❌ · rates [[HANRE 162-2026 — tarife uniforme distributie gaze (notă)\|162]] |
+| [[HG 1059-2023 — PSO securitate aprovizionare energie electrica (text)]] | [[HG 1059-2023 — PSO securitate aprovizionare energie electrica (notă)]] |
+| [[HG 801-2025 — modificare HG 1059-2023 PSO securitate EE (text)]] | [[HG 801-2025 — modificare HG 1059-2023 PSO securitate EE (notă)]] |
+| [[HANRE 443-2020 — Metodologie tarife distributie gaze (text)]] | [[HANRE 443-2020 — Metodologie tarife distributie gaze (notă)]] · **annex still missing** |
+| [[HANRE 162-2026 — tarife uniforme distributie gaze (text)]] | [[HANRE 162-2026 — tarife uniforme distributie gaze (notă)]] |
+| [[Legea 317-2025 — modificare acte permisive (text)]] | [[Legea 317-2025 — modificare acte permisive (notă)]] |
+| [[Legea 53-2026 — reforma autoritatilor Ministerul Mediului (text)]] | [[Legea 53-2026 — reforma autoritatilor Ministerul Mediului (notă)]] · peripheral |
+
+| [[HG 668-2022 — stocuri securitate gaze naturale (text)]] | [[HG 668-2022 — stocuri securitate gaze naturale (notă)]] · live **56.3 mcm** |
+| [[HG 852-2024 — zone protectie retele electrice (text)]] | [[HG 852-2024 — zone protectie retele electrice (notă)]] · form annexes ❌ |
+| [[Legea 74-2024 — actiuni climatice (text)]] | [[Legea 74-2024 — actiuni climatice (notă)]] |
+| [[Legea 75-2026 — cadru institutii publice (text)]] | [[Legea 75-2026 — cadru institutii publice (notă)]] · peripheral |
+| [[Legea 105-2024 — Retea date durabilitate agricola (text)]] | [[Legea 105-2024 — Retea date durabilitate agricola (notă)]] · peripheral |
+
+Optional next: **HG 299/2026**, **HG 599 annexes**, **HANRE 443 methodology annex**, **PNIEC / HG 197 methodology**, **422/537 QoS annexes**, **HG 852 forms**, **535/355** methodology annexes, **L282/2023**.

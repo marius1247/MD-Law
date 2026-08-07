@@ -1,0 +1,323 @@
+---
+title: "HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (text)"
+type: act-text
+act_type: hotărâre-anre
+nr: "785"
+an: 2025
+domeniu:
+- energetică
+- gaze
+- tarife
+domain: [energetică, gaze, tarife]
+issuer: ANRE
+in_force: true
+in_vigoare: true
+mo_publicare: "MO 626-629/23.12.2025 art. 1122"
+legis_id: "152152"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=152152"
+version_date: 2026-08-07
+versiune_text: 2026-08-07
+continut: text-integral
+text_complet: true
+puncte_numarate: 8
+articole_numarate: 0
+tags: [act, text, acte_normative, energetică, ANRE]
+created: 2026-08-07
+updated: 2026-08-07
+source_ingest: pdf-upload-pdftotext
+legal_status: in_vigoare
+enabling_act: "[[Legea 108-2016 — gazele naturale (text)|L108/2016]] art. 7(2)(a), art. 99(5¹), art. 99³(2)"
+amends: "HANRE 443/2020 gas DSO tariff methodology — parent not in vault"
+---
+# HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md** PDF (doc_id [152152](https://www.legis.md/cautare/getResults?lang=ro&doc_id=152152)), pdftotext + structură ușoară.
+> Analiză: [[HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (notă)]].
+
+---
+
+Republica Moldova
+
+AGENȚIA NAȚIONALĂ PENTRU REGLEMENTARE ÎN ENERGETICĂ
+HOTĂRÂRE Nr. HANRE785/2025
+din 16.12.2025
+
+privind modificarea Metodologiei de calculare,
+de aprobare şi de aplicare a tarifelor reglementate
+pentru serviciul de distribuție a gazelor naturale,
+aprobată prin Hotărârea Consiliului de administrație
+al Agenției Naționale pentru Reglementare în
+Energetică nr. 443/2020
+Publicat : 23.12.2025 în MONITORUL OFICIAL Nr. 626-629 art. 1122 Data intrării în vigoare
+
+În temeiul art.7 alin.(2) lit. a), art.99 alin. (5 1) și art. 993 alin. (2) din Legea nr.
+108/2016 cu privire la gazele naturale (Monitorul Oficial al Republicii Moldova, 2016, nr.
+193-203, art.415), Consiliul de administrație al Agenției Naționale pentru Reglementare în
+Energetică
+HOTĂRĂŞTE:
+### Punctul 1. Metodologia de calculare, de aprobare și de aplicare a tarifelor reglementate
+pentru serviciul de distribuție a gazelor naturale, aprobată prin Hotărârea Consiliului de
+administrație al Agenției Naționale pentru Reglementare în Energetică (ANRE) nr. 443/2020
+(Monitorul Oficial al Republicii Moldova, 2020, nr.332-342, art. 1312), înregistrată la
+Ministerul Justiției cu nr. 1606 din 2 decembrie 2020, se modifică după cum urmează:
+1) La punctul 2,
+subpunctul 2)
+se completează cu textul „ , pentru fiecare OSD;”;
+se completează cu subpunctul 61) cu următorul cuprins:
+„61) modul de determinare a venitului reglementat ale fiecărui OSD;”;
+se completează cu subpunctul 9) cu următorul cuprins:
+„9) în legătură cu aplicarea mecanismului aferent tarifului uniform de distribuție a
+gazelor naturale:
+a) modul de calculare și aplicare a tarifelor uniforme de distribuție în funcție de
+nivelul presiunii în rețelele de gaze naturale la care sunt racordate instalațiile de gaze
+naturale ale consumatorilor finali și la punctele de măsurare comercială cu alți OSD;
+
+
+b) mecanismul de determinare a plăților compensatorii de egalizare;
+c) frecvența efectuării plăților compensatorii de egalizare, care urmează să fie
+achitate de către OSD sau către aceștia;
+d) mecanismul de recuperare a oricărui deficit tarifar înregistrat ca urmare a
+achitării cu întârziere sau a neachitării plăților compensatorii de egalizare de către OSD.”
+2) Punctul 3 se completează cu subpunctul 8) cu următorul cuprins:
+„8) asigurarea recuperării în timp util a costurilor de către OSD.”
+3) La punctul 9,
+partea introductivă va avea următorul cuprins:
+„9. În sensul Metodologiei se utilizează noțiunile definite în Legea nr.108/2016 cu
+privire la gazele naturale, precum și următoarele noțiuni:”
+se completează cu următoarele noțiuni:
+entitate pentru reconciliere ‒ entitate desemnată de ANRE care este
+responsabilă de efectuarea și primirea plăților compensatorii de egalizare către/de la OSD,
+determinate în conformitate cu metodologia, pentru a se asigura că OSD respectivi își
+recuperează integral veniturile reglementate și, concomitent, nu obțin venituri în exces
+celor reglementate atunci când aplică tariful uniform de distribuție a gazelor naturale;
+plată compensatorie de egalizare – plată efectuată de către OSD către entitatea
+de reconciliere sau de către entitatea de reconciliere către OSD, în mărimea diferenței
+dintre tariful uniform de distribuție și tariful de distribuție calculat în baza venitului
+reglementat al OSD conform pct. 55, în lei/1000 m3 de gaze naturale distribuite.
+4) La punctul 15,
+noțiunea termenului „PFFn”, va avea următorul cuprins:
+„PFF n – preţul mediu ponderat anual de procurare a gazelor naturale, care nu
+depășește prețul reglementat mediu ponderat anual pentru furnizarea de ultimă opțiune a
+gazelor naturale. La determinarea prețului mediu ponderat anual de procurare a gazelor
+naturale se include costul pentru serviciul de transport și distribuție a gazelor naturale
+lei/1000 m3, suportat de OSD la procurarea gazelor naturale.
+după noțiunea termenului „PFFn”, se completează cu următorul text:
+„Prețul reglementat mediu ponderat anual pentru furnizarea de ultimă opțiune a
+gazelor naturale se determină conform relației:
+
+
+unde,
+PGN – prețul reglementat mediu ponderat anual pentru furnizarea de ultimă opțiune a
+gazelor naturale, lei/1000 m3;
+CTPj – volumul lunar efectiv al consumului tehnologic și al pierderilor de gaze
+naturale înregistrat de OSD, aferent lunii j, mii m3;
+Pj – prețul reglementat aprobat de Agenție pentru furnizarea gazelor naturale în
+contextul îndeplinirii obligației de serviciu public de a asigura furnizarea de ultimă opțiune
+aferent lunii j, lei/1000 m3;
+j = [1;12] - luna aferentă anului calendaristic.”
+5) Se completează cu punctele 151 și 152 cu următorul cuprins:
+„151. Prețul reglementat mediu ponderat anual pentru furnizarea de ultimă opțiune
+a gazelor naturale se instituie în calitate de plafon la determinarea prețului mediu ponderat
+anual de procurare a gazelor naturale - începând cu 1 octombrie 2026. Până la 30
+septembrie 2026 plafonul se stabilește la nivelul prețului reglementat pentru furnizarea
+gazelor naturale anumitor categorii de consumatori finali în contextul art.89 din Legea
+nr.108/2016 cu privire la gazele naturale.
+### Punctul 152. OSD va procura gazele naturale pentru acoperirea consumului tehnologic și a
+pierderilor de gaze naturale în rețelele de distribuție a gazelor naturale în conformitate cu
+Regulile Pieței gazelor naturale aprobate prin Hotărârea ANRE nr. 534/2019”;
+6) La punctul 28, în textul noțiunilor „∆NC n ”, „NC n ”și „NC n - 1 ” cuvintele
+„consumatorilor finali” se substituie cu cuvintele „locurilor de consum”.
+7) La punctul 31, sbp. 3) a doua propoziție – se exclude.
+8) La punctul 45,
+noțiunea termenului „AFRn” va avea următorul cuprins:
+„AFRn - alocația pentru fondul de rulment, care este destinată plăților dobânzilor
+pentru creditele bancare sau alte împrumuturi de mijloace bănești primite și valorificate
+eficient pe termen scurt în scopul acoperirii obligațiilor financiare pe termen scurt ale OSD
+rezultate din diferența de timp dintre regimul de facturare-achitare a serviciului de
+distribuție a gazelor naturale și regimul de plăți pentru necesitățile OSD (procurări de
+materiale, achitări servicii, etc.) în conformitate cu contractele semnate cu furnizorii și
+cheltuielile facturate. Rata dobânzii aferentă altor împrumuturi de mijloace bănești nu va
+depăși rata medie ponderată a dobânzilor la creditele acordate persoanelor juridice în anul
+,,n”, în monedă națională, publicată de Banca Națională a Moldovei la compartimentul:
+Ratele medii ponderate ale dobânzilor la creditele noi acordate, Rata medie ponderată la
+creditele acordate în monedă națională /persoane juridice /până la 12 luni. Alocația pentru
+fondul de rulment (AFRn) se determină conform formulei:
+
+
+(17)
+unde:
+α – necesitatea de fonduri de rulment în anul „n”, exprimată în zile de facturări
+anuale, care se stabilește în număr de 6 zile.
+RDb n – rata medie ponderată a dobânzilor la creditele noi acordate în monedă
+națională pentru persoanele juridice pe un termen de până la 12 luni stabilită de Banca
+Națională a Moldovei.”
+9) La punctul 50,
+formula (21) va avea următorul cuprins:
+„Ke = rf + βd × (rm - rf) (21)”;
+noțiunile termenilor „rf”, „β”, „(rm – rf)”, „Kd”, vor avea următorul cuprins:
+„rf – rata lipsită de risc, media ratelor din anii precedenți la situația din 1 ianuarie
+2025, a obligațiunilor de stat cu termen de 10 ani, publicată de Ministerul Finanțelor, în
+mărime de 7,75 %.
+β – riscul sistematic al industriei (lipsit de îndatorare) în mărime de 0,4, care
+reprezintă valoarea medie corespunzătoare valorii β utilizate de instituțiile de reglementare
+publicat în raportul Consiliul Reglementatorilor Europeni în Domeniul Energiei (CEER)
+pentru anul 2023.
+(rm - rf) – prima de risc de piață, egală cu 5,44 %, determinată în ianuarie 2024 ca
+media geometrică începând cu anul 1928 pentru bondurile de trezorerie SUA (Stock-T.
+Bonds) şi publicată în sursa: http://pages.stern.nyu.edu/~adamodar/la compartimentul: Data
+Sets, Historical Return on Stocks, Bonds and Bills, Geometric Average, Risk Premium.
+Kd – valoarea anuală a capitalului împrumutat al întreprinderii în mărime de 6 %.”;
+noțiunea termenului „rt” – se exclude.
+10) La punctul 55, în prima propoziție, după textul „Tariful pentru serviciul de
+distribuție a gazelor naturale” se completează cu textul „pentru fiecare OSD”;
+11) Se completează cu Secțiunea 71 cu următorul cuprins:
+„Secțiunea 71
+Tariful uniform de distribuție a gazelor naturale
+55 1 . Se disting următoarele tipuri de tarife uniforme de distribuție a gazelor
+naturale:
+1) tarif uniform de distribuție a gazelor naturale la instalațiile de gaze ale
+
+
+consumatorilor finali;
+2) tarif uniform de distribuție a gazelor naturale la punctele de măsurare comercială
+cu alți OSD.
+### Punctul 552. Tariful uniform de distribuție a gazelor naturale la instalațiile de gaze ale
+consumatorilor finali se stabilește pentru toți OSD, în baza veniturilor reglementate
+aprobate pentru fiecare OSD și a volumelor de gaze naturale planificate a fi distribuite prin
+rețelele de distribuție a gazelor naturale în anul „n”, după cum urmează:
+1) tariful uniform pentru serviciul de distribuție a gazelor naturale la instalațiile de
+gaze ale consumatorilor finali racordate la rețelele de presiune înaltă:
+
+2) tariful uniform pentru serviciul de distribuție a gazelor naturale la instalațiile de
+gaze ale consumatorilor finali racordate la rețele de presiune medie:
+
+3) tariful uniform pentru serviciul de distribuție a gazelor naturale la instalațiile de
+gaze ale consumatorilor finali racordate la rețelele de presiune joasă:
+
+unde,
+;
+;
+– tariful uniform pentru anul „n”, aferent serviciului de
+distribuție a gazelor naturale, prestat prin rețelele de distribuție;
+;
+;
+– suma veniturilor reglementate aprobate ale tuturor OSD
+licențiați, necesare de a fi obținute în anul de reglementare „n”, pentru prestarea serviciului
+de distribuție a gazelor naturale;
+ƩGDnPÎ; ƩGDnPM; ƩGDnPJ – suma volumelor gazelor naturale distribuite în anul „n” de
+către toți OSD licențiați prin reţelele de distribuţie a gazelor naturale pentru consumatorii
+finali ale căror instalaţii de gaze naturale sunt racordate la reţelele de distribuţie de
+presiune înaltă (PÎ), de presiune medie (PM) şi de presiune joasă (PJ) sau pentru alți
+utilizatori de sistem în funcție de nivelul de presiune.
+3
+
+55 . Tariful uniform de distribuție a gazelor naturale la punctele de măsurare
+comercială cu alți OSD (
+;
+;
+) se stabilește în mod diferențiat, pe nivele
+de presiune, în mărime de 5% din tariful uniform pentru serviciul de distribuție a gazelor
+naturale la instalațiile de gaze ale consumatorilor finali, la nivelul de presiune
+corespunzător.
+
+
+55 4 . Anual, până la 1 februarie, OSD va prezenta Agenției spre examinare și
+aprobare volumele planificate a fi distribuite în anul „n” și calculul motivat al venitului
+reglementat determinat în conformitate cu prezenta Metodologie.
+### Punctul 555. Costurile suportate de entitatea pentru reconciliere în legătură cu gestionarea
+mecanismului de compensare, inclusiv costurile administrative și financiare, se iau în
+considerare la determinarea venitului reglementat al acesteia. Entitatea pentru reconciliere
+nu obține profit sau înregistrează pierderi din aplicarea mecanismului de compensare.
+### Punctul 556. Plățile compensatorii de egalizare se determină în lei/1000 m3 de gaze naturale
+distribuite la instalațiile de gaze ale consumatorilor finali și la punctele de măsurare
+comercială cu alți OSD, diferențiat în funcție de nivelul presiunii a acestora, pentru fiecare
+OSD după cum urmează:
+1) plata compensatorie de egalizare pentru volumele de gaze naturale distribuite
+prin rețelele de presiune înaltă la instalațiile de gaze ale consumatorilor finali:
+=
+
+-
+
+(29)
+
+2) plata compensatorie de egalizare pentru volumele de gaze naturale distribuite
+prin rețelele de presiune înaltă la punctele de măsurare comercială cu alți OSD:
+(30)
+3) plata compensatorie de egalizare pentru volumele de gaze naturale distribuite
+prin rețelele de presiune medie la instalațiile de gaze ale consumatorilor finali:
+(31)
+4) plata compensatorie de egalizare pentru volumele de gaze naturale distribuite
+prin rețelele de presiune medie la punctele de măsurare comercială cu alți OSD:
+(32)
+5) plata compensatorie de egalizare pentru volumele de gaze naturale distribuite
+prin rețelele de presiune joasă la instalațiile de gaze ale consumatorilor finali:
+(33)
+6) plata compensatorie de egalizare pentru volumele de gaze naturale distribuite
+prin rețelele de presiune joasă la punctele de măsurare comercială cu alți OSD:
+(34)
+unde,
+– plata compensatorie de egalizare pentru volumele de gaze
+naturale distribuite la instalațiile de gaze ale consumatorilor finali;
+
+
+,
+,
+– plata compensatorie de egalizare pentru volumele de gaze
+naturale distribuite la punctele de măsurare comercială cu alți OSD.
+### Punctul 557. În cazul în care rezultatul obținut conform formulelor (29) - (34) este pozitiv
+(+), OSD va achita plata compensatorie de egalizare către entitatea pentru reconciliere în
+mărimea respectivă, până la data de 20 a lunii, pentru volumele distribuite în luna
+precedentă.
+### Punctul 558. În cazul în care rezultatul obținut conform formulelor (29) - (34) este negativ (-),
+OSD va primi plata compensatorie de egalizare de la entitatea pentru reconciliere în
+mărimea respectivă, până la data de 24 a lunii, pentru volumele distribuite în luna
+precedentă.
+55 9 . Lunar, până la data de 5, OSD va prezenta entității pentru reconciliere
+volumele de gaze naturale distribuite în luna precedentă prin rețelele de distribuție a
+gazelor naturale, diferențiat în funcție de nivelul presiunii a acestora.
+5510. Entitatea de reconciliere va transfera plățile compensatorii de egalizare către
+OSD conform ordinii crescătoare a cantității volumelor de gaze naturale distribuite.
+55 11 . În cazul în care la expirarea a 15 zile, de la data indicată la pct. 55 7 , se
+constată neachitarea plăților compensatorii de egalizare de către OSD, entitatea pentru
+reconciliere va contracta împrumuturi bancare sau alte împrumuturi de mijloace bănești
+pentru acoperirea deficitului înregistrat. Costurile financiare (dobânzi, comisioane) aferente
+împrumuturilor vor fi luate în considerare la actualizarea venitului reglementat al entității
+pentru reconciliere.
+Rata dobânzii aferentă altor împrumuturi de mijloace bănești nu va depăși rata
+medie ponderată a dobânzilor la creditele acordate persoanelor juridice în anul ,,n”, în
+monedă națională, publicată de Banca Națională a Moldovei la compartimentul: Ratele
+medii ponderate ale dobânzilor la creditele noi acordate, Rata medie ponderată la creditele
+acordate în monedă națională /persoane juridice /până la 12 luni.
+5512. Venitul reglementat actualizat al OSD pentru care s-a constatat neachitarea
+plăților compensatorii de egalizare în conformitate cu pct. 5511, va fi diminuat cu valoarea
+costurilor aferente împrumuturilor bancare suportate de entitatea pentru reconciliere
+necesare pentru acoperirea deficitului creat de către OSD respectiv.
+5513. Acoperirea de către entitatea pentru reconciliere a deficitului înregistrat, nu
+exonerează OSD de achitarea plății compensatorii de egalizare datorată.
+5514. Pentru cazul stabilit la pct. 5511, entitatea pentru reconciliere va transfera
+plățile compensatorii de egalizare către OSD care se atribuie la pct. 55 8 , în mărimea
+deficitului înregistrat, către OSD care a/au distribuit cele mai multe volume în luna pentru
+care s-a înregistrat deficitul, în ordine descrescătoare.”
+12) La punctul 56,
+
+
+cuvintele „tarifele reglementate” la orice formă gramaticală se substituie cu
+cuvintele „veniturile reglementate”, la forma gramaticală corespunzătoare;
+în a treia și a patra propoziție după cuvintele „tarifelor” la orice formă gramaticală
+se completează cu textul „/veniturilor reglementate”, la forma gramaticală corespunzătoare.
+2) La punctul 57 cuvintele „tarifele reglementate”, la orice formă gramaticală, se
+substituie cu textul „tarifele/veniturile reglementate”, la forma gramaticală
+corespunzătoare.
+13) La punctele 62-64 după cuvintele „tarifelor” la orice formă gramaticală se
+completează cu textul „/veniturilor reglementate”, la forma gramaticală corespunzătoare.
+14) La punctul 65 după textul „tarifele pentru serviciul de distribuție a gazelor
+naturale” se completează cu textul „/veniturile reglementate”.
+15) În Anexa, la punctul 4 din Anexa la Metodologia de calculare, aprobare și
+aplicare a tarifelor reglementate pentru serviciul de distribuție a gazelor naturale , în
+noțiunea termenului „δ3” cuvintele „Se abrogă” se exclud.
+### Punctul 2. Prezenta Hotărâre intră în vigoare la 1 ianuarie 2026.
+DIRECTORI Constantin BOROSAN
+Eugen CARPOV
+Violina ȘPAC
+Nr. 785. Chișinău, 16 decembrie 2025.

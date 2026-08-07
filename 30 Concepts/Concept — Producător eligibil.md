@@ -5,7 +5,7 @@ domeniu: [energetică, regenerabile]
 tags: [concept, energetică, regenerabile]
 status: reviewed
 created: 2026-07-23
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Concept — Producător eligibil
@@ -16,6 +16,9 @@ updated: 2026-08-06
 
 ## Definition
 A producer of energy from renewable sources that has been **granted the status** entitling it to the statutory support scheme under [[Legea 10-2016 — surse regenerabile (text)|Legea nr. 10/2016]]. Status is the gate: without it, a renewable plant is simply a market participant with no support.
+
+## Imbalance deadbands (central buyer group)
+[[Legea 45-2025 — garantiile avizelor de racordare si tolerante dezechilibre (notă)|LP45/2025]] Art. II rewrote L10 art. 37(7): inside the central buyer’s balancing group, the central buyer does **not** calculate imbalance while measured net position stays within **±8% (wind)** or **±4% (PV)** of contractual net position; outside the band, only the **excess** is imbalanced. Status also **exempts** the plant from the [[Concept — Garanție de bună execuție a avizului de racordare|connection performance guarantee]].
 
 ## Why status is scarce
 Support costs money that ultimately reaches consumers, so the legislator caps it. The cap operates through a **capacity quota** set by Government per technology and category. Once the quota is exhausted, further projects get no support regardless of merit. Eligible-producer status is therefore a **rivalrous, quantity-limited entitlement** — which is what makes timing and queue position commercially decisive.
@@ -35,7 +38,7 @@ The capacity threshold separating the tracks, and the quota, are set administrat
 - **Guarantees of origin**, tracking the renewable attribute separately from the energy itself
 
 ## Prosumers — a different animal
-Small self-consumers with generation are handled by **net metering / net billing** rather than the eligible-producer track: surplus injected is set off against consumption over a settlement period. Lower administrative burden, no quota competition, but no tariff support either. Secondary-act alignment after LP331/2023: [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|HANRE 833/2023]] (supply 169 + historic connection 168 patches; live connection now [[HANRE 311-2026 — racordarea la retelele electrice (notă)|311/2026]]).
+Small self-consumers with generation are handled by **net metering / [[Concept — Facturare netă|net billing]]** rather than the eligible-producer track: surplus injected is set off against consumption over a settlement period. Lower administrative burden, no eligible-producer quota competition, but Government still caps net-billing capacity ([[HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile (notă)|HG 329/2025]] — annex 2 missing). Secondary-act alignment after LP331/2023: [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|HANRE 833/2023]] (supply 169 + historic connection 168 patches; live connection now [[HANRE 311-2026 — racordarea la retelele electrice (notă)|311/2026]]).
 
 ## Governing provisions
 - [[Legea 10-2016 — surse regenerabile (notă)]] — support scheme, eligibility, quotas, net billing ✅ *(complete consolidation)*

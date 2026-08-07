@@ -15,7 +15,7 @@ created: '2026-07-28'
 updated: '2026-08-07'
 ---
 
-# 🔌 Map of Content: Racordare și Acces la Rețele
+# Map of Content: Racordare și Acces la Rețele
 
 Centrul de comandă pentru normele privind accesul la rețelele electrice, de gaze naturale și termice (avize, contracte de racordare, delimitare de proprietate).
 
@@ -23,6 +23,10 @@ Centrul de comandă pentru normele privind accesul la rețelele electrice, de ga
 
 ## 1. Reglementări Sector Electrice
 * [[HANRE 311-2026 — racordarea la retelele electrice (notă)|HANRE 311/2026]] — **current** connection regulation (L164)
+* [[Legea 45-2025 — garantiile avizelor de racordare si tolerante dezechilibre (notă)|LP45/2025]] — statutory **>200 kW guarantees**, nevalorificare tax, imbalance deadbands (L10)
+* [[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (notă)|HG 26/2025]] — 6-year PSO grid access for fixed-price eligible producers · extended to **balancing-capacity auction winners** by [[HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (notă)|HG 596/2025]]
+* [[HG 599-2025 — limite cote capacitate regenerabile pana 2030 (notă)|HG 599/2025]] — live net-billing ceilings / RES quotas to 2030 ⚠️ annexes · [[Concept — Facturare netă]] · *(abrogates HG 401; historic [[HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile (notă)|329]])*
+* [[HG 517-2024 — Regulament constructie reconstructie centrale electrice (notă)|HG 517/2024]] — >20 MW plant authorisation (+ [[HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (notă)|596]])
 * ~~[[HANRE 168-2019 — racordarea la retelele electrice (notă)|HANRE 168/2019]]~~ — abrogated; patched while live by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|833/2023]]
 * [[HANRE 423-2019 — Codul retelelor electrice (notă)|HANRE 423/2019]] — *Codul rețelei electrice* · substance via [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|656/2021]] (Parts I–V)
 
@@ -35,6 +39,8 @@ Centrul de comandă pentru normele privind accesul la rețelele electrice, de ga
 * [[Concept — Punct de delimitare]]
 * [[Concept — Aviz de racordare]]
 * [[Concept — Capacitate rezervată]]
+* [[Concept — Garanție de bună execuție a avizului de racordare]]
+* [[Concept — Producător eligibil]]
 
 ## 4. Acte de Racordare și Acces (Dataview)
 ```dataview

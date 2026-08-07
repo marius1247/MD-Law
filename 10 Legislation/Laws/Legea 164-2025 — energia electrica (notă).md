@@ -32,7 +32,7 @@ updated: '2026-08-06'
 > **Transitional rule:** the new law does not apply retroactively to installations already admitted into operation under L107/2016, and projects designed before 19 August 2025 continue under the previously applicable rules. So L107/2016 remains *relevant* — as the law governing legacy positions — while ceasing to be *in force*.
 
 > [!success] Full text now in the vault
-> The complete consolidated act — **151 articles** — was manually downloaded and ingested on 2026-07-23 ([[Legea 164-2025 — energia electrica (text)]]). The article references below now resolve to real text. The act is already consolidated to include **LP101/2026** (art. 72(10) repealed; art. 150 amended) → [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (text)]].
+> The complete consolidated act — **151 articles** — was manually downloaded and ingested on 2026-07-23 ([[Legea 164-2025 — energia electrica (text)]]). The article references below now resolve to real text. The act is already consolidated to include **LP101/2026** (art. 72(10) repealed; art. 150 amended) → [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (text)]]. Later patch: [[Legea 317-2025 — modificare acte permisive (notă)|LP317/2025]] Art. XVIII — art. 20(2)–(6) lit. a) registration via interoperability (no paper extract).
 
 ## 1. What actually happened
 

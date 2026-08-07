@@ -33,6 +33,7 @@ Unlawful qualification/selection criteria that block access to award procedures 
 
 ## Related
 - [[MOC — Achiziții publice & Statul]] · [[Legea 41-2026 — suport desfasurare afaceri (notă)]]
+- Energy (different institution): [[Concept — Garanție de bună execuție a avizului de racordare]]
 
 ## Notes / conclusions
 > If a tender dossier mandates a single bond form, raise a clarification citing art. 68(9)/(9¹). Form choice is a statutory right of the operator, not a courtesy of the authority.

@@ -1,0 +1,376 @@
+---
+title: "HANRE 162-2026 — tarife uniforme distributie gaze (text)"
+type: act-text
+act_type: hotărâre-anre
+nr: "162"
+an: 2026
+domeniu:
+- energetică
+- gaze
+- tarife
+domain: [energetică, gaze, tarife]
+issuer: ANRE
+in_force: true
+in_vigoare: true
+mo_publicare: "MO 112-115/12.03.2026 art. 177"
+legis_id: "153388"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=153388"
+version_date: 2026-08-07
+versiune_text: 2026-08-07
+continut: text-integral
+text_complet: true
+puncte_numarate: 18
+articole_numarate: 0
+tags: [act, text, acte_normative, energetică, ANRE]
+created: 2026-08-07
+updated: 2026-08-07
+source_ingest: pdf-upload-pdftotext
+legal_status: in_vigoare
+enabling_act: "[[Legea 108-2016 — gazele naturale (text)|L108/2016]] art. 7(2)(d), 7(42)(b), art. 9(7), art. 98(2)(b), 98(5¹) · [[HANRE 443-2020 — Metodologie tarife distributie gaze (text)|HANRE 443/2020]] (as amended by 785)"
+---
+# HANRE 162-2026 — tarife uniforme distributie gaze
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md** PDF (doc_id [153388](https://www.legis.md/cautare/getResults?lang=ro&doc_id=153388)), pdftotext + structură ușoară.
+> Analiză: [[HANRE 162-2026 — tarife uniforme distributie gaze (notă)]].
+
+---
+
+Republica Moldova
+
+AGENȚIA NAȚIONALĂ PENTRU REGLEMENTARE ÎN ENERGETICĂ
+HOTĂRÂRE Nr. HANRE162/2026
+din 10.03.2026
+
+privind aprobarea tarifelor uniforme
+pentru serviciul de distribuție a gazelor
+naturale
+Publicat : 12.03.2026 în MONITORUL OFICIAL Nr. 112-115 art. 177 Data intrării în vigoare
+
+În temeiul art. 7 alin. (2) lit. d) și alin. (42) lit. b), art. 9 alin. (7), art. 98 alin. (2) lit. b)
+și alin. (5 1 ) din Legea nr. 108/2016 cu privire la gazele naturale, în conformitate cu
+prevederile Metodologiei de calculare, de aprobare și de aplicare a tarifelor reglementate
+pentru serviciul de distribuție a gazelor naturale, aprobată prin Hotărârea Consiliului de
+administrație al ANRE nr.443/2020, în baza veniturilor reglementate ale operatorilor
+sistemelor de distribuție aprobate și a Notei de argumentare a Departamentului gaze
+naturale și energie termică, Consiliul de administrației al Agenției Naționale pentru
+Reglementare în Energetică,
+HOTĂRĂȘTE:
+### Punctul 1. Se aprobă tarifele uniforme pentru serviciul de distribuție a gazelor naturale, după
+cum urmează:
+1.1. Tariful uniform pentru serviciul de distribuție a gazelor naturale la instalațiile de
+gaze ale consumatorilor finali:
+1.1.1. racordate la rețelele de presiune înaltă – 395 lei/1000 m3;
+1.1.2. racordate la rețelele de presiune medie – 1 463 lei/1000 m3;
+1.1.3. racordate la rețelele de presiune joasă – 4 974 lei/1000 m3;
+1.2. Tariful uniform pentru serviciul de distribuție a gazelor naturale la punctele de
+măsurare comercială cu alți OSD:
+1.2.1. racordate la rețelele de presiune înaltă – 20 lei/1000 m3;
+1.2.2. racordate la rețelele de presiune medie – 73 lei/1000 m3;
+1.2.3. racordate la rețelele de presiune joasă – 249 lei/1000 m3.
+### Punctul 2. Se aprobă plățile compensatorii de egalizare care urmează să fie achitate de
+operatorii sistemelor de distribuție entității pentru reconciliere sau viceversa, conform
+anexei nr.1 la prezenta Hotărâre.
+
+
+### Punctul 3. Se abrogă Hotărârile Consiliului de administrație al ANRE, conform anexei nr.2 la
+prezenta Hotărâre.
+### Punctul 4. Prezenta Hotărâre intră în vigoare la 1 aprilie 2026.
+### Punctul 5. Prezenta Hotărâre poate fi contestată la autoritatea emitentă în termen de 30 de
+zile din data publicării în Monitorul Oficial al Republicii Moldova.
+DIRECTOR GENERAL Alexei TARAN
+Directori Constantin BOROSAN
+Eugen CARPOV
+Violina ȘPAC
+Alexandru URSU
+Nr. 162. Chişinău, 10 martie 2026.
+Anexa nr. 1
+la Hotărârea Consiliului de administrație al ANRE
+nr. 162 din 10 martie 2026
+Plățile compensatorii de egalizare
+Nr.
+d/o
+
+Denumirea operatorului sistemului de
+distribuție
+
+1
+
+S.R.L. „Chișinău-gaz”
+la instalațiile de gaze ale consumatorilor finali
+la punctele de măsurare comercială cu alți OSD
+S.R.L. „Ialoveni-gaz”
+la instalațiile de gaze ale consumatorilor finali
+la punctele de măsurare comercială cu alți OSD
+S.R.L. „Bălți-gaz”
+la instalațiile de gaze ale consumatorilor finali
+la punctele de măsurare comercială cu alți OSD
+S.R.L. „Edineț-gaz”
+la instalațiile de gaze ale consumatorilor finali
+la punctele de măsurare comercială cu alți OSD
+S.R.L. „Florești-gaz”
+la instalațiile de gaze ale consumatorilor finali
+la punctele de măsurare comercială cu alți OSD
+S.R.L. „Orhei-gaz”
+la instalațiile de gaze ale consumatorilor finali
+la punctele de măsurare comercială cu alți OSD
+S.R.L. „Ștefan Vodă-gaz”
+la instalațiile de gaze ale consumatorilor finali
+la punctele de măsurare comercială cu alți OSD
+S.R.L . „Cimișlia-gaz”
+la instalațiile de gaze ale consumatorilor finali
+
+2
+
+3
+4
+
+5
+6
+
+7
+
+8
+
+Plățile compensatorii de egalizare, în funcție de
+nivelul de presiune a rețelelor, lei/1000 m³
+Presiune Înaltă Presiune Medie Presiune Joasă
++308
+-68
+
++977
+-412
+
++2 542
+-2 183
+
+-115
+-491
+
+-125
+-1 514
+
+-273
+-
+
+-650
+-1 025
+
+-924
+-2 313
+
+-1 953
+-
+
+-816
+-
+
+-2 384
+-
+
+-4 119
+-
+
+-476
+-852
+
+-759
+-
+
+-512
+-
+
+-708
+-1 083
+
+-1 642
+-
+
+-3 737
+-
+
+-455
+-830
+
+-1 206
+-2 595
+
+-4 331
+-
+
+-1 310
+
+-2 391
+
+-6 437
+
+
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+la punctele de măsurare comercială cu alți OSD
+S.R.L. „Gagauz-gaz”
+la instalațiile de gaze ale consumatorilor finali
+la punctele de măsurare comercială cu alți OSD
+S.R.L. „Cahul-gaz”
+la instalațiile de gaze ale consumatorilor finali
+la punctele de măsurare comercială cu alți OSD
+S.R.L. „Taraclia-gaz”
+la instalațiile de gaze ale consumatorilor finali
+la punctele de măsurare comercială cu alți OSD
+S.R.L. „Ungheni-gaz”
+la instalațiile de gaze ale consumatorilor finali
+la punctele de măsurare comercială cu alți OSD
+S.R.L. „Rotalin Gaz Trading”
+la instalațiile de gaze ale consumatorilor finali
+la punctele de măsurare comercială cu alți OSD
+S.R.L. „Proalfa Service”
+la instalațiile de gaze ale consumatorilor finali
+la punctele de măsurare comercială cu alți OSD
+S.R.L. „Faitec-M”
+la instalațiile de gaze ale consumatorilor finali
+la punctele de măsurare comercială cu alți OSD
+F.P.C. „Lăcătuș” S.R.L.
+la instalațiile de gaze ale consumatorilor finali
+la punctele de măsurare comercială cu alți OSD
+Î.C.S. „Nord Gaz - Sîngerei” S.R.L.
+la instalațiile de gaze ale consumatorilor finali
+la punctele de măsurare comercială cu alți OSD
+
+-1 686
+
+-
+
+-
+
+-264
+-639
+
+-664
+-
+
+-3 139
+-
+
+-448
+-823
+
+-1 536
+-
+
+-1 185
+-
+
+-743
+-1 118
+
+-1 565
+-2 955
+
+-5 377
+-
+
+-1 030
+-1 406
+
+-1 431
+-
+
+-3 028
+-
+
+-346
+-722
+
+-1 178
+-2 568
+
+-33
+-
+
+-
+
+-622
+-
+
+-865
+-
+
+-
+
+-7 225
+-
+
+-6 938
+-
+
+-
+
++1 237
+-
+
++3 819
+-
+
+-
+
++1 149
+-
+
++3 409
+-
+
+-
+
+Anexa nr. 2
+la Hotărârea Consiliului de administrație al ANRE
+nr. 162 din 10 martie 2026
+Lista Hotărârilor Consiliului de administrație al ANRE care se abrogă
+### Punctul 1. Hotărârea ANRE nr. 253 din 23.05.2025 privind aprobarea tarifelor reglementate
+pentru serviciul de distribuţie a gazelor naturale prestat de către S.R.L. „Chişinău-gaz”;
+### Punctul 2. Hotărârea ANRE nr. 252 din 23.05.2025 privind aprobarea tarifelor reglementate
+pentru serviciul de distribuţie a gazelor naturale prestat de către S.R.L. „Ialoveni-gaz”;
+### Punctul 3. Hotărârea ANRE nr. 227 din 13.05.2025 privind aprobarea tarifelor reglementate
+pentru serviciul de distribuţie a gazelor naturale prestat de către S.R.L. „Bălţi-gaz”;
+### Punctul 4. Hotărârea ANRE nr. 228 din 13.05.2025 privind aprobarea tarifelor reglementate
+pentru serviciul de distribuţie a gazelor naturale prestat de către S.R.L. „Edineţ-gaz”;
+### Punctul 5. Hotărârea ANRE nr. 202 din 24.04.2025 privind aprobarea tarifelor reglementate
+pentru serviciul de distribuţie a gazelor naturale prestat de către S.R.L. „Floreşti-gaz”;
+### Punctul 6. Hotărârea ANRE nr. 201 din 24.04.2025 privind aprobarea tarifelor reglementate
+pentru serviciul de distribuţie a gazelor naturale prestat de către S.R.L. „Orhei-gaz”;
+### Punctul 7. Hotărârea ANRE nr. 224 din 08.05.2025 privind aprobarea tarifelor reglementate
+
+
+pentru serviciul de distribuţie a gazelor naturale prestat de către S.R.L. „Cimişlia-gaz”;
+### Punctul 8. Hotărârea ANRE nr. 189 din 15.04.2025 privind aprobarea tarifelor reglementate
+pentru serviciul de distribuţie a gazelor naturale prestat de către S.R.L. „Ştefan Vodă-gaz”;
+### Punctul 9. Hotărârea ANRE nr. 190 din 15.04.2025 privind aprobarea tarifelor reglementate
+pentru serviciul de distribuţie a gazelor naturale prestat de către S.R.L. „Gagauz-gaz”;
+### Punctul 10. Hotărârea ANRE nr.173 din 08.04.2025 privind aprobarea tarifelor reglementate
+pentru serviciul de distribuţie a gazelor naturale prestat de către S.R.L. „Cahul-gaz”;
+### Punctul 11. Hotărârea ANRE nr.225 din 08.05.2025 privind aprobarea tarifelor reglementate
+pentru serviciul de distribuţie a gazelor naturale prestat de către S.R.L. „Ungheni-gaz”;
+### Punctul 12. Hotărârea ANRE nr.172 din 08.04.2025 privind aprobarea tarifelor reglementate
+pentru serviciul de distribuţie a gazelor naturale prestat de către S.R.L. „Taraclia-gaz”;
+### Punctul 13. Hotărârea ANRE nr.254 din 23.05.2025 privind aprobarea tarifelor reglementate
+pentru serviciul de distribuţie a gazelor naturale prestat de către S.R.L. „Rotalin Gaz
+Trading”;
+### Punctul 14. Hotărârea ANRE nr. 492 din 19.08.2025 privind aprobarea tarifelor reglementate
+pentru serviciul de distribuţie a gazelor naturale prestat de către S.R.L. „PROALFASERVICE”;
+### Punctul 15. Hotărârea ANRE nr.273 din 30.05.2025 privind aprobarea tarifelor reglementate
+pentru serviciul de distribuţie a gazelor naturale prestat de către S.R.L. „FAITEC-M”;
+### Punctul 16. Hotărârea ANRE nr. 136 din 25.03.2025 privind aprobarea tarifelor reglementate
+pentru serviciul de distribuţie a gazelor naturale prestat de către Î.C.S. „Nord Gaz –
+Sîngerei” S.R.L.;
+### Punctul 17. Hotărârea ANRE nr. 542 din 16.09.2025 privind aprobarea tarifelor reglementate
+pentru serviciul de distribuţie a gazelor naturale prestat de către F.P.C. „Lăcătuş” S.R.L.;
+### Punctul 18. Hotărârea ANRE nr. 159 din 01.04.2025 privind aprobarea tarifului reglementat
+pentru serviciul de distribuţie a gazelor naturale prestat de către S.R.L. „BV Group
+Company”.

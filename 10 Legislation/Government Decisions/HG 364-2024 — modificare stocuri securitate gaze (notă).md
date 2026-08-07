@@ -19,6 +19,7 @@ legal_status: in_vigoare
 
 > [!abstract] Executive summary
 > **Core purpose:** Patches HG 668/2022 on **gas security stocks** — Energocom storage obligation **47.1 mcm by 1 Oct 2024**, separate transaction accounting (new pt. 6¹), usage only on CSE alert/emergency or Parliament emergency (pt. 8), restocking by 15 Sept following year (pt. 8¹).
+> **Later volume update:** [[HG 302-2025 — modificare HG 668-2022 stocuri securitate gaze (notă)|HG 302/2025]] raises the target to **50 mcm** (by 1.10.2025) and narrows drawdown to **emergency** only.
 > **Primary business risk:** Conflating security-stock rules with commercial storage or [[HG 677-2024 — plan sezon incalzire 2024-2025 (notă)|677/2024]] Energocom 50 mcm EU storage obligation — different instruments.
 
 ## 1. Changes map (HG 668/2022)

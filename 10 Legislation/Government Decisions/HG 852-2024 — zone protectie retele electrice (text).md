@@ -1,0 +1,556 @@
+---
+title: "HG 852-2024 — zone protectie retele electrice (text)"
+type: act-text
+act_type: hotărâre-guvern
+nr: "852"
+an: 2024
+domeniu:
+- energetică
+- infrastructură
+- rețele
+domain: [energetică, infrastructură, rețele]
+issuer: Guvern
+in_force: true
+in_vigoare: true
+mo_publicare: "MO 552-555/27.12.2024 art. 1004"
+legis_id: "154418"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=154418"
+version_date: 2026-08-07
+versiune_text: 2026-08-07
+continut: regulament-corp — formulare lipsă
+text_complet: false
+puncte_numarate: 57
+articole_numarate: 0
+tags: [act, text, acte_normative, energetică]
+created: 2026-08-07
+updated: 2026-08-07
+source_ingest: pdf-upload-pdftotext
+legal_status: in_vigoare
+enabling_act: "[[Legea 164-2025 — energia electrica (text)|L164/2025]] art. 4(1)(l), art. 141(1) (remapped by HG 248/2026)"
+amended_by: "HG 248/2026 (enabling remap + pts 7/40 — amend not yet ingested)"
+status_ingestie: regulament-corp — formulare lipsă
+---
+# HG 852-2024 — zone protectie retele electrice
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md** PDF (doc_id [154418](https://www.legis.md/cautare/getResults?lang=ro&doc_id=154418)), pdftotext + structură ușoară.
+> Analiză: [[HG 852-2024 — zone protectie retele electrice (notă)]].
+
+> [!warning] Completeness
+> Regulament body (pct. 1–57) + repeal list (HG Anexa nr. 2) present. Regulation form annexes (cerere / acord models) appear only as placeholders „anexa nr.1/nr.2”.
+
+---
+
+Republica Moldova
+
+GUVERNUL
+HOTĂRÂRE Nr. HG852/2024
+din 18.12.2024
+
+pentru aprobarea Regulamentului
+privind zonele de protecție a rețelelor
+electrice
+Publicat : 27.12.2024 în MONITORUL OFICIAL Nr. 552-555 art. 1004 Data intrării în vigoare
+
+MODIFICAT
+HG248 din 13.05.26, MO206-209/14.05.26 art.250; în vigoare 14.05.26
+
+În temeiul art.4 alin.(1) lit. l) și art. 141 alin. (1) din Legea nr. 164/2025 cu privire la
+energia electrică (Monitorul Oficial al Republicii Moldova, 2025, nr. 437-440, art.598), cu
+modificările ulterioare, Guvernul HOTĂRĂȘTE:
+[Clauza de adoptare în redacția HG248 din 13.05.26, MO206-209/14.05.26 art.250; în
+vigoare 14.05.26]
+### Punctul 1. Se aprobă Regulamentul privind zonele de protecție a rețelelor electrice, conform
+anexei nr. 1.
+### Punctul 2. Se abrogă unele hotărâri ale Guvernului, conform anexei nr. 2.
+### Punctul 3. Controlul asupra executării prezentei hotărâri se pune în sarcina Ministerului
+Energiei.
+### Punctul 4. Prezenta hotărâre intră în vigoare la data publicării în Monitorul Oficial al
+Republicii Moldova.
+PRIM-MINISTRU Dorin RECEAN
+Contrasemnează:
+Ministrul interimar al energiei Dorin RECEAN
+Nr. 852. Chişinău, 18 decembrie 2024.
+Anexa nr. 1
+
+
+la Hotărârea Guvernului nr.852/2024
+REGULAMENT
+privind zonele de protecție a rețelelor electrice
+Secțiunea 1
+Dispoziții generale
+### Punctul 1. Regulamentul privind zonele de protecție a rețelelor electrice (în continuare –
+Regulament) are drept scop:
+1.1. asigurarea integrității și protecției rețelelor electrice, inclusiv a liniilor electrice
+ale producătorilor și ale consumatorilor noncasnici, amplasate în afara proprietății acestora;
+1.2. asigurarea funcționării și exploatării normale a rețelelor electrice, inclusiv a
+liniilor electrice ale producătorilor și ale consumatorilor noncasnici, amplasate în afara
+proprietății acestora;
+1.3. prevenirea accidentelor, a pericolelor pentru persoane, bunuri și mediu.
+### Punctul 2. Prevederile prezentului Regulament se aplică la proiectarea, construcția,
+modernizarea, reparația, mentenanța și exploatarea rețelelor electrice, inclusiv a liniilor
+electrice ale producătorilor și ale consumatorilor noncasnici, amplasate în afara proprietății
+acestora, și stabilesc:
+2.1. principiile de delimitare a zonelor de protecție a rețelelor electrice, inclusiv a
+liniilor electrice ale producătorilor și ale consumatorilor noncasnici, amplasate în afara
+proprietății acestora;
+2.2. condițiile tehnice, precum și restricțiile și interdicțiile ce se impun pentru
+utilizarea terenurilor și a construcțiilor din zonele de protecție a rețelelor electrice, inclusiv
+a liniilor electrice ale producătorilor și ale consumatorilor noncasnici, amplasate în afara
+proprietății acestora;
+2.3. condițiile de realizare a lucrărilor în zonele de protecție a rețelelor electrice,
+inclusiv a liniilor electrice ale producătorilor și ale consumatorilor noncasnici, amplasate în
+afara proprietății acestora;
+2.4. condițiile de coordonare de către operatorii de sistem/ producători/consumatori
+noncasnici a amplasării construcțiilor provizorii și a instalațiilor în zonele de protecție a
+rețelelor electrice, inclusiv a liniilor electrice ale producătorilor sau ale consumatorilor
+noncasnici.
+### Punctul 3. Prezentul Regulament este obligatoriu pentru operatorii de sistem, autoritățile
+administrației publice, producătorii și consumatorii noncasnici, pentru proiectanți,
+verificatori de proiecte, electricieni autorizați, personalul laboratoarelor electrotehnice,
+deținătorii de terenuri și construcții amplasate în zonele de protecție a rețelelor electrice,
+
+
+inclusiv a liniilor electrice ale producătorilor și ale consumatorilor noncasnici, pentru
+persoanele fizice și juridice care desfășoară sau intenționează să efectueze lucrări de
+construcție sau oricare alte activități în zonele de protecție a rețelelor electrice, precum și
+pentru alte persoane fizice.
+### Punctul 4. Zonele de protecție a rețelelor electrice se stabilesc pentru următoarele obiecte ale
+rețelelor electrice:
+4.1. liniile electrice aeriene;
+4.2. liniile electrice în cablu;
+4.3. stațiile electrice, posturile de transformare și de distribuție;
+4.4. celulele de secționare și echipamentele de comutație instalate pe linii electrice;
+4.5. liniile electrice ale producătorilor și ale consumatorilor noncasnici, amplasate în
+afara proprietății acestora.
+### Punctul 5. Operatorii de sistem, autoritățile administrației publice, proiectanții, verificatorii de
+proiecte, electricienii autorizați, personalul laboratoarelor electrotehnice, deținătorii de
+terenuri și construcții, persoanele fizice și juridice care desfășoară lucrări de construcție
+sau oricare alte activități în zonele de protecție a rețelelor electrice, inclusiv a liniilor
+electrice ale producătorilor și ale consumatorilor noncasnici, amplasate în afara proprietății
+acestora, poartă răspundere pentru nerespectarea cerințelor prezentului Regulament în
+conformitate cu legislația.
+### Punctul 6. La efectuarea lucrărilor în zonele de protecție a rețelelor electrice, inclusiv a
+liniilor electrice ale producătorilor și ale consumatorilor noncasnici, se respectă cerințele
+stabilite în documentul normativ-tehnic NEI-02:2019 „Normele de securitate la exploatarea
+instalațiilor electrice”, aprobate prin Hotărârea Consiliului de administrație al Agenției
+Naționale pentru Reglementare în Energetică nr. 394/2019.
+### Punctul 7. În sensul prezentului Regulament se utilizează noțiunile definite în Legea nr.
+164/2025 cu privire la energia electrică, în Legea nr. 174/2017 cu privire la energetică,
+precum și următoarele noțiuni:
+[Pct.7 modificat prin HG248 din 13.05.26, MO206-209/14.05.26 art.250; în vigoare
+14.05.26]
+7.1. linie electrică aeriană (LEA) – instalație electrică montată în aer liber, alcătuită
+din conductoare izolate sau neizolate, izolatoare, cleme, armături, stâlpi, fundații, elemente
+de susținere și instalații de legare la pământ, care servește la transportul și/sau distribuția
+energiei electrice;
+7.2. linie electrică în cablu (LEC) – instalație electrică alcătuită dintr-un cablu sau din
+câteva cabluri paralele, legate cu manșoane de cuplare, de oprire și terminale, precum și cu
+elemente de montare, care servește la transportul sau distribuția energiei electrice;
+7.3. culoar de trecere a liniei electrice aeriene – suprafață terestră situată de-a lungul
+
+
+LEA și spațiul aerian de deasupra sa, în care se impun restricții și interdicții din punctul de
+vedere al coexistenței LEA cu elementele naturale, cu obiecte, construcții, instalații;
+7.4. obiect al rețelelor electrice – linie electrică, stație electrică, post de transformare
+și de distribuție, celulă de secționare;
+7.5. mecanisme – macarale de toate tipurile, dispozitive hidraulice de ridicare, turnuri
+telescopice, excavatoare, tractoare, autoîncărcătoare, mașini de săpat gropi, scări mobile cu
+acționare mecanică etc.;
+7.6. acord privind efectuarea lucrărilor în zona de protecție a rețelei electrice –
+document întocmit pe un formular de formă stabilită, care prevede executarea unor lucrări
+în zona de protecție a rețelei electrice și conține descrierea lucrărilor planificate, locul
+executării acestora, data și durata executării, măsurile de siguranță la pregătirea locului de
+muncă și la executarea lucrărilor, componența echipei de lucru și persoanele responsabile
+de executarea în siguranță a lucrărilor;
+7.7. zonă de protecție a rețelelor electrice – zonă adiacentă rețelelor electrice, cu
+condiții deosebite de utilizare, stabilită de-a lungul traseului rețelei electrice și în jurul altor
+obiecte ale rețelei electrice, în ale cărei limite se introduc interdicții privind accesul
+persoanelor, efectuarea lucrărilor stabilite și regimul construcțiilor în scopul asigurării
+condițiilor normale de exploatare și al excluderii posibilității de deteriorare a rețelelor
+electrice;
+7.8. zonă de protecție a liniei electrice ce aparține producătorului sau consumatorului
+noncasnic – zonă adiacentă liniei electrice ce aparține producătorului sau consumatorului
+noncasnic, amplasată în afara proprietății acestuia, cu condiții deosebite de utilizare,
+stabilită de-a lungul traseului liniei electrice, în ale cărei limite se introduc interdicții
+privind accesul persoanelor, efectuarea lucrărilor stabilite și regimul construcțiilor în scopul
+asigurării condițiilor normale de exploatare și al excluderii posibilității de deteriorare a
+liniei electrice.
+Secțiunea a 2-a
+Delimitarea zonelor de protecție a rețelelor
+electrice
+### Punctul 8. La delimitarea zonelor de protecție a rețelelor electrice, inclusiv a liniilor electrice
+ale producătorilor și ale consumatorilor noncasnici, se ia în considerare complexul de factori
+naturali, economici și sociali ai zonei și caracteristicile acestora, astfel încât coexistența
+ansamblului să asigure funcționarea normală a obiectelor rețelelor electrice ale operatorilor
+de sistem, inclusiv a liniilor electrice ce aparțin producătorilor și consumatorilor noncasnici,
+amplasate în afara proprietății acestora și evitarea punerii în pericol a persoanelor, a
+bunurilor și a mediului.
+### Punctul 9. Stabilirea zonelor de protecție a rețelelor electrice, inclusiv a liniilor electrice ale
+producătorilor și ale consumatorilor noncasnici, nu privează deținătorii de terenuri de
+dreptul de proprietate sau de posesie de care dispun. Terenurile aflate în zonele de
+
+
+protecție a rețelelor electrice, inclusiv a liniilor electrice ale producătorilor și ale
+consumatorilor noncasnici, se utilizează de către aceștia conform destinației, cu respectarea
+prezentului Regulament.
+### Punctul 10. Datele privind amplasarea în teren a rețelelor electrice și a liniilor electrice ale
+producătorilor și ale consumatorilor noncasnici se prezintă autorităților administrației
+publice locale de către operatorii de sistem, de către producători sau consumatorii
+noncasnici, în termen de 30 de zile de la data punerii în funcțiune a acestora, pentru a fi
+transpuse pe hărțile funciare ale unităților administrativ-teritoriale.
+### Punctul 11. Operatorii de sistem, producătorii și consumatorii noncasnici oferă gratuit
+persoanelor fizice și juridice interesate, la solicitarea scrisă a acestora, informații privind
+amplasamentul rețelelor electrice și a liniilor electrice ce aparțin producătorilor și
+consumatorilor noncasnici. Termenul de prezentare a informațiilor nu depășește 7 zile
+lucrătoare de la data depunerii cererii.
+### Punctul 12. Delimitarea zonelor de protecție a rețelelor electrice se face ținând cont de
+cerințele privind siguranța obiectivelor învecinate cu rețelele electrice, și anume:
+12.1. cerințele privind protecția fondului forestier și a spațiilor verzi ale localităților
+urbane și rurale;
+12.2. cerințele privind siguranța și protecția infrastructurii feroviare;
+12.3. cerințele privind zona drumurilor publice și zonele de protecție a acestora;
+12.4. cerințele privind protecția albiilor, a malurilor și a lucrărilor de gospodărire a
+apelor;
+12.5. regulile cu privire la siguranța construcțiilor și la apărarea interesului public;
+12.6. cerințele privind stabilirea zonelor de protecție pentru instalațiile tehnologice
+componente ale rețelelor de transport și de distribuție a gazelor naturale;
+12.7. cerințele privind stabilirea zonelor de protecție pentru instalațiile tehnologice
+componente ale rețelelor termice;
+12.8. regulile privind protecția rețelelor de comunicații electronice și executarea
+lucrărilor în zonele de protecție și pe traseele liniilor de comunicații electronice;
+12.9. cerințele privind stabilirea zonelor supuse servituții aeronautice.
+### Punctul 13. Pentru LEA, zona de protecție a rețelelor electrice, precum și a liniei electrice ce
+aparține producătorului sau consumatorului noncasnic este zona de-a lungul LEA,
+constituită din terenul și spațiul aerian limitate de planurile verticale, depărtate din ambele
+părți ale liniei electrice de la conductoarele extreme fără devieri după cum urmează:
+13.1. LEA cu conductoare neizolate de tensiune nominală mai mică sau egală cu 1 kV
+– 2 m;
+
+
+13.2. LEA cu conductoare izolate de tensiune nominală mai mică sau egală cu 1 kV – 1
+m;
+13.3. LEA cu conductoare neizolate de tensiune nominală cuprinsă între 1 kV și 10 kV
+– 10 m;
+13.4. LEA cu conductoare protejate de tensiune nominală cuprinsă între 1 kV și 10 kV
+–5 m;
+13.5. LEA de tensiune nominală 35 kV – 15 m;
+13.6. LEA de tensiune nominală 110 kV – 20 m;
+13.7. LEA de tensiune nominală 330 kV sau mai mare – 30 m.
+### Punctul 14. În cazul în care LEA traversează râuri și/sau bazine acvatice navigabile, zona de
+protecție se stabilește la o distanță în plan orizontal de 100 m de la conductoarele extreme
+ale LEA.
+### Punctul 15. Pentru LEC, zona de protecție a traseului de cabluri este simetrică față de axul
+traseului LEC și se delimitează prin planuri verticale, îndepărtate de la conductoarele
+extreme ale cablului/cablurilor, după cum urmează:
+15.1. în cazul instalării LEC în pământ, în afara localităților – la o distanță de 1 m;
+15.2. în cazul instalării LEC în pământ, în localități – la o distanță de 0,6 m în direcția
+clădirilor/construcțiilor și de 1 m – în direcția părții carosabile a drumurilor;
+15.3. în cazul instalării aeriene, în exteriorul clădirilor zona de protecție este
+delimitată la distanțele minime tehnologice normate pentru canalele de cabluri conform
+normelor de proiectare;
+15.4. în cazul instalării LEC în pământ, pe terenurile spațiilor verzi sau alte spații din
+localități, unde vegetația forestieră (arbori) este prezentă, zona de protecție se va aplica
+conform prevederilor Normativului în construcții NCM B.01.05.
+### Punctul 16. În cazul în care LEC traversează râuri și bazine acvatice, zona de protecție a
+liniilor electrice se stabilește la o distanță în plan orizontal de 100 m de la conductoarele
+marginale ale cablului/cablurilor LEC.
+### Punctul 17. Pentru stațiile electrice, zonele de protecție se stabilesc ținând cont de tensiunea
+nominală cea mai înaltă a stației electrice, ca zone adiacente, delimitate prin planuri
+verticale, îndepărtate de la fiecare latură a perimetrului stației electrice după cum urmează:
+17.1. pentru stațiile electrice cu tensiunea nominală 35 kV – 15 m;
+17.2. pentru stațiile electrice cu tensiunea nominală 110 kV – 20 m;
+17.3. pentru stațiile electrice cu tensiunea nominală superioară 330 kV sau mai mare
+– 30 m, pe fiecare latură a acesteia.
+
+
+### Punctul 18. Pentru posturile de transformare, punctele de alimentare/secționare, celulele de
+secționare, echipamentele de comutație cu tensiunea nominală 6(10) kV, în funcție de
+realizarea constructivă, zona de protecție se delimitează prin planuri verticale, îndepărtate
+de la fiecare latură a perimetrului postului de transformare, după cum urmează:
+18.1. posturi de transformare 6(10) kV/0,4 kV, cu instalație de racordare aeriană – 10
+m;
+18.2. posturi de transformare 6(10) kV/0,4 kV, cu instalație de racordare în cablu – 5
+m;
+18.3. puncte de distribuție, celule și echipamente de secționare și de comutație cu
+tensiunea 6(10) kV – 10 m.
+### Punctul 19. Documentele confirmative privind amplasamentul rețelelor electrice, întocmite în
+modul stabilit de legislație, se păstrează la operatorii de sistem care sunt obligați să
+prezinte, la solicitarea autorităților administrației publice locale sau a deținătorilor de
+terenuri, informații despre amplasarea pe teren a rețelelor electrice.
+### Punctul 20. Amplasarea pe teren a rețelelor electrice și a liniilor electrice ce aparțin
+producătorilor sau consumatorilor noncasnici se trasează inclusiv în partea grafică a
+documentației cadastrale a deținătorilor de terenuri, pe care le păstrează întreprinderile de
+stat sau private care execută lucrări cadastrale. În cazul în care hotarele terenului se
+modifică, autoritățile administrației publice locale sau alte autorități administrative
+informează despre aceasta gestionarul rețelelor electrice și al liniei electrice ce aparține
+producătorului sau consumatorului noncasnic.
+### Punctul 21. Informația cu privire la rețelele electrice, drepturile asupra acestora, zonele de
+protecție a acestora, precum și restricțiile aferente zonelor de protecție se va obține din
+Registrul obiectivelor de infrastructură tehnico-edilitară, creat în conformitate cu legislația
+privind evidența rețelelor edilitare.
+Secțiunea a 3-a
+Restricții și interdicții privind utilizarea terenurilor
+din zonele de protecție a rețelelor electrice
+### Punctul 22. Pentru a evita punerea în pericol a persoanelor și a bunurilor sau a nu
+obstrucționa desfășurarea, în zonele de protecție a rețelelor electrice, a lucrărilor de
+construcție, reabilitare, modernizare, întreținere și exploatare a rețelelor electrice,
+operatorii de sistem au dreptul să solicite restrângerea sau sistarea, pe durata efectuării
+lucrărilor, a activităților desfășurate în zona de protecție a rețelei electrice. În acest caz,
+persoanele afectate sunt informate în scris cu cel puțin 7 zile înainte despre data începerii
+și, respectiv, a finalizării lucrărilor.
+### Punctul 23. Se interzice edificarea clădirilor rezidențiale și nerezidențiale în zonele de
+protecție a rețelelor electrice.
+
+
+### Punctul 24. Fără acordul în scris al operatorului de sistem, persoanelor fizice și juridice li se
+interzice efectuarea oricăror acțiuni ce pot conduce la perturbarea funcționării normale a
+rețelelor electrice, la deteriorarea acestora sau la accidente, cum ar fi:
+24.1. să amplaseze construcții provizorii sau să efectueze reconstrucția/ demolarea
+clădirilor în zona de protecție a rețelelor electrice;
+24.2. să efectueze excavații de orice fel ori să înființeze plantații perene în zona de
+protecție a rețelelor electrice;
+24.3. să depoziteze materiale pe căile de acces la rețelele electrice și în zona de
+protecție a rețelelor electrice;
+24.4. să intervină în orice alt mod asupra rețelelor electrice.
+### Punctul 25. În scopul protecției rețelelor electrice, persoanelor fizice și juridice li se interzice:
+25.1. să arunce obiecte de orice fel pe rețelele electrice;
+25.2. să deterioreze construcțiile, îngrădirile sau inscripțiile de identificare și de
+avertizare aferente rețelelor electrice;
+25.3. să limiteze ori să îngrădească prin împrejmuiri, prin construcții ori în orice alt
+mod accesul la rețeaua electrică;
+25.4. să efectueze activități în zona de protecție a rețelelor electrice, precum
+amenajarea terenurilor sportive, a stadioanelor, a târgurilor, a stațiilor pentru transportul
+public, a parcărilor pentru toate tipurile de mașini şi mecanisme, vânarea pasărilor aflate pe
+pilonii sau conductoarele LEA, amenajarea cantonamentelor de câmp, lansarea zmeielor, a
+modelelor sportive ale aparatelor de zbor, inclusiv a celor ghidate, organizarea diverselor
+manifestări cu antrenarea unui număr mare de oameni care nu sunt angajați în executarea
+unor lucrări autorizate în modul stabilit.
+### Punctul 26. În cazul în care, până la intrarea în vigoare a Legii nr. 107/2016 cu privire la
+energia electrică, au fost emise autorizații de construire care au permis efectuarea
+lucrărilor de construcție în zonele de protecție a rețelelor electrice, beneficiarul sau
+proprietarul construcției este obligat să acorde acces operatorului de sistem pentru
+executarea lucrărilor de exploatare, de întreținere sau de modernizare a rețelelor electrice.
+Secțiunea a 4-a
+Atribuțiile autorităților administrației publice locale
+privind utilizarea terenurilor din zonele de protecție
+a rețelelor electrice
+### Punctul 27. În scopul executării prevederilor prezentului Regulament, autoritățile
+administrației publice locale au următoarele atribuții:
+
+
+27.1. să contribuie la informarea populației, a instituțiilor și a agenților economici
+despre cerințele și consecințele nerespectării prezentului Regulament;
+27.2. să informeze solicitanții de certificate de urbanism pentru proiectare și de
+autorizații de construire care planifică realizarea unor construcții în apropierea rețelelor
+electrice, despre interzicerea edificării clădirilor rezidențiale și nerezidențiale în zonele de
+protecție a rețelelor electrice și despre obligația coordonării prealabile cu operatorul de
+sistem al amplasamentului construcției provizorii în zona de protecție a rețelei electrice;
+27.3. să informeze operatorul de sistem despre modificarea hotarelor de folosire a
+terenurilor din zonele de protecție a rețelelor electrice;
+27.4. să informeze populația despre obligațiile operatorilor de sistem privind
+defrișarea și tăierile de modelare a vegetației forestiere în scopul creării și menținerii
+distanței de apropiere față de rețelele electrice.
+### Punctul 28. La eliberarea certificatelor de urbanism pentru proiectare, a autorizațiilor de
+construire pentru clădiri rezidențiale și nerezidențiale sau pentru construcții provizorii,
+emitentul certificatului de urbanism sau al autorizației de construire este obligat să respecte
+prevederile Codului urbanismului și construcțiilor nr. 434/2023, precum și cerințele față de
+zonele de protecție a rețelelor electrice, a liniilor electrice ale producătorilor sau
+consumatorilor noncasnici, stabilite în prezentul Regulament.
+### Punctul 29. Se interzice emitentului certificatului de urbanism sau al autorizației de
+construire să elibereze certificate de urbanism pentru proiectare și autorizații de construire
+care permit edificarea clădirilor rezidențiale și nerezidențiale în zonele de protecție a
+rețelelor electrice.
+Secțiunea a 5-a
+Realizarea de către terți a lucrărilor în zonele
+de protecție a rețelelor electrice
+### Punctul 30. Persoanele fizice sau juridice care planifică lucrări în zona de protecție a rețelelor
+electrice prevăzute la pct. 24 sunt obligate să obțină acordul privind efectuarea lucrărilor în
+zona de protecție a rețelei electrice de la operatorul de sistem în a cărei zonă de protecție a
+rețelei electrice se preconizează executarea lucrărilor respective.
+### Punctul 31. Cererea pentru obținerea acordului privind efectuarea lucrărilor în zona de
+protecție a rețelei electrice se depune de către solicitant la operatorul de sistem cu cel puțin
+10 zile înainte de data planificată de începere a lucrărilor, iar operatorul de sistem este
+obligat să elibereze acordul/refuzul argumentat privind efectuarea lucrărilor în zona de
+protecție a rețelei electrice în termen de cinci zile lucrătoare de la data înregistrării cererii
+respective, cu condiția prezentării de către solicitant a informațiilor și actelor indicate în
+cererea pentru eliberarea acordului privind efectuarea lucrărilor în zona de protecție a
+rețelei electrice.
+### Punctul 32. Operatorul de sistem pune la dispoziția solicitantului un model de cerere pentru
+
+
+eliberarea acordului privind efectuarea lucrărilor în zona de protecție a rețelei electrice,
+conform modelului indicat în anexa nr. 1, și eliberează acordul privind efectuarea lucrărilor
+în zona de protecție a rețelei electrice, conform modelului indicat în anexa nr. 2.
+### Punctul 33. În acordul privind efectuarea lucrărilor în zona de protecție a rețelei electrice,
+operatorul de sistem indică, după caz, hotarele de delimitare a zonei de protecție a rețelei
+electrice, lucrările preconizate pentru a fi efectuate, executantul lucrărilor, termenele de
+executare și persoanele responsabile, măsurile de securitate care se respectă de către
+beneficiar la planificarea și executarea lucrărilor.
+### Punctul 34. Lucrările cu macarale sau cu dispozitive de ridicare (turle) destinate ridicării
+persoanelor cu diverse instrumente și materiale la înălțimi din apropierea LEA se vor
+efectua în conformitate cu Reglementarea tehnică NRS 35-03-96:2008 „Cerințe de
+securitate industrială la construcția, montarea, punerea în funcțiune, utilizarea, repararea şi
+verificarea tehnică a macaralelor”, aprobată prin Ordinul ministrului economiei și
+comerțului nr. 13/2009 și cu
+Regulile de construcție și exploatare inofensivă a instalațiilor de ridicat (turlelor) NRS
+35-03-73:2006, aprobate prin Hotărârea Serviciului Standardizare și Metrologie al
+Republicii Moldova nr. 1946-RT din 20 iunie 2006.
+### Punctul 35. În zonele de protecție a rețelelor electrice, persoanele juridice și fizice sunt
+obligate să execute cerințele justificate ale personalului operatorului de sistem, orientate
+spre asigurarea integrității rețelelor electrice și prevenirea accidentelor.
+### Punctul 36. În cazul executării lucrărilor în zonele de protecție a rețelelor electrice,
+persoanele fizice și juridice sunt obligate să întreprindă măsurile de protejare a rețelelor
+electrice de deteriorări. La construcția canalelor de irigație de colectare și drenare, la
+instalarea spalierelor pentru viță-de-vie și livezi, precum și la executarea altor lucrări, se va
+asigura, în mod obligatoriu, accesul la rețelele electrice.
+### Punctul 37. În documentația de proiect și de deviz pentru construcția, reparația și
+reconstrucția obiectivelor care pot fi surse de coroziune a rețelelor electrice vor fi prevăzute
+măsuri de limitare a acestora.
+### Punctul 38. Lucrările în zona de protecție a liniei electrice ce aparține producătorului sau
+consumatorului noncasnic se efectuează de către persoane fizice și juridice, după
+coordonarea cu producătorul sau consumatorul noncasnic. Pentru coordonarea efectuării
+lucrărilor în zona de protecție a liniei electrice ce aparține producătorului sau
+consumatorului noncasnic, producătorul sau consumatorul noncasnic utilizează modelul
+acordului prezentat în anexa nr. 2.
+Secțiunea a 6-a
+Realizarea de către operatorul de sistem a lucrărilor
+în zonele de protecție a rețelelor electrice
+### Punctul 39. Personalul, mijloacele de transport și mecanismele operatorilor de sistem au
+
+
+acces liber la rețelele electrice pe care le gestionează, pentru îndeplinirea lucrărilor de
+reparație, modernizare, întreținere și exploatare. Dacă rețelele electrice sunt amplasate pe
+teritoriile zonelor cu acces limitat și ale obiectivelor speciale, proprietarii sau gestionarii
+zonelor sau obiectivelor respective sunt obligați să ofere acces echipelor de întreținere a
+rețelelor electrice ale operatorilor de sistem în scopul executării lucrărilor în orice timp al
+zilei.
+### Punctul 40. În zonele de protecție a rețelelor electrice, de-a lungul LEA ce traversează fondul
+forestier și pe terenurile din afara fondului forestier, operatorii de sistem sunt obligați să
+efectueze lucrări de defrișare sau tăieri de modelare a vegetației forestiere, pentru crearea
+și menținerea distanței de apropiere față de rețelele electrice, în conformitate cu
+prevederile Legii nr. 164/2025 cu privire la energia electrică.
+[Pct.40 modificat prin HG248 din 13.05.26, MO206-209/14.05.26 art.250; în vigoare
+14.05.26]
+### Punctul 41. Prin amenajarea culoarelor de trecere ale LEA, operatorul de sistem este obligat:
+41.1. să întrețină culoarele de trecere ale LEA în stare de siguranță contra incendiilor;
+41.2. să mențină lățimea culoarelor de trecere ale LEA în limitele prevăzute de
+proiectele de construcție ale rețelelor electrice, prin tăierea vegetației forestiere și prin alte
+metode;
+41.3. să efectueze lucrări silvo-tehnice de curățare sanitară până la 1/3 din
+coronamentul arborilor care cresc alături de culoarele de trecere ale LEA și prezintă
+pericol, prin căderea acestora peste conductoare, stâlpi și alte elemente ale rețelelor
+electrice.
+### Punctul 42. Lucrările planificate de reparație, întreținere și reconstrucție a rețelelor electrice
+se efectuează, de regulă, în perioada în care aceste terenuri nu sunt ocupate de culturile
+agricole sau când este posibilă asigurarea integrității culturilor agricole, prin notificarea
+prealabilă a deținătorilor de terenuri.
+### Punctul 43. Lucrările de prevenire a avariilor sau de lichidare a consecințelor avariilor în
+rețelele electrice se efectuează în orice timp al anului, fără acordul deținătorilor de terenuri,
+cu notificarea obligatorie a acestora despre lucrările executate, după finalizarea lucrărilor
+respective. Deținătorii de terenuri sunt obligați să permită accesul personalului și al
+mecanismelor la rețelele electrice, în scopul prevenirii și/sau lichidării consecințelor
+avariilor în rețelele electrice.
+### Punctul 44. În toate cazurile, după executarea lucrărilor, operatorul de sistem restabilește
+terenurile în starea utilă pentru folosirea lor conform destinației și repară prejudiciile
+cauzate deținătorilor de terenuri prin executarea lucrărilor, cu excepția celor care au
+rezultat ca urmare a încălcării, de către deținătorii de terenuri, a obligațiilor care le revin
+conform prezentului Regulament. Prejudiciile deținătorilor de teren se determină în modul
+stabilit de legislația Republicii Moldova.
+### Punctul 45. Lucrările planificate de reparație și reconstrucție a LEC în urma cărora se
+
+
+deteriorează suprafața drumurilor pot fi efectuate numai după coordonarea cu:
+45.1. autoritatea/entitatea cu drept de administrare a drumurilor publice naționale și
+a terenurilor aferente, în condițiile și cu respectarea prevederilor Legii drumurilor nr.
+509/1995 – în cazul drumurilor naționale;
+45.2. autoritățile administrației publice locale – în cazul drumurilor locale;
+45.3. persoanele fizice sau juridice care au în proprietate sau în administrare drumuri
+– în cazul drumurilor private.
+### Punctul 46. În cazuri excepționale, pentru prevenirea avariilor sau pentru lichidarea
+consecințelor avariilor în rețelele electrice, se permite îndeplinirea lucrărilor de reparație a
+LEC, în urma cărora se deteriorează suprafața drumurilor, fără coordonarea preliminară,
+dar numai după notificarea autorităților menționate la pct. 45.
+### Punctul 47. Executantul lucrărilor planificate de reparație și reconstrucție a LEC este obligat
+să amenajeze căi de ocolire a locurilor de lucru, cu instalarea indicatorilor de prevenire
+pentru transport și pietoni, iar după finalizarea lucrărilor să niveleze terenul și să
+restabilească învelișul drumului la starea tehnică inițială.
+Secțiunea a 7-a
+Amplasarea altor instalații inginerești și obiecte
+de infrastructură pe stâlpii liniilor electrice sau în
+zonele de protecție a rețelelor electrice
+### Punctul 48. Amenajarea de către autoritățile administrației publice locale a rețelelor de
+iluminat public se realizează în baza Normelor de amenajare a rețelelor de iluminat public,
+aprobate prin Hotărârea Consiliului de administrație al Agenției Naționale pentru
+Reglementare în Energetică nr. 498/2024, iar exploatarea acestora se realizează conform
+documentului normativ-tehnic „Normele minime de exploatare a instalațiilor electrice ale
+consumatorilor noncasnici”, aprobat prin Hotărârea Consiliului de administrație al Agenției
+Naționale pentru Reglementare în Energetică nr. 393/2019.
+### Punctul 49. Amplasarea rețelelor de comunicații electronice și a echipamentelor electronice
+de supraveghere video, precum și componentele necesare pentru funcționarea acestor
+echipamente pe stâlpii liniilor electrice, exploatarea echipamentelor electronice de
+supraveghere video, a componentelor necesare pentru funcționarea acestor echipamente,
+precum și a rețelelor de comunicații electronice se efectuează în baza prevederilor actelor
+normative de reglementare, aprobate de Agenția Națională pentru Reglementare în
+Energetică în conformitate cu prevederile Legii nr. 174/2017 cu privire la energetică.
+### Punctul 50. În cazul amplasării rețelelor electrice în zona drumurilor publice și private și în
+zonele de protecție a acestora și a căilor ferate, operatorul de sistem coordonează cu
+autoritățile responsabile de administrarea infrastructurii respective privind modul de
+efectuare a întreținerii rețelelor electrice în intersecțiile liniilor electrice cu drumurile
+
+
+publice și private sau cu căile ferate.
+### Punctul 51.
+În locurile de intersecție a liniilor electrice cu drumurile naționale de categoriile IIV, pe care circulă autovehicule cu sau fără încărcătură și mecanisme cu înălțimea mai mare
+de 4,5 m de la suprafața drumului cu LEA, din ambele părți ale drumului național se
+instalează indicatoare de avertizare privind înălțimea admisibilă pentru mijloacele de
+transport ce traversează intersecția respectivă.
+### Punctul 52. În locurile de intersecție a drumurilor publice cu LEA de tensiune nominală de
+330 kV și mai mare se instalează indicatoare rutiere prin care se interzice staționarea
+mijloacelor de transport în zonele de protecție a acestor linii electrice.
+### Punctul 53. În preajma bazinelor acvatice, amplasate în zona de protecție a rețelelor electrice,
+operatorul de sistem instalează indicatoare de avertizare privind apropierea de rețeaua
+electrică, dar și indicatoare de interzicere a pescuitului în zona de protecție a rețelei
+electrice.
+### Punctul 54. În locurile de intersecție a liniilor electrice cu râurile navigabile, pe maluri,
+operatorul de sistem instalează indicatoare care arată înălțimea admisibilă a navelor.
+Secțiunea a 8-a
+Răspunderea pentru nerespectarea cerințelor
+cu privire la zonele de protecție a rețelelor electrice
+### Punctul 55. În cazul în care operatorul de sistem constată că în zona de protecție a rețelelor
+electrice din gestiune se efectuează sau au fost efectuate lucrări cu încălcarea prevederilor
+prezentului Regulament, operatorul de sistem solicită în scris persoanelor juridice și fizice
+care au admis încălcări încetarea efectuării lucrărilor respective și înlăturarea consecințelor
+respectivelor încălcări. Solicitarea menționată conține date despre persoana căreia i se
+adresează, încălcarea depistată, precum și termenul de remediere a încălcării.
+### Punctul 56. După întreprinderea măsurilor prevăzute la pct. 55, operatorul de sistem este
+obligat să sesizeze Agenția Națională pentru Reglementare în Energetică, cu prezentarea
+tuturor materialelor acumulate și cu descrierea măsurilor întreprinse.
+### Punctul 57. Proiectele instalațiilor de racordare coordonate de operatorii de sistem până la
+intrarea în vigoare a prezentului Regulament rămân valabile fără modificare, cu excepția
+situațiilor în care modificarea este inițiată de către solicitant.
+anexa nr.1
+anexa nr.2
+Anexa nr. 2
+
+
+la Hotărârea Guvernului nr.852/2024
+LISTA
+hotărârilor Guvernului care se abrogă
+### Punctul 1. Hotărârea Guvernului nr. 132/1993 cu privire la regimul de consum al energiei
+electrice (Monitorul Parlamentului al Republicii Moldova, 1993, nr. 3, art. 84).
+### Punctul 2. Hotărârea Guvernului nr. 648/1993 privind unele măsuri suplimentare pentru
+reducerea consumului de energie electrică (Monitorul Parlamentului al Republicii Moldova,
+1993, nr. 10, art. 320).
+### Punctul 3. Hotărârea Guvernului nr. 609/1996 privind măsurile de asigurare a livrărilor de
+energie electrică în Republica Moldova (Monitorul Oficial al Republicii Moldova, 1996, nr.
+80, art. 643), cu modificările ulterioare.
+### Punctul 4. Hotărârea Guvernului nr. 3/1997 cu privire la perfecționarea sistemului de evidență
+și control al consumului de energie electrică (Monitorul Oficial al Republicii Moldova, 1997,
+nr. 12, art. 49).
+### Punctul 5. Hotărârea Guvernului nr. 514/2002 despre aprobarea Regulamentului cu privire la
+protecția rețelelor electrice (Monitorul Oficial al Republicii Moldova, 2002, nr. 59-61, art.
+603).
+### Punctul 6. Hotărârea Guvernului nr. 583/2005 pentru aprobarea Regulamentului privind
+condițiile generale de import/export și tranzit al energiei electrice (Monitorul Oficial al
+Republicii Moldova, 2005, nr. 86-88, art. 645), cu modificările ulterioare.

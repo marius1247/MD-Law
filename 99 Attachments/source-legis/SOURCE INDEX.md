@@ -19,6 +19,23 @@ updated: 2026-08-07
 
 | doc_id | Raw file | Vault location |
 |---|---|---|
+| `147685` | [`147685-147685_943f.pdf`](147685-147685_943f.pdf) · [`147685.txt`](147685.txt) | `10 Legislation/Government Decisions/HG 86-2025 — Plan national integrat energie clima 2025-2030 (text).md` *(dispositif only)* |
+| `147714` | [`147714-147714_dab3.pdf`](147714-147714_dab3.pdf) · [`147714.txt`](147714.txt) | `10 Legislation/Government Decisions/HG 156-2025 — modificare HG 1059-2023 PSO securitate EE (text).md` |
+| `147716` | [`147716-147716_966a.pdf`](147716-147716_966a.pdf) · [`147716.txt`](147716.txt) | `10 Legislation/Government Decisions/HG 158-2025 — modificare norme cheltuieli institutii sociale (text).md` *(peripheral)* |
+| `147843` | [`147843-147843_3f1e.pdf`](147843-147843_3f1e.pdf) · [`147843.txt`](147843.txt) | `10 Legislation/Laws/Legea 45-2025 — garantiile avizelor de racordare si tolerante dezechilibre (text).md` |
+| `148066` | [`148066-148066_6246.pdf`](148066-148066_6246.pdf) · [`148066.txt`](148066.txt) | `10 Legislation/Government Decisions/HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (text).md` *(methodology annex missing)* |
+| `148399` | [`148399-148399_4415.pdf`](148399-148399_4415.pdf) · [`148399.txt`](148399.txt) | `10 Legislation/Laws/Legea 88-2025 — utilitate publica LEA 400 kV Balti-Suceava (text).md` |
+| `148535` | [`148535-148535_1749.pdf`](148535-148535_1749.pdf) · [`148535.txt`](148535.txt) | `10 Legislation/Government Decisions/HG 302-2025 — modificare HG 668-2022 stocuri securitate gaze (text).md` |
+| `148815` | [`148815-148815_4cf9.pdf`](148815-148815_4cf9.pdf) · [`148815.txt`](148815.txt) | `10 Legislation/Government Decisions/HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile (text).md` *(annex 2 missing)* |
+| `149130` | [`149130-149130_5fcb.pdf`](149130-149130_5fcb.pdf) · [`149130.txt`](149130.txt) | `10 Legislation/Authority Acts/HANRE 422-2019 — calitate servicii transport distributie gaze (text).md` *(decision-only)* |
+| `150581` | [`150581-150581_da5b.pdf`](150581-150581_da5b.pdf) · [`150581.txt`](150581.txt) | `10 Legislation/Laws/Legea 227-2025 — optimizarea actelor permisive (text).md` |
+| `150831` | [`150831-150831_eeb7.pdf`](150831-150831_eeb7.pdf) · [`150831.txt`](150831.txt) | `10 Legislation/Government Decisions/HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (text).md` |
+| `150832` | [`150832-150832_b5ff.pdf`](150832-150832_b5ff.pdf) · [`150832.txt`](150832.txt) | `10 Legislation/Government Decisions/HG 599-2025 — limite cote capacitate regenerabile pana 2030 (text).md` *(annexes missing)* |
+| `150858` | [`150858-150858_cc59.pdf`](150858-150858_cc59.pdf) · [`150858.txt`](150858.txt) | `10 Legislation/Government Decisions/HG 517-2024 — Regulament constructie reconstructie centrale electrice (text).md` |
+| `150977` | [`150977-150977_a64d.pdf`](150977-150977_a64d.pdf) · [`150977.txt`](150977.txt) | `10 Legislation/Government Decisions/HG 620-2025 — transmitere bunuri Fond eficienta energetica CNED (text).md` *(form annexes missing)* |
+| `152035` | [`152035-152035_cba8.pdf`](152035-152035_cba8.pdf) · [`152035.txt`](152035.txt) | `10 Legislation/Government Decisions/HG 1060-2023 — organizare functionare CNED (text).md` *(annex 4 may truncate)* |
+| `152132` | [`152132-152132_8972.pdf`](152132-152132_8972.pdf) · [`152132.txt`](152132.txt) | `10 Legislation/Authority Acts/HANRE 23-2017 — furnizarea energiei termice (text).md` *(form annexes missing)* |
+| `152152` | [`152152-152152_f7c1.pdf`](152152-152152_f7c1.pdf) · [`152152.txt`](152152.txt) | `10 Legislation/Authority Acts/HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (text).md` |
 | `121240` | [`121240.md`](121240.md) | `10 Legislation/Laws/Legea 183-2012 — concurenta (text).md` |
 | `140021` | [`140021.md`](140021.md) | `10 Legislation/Authority Acts/HANRE 486-2017 — Metodologie tarife transport EE (text).md` |
 | `142654` | [`142654.md`](142654.md) | `10 Legislation/Laws/Legea 235-2006 — principii reglementare intreprinzator (text).md` |
@@ -179,5 +196,59 @@ updated: 2026-08-07
 | `147296` | [`147296-147296_a54f.pdf`](147296-147296_a54f.pdf) · [`147296.txt`](147296.txt) | `10 Legislation/Government Decisions/HG 74-2025 — calcul consum energie regenerabila (text).md` *(dispositif only)* |
 | `147150` | [`147150-147150_341b.pdf`](147150-147150_341b.pdf) · [`147150.txt`](147150.txt) | `10 Legislation/Government Decisions/HG 76-2025 — cotizatii organizatii internationale 2025 (text).md` *(peripheral)* |
 
+## PDF batch 2026-08-07e — energy (batch 5)
+
+| doc_id | Raw file | Vault location |
+|---|---|---|
+| `147685` | [`147685-147685_943f.pdf`](147685-147685_943f.pdf) · [`147685.txt`](147685.txt) | `10 Legislation/Government Decisions/HG 86-2025 — Plan national integrat energie clima 2025-2030 (text).md` *(dispositif only — PNIEC annex missing)* |
+| `147714` | [`147714-147714_dab3.pdf`](147714-147714_dab3.pdf) · [`147714.txt`](147714.txt) | `10 Legislation/Government Decisions/HG 156-2025 — modificare HG 1059-2023 PSO securitate EE (text).md` |
+| `147716` | [`147716-147716_966a.pdf`](147716-147716_966a.pdf) · [`147716.txt`](147716.txt) | `10 Legislation/Government Decisions/HG 158-2025 — modificare norme cheltuieli institutii sociale (text).md` *(peripheral; annex missing)* |
+| `147843` | [`147843-147843_3f1e.pdf`](147843-147843_3f1e.pdf) · [`147843.txt`](147843.txt) | `10 Legislation/Laws/Legea 45-2025 — garantiile avizelor de racordare si tolerante dezechilibre (text).md` |
+| `148066` | [`148066-148066_6246.pdf`](148066-148066_6246.pdf) · [`148066.txt`](148066.txt) | `10 Legislation/Government Decisions/HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (text).md` *(methodology annex missing)* |
+
+## PDF batch 2026-08-07f — energy (batch 6)
+
+| doc_id | Raw file | Vault location |
+|---|---|---|
+| `148815` | [`148815-148815_4cf9.pdf`](148815-148815_4cf9.pdf) · [`148815.txt`](148815.txt) | `10 Legislation/Government Decisions/HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile (text).md` *(annex 2 missing)* |
+| `149130` | [`149130-149130_5fcb.pdf`](149130-149130_5fcb.pdf) · [`149130.txt`](149130.txt) | `10 Legislation/Authority Acts/HANRE 422-2019 — calitate servicii transport distributie gaze (text).md` *(decision-only)* |
+| `150581` | [`150581-150581_da5b.pdf`](150581-150581_da5b.pdf) · [`150581.txt`](150581.txt) | `10 Legislation/Laws/Legea 227-2025 — optimizarea actelor permisive (text).md` |
+| `150831` | [`150831-150831_eeb7.pdf`](150831-150831_eeb7.pdf) · [`150831.txt`](150831.txt) | `10 Legislation/Government Decisions/HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (text).md` |
+| `148399` | [`148399-148399_4415.pdf`](148399-148399_4415.pdf) · [`148399.txt`](148399.txt) | `10 Legislation/Laws/Legea 88-2025 — utilitate publica LEA 400 kV Balti-Suceava (text).md` |
+| `148535` | [`148535-148535_1749.pdf`](148535-148535_1749.pdf) · [`148535.txt`](148535.txt) | `10 Legislation/Government Decisions/HG 302-2025 — modificare HG 668-2022 stocuri securitate gaze (text).md` |
+
+## PDF batch 2026-08-07g — energy (batch 7)
+
+| doc_id | Raw file | Vault location |
+|---|---|---|
+| `152035` | [`152035-152035_cba8.pdf`](152035-152035_cba8.pdf) · [`152035.txt`](152035.txt) | `10 Legislation/Government Decisions/HG 1060-2023 — organizare functionare CNED (text).md` *(annex 4 may truncate)* |
+| `152132` | [`152132-152132_8972.pdf`](152132-152132_8972.pdf) · [`152132.txt`](152132.txt) | `10 Legislation/Authority Acts/HANRE 23-2017 — furnizarea energiei termice (text).md` *(form annexes missing)* |
+| `152152` | [`152152-152152_f7c1.pdf`](152152-152152_f7c1.pdf) · [`152152.txt`](152152.txt) | `10 Legislation/Authority Acts/HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (text).md` |
+| `150832` | [`150832-150832_b5ff.pdf`](150832-150832_b5ff.pdf) · [`150832.txt`](150832.txt) | `10 Legislation/Government Decisions/HG 599-2025 — limite cote capacitate regenerabile pana 2030 (text).md` *(annexes 1–2 missing)* |
+| `150858` | [`150858-150858_cc59.pdf`](150858-150858_cc59.pdf) · [`150858.txt`](150858.txt) | `10 Legislation/Government Decisions/HG 517-2024 — Regulament constructie reconstructie centrale electrice (text).md` |
+| `150977` | [`150977-150977_a64d.pdf`](150977-150977_a64d.pdf) · [`150977.txt`](150977.txt) | `10 Legislation/Government Decisions/HG 620-2025 — transmitere bunuri Fond eficienta energetica CNED (text).md` *(form annexes missing)* |
+
+## PDF batch 2026-08-07h — energy (batch 8)
+
+| doc_id | Raw file | Vault location |
+|---|---|---|
+| `152235` | [`152235-152235_287a.pdf`](152235-152235_287a.pdf) · [`152235.txt`](152235.txt) | `10 Legislation/Government Decisions/HG 1059-2023 — PSO securitate aprovizionare energie electrica (text).md` |
+| `152217` | [`152217-152217_ceec.pdf`](152217-152217_ceec.pdf) · [`152217.txt`](152217.txt) | `10 Legislation/Government Decisions/HG 801-2025 — modificare HG 1059-2023 PSO securitate EE (text).md` |
+| `152185` | [`152185-152185_eca9.pdf`](152185-152185_eca9.pdf) · [`152185.txt`](152185.txt) | `10 Legislation/Authority Acts/HANRE 443-2020 — Metodologie tarife distributie gaze (text).md` *(decision-only)* |
+| `153388` | [`153388-153388_a941.pdf`](153388-153388_a941.pdf) · [`153388.txt`](153388.txt) | `10 Legislation/Authority Acts/HANRE 162-2026 — tarife uniforme distributie gaze (text).md` |
+| `152374` | [`152374-152374_e3f4.pdf`](152374-152374_e3f4.pdf) · [`152374.txt`](152374.txt) | `10 Legislation/Laws/Legea 317-2025 — modificare acte permisive (text).md` |
+| `154098` | [`154098-154098_09a4.pdf`](154098-154098_09a4.pdf) · [`154098.txt`](154098.txt) | `10 Legislation/Laws/Legea 53-2026 — reforma autoritatilor Ministerul Mediului (text).md` *(peripheral)* |
+
+## PDF batch 2026-08-07i — energy (batch 9)
+
+| doc_id | Raw file | Vault location |
+|---|---|---|
+| `154839` | [`154839-154839_b6cf.pdf`](154839-154839_b6cf.pdf) · [`154839.txt`](154839.txt) | `10 Legislation/Government Decisions/HG 668-2022 — stocuri securitate gaze naturale (text).md` |
+| `154418` | [`154418-154418_6b51.pdf`](154418-154418_6b51.pdf) · [`154418.txt`](154418.txt) | `10 Legislation/Government Decisions/HG 852-2024 — zone protectie retele electrice (text).md` *(form annexes missing)* |
+| `154133` | [`154133-154133_7a85.pdf`](154133-154133_7a85.pdf) · [`154133.txt`](154133.txt) | `10 Legislation/Laws/Legea 74-2024 — actiuni climatice (text).md` |
+| `155406` | [`155406-155406_205c.pdf`](155406-155406_205c.pdf) · [`155406.txt`](155406.txt) | `10 Legislation/Laws/Legea 75-2026 — cadru institutii publice (text).md` *(peripheral)* |
+| `154422` | [`154422-154422_9db1.pdf`](154422-154422_9db1.pdf) · [`154422.txt`](154422.txt) | `10 Legislation/Laws/Legea 105-2024 — Retea date durabilitate agricola (text).md` *(peripheral)* |
+| `155290` | [`155290-155290_59ee.pdf`](155290-155290_59ee.pdf) · [`155290.txt`](155290.txt) | *archive only* — duplicate of HG 346 vault text (`155511`) |
+
 ## See also
-[[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]
+[[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — PDF batch 2026-08-07 (4)]] · [[Status ingestie — PDF batch 2026-08-07 (5)]] · [[Status ingestie — PDF batch 2026-08-07 (6)]] · [[Status ingestie — PDF batch 2026-08-07 (7)]] · [[Status ingestie — PDF batch 2026-08-07 (8)]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]

@@ -120,7 +120,7 @@ Alignment landmarks in the corpus:
 - ✅ L164/L108 core texts are complete in vault (see [[Status ingestie — Energetica]]); keep currency checks live
 - **Re-check every HANRE** against the new enabling articles; expect wholesale re-adoption
 - Watch for a **gas equivalent of L164/2025** — gas is now a package behind electricity
-- Ingest **HG 820 Annexes 1–2**; parents for L101 (L461/2001, L248/2025, L131/2015) still thin/absent
+- Ingest **HG 820 Annexes 1–2**; L101 parents [[Legea 461-2001 — piata produselor petroliere (notă)|L461]] + [[Legea 248-2025 — managementul situatiilor de criza (notă)|L248]] now ✅; L131/2015 still absent; balancing T&Cs [[HANRE 853-2025 — clauze echilibrare FSE si PRE (notă)|HANRE 853]] ✅ (**IF 1 Jul 2026**)
 - Analysis backlog Batches 2–4: [[Analysis backlog — texts without notes]]
 - Gas transmission methodology [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)|HANRE 535/2019]] — decision ✅, **annex still missing**; amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] ✅. Also not ingested: 443/2020, quality of service (422/2019, 537/2020 — 537 patched by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|833/2023]]), network development (94/2019), dispatch (316/2018), gas metering (297/2022)
 - Electricity network code: parent annex still incomplete; [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|656/2021]] now supplies Parts I–V substance

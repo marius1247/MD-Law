@@ -32,6 +32,9 @@ The Civil Code and private law — the backbone of commercial and contract law.
 ## Concepts (to write)
 - [[Concept — Persoană juridică]] · [[Concept — Act juridic]] · [[Concept — Uzufruct]] · [[Concept — Contract]] · [[Concept — Răspundere civilă]] · [[Concept — Prescripție extinctivă]]
 
+## Related amending acts
+- [[Legea 76-2026 — ajustare legislatie institutii publice (text)\|L76/2026]] — rewrites CC art. 307 (*instituție publică*); IF **1 Jan 2027** (Art. II live on publication) · [[Legea 76-2026 — ajustare legislatie institutii publice (notă)\|notă]] · [[Concept — Instituție publică]]
+
 ## Open threads
 - Because the Civil Code is huge (~2600 articles), use the **hybrid** rule: ingest full text per Book, write atomic concept notes only for institutions you actually analyse.
 - Feeds [[MOC — Societăți & Guvernanță corporativă]] and [[MOC — Drept comercial]].

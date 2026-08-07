@@ -45,6 +45,7 @@ Key watch: Government **politica fiscală 2027** draft proposes Estonian-style d
 | Act | Text | Analysis |
 |---|---|---|
 | [[Codul fiscal 1163-1997 (text) — Index\|Codul fiscal nr. 1163/1997]] | ✅ Titlurile I–X | [[Codul fiscal 1163-1997 (notă)]] |
+| [[Legea 318-2025 — modificare acte fiscale (text)\|Legea nr. 318/2025]] (2026 fiscal-policy package) | ✅ complete · staged IF | [[Legea 318-2025 — modificare acte fiscale (notă)]] |
 | [[Legea 287-2017 — contabilitate (text)\|Legea nr. 287/2017]] | ✅ complete | [[Legea 287-2017 — contabilitate (notă)]] |
 | [[Legea 86-2026 — modificare Legea contabilitatii (text)\|Legea nr. 86/2026]] | ✅ complete · **IF 1 Jan 2027** | [[Legea 86-2026 — modificare Legea contabilitatii (notă)]] |
 | [[Codul vamal 95-2021 (text)\|Codul vamal nr. 95/2021]] | ✅ complete | [[Codul vamal 95-2021 (notă)]] |
@@ -120,7 +121,7 @@ Key watch: Government **politica fiscală 2027** draft proposes Estonian-style d
 ## Still open *(from [[Fiscalitate & Contabilitate — horizon and gaps|horizon gaps]])*
 
 **P0 / P1 — acts not in vault**
-- **Annual fiscal-policy laws** (esp. 318/2025 and successors; 2027 package *when enacted*; Law **214/2024** if needed beyond IPC21 hook)
+- ~~**Annual fiscal-policy law 318/2025**~~ → ✅ [[Legea 318-2025 — modificare acte fiscale (notă)\|L318/2025]]; successors / 2027 package *when enacted*; Law **214/2024** if needed beyond IPC21 hook
 - **HG 93/2013** VAT refund regulation (+ amends)
 - **IT Park** Government resident-registration regulation (L77 parent law ✅ ingested 2026-08-07)
 - **Double tax treaty** texts (at least RO, UA corridors, NL, DE, US if used)

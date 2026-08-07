@@ -82,7 +82,7 @@ Verified against MF summaries and the vault’s CF consolidation (Aug 2026). Re-
 
 | Gap | Why it matters | Priority |
 |---|---|---|
-| **Annual fiscal-policy laws** (esp. 318/2025 and successors; 2027 package when enacted) | Rate and regime vehicle every 1 January | **P0** |
+| ~~**Annual fiscal-policy law 318/2025**~~ | ✅ [[Legea 318-2025 — modificare acte fiscale (notă)\|L318/2025]] ingested 2026-08-07; successors / 2027 package when enacted still open | done (2026) |
 | ~~**HG 93/2013** VAT refund regulation~~ | ✅ ingested with [[HG 829-2025 — modificare acte fiscale vamale audit (notă)\|HG 829/2025]] | done |
 | **IT Park HG** resident-registration regulation (L77 + LP125 ✅ ingested 2026-08-07) | Onboarding procedure detail | **P1** |
 | **Double tax treaty texts** (at least RO, RO/UA corridors, NL, DE, US if used) | Withholding advice | **P1** |

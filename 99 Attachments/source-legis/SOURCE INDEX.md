@@ -118,5 +118,16 @@ updated: 2026-08-07
 | `152862` | [`152862.md`](152862.md) | *refresh of existing CF dump — working Titluri already in vault* |
 | `152737` | [`152737.md`](152737.md) | *older L489/1999 consolidation — **not** used to replace working text from `155453`* |
 
+## HTML/PDF batch 2026-08-07b (fiscal-policy / energy crisis / balancing)
+
+| doc_id | Raw file | Vault location |
+|---|---|---|
+| `153700` | [`153700.md`](153700.md) | `10 Legislation/Laws/Legea 318-2025 — modificare acte fiscale (text).md` |
+| `154693` | [`154693.md`](154693.md) | `10 Legislation/Authority Acts/HANRE 853-2025 — clauze echilibrare FSE si PRE (text).md` |
+| `155106` | [`155106.md`](155106.md) | `10 Legislation/Laws/Legea 461-2001 — piata produselor petroliere (text).md` |
+| `155410` | [`155410.md`](155410.md) | `10 Legislation/Laws/Legea 76-2026 — ajustare legislatie institutii publice (text).md` |
+| `155526` | [`155526.md`](155526.md) · [`155526.pdf`](155526.pdf) | `10 Legislation/Laws/Legea 248-2025 — managementul situatiilor de criza (text).md` |
+| `155085` | [`155085.md`](155085.md) | *refresh — L101/2026 already in vault* |
+
 ## See also
 [[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]

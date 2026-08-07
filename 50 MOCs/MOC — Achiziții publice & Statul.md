@@ -26,7 +26,7 @@ Public procurement, tenders, and working with the state.
 | [[Legea 179-2008 — parteneriat public-privat (text)\|Legea nr. 179/2008]] — PPP | ✅ text + notă |
 | Concessions currency check / further implementing HGs | ❌ verify on legis.md |
 | [[Legea 327-2025 — managementul finantelor publice (text)\|Legea nr. 327/2025]] — public-finance management / Inspectoratul Control Financiar de Stat | ✅ text + [[Legea 327-2025 — managementul finantelor publice (notă)\|notă]] |
-| **Legea nr. 248/2025** — crisis management | ❌ parent still missing · implementing [[HG 346-2026 — Comisia Nationala Management Crize (text)\|HG 346/2026]] + [[Legea 150-2026 — modificare management situatii de criza (text)\|L150/2026]] ✅ |
+| [[Legea 248-2025 — managementul situatiilor de criza (text)\|Legea nr. 248/2025]] — crisis management | ✅ · [[Legea 248-2025 — managementul situatiilor de criza (notă)\|notă]] · implementing [[HG 346-2026 — Comisia Nationala Management Crize (text)\|HG 346/2026]] + [[Legea 150-2026 — modificare management situatii de criza (text)\|L150/2026]] ✅ |
 
 ## Energy / utilities bridge (currency-critical)
 | Act | Status |

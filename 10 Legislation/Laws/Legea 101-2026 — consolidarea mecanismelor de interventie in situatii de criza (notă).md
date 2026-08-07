@@ -30,11 +30,11 @@ legal_status: in_vigoare
 
 * Amending organic law; enters into force on **publication** (Art. V) — MO 280–283/26.06.2026.
 * Does **not** create a new crisis framework of its own. It modifies:
-  1. **Law No. 461/2001** — petroleum products market *(not yet ingested as a vault pair)*
+  1. **[[Legea 461-2001 — piata produselor petroliere (notă)|Law No. 461/2001]]** — petroleum products market ✅
   2. **Contraventional Code No. 218/2008** art. 41¹ — ANRE sanctioning competence
-  3. **Law No. 131/2015** — public procurement art. 76 — price-adjustment clause
+  3. **Law No. 131/2015** — public procurement art. 76 — price-adjustment clause *(full act still pending)*
   4. **[[Legea 164-2025 — energia electrica (text)]]** — arts. 72 & 150
-* Crisis-management overlay referenced: **Law No. 248/2025** on crisis management (alert / emergency states) — parent still not in vault; implementing [[HG 346-2026 — Comisia Nationala Management Crize (notă)|HG 346/2026]] (CNMC) and amending [[Legea 150-2026 — modificare management situatii de criza (notă)|L150/2026]] now ingested.
+* Crisis-management overlay: **[[Legea 248-2025 — managementul situatiilor de criza (notă)|Law No. 248/2025]]** ✅ — alert / emergency states; implementing [[HG 346-2026 — Comisia Nationala Management Crize (notă)|HG 346/2026]] (CNMC) and amending [[Legea 150-2026 — modificare management situatii de criza (notă)|L150/2026]].
 * Related security instrument: [[HG 820-2024 — situatii exceptionale electroenergetic (notă)]] (electricity risk preparedness; annex still missing).
 
 ---

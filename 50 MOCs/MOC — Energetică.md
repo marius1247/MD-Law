@@ -24,7 +24,7 @@ Domain hub for the **energy sector**. 22 acts across three tiers. Core primary l
 - **Sector dossiers:** [[Energetică — sector gaze ANRE (notă)]] · [[Energetică — sector electricitate ANRE (notă)]] · [[Energetică — tarife regenerabile si utilitati (notă)]]
 - **Vault audit:** [[Audit vault — Law House Knowledge Engine — 2026-07-28]] · [[Status ingestie — Uploads]]
 - Act companions: **[[Legea 164-2025 — energia electrica (notă)|L164/2025]]** *(the law in force)* · [[Legea 108-2016 — gazele naturale (notă)|L108/2016]] · [[Legea 174-2017 — energetica (notă)|L174/2017]] · [[Legea 10-2016 — surse regenerabile (notă)|L10/2016]] · **[[Legea 139-2018 — eficienta energetica (notă)|L139/2018]]** · [[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (notă)|L117/2009]] · **[[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)|L101/2026]]** · **[[HG 820-2024 — situatii exceptionale electroenergetic (notă)|HG 820/2024]]** · [[Codul administrativ 116-2018 (notă)|CA 116/2018]] · [[Legea 107-2016 — energia electrica (notă)|L107/2016]] *(superseded)*
-- Concepts: [[Concept — Tarif reglementat]] · [[Concept — Licență în energetică]] · [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Producător eligibil]] · [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Audit energetic]] · [[Concept — Contract de performanță energetică]] · [[Concept — Parte obligată (eficiență energetică)]] · [[Concept — Eficiența energetică înainte de toate]] · [[Concept — Situație de criză în domeniul petrolier]] · [[Concept — Situație excepțională electroenergetică]] · [[Concept — Piața organizată a contractelor bilaterale]] · [[Concept — Capacitate condiționată]]
+- Concepts: [[Concept — Tarif reglementat]] · [[Concept — Licență în energetică]] · [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Producător eligibil]] · [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Furnizor de servicii de echilibrare]] · [[Concept — Audit energetic]] · [[Concept — Contract de performanță energetică]] · [[Concept — Parte obligată (eficiență energetică)]] · [[Concept — Eficiența energetică înainte de toate]] · [[Concept — Situație de criză în domeniul petrolier]] · [[Concept — Situație excepțională electroenergetică]] · [[Concept — Piața organizată a contractelor bilaterale]] · [[Concept — Capacitate condiționată]]
 - Analysis backlog (annex/parent gaps): [[Analysis backlog — texts without notes]]
 - Water/utilities (ANRE, outside energy cascade): [[HANRE 169-2025 — investitii apa si canalizare (notă)]] · [[Rectificare ANRE 05-03-5694-2025 (notă)]]
 
@@ -49,17 +49,23 @@ Each ANRE act below names the exact article of the parent law it is issued under
 | [[Legea 10-2016 — surse regenerabile (text)]] | Renewables: support scheme, eligible producers, fixed tariffs, net metering ✅ *full text* |
 | [[Legea 139-2018 — eficienta energetica (text)]] | Energy efficiency: obligation scheme, audits, ESCOs/EPCs, metering ✅ *full text* · [[Legea 139-2018 — eficienta energetica (notă)|notă]] |
 | [[Legea 92-2014 — energia termica si cogenerarea (text)]] | Thermal energy & cogeneration |
+| [[Legea 461-2001 — piata produselor petroliere (text)\|Legea nr. 461/2001]] | Petroleum products market — ANRE max prices, licensing, crisis hooks ✅ · [[Legea 461-2001 — piata produselor petroliere (notă)\|notă]] |
+| [[Legea 248-2025 — managementul situatiilor de criza (text)\|Legea nr. 248/2025]] | National crisis-management framework (alert / emergency / CNMC) ✅ · [[Legea 248-2025 — managementul situatiilor de criza (notă)\|notă]] |
 
 ## Tier 2 — Government acts (`10 Legislation/Government Decisions`)
 - [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] — risk-preparedness; **transposes Regulation (EU) 2019/941** via Energy Community Decision 2021/13/MC-EnC · [[HG 820-2024 — situatii exceptionale electroenergetic (notă)|notă]] ⚠️ *annex missing*
+- [[HG 346-2026 — Comisia Nationala Management Crize (text)\|HG 346/2026]] — CNMC · [[HG 346-2026 — Comisia Nationala Management Crize (notă)\|notă]] · patched by [[HG 379-2026 — modificare HG 346-2026 crize (notă)\|HG 379/2026]]
 
 **Amending laws**
 - [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (text)]] — crisis-intervention package; amends L164/2025 (art. 72(10) repealed, art. 150 amended), plus petroleum, procurement, contraventional code · [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)|notă]]
+- [[Legea 150-2026 — modificare management situatii de criza (text)\|L150/2026]] — amends L248 · [[Legea 150-2026 — modificare management situatii de criza (notă)\|notă]]
+- [[Legea 76-2026 — ajustare legislatie institutii publice (text)\|L76/2026]] Art. VI — CNED methodology founder hook · [[Legea 76-2026 — ajustare legislatie institutii publice (notă)\|notă]]
 
 ## Tier 3 — ANRE acts (`10 Legislation/Authority Acts`)
 
 **Market rules**
 - [[HANRE 283-2020 — Regulile pietei energiei electrice (text)]] — electricity market rules ✅ *full annex* · [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)|notă]] · amended by [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (text)|383/2026]] · [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (notă)|383 notă]] · [[Concept — Piața organizată a contractelor bilaterale|POCB]]
+- [[HANRE 853-2025 — clauze echilibrare FSE si PRE (text)\|HANRE 853/2025]] — balancing **FSE** + **PRE** terms & conditions ✅ · **IF 1 Jul 2026** · [[HANRE 853-2025 — clauze echilibrare FSE si PRE (notă)\|notă]] · [[Concept — Furnizor de servicii de echilibrare]] · [[Concept — Parte responsabilă de echilibrare]]
 - [[HANRE 534-2019 — Regulile pietei gazelor naturale (text)]] — gas market rules ✅ *full text* · [[HANRE 534-2019 — Regulile pietei gazelor naturale (notă)|notă]]
 
 **Network codes**
@@ -106,7 +112,7 @@ Moldova is an **Energy Community** contracting party by [[Legea 117-2009 — ade
 
 ## Open threads
 - [[HANRE 535-2019 — Metodologie tarife transport gaze (text)\|HANRE 535/2019]] gas transmission tariff methodology — ⚠️ **decision-only** ([[HANRE 535-2019 — Metodologie tarife transport gaze (notă)\|notă]]); amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)\|329/2025]] ✅; **annex still missing**
-- Crisis governance (CNMC): [[HG 346-2026 — Comisia Nationala Management Crize (notă)\|HG 346/2026]] · [[HG 379-2026 — modificare HG 346-2026 crize (notă)\|HG 379/2026]] · [[Legea 150-2026 — modificare management situatii de criza (notă)\|L150/2026]] — parent **L248/2025** still missing; bridges [[HG 820-2024 — situatii exceptionale electroenergetic (notă)\|HG 820/2024]] · [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)\|L101/2026]]
+- Crisis governance (CNMC): [[Legea 248-2025 — managementul situatiilor de criza (notă)\|L248/2025]] ✅ · [[HG 346-2026 — Comisia Nationala Management Crize (notă)\|HG 346/2026]] · [[HG 379-2026 — modificare HG 346-2026 crize (notă)\|HG 379/2026]] · [[Legea 150-2026 — modificare management situatii de criza (notă)\|L150/2026]] · petroleum parent [[Legea 461-2001 — piata produselor petroliere (notă)\|L461]] ✅ · bridges [[HG 820-2024 — situatii exceptionale electroenergetic (notă)\|HG 820/2024]] · [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)\|L101/2026]]
 - Not yet ingested: gas tariff **443/2020**, quality-of-service (422/2019, **537/2020**), network development (94/2019), dispatch (316/2018), gas metering (297/2022)
 - Licence-holder procurement: HANRE 24 **abrogated** — use [[Legea 74-2020 — achizitii sectoriale (notă)|L74/2020]] → [[MOC — Achiziții publice & Statul]]
 - **Live transitions:** L164/2025 changeover; gas PSO withdrawal for large industrials; market-based procurement of electricity including network losses.

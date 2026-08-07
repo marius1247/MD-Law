@@ -37,3 +37,6 @@ legal_status: in_vigoare
 ## Sources
 
 [[HG 53-2025 — durabilitate biocarburanti emisii GES (text)]] — legis.md doc_id `147068` · annex uploads `an_1_53md_ef64.md`, `an_2_53md_895d.md`.
+
+> [!info] Anexa nr. 3 ingested 2026-08-07h
+> ILUC high-risk feedstock criteria + low-ILUC-risk certification now in `(text)`.

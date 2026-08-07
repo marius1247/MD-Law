@@ -215,3 +215,11 @@ updated: 2026-08-07
 | [`upload-hg-74-2025-regulament.md`](upload-hg-74-2025-regulament.md) | `HG 74-2025 — calcul consum energie regenerabila (text).md` |
 | [`upload-hg-76-2025-lista.md`](upload-hg-76-2025-lista.md) | `HG 76-2025 — cotizatii organizatii internationale 2025 (text).md` |
 | [`upload-hg-86-2025-pniec.md`](upload-hg-86-2025-pniec.md) | `HG 86-2025 — PNIEC 2025-2030 (text) — Index.md` (+ Secțiunea A/B/Anexe) |
+| [`upload-hg-517-anexa2.md`](upload-hg-517-anexa2.md) | `HG 517 — constructia reconstructia centralelor electrice (text).md` |
+| [`upload-hg-599-2025-anexa2.md`](upload-hg-599-2025-anexa2.md) | `HG 599-2025 — limite capacitate regenerabile 2030 (text).md` |
+| [`upload-hg-620-2025-anexa2.md`](upload-hg-620-2025-anexa2.md) | `HG 620-2025 — transmitere bunuri Fond eficienta energetica (text).md` |
+| [`upload-hg-677-2024-anexa2.md`](upload-hg-677-2024-anexa2.md) | `HG 677-2024 — plan sezon incalzire 2024-2025 (text).md` |
+| [`upload-hg-53-2025-anexa3.md`](upload-hg-53-2025-anexa3.md) | `HG 53-2025 — durabilitate biocarburanti emisii GES (text).md` |
+| [`upload-hanre-833-2019-anexa5-prosumator.md`](upload-hanre-833-2019-anexa5-prosumator.md) | `HANRE 833-2023…` + `HANRE 169-2019 — furnizarea energiei electrice (text).md` |
+| [`upload-hanre-112-2019-anexa52.md`](upload-hanre-112-2019-anexa52.md) | `HANRE 112-2019 — racordarea la retelele de gaze (text).md` |
+

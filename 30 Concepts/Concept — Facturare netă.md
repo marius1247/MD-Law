@@ -29,3 +29,8 @@ Households choose ≤10 kW **or** `P = E_max / k`; budget entities use max(peak 
 * [[HG 401-2021 — cote capacitate facturare neta (notă)]] · [[HG 599-2025 — limite capacitate regenerabile 2030 (notă)]]
 * [[Concept — Producător eligibil]] · [[Concept — Aviz de racordare]] · [[Concept — Loc de consum]]
 * [[MOC — Energetică]] · [[MOC — Racordare și acces la rețele]]
+
+## Caps & contract annex (2026-08-07h)
+
+- Individual ceilings to 31.12.2030: [[HG 599-2025 — limite capacitate regenerabile 2030 (text)|HG 599/2025]] Anexa 2.
+- Supplier–prosumer annex: [[HANRE 169-2019 — furnizarea energiei electrice (text)|HANRE 169/2019]] Anexa 5 (via [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)|833/2023]]).

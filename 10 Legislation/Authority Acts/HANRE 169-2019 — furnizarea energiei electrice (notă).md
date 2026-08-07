@@ -10,7 +10,7 @@ status: draft
 depth: expert
 tags: [act-note, analysis, energetică, furnizare, ANRE, incomplete-text]
 created: 2026-08-06
-updated: 2026-08-06
+updated: 2026-08-07
 domain: energie_electrica
 issuer: ANRE
 legal_status: in_vigoare
@@ -116,3 +116,9 @@ Pts. 132–145 complete in vault; **pt. 146 incomplete** (disconnection stay whi
 ## Sources
 
 [[HANRE 169-2019 — furnizarea energiei electrice (text)]] — legis.md doc_id `114962` (incomplete). Amended by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)]] (`141264`).
+
+## Anexa nr. 5 — prosumer / net billing (via HANRE 833/2023; 2026-08-07h)
+
+Contract annex between supplier and RES prosumer under **facturare netă**. Introduced by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|833/2023]]. Body now in [[HANRE 169-2019 — furnizarea energiei electrice (text)]] (main regulation still truncated past pt. 146).
+
+Bridge: [[Concept — Facturare netă]] · [[HG 599-2025 — limite capacitate regenerabile 2030 (notă)|HG 599/2025]] Anexa 2.

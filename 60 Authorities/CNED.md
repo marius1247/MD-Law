@@ -40,3 +40,5 @@ Coordinates and organises implementation of state policy on **energy efficiency*
 
 ## Asset handover (FEE)
 - [[HG 620-2025 — transmitere bunuri Fond eficienta energetica (notă)|HG 620/2025]] — gratuitous transfer of FEE-funded goods/works/services to beneficiaries (handover-act forms in vault).
+
+- [[HG 620-2025 — transmitere bunuri Fond eficienta energetica (notă)|HG 620/2025]] transfer forms now include annexes 1–2.

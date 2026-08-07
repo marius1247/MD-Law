@@ -37,3 +37,7 @@ text_complet: false
 ## Sources
 
 [[HG 620-2025 — transmitere bunuri Fond eficienta energetica (text)]] — uploads `an__620_ro_877e.md`, `an_1_620_ro_05ce.md`.
+
+## Forms completeness (2026-08-07h)
+
+Act de predare-primire + **anexa nr. 1** (listă bunuri/lucrări/servicii) + **anexa nr. 2** (listă documente de valoare) ✅. Regulation body / dispositif still missing.

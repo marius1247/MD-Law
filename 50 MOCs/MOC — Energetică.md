@@ -148,3 +148,6 @@ Moldova is an **Energy Community** contracting party by [[Legea 117-2009 — ade
 - Unbundling is executed through company law → [[Societăți & guvernanță — synthesis]] · [[Legea 135-2007 — SRL (notă)]] / [[Legea 1134-1997 — societati pe actiuni (notă)]]
 - Cross-vault: [[FP — Marginal Pricing in Electricity Markets]] (GeoMacro) for market economics
 - Cross-vault RO: `Romanian Law/50 MOCs/MOC — Energetică` · L123/2012 (EE+gas) · L220/2008 (GC) · OUG 33/2007 (ANRE) — comparative notes in RO act `— notă` companions
+
+> [!info] Annex batch 2026-08-07h
+> Filled: HG 517/599/620/677/53 annexes · HANRE 169/833 Anexa 5 prosumer · HANRE 112 Anexa 5² (+ 5³ body). Details: [[Status ingestie — Annex batch 2026-08-07h]].

@@ -11,7 +11,7 @@ created: 2026-08-07
 updated: 2026-08-07
 issuer: Guvern
 legal_status: in_vigoare
-text_complet: false
+text_complet: true
 ---
 # HG nr. 677/2024 — heating season 2024–2025 preparedness — Analysis
 
@@ -37,3 +37,7 @@ Chaired by the **Prime Minister**; vice-chair **Minister of Energy**; members in
 ## Sources
 
 [[HG 677-2024 — plan sezon incalzire 2024-2025 (text)]] — legis.md doc_id `145465` · annex 1 upload `an_1_677_ro_3ca3.md`.
+
+## Anexa nr. 2 (2026-08-07h)
+
+Full **Plan de măsuri pentru pregătirea de sezonul de încălzire 2024–2025** now in the `(text)` file. Cite from [[HG 677-2024 — plan sezon incalzire 2024-2025 (text)]].

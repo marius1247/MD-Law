@@ -33,3 +33,5 @@ where **Vₜ** is planned (or, on update, factual) transported volume **excludin
 * [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)]]
 * [[Concept — Tarif de transport]] · [[Concept — Baza activelor reglementate]]
 * [[MOC — Tarife și metodologii ANRE]] · [[Energetică — metodologii tarifare (notă)]]
+
+- [[HANRE 112-2019 — racordarea la retelele de gaze (text)|112/2019]] **Anexa 5²** — non-household installation on **transmission**; **Anexa 5³** — on **distribution**.

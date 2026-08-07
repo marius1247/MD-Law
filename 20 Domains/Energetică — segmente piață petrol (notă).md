@@ -100,7 +100,7 @@ Step 4 for [[MOC — Piața produselor petroliere]]. Frame: [[Legea 461-2001 —
 | Organised DA/ID / balancing | Electricity / gas hubs |
 | Pipeline TPA / unbundling | Gas L108 |
 | Coal as ANRE energy market | [[Energetică — cărbune gap stub (notă)]] |
-| Biofuel sustainability methodology | Step 6 — [[HG 53-2025 — durabilitate biocarburanti emisii GES (notă)\|HG 53]] |
+| Biofuel sustainability methodology | [[MOC — Biocarburanți și combustibili din biomasă]] · [[HG 53-2025 — durabilitate biocarburanti emisii GES (notă)|HG 53]] |
 | State strategic reserves of păcură/coal | Material reserves / MAI — HG 677-type instruments |
 
 ---

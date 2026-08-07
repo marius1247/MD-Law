@@ -26,7 +26,7 @@ See [[Conventions]] for the full skeleton, naming, frontmatter, and ingestion wo
 ## Domain maps (your focus areas)
 | Hub | Read the synthesis first |
 |---|---|
-| [[MOC — Energetică]] | [[Energetică — synthesis]] · [[Energetică — architecture map]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[MOC — Piața produselor petroliere]] · [[MOC — Piața energiei termice]] |
+| [[MOC — Energetică]] | [[Energetică — synthesis]] · [[Energetică — architecture map]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[MOC — Piața produselor petroliere]] · [[MOC — Piața energiei termice]] · [[MOC — Biocarburanți și combustibili din biomasă]] |
 | [[MOC — Societăți & Guvernanță corporativă]] | [[Societăți & guvernanță — synthesis]] |
 | [[MOC — Fiscalitate & Contabilitate]] | [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] |
 | [[MOC — Drept comercial]] | [[Drept comercial — synthesis]] |
@@ -57,4 +57,4 @@ All hubs: [[00 - Index general]]. Concept index: [[00 Index Concepts]].
 > **Completeness:** automated ingestion stops at ~96–102 KB. Manual browser downloads (now in `99 Attachments/source-legis/`) bypass that. [[HANRE 423-2019 — Codul retelelor electrice (text)|HANRE 423/2019]] connection code Titluri I–IV now ingested (still cross-check [[HANRE 656-2021 — modificare Codul retelelor electrice (text)|656/2021]]). Details: [[Status ingestie — Energetica]] · [[Conventions]].
 
 ## Status *(2026-08-07)*
-Structuring Steps 1–5 ✅ + professional deepening pass on hubs ([[Roadmap — Energy analysis architecture]] · [[Energetică — architecture map]] §1.3). Next: biofuels / hydrogen (Step 6). Corpus map — [[Status ingestie — Energetica]].
+Structuring Steps 1–6 ✅ (thru biofuels + [[Energetică — hidrogen gap stub (notă)|hydrogen stub]]) + professional deepening on Steps 1–5 ([[Roadmap — Energy analysis architecture]] · [[Energetică — architecture map]]). **Next: Step 7** cross-cutting layers. Corpus — [[Status ingestie — Energetica]].

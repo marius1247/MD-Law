@@ -110,7 +110,7 @@ Step 5 for [[MOC — Piața energiei termice]]. Frame: [[Legea 92-2014 — energ
 | Organised DA/ID / balancing / PVT | Electricity / gas hubs |
 | Daily ANRE retail price cap like petroleum | [[MOC — Piața produselor petroliere]] |
 | Dedicated geothermal market statute | [[Energetică — geotermal gap stub (notă)]] |
-| Biofuel transport sustainability | Step 6 — HG 53 |
+| Biofuel transport sustainability | [[MOC — Biocarburanți și combustibili din biomasă]] · HG 53 |
 | Electricity support for RES (fixed tariff / auctions) | L10 · FCEE (RES track) |
 
 ---

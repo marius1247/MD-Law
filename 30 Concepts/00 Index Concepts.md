@@ -60,8 +60,10 @@ SORT file.name ASC
 * [[MOC — Piața gazelor naturale]]
 * [[MOC — Piața produselor petroliere]]
 * [[MOC — Piața energiei termice]]
+* [[MOC — Biocarburanți și combustibili din biomasă]]
 * [[Energetică — cărbune gap stub (notă)]]
 * [[Energetică — geotermal gap stub (notă)]]
+* [[Energetică — hidrogen gap stub (notă)]]
 * [[MOC — Racordare și acces la rețele]]
 * [[MOC — Tarife și metodologii ANRE]]
 * [[Roadmap — Energy analysis architecture]]
@@ -84,3 +86,8 @@ SORT file.name ASC
 - [[Concept — Cogenerare de înaltă eficiență]] — HE CHP qualification + GO quantities (L92 · HG 197)
 - Thermal hub: [[MOC — Piața energiei termice]] · [[Energetică — segmente piață termică (notă)]]
 - Geothermal: [[Energetică — geotermal gap stub (notă)]] — L10 RES / L92 SACET / PNIEC PM_DC25
+
+## Added 2026-08-07 (analysis architecture Step 6 — biofuels / hydrogen)
+- [[Concept — Criterii de durabilitate biocarburanți]] — sustainability/GHG counting gate (L10 art. 26¹ · HG 53)
+- Biofuels hub: [[MOC — Biocarburanți și combustibili din biomasă]] · [[Energetică — segmente piață biocarburanți (notă)]]
+- Hydrogen: [[Energetică — hidrogen gap stub (notă)]] — no market statute; RFNBO ≥70% from 1 Jan 2026

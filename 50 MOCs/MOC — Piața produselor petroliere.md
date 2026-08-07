@@ -95,7 +95,7 @@ Licence term **5 years** (art. 7(2)); L160 background. Annual regulatory payment
 3. Annex 2 pricing formula — prefer legis.md / official ANRE methodology over noisy vault OCR
 4. Track ANRE petroleum pricing methodology act (secondary) if not yet as standalone vault note
 5. State material reserves (păcură/coal) — outside L461; flagged in [[Energetică — cărbune gap stub (notă)]]
-6. Biofuel blending / sustainability — Step 6 ([[HG 53-2025 — durabilitate biocarburanti emisii GES (notă)|HG 53]])
+6. ✅ Biofuel blending / sustainability — [[MOC — Biocarburanți și combustibili din biomasă]] · [[Concept — Criterii de durabilitate biocarburanți]]
 
 ---
 

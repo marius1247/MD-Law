@@ -14,7 +14,7 @@ legal_status: in_vigoare
 ---
 # HG nr. 53/2025 — biocarburanți / emisii GES — Analysis
 
-**Raw text:** [[HG 53-2025 — durabilitate biocarburanti emisii GES (text)]] ✅ *regulation + annexes 1–2; annex 3 still missing* · **Hub:** [[MOC — Energetică]] · **Parent:** [[Legea 10-2016 — surse regenerabile (notă)|L10/2016]] · **Stats bridge:** [[HG 74-2025 — calcul consum energie regenerabila (notă)|74/2025]]
+**Raw text:** [[HG 53-2025 — durabilitate biocarburanti emisii GES (text)]] ✅ *regulation + annexes 1–2; annex 3 still missing* · **Hub:** [[MOC — Biocarburanți și combustibili din biomasă]] · **Concept:** [[Concept — Criterii de durabilitate biocarburanți]] · **Parent:** [[Legea 10-2016 — surse regenerabile (notă)|L10/2016]] · **Stats bridge:** [[HG 74-2025 — calcul consum energie regenerabila (notă)|74/2025]] · **H₂ stub:** [[Energetică — hidrogen gap stub (notă)]]
 
 > [!abstract] Executive summary
 > **Core purpose:** Approves **sustainability criteria** and **GHG calculation methodology** for biofuels, bioliquids and biomass fuels — EnC/EU RED II transposition layer for transport renewable-energy accounting.

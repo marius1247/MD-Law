@@ -52,13 +52,19 @@ Each ANRE act below names the exact article of the parent law it is issued under
 | [[Legea 461-2001 — piata produselor petroliere (text)\|Legea nr. 461/2001]] | Petroleum products market — ANRE max prices, licensing, crisis hooks ✅ · [[Legea 461-2001 — piata produselor petroliere (notă)\|notă]] |
 | [[Legea 248-2025 — managementul situatiilor de criza (text)\|Legea nr. 248/2025]] | National crisis-management framework (alert / emergency / CNMC) ✅ · [[Legea 248-2025 — managementul situatiilor de criza (notă)\|notă]] |
 | [[Legea 234-2022 — Energocom securitate furnizare gaze (text)\|Legea nr. 234/2022]] | Energocom EBRD gas-security project — guarantee release + fiscal/customs exemptions ✅ · [[Legea 234-2022 — Energocom securitate furnizare gaze (notă)\|notă]] · amended [[Legea 20-2024 — modificare Legea 234-2022 Energocom (notă)\|LP20/2024]] |
+| [[Legea 241-2022 — Fond reducere vulnerabilitate energetica (text)\|Legea nr. 241/2022]] | Energy vulnerability reduction fund ✅ · [[Legea 241-2022 — Fond reducere vulnerabilitate energetica (notă)\|notă]] · amended [[Legea 255-2024 — modificare Legea 241-2022 Fond vulnerabilitate energetica (notă)\|LP255/2024]] |
 
 ## Tier 2 — Government acts (`10 Legislation/Government Decisions`)
 - [[HG 10-2024 — guvernanta energetica si actiuni climatice (text)]] — energy & climate governance / PNIEC ✅ *OCR full* · [[HG 10-2024 — guvernanta energetica si actiuni climatice (notă)|notă]] · transposes Reg. (EU) 2018/1999 (EnC-adapted)
 - [[HG 621-2024 — certificare performanta energetica cladiri (text)]] — building EPC procedure ✅ · [[HG 621-2024 — certificare performanta energetica cladiri (notă)|notă]] · L282/2023 *(parent not in vault)*
 - [[HG 622-2024 — calificare evaluatori energetici (text)]] — energy assessor qualification ✅ · [[HG 622-2024 — calificare evaluatori energetici (notă)|notă]]
 - [[HG 364-2024 — modificare stocuri securitate gaze (text)]] — patches HG 668/2022 security stocks (47.1 mcm) ✅ · [[HG 364-2024 — modificare stocuri securitate gaze (notă)|notă]]
-- [[HG 677-2024 — plan sezon incalzire 2024-2025 (text)]] — heating-season coordination + Energocom 50 mcm EU storage ⚠️ *annexes missing* · [[HG 677-2024 — plan sezon incalzire 2024-2025 (notă)|notă]]
+- [[HG 677-2024 — plan sezon incalzire 2024-2025 (text)]] — heating-season coordination + Energocom 50 mcm EU storage ⚠️ *annexes missing* · [[HG 677-2024 — plan sezon incalzire 2024-2025 (notă)|notă]] · patches [[HG 365-2024 — obligatie stocare gaze naturale (notă)|365/2024]]
+- [[HG 365-2024 — obligatie stocare gaze naturale (text)]] — Energocom gas storage obligation ✅ · [[HG 365-2024 — obligatie stocare gaze naturale (notă)|notă]]
+- [[HG 829-2024 — audit energetic intreprinderi mari (text)]] — large-enterprise energy audits ✅ · [[HG 829-2024 — audit energetic intreprinderi mari (notă)|notă]] · *not* [[HG 829-2025 — modificare acte fiscale vamale audit (text)|829/2025 fiscal]]
+- [[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (text)]] — 6-year PSO for fixed-price eligible producers ✅ · [[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (notă)|notă]] ⚠️ *168→311 remap*
+- [[HG 53-2025 — durabilitate biocarburanti emisii GES (text)]] — biofuel sustainability / GHG methodology ✅ · [[HG 53-2025 — durabilitate biocarburanti emisii GES (notă)|notă]]
+- [[HG 74-2025 — calcul consum energie regenerabila (text)]] — RES consumption statistics ⚠️ *annex missing* · [[HG 74-2025 — calcul consum energie regenerabila (notă)|notă]]
 - [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] — risk-preparedness; **transposes Regulation (EU) 2019/941** via Energy Community Decision 2021/13/MC-EnC · [[HG 820-2024 — situatii exceptionale electroenergetic (notă)|notă]] ⚠️ *annex missing*
 - [[HG 346-2026 — Comisia Nationala Management Crize (text)\|HG 346/2026]] — CNMC · [[HG 346-2026 — Comisia Nationala Management Crize (notă)\|notă]] · patched by [[HG 379-2026 — modificare HG 346-2026 crize (notă)\|HG 379/2026]]
 
@@ -123,7 +129,7 @@ Moldova is an **Energy Community** contracting party by [[Legea 117-2009 — ade
 3. **Still missing clean consolidation:** [[HANRE 423-2019 — Codul retelelor electrice (text)|HANRE 423/2019]] parent annex — partial substance now via [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|656/2021]].
 4. **Currency-check** remaining L107-based HANRE acts (esp. market rules 283/2020 even after 383/2026 amend).
 5. Watch for the **gas equivalent of L164/2025**.
-6. Remaining tier-3 downloads: **535/2019** methodology annex, **355/2019** methodology annex, **443/2020**, **537/2020** QoS annex, **422/2019**. ✅ **2026-08-07c:** **355/2021**+**540/2024**, **HG 621/622/364/677**.
+6. Remaining tier-3 downloads: **535/2019** + **355/2021** methodology annexes, **537/2020** QoS annex, **422/2019**, **443/2020**, **HG 74/2025** annex, **L282/2023**. ✅ **2026-08-07d:** **L241/255**, **HG 365/829/26/53**, partial **74/76**.
 
 ## Open threads
 - [[HANRE 535-2019 — Metodologie tarife transport gaze (text)\|HANRE 535/2019]] gas transmission tariff methodology — ⚠️ **decision-only** ([[HANRE 535-2019 — Metodologie tarife transport gaze (notă)\|notă]]); amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)\|329/2025]] ✅; **annex still missing**

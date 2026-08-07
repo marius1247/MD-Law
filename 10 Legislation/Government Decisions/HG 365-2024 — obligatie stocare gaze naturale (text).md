@@ -1,0 +1,224 @@
+---
+title: "HG 365-2024 — obligatie stocare gaze naturale (text)"
+type: act-text
+act_type: hotărâre-guvern
+nr: "365"
+an: 2024
+domeniu:
+- energetică
+- gaze
+- securitate
+domain: [energetică, gaze, securitate]
+issuer: Guvern
+in_force: true
+in_vigoare: true
+mo_publicare: "MO 238-240/06.06.2024 art. 486"
+legis_id: "145466"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=145466"
+version_date: 2026-08-07
+versiune_text: 2026-08-07
+continut: text-integral
+text_complet: true
+puncte_numarate: 22
+articole_numarate: 0
+tags: [act, text, acte_normative, energetică]
+created: 2026-08-07
+updated: 2026-08-07
+source_ingest: pdf-upload-pdftotext
+legal_status: in_vigoare
+enabling_act: "[[Legea 108-2016 — gazele naturale (text)|L108/2016]] art. 4(21), art. 108²-108³"
+amended_by: "[[HG 677-2024 — plan sezon incalzire 2024-2025 (notă)|677/2024]] (pt. 4)"
+---
+# HG 365-2024 — obligatie stocare gaze naturale
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md** PDF (doc_id [145466](https://www.legis.md/cautare/getResults?lang=ro&doc_id=145466)), pdftotext + structură ușoară.
+> Analiză: [[HG 365-2024 — obligatie stocare gaze naturale (notă)]].
+
+---
+
+Republica Moldova
+
+GUVERNUL
+HOTĂRÂRE Nr. HG365/2024
+din 29.05.2024
+
+cu privire la aprobarea obligației de stocare
+a gazelor naturale
+Publicat : 06.06.2024 în MONITORUL OFICIAL Nr. 238-240 art. 486 Data intrării în vigoare
+
+MODIFICAT
+HG677 din 02.10.24, MO437-439/18.10.24 art.825; în vigoare 18.10.24
+
+În temeiul art. 4 alin. (21), art. 1082 și 1083 din Legea nr. 108/2016 cu privire la gazele
+naturale (Monitorul Oficial al Republicii Moldova, 2016, nr. 193‑203, art. 415), cu
+modificările ulterioare, Guvernul HOTĂRĂȘTE:
+### Punctul 1. Se desemnează Societatea pe Acțiuni „Energocom”, întreprindere care deține
+licență pentru furnizarea gazelor naturale și dispune de experiență în efectuarea
+tranzacțiilor cu gaze naturale și stocarea acestora, în calitate de titular al obligației de
+stocare.
+### Punctul 2. Cantitatea de gaze naturale care face obiectul obligației de stocare se determină
+ținând cont de cantitatea totală de gaze naturale ce necesită a fi constituită în calitate de
+stocuri în instalațiile de stocare din țările părți ale Comunității Energetice și/sau din statele
+membre ale Uniunii Europene, ce corespunde unui nivel de cel puțin 15% din consumul
+mediu anual de gaze naturale al consumatorilor finali din Republica Moldova, racordați la
+rețelele de gaze naturale ale operatorilor de sistem licențiați, determinat pentru ultimii 5
+ani calendaristici, din care se deduce cantitatea de gaze naturale stocată în calitate de
+stocuri de securitate, stabilită în conformitate cu prevederile Hotărârii Guvernului nr.
+668/2022 cu privire la crearea și menținerea stocurilor de securitate de gaze naturale.
+### Punctul 3. Cantitatea totală de gaze naturale ce corespunde unui nivel de 15% din consumul
+mediu anual de gaze naturale al consumatorilor finali din Republica Moldova, racordați la
+rețelele de gaze naturale ale operatorilor de sistem licențiați, determinat pentru ultimii 5
+ani calendaristici (2019-2023), este calculată la nivelul de 149,5 milioane de m 3 . La
+determinarea cantității de gaze naturale care face obiectul obligației de stocare, din
+cantitatea totală de gaze naturale de 149,5 milioane de m3 se deduce cantitatea de gaze
+naturale de 47,1 milioane de m3 ce urmează a fi stocată în calitate de stocuri de securitate
+începând cu 1 octombrie 2024.
+### Punctul 4. În temeiul art. 1082 alin. (3) și (4) din Legea nr. 108/2016 cu privire la gazele
+
+
+naturale, se impune Societății pe Acțiuni „Energocom” obligația de stocare a unei cantități
+de gaze naturale de 50 de milioane m 3 în instalațiile de stocare din țările părți ale
+Comunității Energetice și/sau din statele membre ale Uniunii Europene. Obligația de
+stocare, prevăzută la acest punct, reprezintă o obligație impusă în interesul economic
+general.
+[Pct.4 în redacția HG677 din 02.10.24, MO437-439/18.10.24 art.825; în vigoare
+18.10.24]
+### Punctul 5. Societatea pe Acțiuni „Energocom” achiziționează gazele naturale destinate
+executării obligației de stocare prin procedură competitivă de achiziție sau prin respectarea
+regulilor utilizate pe piețele de gaze naturale, pe platformele de tranzacționare unde se
+achiziționează gazele naturale. În mod excepțional, Societatea pe Acțiuni „Energocom”
+poate achiziționa gaze naturale prin intermediul unor contracte negociate direct, cu condiția
+să demonstreze Agenției Naționale pentru Reglementare în Energetică că prețul de
+achiziție, în baza unor contracte negociate direct, este competitiv în raport cu cel în baza
+procedurii competitive de achiziție.
+### Punctul 6. În vederea executării obligației de stocare stabilite la punctul 4, Societatea pe
+Acțiuni „Energocom” întreprinde acțiunile necesare pentru a rezerva capacitatea în
+instalațiile de stocare și capacitatea de transport a gazelor naturale la punctele de
+interconectare transfrontaliere, precum și încheie acorduri relevante cu operatorii
+sistemelor de transport, cu operatorii instalațiilor de stocare și/sau cu alți participanți la
+piața gazelor naturale din țările părți ale Comunității Energetice și/sau din statele membre
+ale Uniunii Europene unde există astfel de instalații de stocare.
+### Punctul 7. Societatea pe Acțiuni „Energocom” este obligată să țină evidența separată a
+tranzacțiilor încheiate în legătură cu executarea obligației de stocare și să informeze
+Guvernul și Agenția Națională pentru Reglementare în Energetică despre fiecare tranzacție
+încheiată, cu prezentarea, la cererea acestora, a documentelor aferente. Informațiile privind
+tranzacțiile încheiate vor include:
+1) cantitatea gazelor naturale procurate;
+2) prețul de achiziție;
+3) datele despre vânzător;
+4) acordurile aferente privind transportul și stocarea gazelor naturale;
+5) alte date relevante.
+### Punctul 8. Costurile aferente creării și menținerii stocurilor de gaze naturale care fac obiectul
+obligației de stocare includ costul gazelor naturale, costul contractării serviciului de
+stocare, costurile aferente eliberării și transportării stocurilor respective, precum și alte
+costuri ale titularului obligației de stocare pentru crearea și menținerea stocurilor de gaze
+naturale care fac obiectul obligației de stocare.
+### Punctul 9. Pentru realizarea obligației de stocare stabilite la punctul 4, Societatea pe Acțiuni
+
+
+„Energocom” poate utiliza resurse proprii sau poate beneficia de împrumuturi externe
+contractate direct de către aceasta – surse financiare recreditate din contul împrumuturilor
+de stat externe contractate de către Guvern în numele Republicii Moldova, și/sau de resurse
+financiare alocate din bugetul de stat, cu recuperarea acestora după punerea în circulație a
+gazelor naturale, în conformitate cu punctele 10-17. Pentru realizarea obligației de stocare,
+Societatea pe Acțiuni „Energocom” poate beneficia de granturi ori de alte surse
+nerambursabile. La stabilirea de către Agenția Națională pentru Reglementare în
+Energetică a prețului reglementat în conformitate cu prevederile art. 1083 alin. (7) din
+Legea nr. 108/2016 cu privire la gazele naturale, nu se iau în considerare costurile aferente
+creării și menținerii stocurilor de gaze naturale care fac obiectul obligației de stocare, care
+au fost acoperite din granturi ori din alte surse nerambursabile.
+### Punctul 10. Gazele naturale stocate în contextul executării obligației de stocare stabilite la
+punctul 4 pot fi puse în circulație pe piața gazelor naturale de către Societatea pe Acțiuni
+„Energocom” în perioada 1 noiembrie 2024 – 31 martie 2025. Cantitatea exactă de gaze
+naturale care poate fi vândută lunar în perioada respectivă corespunde cu cantitatea de
+gaze naturale stocată în contextul executării obligației de stocare, disponibilă în prima zi a
+fiecărei luni, fiind împărțită la numărul de luni rămase până la data de 1 aprilie 2025.
+### Punctul 11. Cel târziu până la data de 10 octombrie 2024, Societatea pe Acțiuni „Energocom”
+expediază tuturor furnizorilor de pe piața cu amănuntul un contract‑cadru, elaborat după
+modelul EFET (The European Federation of Energy Traders – Federația Europeană a
+Furnizorilor de Energie). Furnizorii de gaze naturale, în contextul obligației de serviciu
+public stabilite la art. 89 din Legea nr. 108/2016 cu privire la gazele naturale, semnează
+contractele-cadru respective până la data de 20 octombrie 2024.
+### Punctul 12. Societatea pe Acțiuni „Energocom” prezintă Agenției Naționale pentru
+Reglementare în Energetică, până la data de 1 octombrie 2024, cererea privind aprobarea
+prețului reglementat al gazelor naturale ce urmează a fi vândute, care fac obiectul obligației
+de stocare (în continuare – preț reglementat al stocurilor de gaze naturale), și calculul
+motivat și documentat al costurilor aferente specificate la punctul 8.
+### Punctul 13. În termen de o zi lucrătoare de la aprobarea de către Agenția Națională pentru
+Reglementare în Energetică, în conformitate cu prevederile art. 1083 alin. (7) din Legea nr.
+108/2016 cu privire la gazele naturale, a hotărârilor cu privire la prețul reglementat al
+stocurilor de gaze naturale și cota de piață care îi revine fiecărui furnizor de pe piața cu
+amănuntul, și, ulterior, până la data de 15 a lunii noiembrie și decembrie 2024, Societatea
+pe Acțiuni „Energocom” expediază pe adresa fiecărui furnizor de pe piața cu amănuntul
+oferta, în care indică prețul reglementat al stocurilor de gaze naturale și cantitățile de gaze
+naturale propuse pentru achiziționare, distribuite după cum urmează: cantități lunare –
+pentru perioada noiembrie-decembrie 2024, și cantități trimestriale – pentru perioada
+ianuarie-martie 2025. La determinarea cantităților ce urmează a fi vândute fiecărui furnizor
+de pe piața cu amănuntul, Societatea pe Acțiuni „Energocom” ține cont de cota de piață pe
+care o deține furnizorul respectiv pe piața gazelor naturale, stabilită de către Agenția
+Națională pentru Reglementare în Energetică.
+### Punctul 14. În cazul în care decid să achiziționeze gaze naturale până la data de 25 a lunii
+octombrie, noiembrie și decembrie anul 2024, furnizorii de pe piața cu amănuntul a gazelor
+
+
+naturale notifică Societății pe Acțiuni „Energocom” intenția de achiziționare a gazelor
+naturale în perioada următoare și încheie, după caz, contracte individuale la contractelecadru semnate conform punctului 11.
+### Punctul 15. În cazul în care unul sau mai mulți furnizori de pe piața cu amănuntul a gazelor
+naturale nu expediază pe adresa Societății pe Acțiuni „Energocom” notificarea cu privire la
+intenția de achiziționare a gazelor naturale în perioada următoare sau în cazul în care indică
+în notificarea expediată o cantitate de gaze naturale mai mică decât cea propusă în ofertă,
+în conformitate cu principiul stabilit la punctul 10, Societatea pe Acțiuni „Energocom”
+include cantitatea rămasă disponibilă în ofertele expediate furnizorilor de pe piața cu
+amănuntul pentru perioadele următoare, calculată proporțional cotelor de piață și volumelor
+menționate în notificările expediate.
+### Punctul 16. În cazul în care, la situația de după 25 decembrie 2024, în urma notificărilor
+depuse de către furnizorii de pe piața cu amănuntul, rămân cantități de gaze naturale
+disponibile, Societatea pe Acțiuni „Energocom” poate să le vândă prioritar pe piața de gaze
+naturale din Republica Moldova sau pe alte piețe de gaze naturale la care are acces, în
+condiții transparente și nediscriminatorii și la un preț nu mai mic decât prețul reglementat
+al stocurilor de gaze naturale, aprobat de Agenția Națională pentru Reglementare în
+Energetică în conformitate cu prevederile art. 1083 alin. (7) din Legea nr. 108/2016 cu
+privire la gazele naturale.
+### Punctul 17. În cazul în care termenul de aplicare a prevederilor art. 4 alin. (21), art. 1082 și
+1083 din Legea nr. 108/2016 cu privire la gazele naturale va fi prelungit, cantitatea de gaze
+naturale stocată în contextul executării obligației de stocare, rămasă disponibilă la 1 aprilie
+2025, urmează a fi menținută în contul stocurilor de gaze naturale care fac obiectul
+obligației de stocare pentru următoarea perioadă calendaristică. Cantitatea de gaze
+naturale rămasă disponibilă la expirarea termenului de aplicare a prevederilor art. 4 alin.
+(2 1 ), art. 108 2 și 108 3 din Legea nr. 108/2016 cu privire la gazele naturale se pune în
+circulație în condițiile stabilite de către Guvern, iar titularul obligației de stocare poate
+primi compensație financiară conform punctului 20.
+### Punctul 18. Profitul suplimentar celui reglementat, obținut de către Societatea pe Acțiuni
+„Energocom” din vânzarea gazelor naturale conform punctului 16, se raportează către
+Agenția Națională pentru Reglementare în Energetică și, în cazul în care termenul de
+aplicare a prevederilor art. 4 alin. (21), art. 1082 și 1083 din Legea nr. 108/2016 cu privire la
+gazele naturale va fi prelungit, se utilizează pentru crearea stocurilor de gaze naturale care
+fac obiectul obligației de stocare în următoarea perioadă calendaristică, pentru reducerea
+cheltuielilor legate de stocare sau pentru reducerea unei eventuale compensații financiare
+aplicate conform punctului 20.
+### Punctul 19. În cazul constatării situației de alertă sau de urgență în conformitate cu
+Regulamentul privind situațiile excepționale în sectorul gazelor naturale ori în cazul
+declarării de către Parlament a stării de urgență în conformitate cu art. 12 din Legea nr.
+212/2004 privind regimul stării de urgență, de asediu și de război, Societatea pe Acțiuni
+„Energocom” pune în circulație pe piața gazelor naturale, pe parcursul anului, parțial sau
+total, conform deciziei Comisiei pentru Situații Excepționale a Republicii Moldova,
+cantitatea disponibilă de gaze naturale care face obiectul obligației de stocare.
+
+
+### Punctul 20. Societatea pe Acțiuni „Energocom” poate primi stimulente sau compensații
+financiare pentru deficitul de venituri sau pentru costurile suportate de aceasta ca urmare a
+respectării obligației de stocare în cazul în care deficitul sau costurile respective nu pot fi
+acoperite de veniturile obținute din activitatea desfășurată în legătură cu executarea
+obligației de stocare. Stimulentele sau compensațiile financiare se stabilesc în conformitate
+cu mecanismul prevăzut prin hotărârea Guvernului, în baza calculelor Agenției Naționale
+pentru Reglementare în Energetică.
+### Punctul 21. Controlul asupra executării prezentei hotărâri se pune în sarcina Ministerului
+Energiei.
+### Punctul 22. Prezenta hotărâre intră în vigoare la data publicării în Monitorul Oficial al
+Republicii Moldova.
+PRIM-MINISTRU Dorin RECEAN
+Contrasemnează:
+Ministrul energiei Victor Parlicov
+Ministrul finanțelor Petru Rotaru
+Nr. 365. Chişinău, 29 mai 2024.

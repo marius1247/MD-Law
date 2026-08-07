@@ -1,0 +1,298 @@
+---
+title: "HG 829-2024 — audit energetic intreprinderi mari (text)"
+type: act-text
+act_type: hotărâre-guvern
+nr: "829"
+an: 2024
+domeniu:
+- energetică
+- eficiență
+- audit
+domain: [energetică, eficiență, audit]
+issuer: Guvern
+in_force: true
+in_vigoare: true
+mo_publicare: "MO 1-4/03.01.2025 art. 1"
+legis_id: "146623"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=146623"
+version_date: 2026-08-07
+versiune_text: 2026-08-07
+continut: text-integral
+text_complet: true
+puncte_numarate: 31
+articole_numarate: 0
+tags: [act, text, acte_normative, energetică]
+created: 2026-08-07
+updated: 2026-08-07
+source_ingest: pdf-upload-pdftotext
+legal_status: in_vigoare
+enabling_act: "[[Legea 139-2018 — eficienta energetica (text)|L139/2018]] art. 9(1)(g)"
+---
+# HG 829-2024 — audit energetic intreprinderi mari
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md** PDF (doc_id [146623](https://www.legis.md/cautare/getResults?lang=ro&doc_id=146623)), pdftotext + structură ușoară.
+> Analiză: [[HG 829-2024 — audit energetic intreprinderi mari (notă)]].
+
+---
+
+Republica Moldova
+
+GUVERNUL
+HOTĂRÂRE Nr. HG829/2024
+din 11.12.2024
+
+pentru aprobarea Regulamentului
+cu privire la efectuarea auditului energetic
+de către întreprinderile mari
+Publicat : 03.01.2025 în MONITORUL OFICIAL Nr. 1-4 art. 1 Data intrării în vigoare
+
+În temeiul art. 9 alin. (1) lit. g) din Legea nr. 139/2018 cu privire la eficiența
+energetică (Monitorul Oficial al Republicii Moldova, 2018, nr. 309-320, art. 476), cu
+modificările ulterioare, Guvernul HOTĂRĂȘTE:
+### Punctul 1. Se aprobă Regulamentul cu privire la efectuarea auditului energetic de către
+întreprinderile mari (se anexează).
+### Punctul 2. Instituția Publică Centrul Național pentru Energie Durabilă, în termen de o lună de
+la data intrării în vigoare a prezentei hotărâri, notifică primelor întreprinderi mari
+necesitatea de a efectua auditul energetic în conformitate cu cerințele și principiile stabilite
+în Regulamentul cu privire la efectuarea auditului energetic de către întreprinderile mari.
+### Punctul 3. Întreprinderile mari, identificate de către Biroul Național de Statistică și notificate
+de către Instituția Publică Centrul Național pentru Energie Durabilă, efectuează și prezintă
+Instituției Publice Centrul Național pentru Energie Durabilă primul raport de audit
+energetic în termen de un an de la data publicării în Monitorul Oficial al Republicii Moldova
+a Regulamentului cu privire la efectuarea auditului energetic de către întreprinderile mari
+și, ulterior, cel puțin o dată la fiecare patru ani de la data efectuării ultimului raport de audit
+energetic.
+### Punctul 4. Întreprinderile mari, identificate de către Biroul Național de Statistică după un an
+de la data intrării în vigoare a Regulamentului cu privire la efectuarea auditului energetic
+de către întreprinderile mari și care au obligația de a efectua auditul energetic, efectuează
+și prezintă Instituției Publice Centrul Național pentru Energie Durabilă primul raport de
+audit energetic în termen de un an de la data recepționării notificării din partea Instituției
+Publice Centrul Național pentru Energie Durabilă și, ulterior, efectuează audituri energetice
+cel puțin o dată la fiecare patru ani de la data efectuării ultimului audit energetic, cu
+prezentarea pe adresa Instituției Publice Centrul Național pentru Energie Durabilă a
+rapoartelor de audit energetic elaborate în acest sens.
+### Punctul 5. Întreprinderile mari care au efectuat un audit energetic până la intrarea în vigoare
+a Regulamentului cu privire la efectuarea auditului energetic de către întreprinderile mari
+prezintă copia raportului de audit efectuat și, ulterior, cel puțin o dată la fiecare patru ani
+
+
+de la data efectuării ultimului raport de audit energetic au obligația de a prezenta un nou
+raport de audit energetic care să corespundă prevederilor Regulamentului nominalizat.
+### Punctul 6. Instituția Publică Centrul Național pentru Energie Durabilă, după aprobarea
+Regulamentului cu privire la efectuarea auditului energetic de către întreprinderile mari,
+prezintă în raportul privind activitatea desfășurată în anul precedent informația cu privire la
+implementarea acestuia.
+### Punctul 7. Monitorizarea executării prezentei hotărâri se pune în sarcina Ministerului
+Energiei.
+PRIM-MINISTRU Dorin RECEAN
+Contrasemnează:
+Ministrul interimar al energiei Dorin Recean
+Nr. 829. Chişinău, 11 decembrie 2024.
+Aprobat
+prin Hotărârea Guvernului nr.829/2024
+REGULAMENT
+cu privire la efectuarea auditului energetic
+de către întreprinderile mari
+## Capitolul I
+DISPOZIȚII GENERALE
+### Punctul 1. Regulamentul cu privire la efectuarea auditului energetic de către întreprinderile
+mari (în continuare – Regulament) stabilește:
+1.1. modul de definire a întreprinderilor mari și criteriile de stabilire a listei
+întreprinderilor mari care au obligația de efectuare a auditului energetic în conformitate cu
+prevederile prezentului Regulament;
+1.2. obligațiile întreprinderilor mari și cerințele de efectuare a auditurilor energetice;
+1.3. raportarea auditurilor energetice de către întreprinderile mari;
+1.4. monitorizarea efectuării auditurilor energetice de către întreprinderile mari;
+1.5. cerințele față de întreprinderile mari la implementarea sistemului de
+management energetic sau de mediu.
+
+
+### Punctul 2. Prezentul Regulament se pune în aplicare de către organul central de specialitate
+al administrației publice în domeniul energeticii și instituția publică de suport – Instituția
+Publică Centrul Național pentru Energie Durabilă (în continuare – IP CNED) în procesul de
+efectuare a auditului energetic de către întreprinderile mari.
+### Punctul 3. În sensul prezentului Regulament se aplică noțiunile definite în Legea nr. 139/2018
+cu privire la eficiența energetică.
+### Punctul 4. IP CNED exercită următoarele atribuții:
+4.1. pune în aplicare cadrul juridic pentru efectuarea auditului energetic de către
+întreprinderile mari;
+4.2. acordă asistență consultativă și informațională prestatorilor de servicii de audit
+energetic, auditorilor energetici și întreprinderilor ce desfășoară activitate de
+antreprenoriat cu privire la particularitățile efectuării auditului energetic de către
+întreprinderile mari;
+4.3. identifică, stabilește și actualizează lista întreprinderilor mari care urmează să
+efectueze auditul energetic și le notifică despre acest fapt;
+4.4. colaborează în vederea identificării și stabilirii listei întreprinderilor mari, în
+special prin furnizarea reciprocă și continuă de informații, cu Biroul Național de Statistică,
+cu Ministerul Energiei, cu Ministerul Dezvoltării Economice și Digitalizării, precum și cu
+alte autorități ale administrației publice centrale și locale;
+4.5. elaborează, aprobă și publică pe site-ul său web oficial modelul raportului privind
+consumul anual primar de energie al întreprinderilor mari care au obligația de efectuare a
+auditului energetic;
+4.6. actualizează, la necesitate, programele de formare profesională a auditorilor
+energetici.
+## Capitolul II
+STABILIREA ȘI ACTUALIZAREA LISTEI
+ÎNTREPRINDERILOR MARI
+### Punctul 5. Se definesc ca fiind întreprinderi mari, în sensul prezentului Regulament,
+întreprinderile care nu intră sub incidența Legii nr. 179/2016 cu privire la întreprinderile
+mici și mijlocii și îndeplinesc cumulativ următoarele condiții:
+5.1. au un număr mediu anual de salariați (numărul mediu scriptic al personalului în
+perioada de gestiune) mai mare de 249;
+5.2. realizează o cifră anuală de afaceri (venituri din vânzări) mai mare de 100 de
+milioane de lei sau dețin active totale (active imobilizate și active circulante) mai mari de
+100 de milioane de lei, conform ultimei situații financiare aprobate;
+
+
+5.3. au un consum anual primar de energie mai mare de 1 000 tep.
+### Punctul 6. Stabilirea listei întreprinderilor mari care urmează să efectueze auditul energetic
+are loc conform următoarelor proceduri:
+6.1. IP CNED solicită anual de la Biroului Național de Statistică prezentarea listei
+întreprinderilor care practică activitatea de antreprenoriat sub formele organizatoricojuridice indicate în art. 13 din Legea nr. 845/1992 cu privire la antreprenoriat și care nu
+intră sub incidența Legii nr. 179/2016 cu privire la întreprinderile mici și mijlocii și au un
+consum anual primar de energie mai mare de 1 000 tep;
+6.2. Biroul Național de Statistică prezintă anual IP CNED cea mai recentă informație,
+disponibilă la nivel statistic, solicitată conform prevederilor subpct. 6.1.
+### Punctul 7. Anual, în baza listei întreprinderilor mari recepționate de la Biroul Național de
+Statistică, IP CNED notifică întreprinderilor mari, până la 30 noiembrie, obligația de a
+efectua auditul energetic în conformitate cu prevederile art. 19 alin. (1) din Legea nr.
+139/2018 cu privire la eficiența energetică și ale prezentului Regulament.
+### Punctul 8. Lista întreprinderilor mari care au obligația de a efectua auditul energetic este
+actualizată anual de către IP CNED în baza prevederilor prezentului Regulament.
+### Punctul 9. În cazul în care, în urma exercițiului anual de actualizare a listei menționate la pct.
+8, sunt identificate întreprinderi noi care cad sub incidența prevederilor art. 19 alin. (1) din
+Legea nr. 139/2018 cu privire la eficiența energetică, IP CNED notifică întreprinderilor
+respective acest fapt.
+### Punctul 10. Lista întreprinderilor mari care au obligația, menționată la art. 19 alin. (1) din
+Legea nr. 139/2018 cu privire la eficiența energetică, de a efectua auditul energetic și
+actualizările acesteia se aprobă prin ordin al directorului IP CNED și se afișează pe site-ul
+web oficial al IP CNED.
+## Capitolul III
+OBLIGAȚIILE ÎNTREPRINDERILOR MARI
+ȘI CERINȚELE DE EFECTUARE A AUDITURILOR
+ENERGETICE
+Secțiunea 1
+Obligațiile întreprinderilor mari
+### Punctul 11. Întreprinderile mari notificate de către IP CNED au următoarele obligații:
+11.1. să efectueze o dată la patru ani audituri energetice care să cuprindă analiza
+tuturor consumurilor anuale primare de energie;
+11.2. să completeze și să transmită anual către IP CNED raportul privind consumul
+
+
+anual de energie primară, conform modelului aprobat de către IP CNED;
+11.3. să suporte cheltuielile privind efectuarea auditului energetic.
+### Punctul 12. Întreprinderile mari notificate de către IP CNED asigură efectuarea auditurilor
+energetice în baza contractelor încheiate cu o companie prestatoare de servicii de audit
+energetic din Republica Moldova și/sau de peste hotare, care are în calitate de angajat cel
+puțin un auditor energetic, calificat și înregistrat în conformitate cu prevederile
+Regulamentului cu privire la auditorii energetici și auditul energetic, aprobat prin
+Hotărârea Guvernului nr. 676/2020.
+Secțiunea a 2-a
+Cerințele de efectuare a auditurilor energetice
+de către întreprinderile mari
+### Punctul 13. Auditul energetic pentru întreprinderile mari se efectuează în conformitate cu
+Regulamentul cu privire la auditorii energetici și auditul energetic, aprobat prin Hotărârea
+Guvernului nr. 676/2020, și prezentul Regulament.
+### Punctul 14. În procesul de efectuare a auditului energetic pentru întreprinderile mari,
+auditorul energetic efectuează o analiză a caracteristicilor tehnice și energetice a clădirilor
+aflate în proprietatea întreprinderilor mari situate pe teritoriul Republicii Moldova, a tuturor
+sistemelor tehnice, a proceselor tehnologice și a unităților de transport din cadrul
+întreprinderilor, inclusiv a sistemelor de producere, de transformare, de distribuție și de
+consum a energiei/apei/materiei prime care consumă apă și energie, pentru a determina
+potențialul de eficientizare.
+### Punctul 15. Verificarea calității rapoartelor de audit energetic efectuate la întreprinderile
+mari se realizează de către IP CNED conform Regulamentului cu privire la auditorii
+energetici și auditul energetic, aprobat prin Hotărârea Guvernului nr. 676/2020.
+### Punctul 16. Formarea profesională a auditorilor energetici pentru efectuarea auditului
+energetic la o întreprindere mare se desfășoară de către instituțiile/organizațiile cu drept de
+formare profesională și/sau instituțiile de învățământ acreditate. Tematica și condițiile de
+desfășurare a acestora se aprobă de către IP CNED, în conformitate cu prevederile secțiunii
+a 3-a a capitolului III din Regulamentul cu privire la auditorii energetici și auditul energetic,
+aprobat prin Hotărârea Guvernului nr. 676/2020.
+### Punctul 17. Raportul de audit energetic efectuat pentru întreprinderile mari trebuie să
+corespundă modelului/șablonului de raport de audit energetic aprobat de către IP CNED,
+pentru categoria Clădiri, Industrie și Transport, în conformitate cu obiectul analizat.
+## Capitolul IV
+MONITORIZAREA EFECTUĂRII AUDITULUI
+ENERGETIC DE CĂTRE ÎNTREPRINDERILE MARI
+
+
+### Punctul 18. IP CNED monitorizează respectarea de către întreprinderile mari a obligației de
+efectuare a auditului energetic în termenele și în condițiile stabilite în Legea nr. 139/2018
+cu privire la eficiența energetică și în prezentul Regulament.
+### Punctul 19. Întreprinderile mari, în termen de cel mult o lună de la recepționarea raportului
+de audit energetic, notifică IP CNED executarea obligației de efectuare a auditului
+energetic.
+### Punctul 20. Companiile prestatoare de servicii de audit energetic informează IP CNED cu
+privire la auditurile energetice efectuate la întreprinderile mari și fac mențiuni în acest sens
+în Registrul auditurilor energetice, transmis anual către IP CNED în conformitate cu pct. 56
+din Regulamentul cu privire la auditorii energetici și auditul energetic, aprobat prin
+Hotărârea Guvernului nr. 676/2020.
+### Punctul 21. Întreprinderile mari care nu îndeplinesc obligația cu privire la efectuarea
+auditului energetic și care nu intră sub incidența capitolului V din prezentul Regulament se
+sancționează cu aplicarea sancțiunii financiare indicate la art. 28 alin. (3) și (4) din Legea
+nr. 139/2018 cu privire la eficiența energetică.
+### Punctul 22. Sancțiunile financiare față de întreprinderile mari care au obligația de efectuare a
+auditului energetic se constată și se aplică de către Inspectoratul Național pentru
+Supraveghere Tehnică, conform procedurii de aplicare a sancțiunilor financiare indicate la
+art. 29 din Legea nr. 139/2018 cu privire la eficiența energetică.
+### Punctul 23. Achitarea sancțiunilor financiare nu exonerează întreprinderile mari de
+executarea obligației de efectuare a auditului energetic.
+### Punctul 24. În cazul în care întreprinderea mare nu a îndeplinit obligația cu privire la
+efectuarea auditului energetic în termen, IP CNED sesizează Inspectoratul Național pentru
+Supraveghere Tehnică.
+## Capitolul V
+CERINȚE FAȚĂ DE ÎNTREPRINDERILE MARI
+LA IMPLEMENTAREA SISTEMULUI DE
+MANAGEMENT ENERGETIC SAU DE MEDIU
+### Punctul 25. Întreprinderile mari, notificate de către IP CNED, care implementează un sistem
+de management energetic în conformitate cu SM ISO EN 50001 și obțin certificarea de
+către un organism acreditat sau un sistem de management de mediu în conformitate cu SM
+SR EN ISO 14001, sunt scutite de executarea obligației privind efectuarea auditului
+energetic conform prezentului Regulament, cu condiția că sistemul respectiv implică
+efectuarea auditului energetic cu respectarea cerințelor minime indicate la pct. 50 din
+Regulamentul cu privire la auditorii energetici și auditul energetic, aprobat prin Hotărârea
+Guvernului nr. 676/2020.
+### Punctul 26. IP CNED solicită de la întreprinderile mari informațiile necesare care dovedesc că
+
+
+sistemul de management energetic implementat, în conformitate cu SM ISO EN 50001 sau
+sistemul de management de mediu implementat în conformitate cu SM SR EN ISO 14001,
+implică efectuarea auditului energetic conform prevederilor pct. 25, cu informarea
+ulterioară a acestora despre constatările efectuate.
+### Punctul 27. Întreprinderile mari care implementează sistemul de management energetic
+și/sau un sistem de management de mediu, care prelungesc valabilitatea certificatelor
+deținute și care dețin certificatele corespunzătoare, anual, până la sfârșitul anului, sunt
+obligate să prezinte către IP CNED:
+27.1. copiile certificatelor corespunzătoare emise de un organism de certificare
+acreditat, în conformitate cu Legea nr. 235/2011 privind activitățile de acreditare și de
+evaluare a conformității;
+27.2. datele privind consumul de energie sau sistemul de management energetic sau
+de mediu implementat;
+27.3. lista măsurilor de îmbunătățire a eficienței energetice propuse întreprinderii
+mari pentru implementare;
+27.4. lista măsurilor de îmbunătățire a eficienței energetice realizate până la
+momentul raportării;
+27.5. lista măsurilor de îmbunătățire a eficienței energetice implementate pe
+parcursul anului curent și rezultatele/economiile de energie obținute.
+### Punctul 28. În termen de o lună până la expirarea certificatului ce atestă implementarea
+sistemului de management energetic sau de mediu, întreprinderile mari sunt obligate să
+notifice IP CNED expirarea certificatului respectiv și să prezinte raportul privind efectuarea
+auditului energetic realizat pentru perioada deținerii certificatului respectiv.
+### Punctul 29. Întreprinderile mari care au obligația de efectuare a auditului energetic și care nu
+prelungesc valabilitatea certificării obținute conform prevederilor pct. 25 sau nu obțin o
+nouă certificare de implementare a sistemului de management energetic sau de mediu sunt
+obligate să efectueze auditul energetic în termen de patru ani de la expirarea certificării ce
+atestă implementarea sistemului de management energetic sau de mediu, cu respectarea
+prevederilor prezentului Regulament.
+### Punctul 30. În cazul retragerii certificatului de implementare a sistemului de management
+energetic sau de mediu, întreprinderile mari sunt obligate să notifice IP CNED retragerea
+certificatului cu indicarea motivelor retragerii acestuia. În termen de patru ani de la
+retragerea certificatului respectiv, întreprinderile mari care au obligația de efectuare a
+auditului energetic sunt obligate să efectueze auditul energetic cu respectarea prevederilor
+prezentului Regulament.
+### Punctul 31. În baza informației prezentate de către întreprinderile mari cu privire la
+implementarea sistemului de management energetic sau de mediu, IP CNED efectuează
+mențiunile corespunzătoare în lista întreprinderilor mari care au obligația de a efectua
+auditul energetic, cu publicarea acesteia pe site-ul său web oficial.

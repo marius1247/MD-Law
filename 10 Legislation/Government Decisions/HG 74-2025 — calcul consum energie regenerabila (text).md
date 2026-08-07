@@ -1,0 +1,112 @@
+---
+title: "HG 74-2025 — calcul consum energie regenerabila (text)"
+type: act-text
+act_type: hotărâre-guvern
+nr: "74"
+an: 2025
+domeniu:
+- energetică
+- regenerabile
+- statistică
+domain: [energetică, regenerabile, statistică]
+issuer: Guvern
+in_force: true
+in_vigoare: true
+mo_publicare: "MO 100-103/28.02.2025 art. 98"
+legis_id: "147296"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=147296"
+version_date: 2026-08-07
+versiune_text: 2026-08-07
+continut: doar-dispozitiv
+text_complet: false
+puncte_numarate: 8
+articole_numarate: 0
+tags: [act, text, acte_normative, energetică]
+created: 2026-08-07
+updated: 2026-08-07
+source_ingest: pdf-upload-pdftotext
+legal_status: in_vigoare
+enabling_act: "[[Legea 10-2016 — surse regenerabile (text)|L10/2016]] art. 10(k1)"
+status_ingestie: dispozitiv complet — anexa/listă lipsă
+---
+# HG 74-2025 — calcul consum energie regenerabila
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md** PDF (doc_id [147296](https://www.legis.md/cautare/getResults?lang=ro&doc_id=147296)), pdftotext + structură ușoară.
+> Analiză: [[HG 74-2025 — calcul consum energie regenerabila (notă)]].
+
+> [!warning] Anexa lipsește
+> Regulamentul privind calculul consumului de energie din surse regenerabile (anexă) nu este în PDF.
+
+---
+
+Republica Moldova
+
+GUVERNUL
+HOTĂRÂRE Nr. HG74/2025
+din 19.02.2025
+
+cu privire la aprobarea Regulamentului
+privind calculul consumului de energie
+din surse regenerabile
+Publicat : 28.02.2025 în MONITORUL OFICIAL Nr. 100-103 art. 98 Data intrării în vigoare
+
+UE
+
+În temeiul art. 10 lit. k1) din Legea nr. 10/2016 privind promovarea utilizării energiei
+din surse regenerabile (Monitorul Oficial al Republicii Moldova, 2016, nr.69-77, art.117), cu
+modificările ulterioare, Guvernul HOTĂRĂŞTE:
+### Punctul 1. Se aprobă Regulamentul privind calculul consumului de energie din surse
+regenerabile (se anexează).
+### Punctul 2. Ministerul Energiei, Centrul Național pentru Energie Durabilă și Biroul Național de
+Statistică cooperează în vederea identificării și implementării măsurilor și acțiunilor
+necesare pentru dezvoltarea sistemului statistic național, în scopul asigurării disponibilității
+informațiilor statistice care sunt necesare pentru determinarea consumului final brut de
+energie din surse regenerabile și a ponderii energiei regenerabile în consumul final brut de
+energie, atât sectorial, cât și total.
+### Punctul 3. Centrul Național pentru Energie Durabilă include informații detaliate cu privire la
+consumul final brut de energie din surse regenerabile și la ponderea energiei regenerabile
+în consumul final brut de energie, atât sectorial, cât și total, în raportul său anual de
+activitate, elaborat în conformitate cu prevederile art.11 alin. (7) din Legea nr. 139/2018 cu
+privire la eficiența energetică, și le publică pe site-ul său web oficial. Centrul Național
+pentru Energie Durabilă contribuie la elaborarea raportului național integrat privind
+energia și clima, prevăzut la art. 73 din Legea nr. 174/2017 cu privire la energetică, prin
+includerea informațiilor detaliate menționate în prezentul punct.
+### Punctul 4. Ministerul Energiei utilizează informațiile oferite de Centrul Național pentru
+Energie Durabilă ca urmare a implementării prevederilor Regulamentului privind calculul
+consumului de energie din surse regenerabile în vederea aprecierii evoluției situațiilor în
+Republica Moldova în raport cu traiectoriile orientative și cu obiectivele, inclusiv cele
+sectoriale, stabilite în Legea nr. 10/2016 cu privire la promovarea utilizării energiei din
+surse regenerabile, în Legea nr.139/2018 cu privire la eficiența energetică, în Planul
+național integrat privind energia și clima și în alte documente de politici publice.
+
+
+### Punctul 5. Furnizorii de energie electrică au obligația de a prezenta consumatorilor finali
+informații cu privire la structura și ponderea tuturor tipurilor de surse de energie în energia
+electrică furnizată, prin intermediul unui raport prevăzut la pct. 29 din Regulamentul
+privind calculul consumului de energie din surse regenerabile, începând cu perioada 1-30
+septembrie 2026.
+### Punctul 6. Prevederile subpct. 14.1 și 14.2 din anexa nr.4 la Regulamentul privind calculul
+consumului de energie din surse regenerabile se aplică de la 1 ianuarie 2038 pentru
+instalațiile care produc combustibili lichizi și gazoși de origine nebiologică din surse
+regenerabile și care sunt utilizați în transporturi dacă au fost puse în exploatare până la 31
+decembrie 2027. Pentru instalațiile care își măresc capacitatea de producție din 1 ianuarie
+2028, prin creșterea puterii instalate, prin adăugarea de noi unități de producție sau orice
+altă formă de majorare a capacității, prevederile subpct. 14.1 și 14.2 din anexa nr. 4 la
+Regulamentul menționat se aplică integral pentru capacitatea suplimentară.
+### Punctul 7. Prevederea privind condițiile de corelare temporală, prevăzută la pct. 16 din anexa
+nr. 4 la Regulamentul privind calculul consumului de energie din surse regenerabile, în
+cazul combustibililor lichizi și gazoși de origine nebiologică obținuți din surse regenerabile
+și utilizați în transporturi se aplică de la 1 iulie 2027, sub rezerva notificării Secretariatului
+Comunității Energetice de către Ministerul Energiei.
+### Punctul 8. Se abrogă Hotărârea Guvernului nr. 270/2020 cu privire la aprobarea
+Regulamentului privind determinarea consumului final de energie din surse regenerabile în
+transporturi (Monitorul Oficial al Republicii Moldova, 2020, nr. 118-123, art. 383).
+PRIM-MINISTRU Dorin RECEAN
+Contrasemnează:
+Viceprim-ministru,
+ministrul infrastructurii
+și dezvoltării regionale Vladimir Bolea
+Ministrul energiei Dorin Junghietu
+Nr. 74. Chişinău, 19 februarie 2025.
+regulament

@@ -1,0 +1,119 @@
+---
+title: "HG 26-2025 — PSO acces retea producatori regenerabile pret fix (text)"
+type: act-text
+act_type: hotărâre-guvern
+nr: "26"
+an: 2025
+domeniu:
+- energetică
+- regenerabile
+- racordare
+domain: [energetică, regenerabile, racordare]
+issuer: Guvern
+in_force: true
+in_vigoare: true
+mo_publicare: "MO 22-24/30.01.2025 art. 34"
+legis_id: "146906"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=146906"
+version_date: 2026-08-07
+versiune_text: 2026-08-07
+continut: text-integral
+text_complet: true
+puncte_numarate: 3
+articole_numarate: 0
+tags: [act, text, acte_normative, energetică]
+created: 2026-08-07
+updated: 2026-08-07
+source_ingest: pdf-upload-pdftotext
+legal_status: in_vigoare
+enabling_act: "[[Legea 10-2016 — surse regenerabile (text)|L10/2016]] art. 10(2) · [[Legea 107-2016 — energia electrica (text)|L107/2016]] art. 11(2)-(3)"
+---
+# HG 26-2025 — PSO acces retea producatori regenerabile pret fix
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md** PDF (doc_id [146906](https://www.legis.md/cautare/getResults?lang=ro&doc_id=146906)), pdftotext + structură ușoară.
+> Analiză: [[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (notă)]].
+
+> [!danger] L107 currency
+> Enabling cite references **L107/2016**. Map to [[Legea 164-2025 — energia electrica (text)|L164/2025]] for 2026 advice.
+
+---
+
+Republica Moldova
+
+GUVERNUL
+HOTĂRÂRE Nr. HG26/2025
+din 29.01.2025
+
+privind impunerea obligației de serviciu public
+operatorilor de sistem în scopul acordării accesului
+la rețea pentru producătorii de energie din surse
+regenerabile care beneficiază de schema de sprijin
+„preţ fix”
+Publicat : 30.01.2025 în MONITORUL OFICIAL Nr. 22-24 art. 34 Data intrării în vigoare
+
+În temeiul art. 10 alin. (2) din Legea nr. 10/2016 privind promovarea utilizării energiei
+din surse regenerabile (Monitorul Oficial al Republicii Moldova, 2016, nr. 69-77, art. 117),
+cu modificările ulterioare, și al art. 11 alin. (2) lit. b) și c) și alin. (3) lit. d) din Legea nr.
+107/2016 cu privire la energia electrică (Monitorul Oficial al Republicii Moldova, 2016, nr.
+193-203, art. 413), cu modificările ulterioare, Guvernul HOTĂRĂȘTE:
+### Punctul 1. Se impune, pentru un termen de 6 ani, obligația de serviciu public operatorului
+sistemului de transport și operatorilor sistemelor de distribuție a energiei electrice în scopul
+acordării accesului la rețelele electrice producătorilor de energie din surse regenerabile
+care beneficiază de schema de sprijin „preț fix”, după cum urmează:
+1.1. la depunerea cererii pentru eliberarea avizului de racordare de către un
+producător eligibil mare, care nu dispune de aviz de racordare pentru centrala sau
+centralele electrice pentru care a obținut statut de producător eligibil mare, operatorul de
+sistem este obligat să examineze cererea respectivă și să elibereze, în cazul în care există
+capacitate disponibilă suficientă în rețeaua electrică, avizul de racordare în conformitate cu
+Regulamentul privind racordarea la rețelele electrice și prestarea serviciilor de transport și
+de distribuție a energiei electrice, aprobat prin Hotărârea Consiliului de administrație al
+Agenției Naționale pentru Reglementare în Energetică nr. 168/2019, luând în considerare
+locația pentru amplasarea centralei electrice eligibile care utilizează surse regenerabile de
+energie, indicată de producătorul eligibil mare în cerere;
+1.2. în cazul lipsei de capacitate a rețelei electrice în zona în care s-a solicitat
+eliberarea avizului de racordare, operatorul de sistem informează producătorul eligibil
+despre acest fapt, precum și despre planul de dezvoltare a rețelei electrice în zona
+respectivă, în cazul în care aceasta reprezintă o prioritate pentru operatorul de sistem și de
+această dezvoltare urmează să beneficieze mai mulți utilizatori de sistem. Concomitent,
+operatorul de sistem informează solicitantul despre zonele rețelei electrice unde poate fi
+acomodată puterea solicitată;
+1.3. la solicitarea producătorului eligibil mare, operatorul de sistem plasează cererea
+
+
+producătorului eligibil mare în lista de așteptare în mod prioritar față de ceilalți solicitanți,
+alții decât producători eligibili mari. La apariția capacității disponibile în rețeaua electrică,
+operatorul de sistem informează producătorul eligibil mare și, după confirmarea de către
+acesta, eliberează avizul de racordare producătorului eligibil mare în baza cererii incluse în
+lista de așteptare, conform Regulamentului privind racordarea la rețelele electrice și
+prestarea serviciilor de transport și de distribuție a energiei electrice, aprobat prin
+Hotărârea Consiliului de administrație al Agenției Naționale pentru Reglementare în
+Energetică nr. 168/2019;
+1.4. la eliberarea avizelor de racordare și includerea în lista de așteptare a
+producătorilor eligibili mari pentru racordarea la aceeași linie, stație electrică, regiune sau
+integral la nivel de sistem, operatorul de sistem aplică principiul „primul venit primul servit”
+față de cererile producătorilor eligibili mari pentru centralele electrice pentru care aceștia
+au primit statut de producător eligibil, conform ordinii în care producătorii au solicitat
+avizul de racordare;
+1.5. dacă cererea de eliberare a avizului de racordare a producătorului eligibil mare
+pentru racordarea centralei electrice pentru care a obținut statut de producător eligibil
+mare se află in lista de așteptare, aceasta va avea prioritate față de cererile pentru
+eliberarea avizului de racordare a centralelor electrice pentru care nu s-a obținut statut de
+producător eligibil mare;
+1.6. operatorii de sistem sunt obligați să coopereze cu producătorii eligibili mari
+pentru eliberarea avizelor de racordare și să informeze producătorii eligibili mari despre
+zonele unde există capacitate disponibilă în rețelele electrice;
+1.7. dacă, pentru majorarea capacității rețelei electrice rezultate ca urmare a
+congestiilor de rețea, sunt necesare modificări în echipamentul aferent stațiilor electrice,
+operatorul de sistem respectiv urmează să includă proiectele de investiții necesare în
+solicitările de modificare a planului de dezvoltare și a planului anual de investiții.
+### Punctul 2. Operatorii de sistem informează trimestrial organul central de specialitate al
+administrației publice în domeniul energeticii despre avizele de racordare eliberate
+producătorilor eligibili mari și despre refuzurile motivate privind eliberarea avizelor de
+racordare în conformitate cu prezenta hotărâre.
+### Punctul 3. Controlul asupra executării prezentei hotărâri se pune în sarcina organului central
+de specialitate al administrației publice în domeniul energeticii.
+PRIM-MINISTRU Dorin RECEAN
+Contrasemnează:
+Ministrul interimar al energiei Dorin Recean
+Nr. 26. Chişinău, 29 ianuarie 2025.

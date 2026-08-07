@@ -123,4 +123,17 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 | [[HG 364-2024 — modificare stocuri securitate gaze (text)]] | [[HG 364-2024 — modificare stocuri securitate gaze (notă)]] |
 | [[HG 677-2024 — plan sezon incalzire 2024-2025 (text)]] | [[HG 677-2024 — plan sezon incalzire 2024-2025 (notă)]] ⚠️ annexes missing |
 
-Optional next: recover **535/2019** + **355/2021** methodology annexes, **537/2020** QoS annex, **422/2019**, **L282/2023** parent.
+## Batch 10 — energy PDF (2026-08-07d) ✅
+
+| Act | Note |
+|---|---|
+| [[Legea 241-2022 — Fond reducere vulnerabilitate energetica (text)]] | [[Legea 241-2022 — Fond reducere vulnerabilitate energetica (notă)]] |
+| [[Legea 255-2024 — modificare Legea 241-2022 Fond vulnerabilitate energetica (text)]] | [[Legea 255-2024 — modificare Legea 241-2022 Fond vulnerabilitate energetica (notă)]] |
+| [[HG 365-2024 — obligatie stocare gaze naturale (text)]] | [[HG 365-2024 — obligatie stocare gaze naturale (notă)]] |
+| [[HG 829-2024 — audit energetic intreprinderi mari (text)]] | [[HG 829-2024 — audit energetic intreprinderi mari (notă)]] |
+| [[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (text)]] | [[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (notă)]] |
+| [[HG 53-2025 — durabilitate biocarburanti emisii GES (text)]] | [[HG 53-2025 — durabilitate biocarburanti emisii GES (notă)]] |
+| [[HG 74-2025 — calcul consum energie regenerabila (text)]] | [[HG 74-2025 — calcul consum energie regenerabila (notă)]] ⚠️ annex missing |
+| [[HG 76-2025 — cotizatii organizatii internationale 2025 (text)]] | [[HG 76-2025 — cotizatii organizatii internationale 2025 (notă)]] ⚠️ peripheral |
+
+Optional next: **535/355/537** methodology annexes, **422/2019**, **HG 74/2025** annex, **L282/2023** parent.

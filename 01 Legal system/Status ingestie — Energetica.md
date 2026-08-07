@@ -172,7 +172,20 @@ Individual **tariff decisions and licences** were *not* ingested. ANRE issues th
 | [[HG 621-2024 — certificare performanta energetica cladiri (text)]] | `145173` | ✅ full (~76 pts) | Building EPC; L282/2023 parent not in vault |
 | [[HG 622-2024 — calificare evaluatori energetici (text)]] | `145229` | ✅ full (~59 pts) | Energy assessor register |
 | [[HG 364-2024 — modificare stocuri securitate gaze (text)]] | `143426` | ✅ full amend | Patches HG 668/2022 — 47.1 mcm stocks |
-| [[HG 677-2024 — plan sezon incalzire 2024-2025 (text)]] | `145465` | ⚠️ dispositif only | Annexes 1–2 missing; patches HG 365/2024 pt. 4 |
+| [[HG 677-2024 — plan sezon incalzire 2024-2025 (text)]] | `145465` | ⚠️ dispositif only | Annexes 1–2 missing; patches [[HG 365-2024 — obligatie stocare gaze naturale (text)|365/2024]] pt. 4 |
+
+## ✅ Ingested 2026-08-07d — energy PDF batch 4
+
+| Act | legis doc_id | Status | Notes |
+|---|---|---|---|
+| [[Legea 241-2022 — Fond reducere vulnerabilitate energetica (text)]] | `145809` | ✅ full | Energy vulnerability fund |
+| [[Legea 255-2024 — modificare Legea 241-2022 Fond vulnerabilitate energetica (text)]] | `145800` | ✅ full amend | Patches L241/2022 |
+| [[HG 365-2024 — obligatie stocare gaze naturale (text)]] | `145466` | ✅ full (~22 pts) | Energocom storage obligation; pt. 4 patched by [[HG 677-2024 — plan sezon incalzire 2024-2025 (text)|677/2024]] |
+| [[HG 829-2024 — audit energetic intreprinderi mari (text)]] | `146623` | ✅ full (~31 pts) | Large-enterprise audits under L139 |
+| [[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (text)]] | `146906` | ✅ full dispositif | PSO grid access for fixed-price eligible producers · L107/168 currency |
+| [[HG 53-2025 — durabilitate biocarburanti emisii GES (text)]] | `147068` | ✅ full | Biofuel sustainability + GHG methodology |
+| [[HG 74-2025 — calcul consum energie regenerabila (text)]] | `147296` | ⚠️ dispositif only | RES consumption reg. annex missing |
+| [[HG 76-2025 — cotizatii organizatii internationale 2025 (text)]] | `147150` | ⚠️ dispositif only | Budget/peripheral; list annex missing |
 
 ## Current priorities
 

@@ -166,5 +166,18 @@ updated: 2026-08-07
 | `143426` | [`143426-143426_d0f6.pdf`](143426-143426_d0f6.pdf) · [`143426.txt`](143426.txt) | `10 Legislation/Government Decisions/HG 364-2024 — modificare stocuri securitate gaze (text).md` |
 | `145465` | [`145465-145465_fdd5.pdf`](145465-145465_fdd5.pdf) · [`145465.txt`](145465.txt) | `10 Legislation/Government Decisions/HG 677-2024 — plan sezon incalzire 2024-2025 (text).md` *(dispositif only)* |
 
+## PDF batch 2026-08-07d — energy (batch 4)
+
+| doc_id | Raw file | Vault location |
+|---|---|---|
+| `145809` | [`145809-145809_e017.pdf`](145809-145809_e017.pdf) · [`145809.txt`](145809.txt) | `10 Legislation/Laws/Legea 241-2022 — Fond reducere vulnerabilitate energetica (text).md` |
+| `145800` | [`145800-145800_6bec.pdf`](145800-145800_6bec.pdf) · [`145800.txt`](145800.txt) | `10 Legislation/Laws/Legea 255-2024 — modificare Legea 241-2022 Fond vulnerabilitate energetica (text).md` |
+| `145466` | [`145466-145466_995c.pdf`](145466-145466_995c.pdf) · [`145466.txt`](145466.txt) | `10 Legislation/Government Decisions/HG 365-2024 — obligatie stocare gaze naturale (text).md` |
+| `146623` | [`146623-146623_0d0d.pdf`](146623-146623_0d0d.pdf) · [`146623.txt`](146623.txt) | `10 Legislation/Government Decisions/HG 829-2024 — audit energetic intreprinderi mari (text).md` |
+| `146906` | [`146906-146906_1935.pdf`](146906-146906_1935.pdf) · [`146906.txt`](146906.txt) | `10 Legislation/Government Decisions/HG 26-2025 — PSO acces retea producatori regenerabile pret fix (text).md` |
+| `147068` | [`147068-147068_ffdc.pdf`](147068-147068_ffdc.pdf) · [`147068.txt`](147068.txt) | `10 Legislation/Government Decisions/HG 53-2025 — durabilitate biocarburanti emisii GES (text).md` |
+| `147296` | [`147296-147296_a54f.pdf`](147296-147296_a54f.pdf) · [`147296.txt`](147296.txt) | `10 Legislation/Government Decisions/HG 74-2025 — calcul consum energie regenerabila (text).md` *(dispositif only)* |
+| `147150` | [`147150-147150_341b.pdf`](147150-147150_341b.pdf) · [`147150.txt`](147150.txt) | `10 Legislation/Government Decisions/HG 76-2025 — cotizatii organizatii internationale 2025 (text).md` *(peripheral)* |
+
 ## See also
 [[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]

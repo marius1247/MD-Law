@@ -1,0 +1,501 @@
+Republica Moldova
+
+GUVERNUL
+HOTĂRÂRE Nr. HG53/2025
+din 05.02.2025
+
+privind aprobarea Regulamentului
+cu privire la criteriile de durabilitate și de reducere
+a emisiilor de gaze cu efect de seră pentru biocarburanți,
+biolichide și combustibili din biomasă și a Metodologiei
+de calcul al impactului biocarburanților, biolichidelor și
+combustibililor din biomasă asupra emisiilor de gaze
+cu efect de seră
+Publicat : 11.02.2025 în MONITORUL OFICIAL Nr. 43-46 art. 68 Data intrării în vigoare
+
+UE
+
+În temeiul art. 10 lit. k2), art. 12 lit. a) și art. 33 alin. (2) din Legea nr.10/2016 privind
+promovarea utilizării energiei din surse regenerabile (Monitorul Oficial al Republicii
+Moldova, 2016, nr. 69-77, art. 117), cu modificările ulterioare, Guvernul HOTĂRĂŞTE:
+### Punctul 1. Se aprobă:
+1.1. Regulamentul cu privire la criteriile de durabilitate și de reducere a emisiilor de
+gaze cu efect de seră pentru biocarburanți, biolichide și combustibili din biomasă, conform
+anexei nr.1;
+1.2. Metodologia de calcul al impactului biocarburanților, biolichidelor și
+combustibililor din biomasă asupra emisiilor de gaze cu efect de seră, conform anexei nr.2.
+### Punctul 2. Începând cu data de 1 ianuarie 2026, reducerea emisiilor de gaze cu efect de seră
+generate de utilizarea combustibililor lichizi și gazoși de origine nebiologică, produși din
+surse regenerabile și utilizați în transporturi, va trebui să fie de cel puțin 70%.
+### Punctul 3. Se abrogă Hotărârea Guvernului nr.107/2019 cu privire la aprobarea Metodologiei
+de calcul al impactului biocarburanților și al biolichidelor asupra emisiilor de gaze cu efect
+de seră (Monitorul Oficial al Republicii Moldova, 2019, nr. 94-99, art. 189), cu modificările
+ulterioare.
+### Punctul 4. Controlul asupra executării prezentei hotărâri se pune în sarcina Ministerului
+Energiei și a Ministerului Mediului.
+### Punctul 5. Prezenta hotărâre intră în vigoare la expirarea termenului de 12 luni de la data
+
+
+publicării în Monitorul Oficial al Republicii Moldova.
+PRIM-MINISTRU Dorin RECEAN
+Contrasemnează:
+Ministrul interimar al energiei Dorin Recean
+Ministrul mediului Sergiu Lazarencu
+Nr. 53. Chişinău, 5 februarie 2025.
+Anexa nr. 1
+la Hotărârea Guvernului nr.53/2025
+
+REGULAMENT
+cu privire la criteriile de durabilitate și de reducere
+a emisiilor de gaze cu efect de seră pentru biocarburanți,
+biolichide și combustibili din biomasă
+Prezentul Regulament transpune:
+- art. 2, art. 25-30, Anexa III și Anexa IX din Directiva (UE) 2018/2001 a Parlamentului
+European și a Consiliului din 11 decembrie 2018 privind promovarea utilizării energiei din
+surse regenerabile, publicată în Jurnalul Oficial al Uniunii Europene L 328 din 21 decembrie
+2018 (CELEX: 32018L2001), în varianta adaptată și aprobată prin Decizia Consiliului
+ministerial al Comunității Energetice nr. 2021/14/MC-EnC;
+- Regulamentul delegat (UE) 2019/807 al Comisiei din 13 martie 2019 de completare a
+Directivei (UE) 2018/2001 a Parlamentului European și a Consiliului în ceea ce privește
+stabilirea materiilor prime care prezintă riscuri ridicate din perspectiva schimbării indirecte
+a destinației terenurilor, în cazul cărora se observă o expansiune semnificativă a suprafeței
+de producție în detrimentul terenurilor care stochează cantități ridicate de carbon și
+certificarea biocombustibililor, a biolichidelor și a combustibililor din biomasă care prezintă
+riscuri reduse din perspectiva schimbării indirecte a destinației terenurilor, publicat în
+Jurnalul Oficial al Uniunii Europene L 133 din 21 mai 2019 (CELEX: 32019R0807).
+I. DISPOZIȚII GENERALE
+### Punctul 1. Regulamentul cu privire la criteriile de durabilitate și de reducere a emisiilor de
+gaze cu efect de seră pentru biocarburanți, biolichide și combustibili din biomasă (în
+continuare – Regulament) stabilește normele referitoare la criteriile de durabilitate și la
+
+
+reducerea emisiilor de gaze cu efect de seră asociate producției și utilizării biocarburanților,
+biolichidelor și combustibililor din biomasă.
+### Punctul 2. În sensul prezentului Regulament se utilizează noțiunile definite în Legea
+nr.10/2016 privind promovarea utilizării energiei din surse regenerabile, precum și
+următoarele noțiuni:
+2.1. biomasă agricolă – biomasă obținută din agricultură;
+2.2. biomasă forestieră – biomasă obținută din silvicultură;
+2.3. biocarburanți avansați – biocarburanți care sunt produși din materiile prime
+enumerate în secțiunea 1 din anexa nr. 2 la prezentul Regulament;
+2.4. biocarburanți, biolichide și combustibili din biomasă care prezintă riscuri reduse
+din perspectiva schimbării indirecte a destinației terenurilor – biocarburanți, biolichide și
+combustibili din biomasă ale căror materii prime au fost produse în cadrul unor sisteme
+care evită efectele de dislocare ale biocarburanților, biolichidelor și combustibililor din
+biomasă produși din culturi alimentare și furajere, datorită unor practici agricole
+îmbunătățite, precum și datorită cultivării unor culturi în zone care nu se utilizau anterior în
+acest scop, și care au fost produse în conformitate cu criteriile de durabilitate pentru
+biocarburanți, biolichide și combustibili din biomasă stabilite în secțiunea 1 din capitolul III;
+2.5. combustibili pe bază de carbon reciclat – combustibili lichizi și gazoși care sunt
+produși din fluxuri de deșeuri lichide sau solide de origine neregenerabilă care nu pot face
+obiectul unor operațiuni de valorificare materială sau din gazul de proces și gazul de
+evacuare reziduale de origine neregenerabilă produse ca o consecință inevitabilă și
+neintenționată a proceselor de producție din instalațiile industriale;
+2.6. culturi bogate în amidon – culturi care cuprind în special cereale, indiferent dacă
+se utilizează doar semințele sau întreaga plantă, ca în cazul porumbului verde, al
+tuberculilor și al rădăcinoaselor, cum ar fi cartofi, topinambur, batate, cassava și igname,
+precum și culturi de bulbo-tuberculi, ca de exemplu, taro și taro polinezian;
+2.7. combustibili lichizi și gazoși de origine nebiologică produși din surse regenerabile
+și utilizați în transporturi – combustibili lichizi sau gazoși utilizați în sectorul transporturilor,
+alții decât biocarburanții și biogazul, al căror conținut energetic provine din surse
+regenerabile, altele decât biomasa;
+2.8. furnizor de combustibil – entitate care furnizează combustibil pe piață și care este
+responsabilă pentru trecerea combustibilului printr-un punct de control al produselor
+supuse accizelor sau dacă nu trebuie plătite accize ori dacă este justificat în mod
+corespunzător, orice altă entitate relevantă, inclusiv importatorul de produse petroliere
+principale și producătorul de biocarburant și producătorul de biocombustibil;
+2.9. materiale ligno-celulozice – materiale compuse din lignină, celuloză și
+hemiceluloză, precum biomasa obținută din păduri, culturile lemnoase energetice și
+reziduurile și deșeurile din industria de prelucrare a lemnului;
+
+
+2.10. materiale celulozice de origine nealimentară – materii prime compuse mai ales
+din celuloză și hemiceluloză și care au un conținut de lignină mai scăzut decât materialele
+ligno-celulozice; inclusiv reziduurile de culturi alimentare și furajere, precum paiele,
+tulpinile de porumb, pleava și cojile; culturile ierboase energetice cu conținut scăzut de
+amidon, precum raigras, panicum virgatum, miscanthus, trestia-de-zahăr gigant; culturi
+alternative și culturi de protecție anterioare și ulterioare culturilor principale, precum
+pășuni temporare, însămânțate pentru perioade de scurtă durată și pe care crește un
+amestec de ierburi și leguminoase cu conținut scăzut de amidon, în scopul obținerii furajelor
+pentru animale și al îmbunătățirii fertilității solului, astfel încât să crească productivitatea
+principalelor culturi arabile; reziduuri industriale, inclusiv cele provenite din culturi
+alimentare și furajere după ce s-au extras uleiuri vegetale, zaharuri, amidonuri și proteine,
+și materiale provenite din biodeșeuri;
+2.11. reziduu – substanță care nu reprezintă produsul sau produsele finite vizate
+direct de un proces de producție, acesta nu constituie un obiectiv principal al procesului de
+producție, iar procesul nu se modifică în mod intenționat pentru a-l produce;
+2.12. regenerare forestieră – restabilire a unui arboret prin mijloace naturale sau
+artificiale în urma îndepărtării arboretului anterior prin tăiere sau din cauze naturale,
+inclusiv incendiu sau furtună;
+2.13. reziduuri agricole din acvacultură, pescuit și silvicultură – reziduuri care sunt
+generate în mod direct din agricultură, acvacultură, pescuit și silvicultură, această categorie
+de reziduuri nu include reziduurile din industriile sau prelucrarea conexe;
+2.14. valoare efectivă – reducerile emisiilor de gaze cu efect de seră pentru unele sau
+pentru toate etapele unui proces specific de producție a biocombustibililor, a biolichidelor
+sau a combustibililor din biomasă, calculate în conformitate cu Metodologia de calcul al
+impactului biocarburanților, biolichidelor și combustibililor din biomasă asupra emisiilor de
+gaze cu efect de seră;
+2.15. zonă de aprovizionare – zonă geografică determinată din care provin materiile
+prime de biomasă forestieră, din care sunt disponibile informații fiabile și independente și în
+care condițiile sunt suficient de omogene pentru a se realiza o evaluare a riscului în materie
+de durabilitate și de legalitate aferent biomasei forestiere.
+II. ENERGIA REGENERABILĂ
+ÎN DOMENIUL TRANSPORTURILOR
+Secțiunea 1
+Integrarea energiei regenerabile în sectorul
+transporturilor
+### Punctul 3. Pentru calculul ponderii minime a energiei din surse regenerabile în consumul final
+de energie în sectorul transporturilor prevăzută în Planul național integrat privind energia
+și clima se va ține cont de:
+
+
+3.1. combustibilii lichizi și gazoși de origine nebiologică produși din surse
+regenerabile și utilizați în transporturi atunci când aceștia sunt utilizați drept produs
+intermediar pentru producerea de combustibili convenționali;
+3.2. combustibilii pe bază de carbon reciclat, după caz.
+Secțiunea a 2-a
+Norme specifice pentru biocarburanți, biolichide
+și combustibili din biomasă produși din culturi
+alimentare și furajere
+### Punctul 4. Pentru calcularea consumului final brut de energie din surse regenerabile și a
+ponderii minime prevăzute la pct.3, ponderea biocarburanților și a biolichidelor, precum și a
+combustibililor din biomasă consumați în transporturi, dacă sunt produși din culturi
+alimentare și furajere, nu depășește cu mai mult de 1% ponderea acestor combustibili în
+consumul final de energie în sectorul transporturilor rutiere și sectorul transporturilor
+feroviare, respectiv până la maximum 2% din consumul final de energie în sectorul
+transporturilor rutiere și sectorul transporturilor feroviare.
+### Punctul 5. Pentru calcularea consumului final brut de energie din surse regenerabile și a
+ponderii minime prevăzute la punctul 3, ponderea biocarburanților, a biolichidelor sau a
+combustibililor din biomasă, produși din culturi alimentare și furajere, care prezintă riscuri
+ridicate din perspectiva schimbării indirecte a destinației terenurilor și pentru care se
+constată o expansiune semnificativă a suprafeței de producție în detrimentul terenurilor
+care stochează cantități ridicate de carbon, nu trebuie să depășească nivelul consumului
+acestor tipuri de combustibili înregistrat în anul 2019. Această limitare nu se aplică în cazul
+în care biocarburanții, biolichidele sau combustibilii din biomasă sunt certificați ca având
+riscuri reduse din perspectiva schimbării indirecte a destinației terenurilor, în conformitate
+cu prevederile prezentului punct. Criteriile pentru identificarea materiilor prime care
+prezintă riscuri ridicate din perspectiva schimbării indirecte a destinației terenurilor, pentru
+care se observă o expansiune semnificativă a suprafețelor de producție în detrimentul
+terenurilor care stochează cantități ridicate de carbon, precum și pentru certificarea
+biocarburanților, a biolichidelor și a combustibililor din biomasă cu riscuri reduse, sunt
+prevăzute în anexa nr.3 la prezentul Regulament.
+Secțiunea a 3-a
+Alte prevederi privind energia regenerabilă
+în sectorul transporturilor
+### Punctul 6. În vederea reducerii la minimum a riscului ca loturile unice să fie revendicate mai
+mult de o singură dată, Centrul Național pentru Energie Durabilă și Secretariatul
+Comunității Energetice consolidează cooperarea dintre sistemele naționale și factorii
+voluntari de verificare stabiliți în temeiul secțiunii a 2-a din capitolul III, inclusiv, dacă este
+cazul, schimbul de date. În cazul în care Centrul Național pentru Energie Durabilă va
+
+
+suspecta că s-a comis o fraudă sau va depista o astfel de fraudă, acesta informează, după
+caz, Secretariatul Comunității Energetice.
+### Punctul 7. Pentru a permite urmărirea combustibililor lichizi și gazoși utilizați în transporturi,
+ce sunt eligibili pentru a fi luați în considerare la calculul cantității de energie din surse
+regenerabile consumată în sectorul transporturilor sau ce sunt luați în considerare în
+scopurile prevăzute la pct. 15, furnizorii de combustibili raportează Centrului Național
+pentru Energie Durabilă și Agenției de Mediu informațiile privind tranzacțiile realizate și
+caracteristicile de durabilitate ale combustibililor respectivi, inclusiv emisiile lor de gaze cu
+efect de seră generate pe durata ciclului de viață, începând de la punctul lor de producție și
+până la furnizorul de combustibili care introduce combustibilul pe piață.
+### Punctul 8. Colectarea și stocarea informațiilor privind tranzacțiile realizate și caracteristicile
+de durabilitate ale combustibililor, inclusiv emisiile lor de gaze cu efect de seră generate pe
+durata ciclului de viață, va fi asigurată de către Centrul Național pentru Energie Durabilă,
+care le va transmite spre informare Comunității Energetice.
+### Punctul 9. Furnizorii de combustibili vor transmite Centrului Național pentru Energie
+Durabilă informațiile necesare pentru verificarea respectării cerințelor stabilite calculului
+ponderii minime a energiei din surse regenerabile în consumul final de energie în sectorul
+transporturilor.
+III. CRITERIILE DE DURABILITATE
+Secțiunea 1
+Criteriile de durabilitate și de reducere a emisiilor
+de gaze cu efect de seră pentru biocarburanți,
+biolichide și combustibili din biomasă
+### Punctul 10. Energia produsă din biocarburanți, biolichide și combustibili din biomasă va fi
+luată în considerare pentru îndeplinirea următoarelor scopuri, cu condiția respectării
+criteriilor de durabilitate și a cerințelor privind reducerea emisiilor de gaze cu efect de seră:
+10.1. contribuția la realizarea ponderii de energie din surse regenerabile a Republicii
+Moldova, conform obiectivelor stabilite în Planul național integrat privind energia și clima
+pentru perioada 2025-2030;
+10.2. măsurarea respectării obligațiilor referitoare la energia din surse regenerabile
+stabilite în secțiunea 1 din capitolul II;
+10.3. eligibilitatea privind sprijinul financiar pentru consumul de biocarburanți,
+biolichide și combustibili din biomasă.
+### Punctul 11. Biocarburanții, biolichidele și combustibilii din biomasă produși din deșeuri și din
+reziduuri, altele decât reziduurile din agricultură, acvacultură, pescuit, silvicultură,
+deșeurile și reziduurile care sunt prelucrate inițial într-un produs înainte de a fi prelucrate
+ulterior în biocarburanți, biolichide și combustibili din biomasă, trebuie să îndeplinească
+
+
+numai criteriile de reducere a emisiilor de gaze cu efect de seră pentru a fi luate în
+considerare în scopurile prevăzute la pct.10.
+### Punctul 12. Energia produsă din deșeurile municipale solide nu face obiectul criteriilor de
+reducere a emisiilor de gaze cu efect de seră.
+### Punctul 13. Combustibilii din biomasă îndeplinesc criteriile de durabilitate și de reducere a
+emisiilor de gaze cu efect de seră dacă sunt folosiți în instalații care produc energie
+electrică, încălzire și răcire sau combustibili cu o putere termică instalată totală mai mare
+sau egală cu 20 MW, în cazul combustibililor din biomasă solizi, și cu o putere termică
+instalată totală mai mare sau egală cu 2 MW, în cazul combustibililor din biomasă gazoși.
+### Punctul 14. Criteriile de durabilitate și de reducere a emisiilor de gaze cu efect de seră se
+aplică indiferent de originea geografică a biomasei.
+### Punctul 15. Biocarburanții, biolichidele și combustibilii din biomasă produși din deșeuri și din
+reziduuri neforestiere provenind de pe terenuri agricole sunt luați în considerare în
+scopurile prevăzute la pct.10, numai în cazul în care sunt valabile programele de
+îmbunătățiri funciare în scopul asigurării managementului durabil al resurselor de sol.
+Informațiile referitoare la modul în care impacturile sunt monitorizate și gestionate se
+raportează Agenției de Mediu.
+### Punctul 16. Biocarburanții, biolichidele și combustibilii din biomasă produși din biomasă
+agricolă care sunt luați în considerare în scopurile prevăzute la pct.10 nu se obțin din
+materii prime ce provin de pe terenuri bogate în biodiversitate, și anume de pe terenuri
+care, în ianuarie 2008 sau după această dată, dețineau unul dintre următoarele statute,
+indiferent dacă terenul mai deține acest statut sau nu:
+16.1. păduri primare și alte terenuri împădurite, și anume pădurile și alte terenuri
+împădurite cu specii indigene, în care nu există indicii vizibile clare ale activității umane, iar
+procesele ecologice nu sunt afectate în mod semnificativ;
+16.2. păduri foarte bogate în biodiversitate și alte terenuri împădurite care conțin o
+mare diversitate de specii și sunt nedegradate sau care au fost identificate de către Agenția
+de Mediu ca fiind bogate în biodiversitate;
+16.3. zone desemnate ca fiind protejate în conformitate cu prevederile Legii
+nr.1538/1998 privind fondul ariilor naturale protejate de stat, cu excepția cazurilor în care
+se furnizează dovezi că producția materiei prime nu a adus atingere obiectivelor de
+protecție respective;
+16.4. pășuni foarte bogate în biodiversitate cu suprafața mai mare de un hectar,
+precum:
+16.4.1. pășuni naturale, și anume pășuni care ar continua să fie pășuni în lipsa
+intervenției omului și care mențin configurația naturală de specii, precum și caracteristicile
+și procesele ecologice; sau
+16.4.2. pășuni care nu sunt naturale, și anume pășuni care ar înceta să fie pășuni în
+
+
+lipsa intervenției omului și care conțin o mare diversitate de specii și sunt nedegradate și
+care au fost identificate de către Agenția de Mediu ca fiind foarte bogate în biodiversitate,
+exceptând cazul în care se furnizează dovezi că recoltarea materiei prime este necesară
+pentru menținerea statutului lor de pășuni foarte bogate în biodiversitate.
+### Punctul 17. Biocarburanții, biolichidele și combustibilii din biomasă agricolă care sunt luați în
+considerare în scopurile menționate la pct.10 nu se obțin din materii prime ce provin de pe
+terenuri cu stocuri mari de carbon, și anume de pe terenuri care în ianuarie 2008 aveau
+unul dintre următoarele statute și care nu mai dețin acest statut:
+17.1. zone umede, și anume terenuri acoperite sau saturate cu apă în mod permanent
+sau o perioadă semnificativă din an;
+17.2. suprafețe dens împădurite, și anume terenuri care acoperă mai mult de un
+hectar, cu copaci mai înalți de cinci metri și un coronament de peste 30% sau cu copaci care
+pot atinge aceste praguri în locul de origine;
+17.3. terenuri cu suprafețe mai mari de un hectar, cu copaci mai înalți de cinci metri
+și un coronament între 10% și 30% sau cu copaci care pot atinge aceste praguri în locul de
+origine, cu excepția cazului în care se furnizează dovezi că stocul de carbon al zonei, înainte
+și după transformare, ar permite îndeplinirea condițiilor prevăzute la pct. 22, la aplicarea
+secțiunii a 3-a din capitolului II din Metodologia de calcul al impactului biocarburanților,
+biolichidelor și combustibililor din biomasă asupra emisiilor de gaze cu efect de seră.
+### Punctul 18. Prevederile pct.17 nu se aplică în cazul în care la data obținerii materiei prime
+terenul deținea același statut ca în ianuarie 2008.
+### Punctul 19. Biocarburanții, biolichidele și combustibilii din biomasă produși din biomasă
+agricolă care sunt luați în considerare în scopurile prevăzute la pct.10 nu se obțin din
+materii prime ce provin de pe terenuri care în ianuarie 2008 erau turbării, cu excepția
+cazului în care se furnizează dovezi potrivit cărora cultivarea și recoltarea materiilor prime
+respective nu implică asanarea unor porțiuni de sol care nu erau asanate anterior.
+### Punctul 20.
+Pentru a reduce la minimum riscul de a utiliza biomasă forestieră obținută printrun proces de producție nedurabil, biocarburanții, biolichidele și combustibilii din biomasă
+produși din biomasă forestieră care sunt luați în considerare în scopurile prevăzute la pct.10
+îndeplinesc următoarele criterii:
+20.1. țara în care a fost recoltată biomasa forestieră dispune de legislație națională
+primară sau secundară aplicabilă în domeniul recoltării, precum și de sisteme de
+monitorizare și de asigurare a respectării legislației, care asigură:
+20.1.1. legalitatea operațiunilor de recoltare;
+20.1.2. regenerarea forestieră a suprafețelor recoltate;
+20.1.3. protejarea zonelor desemnate prin dreptul internațional sau intern sau de
+către Agenția de Mediu ca zone protejate în scopuri de protecție a naturii, inclusiv în zone
+umede și turbării;
+
+
+20.1.4. că recoltarea se desfășoară ținându-se cont de menținerea calității solului și a
+biodiversității în scopul reducerii la minimum a efectelor negative; și
+20.1.5. că recoltarea menține sau îmbunătățește capacitatea de producție pe termen
+lung a pădurii;
+20.2. atunci când dovezile prevăzute la subpct.20.1 nu sunt disponibile,
+biocarburanții, biolichidele și combustibilii din biomasă produși din biomasă forestieră sunt
+luați în considerare în scopurile prevăzute la pct.10, dacă la nivel de zonă de aprovizionare
+forestieră sunt instituite sisteme de management care asigură:
+20.2.1. legalitatea operațiunilor de recoltare;
+20.2.2. regenerarea forestieră a suprafețelor recoltate;
+20.2.3. protejarea zonelor desemnate prin dreptul internațional sau intern sau de
+către Agenția de Mediu ca zone protejate în scopuri de protecție a naturii, inclusiv în zone
+umede și turbării, cu excepția cazului în care se furnizează dovezi potrivit cărora recoltarea
+materiilor prime respective nu aduce atingere acestor scopuri de protecție a naturii;
+20.2.4. că recoltarea se desfășoară ținându-se cont de menținerea calității solului și a
+biodiversității în scopul minimizării efectelor negative; și
+20.2.5. că recoltarea menține sau îmbunătățește capacitatea de producție pe termen
+lung a pădurii.
+### Punctul 21. Biocarburanții, biolichidele și combustibilii din biomasă produși din biomasă
+forestieră luați în considerare în scopurile prevăzute la pct.10 îndeplinesc următoarele
+criterii referitoare la exploatarea terenurilor, schimbarea destinației terenurilor și
+silvicultură (în continuare – LULUCF):
+21.1. țara sau organizația regională de integrare economică din care provine biomasa
+forestieră este parte a Acordului de la Paris și:
+21.1.1. a transmis o contribuție stabilită la nivel național (în continuare – CSN) către
+Convenția-cadru a Națiunilor Unite privind schimbările climatice (CONUSC), care acoperă
+emisiile și absorbțiile din agricultură, din silvicultură și din exploatarea terenurilor și
+asigură faptul că modificările stocului de carbon asociate recoltării biomasei sunt
+contabilizate pentru angajamentul țării de a reduce sau de a limita emisiile de gaze cu efect
+de seră specificat în CSN; sau
+21.1.2. este adoptată legislație primară sau secundară în conformitate cu art.5 din
+Acordul de la Paris, care este aplicabilă în domeniul recoltării, pentru a conserva și a
+consolida stocurile și absorbanții de carbon, și se furnizează dovezi ale faptului că emisiile
+raportate ale sectorului LULUCF nu depășesc absorbțiile;
+21.2. atunci când dovezile prevăzute la subpct.21.1 nu sunt disponibile,
+biocarburanții, biolichidele și combustibilii din biomasă produși din biomasă forestieră sunt
+luați în considerare în scopurile prevăzute la pct. 10, dacă la nivel de zonă de aprovizionare
+
+
+forestieră sunt instituite sisteme de management care să asigure faptul că nivelurile
+stocurilor și ale absorbanților de carbon din pădure sunt menținute sau consolidate pe
+termen lung.
+### Punctul 22. Reducerile emisiilor de gaze cu efect de seră care rezultă din utilizarea
+biocarburanților, a biolichidelor și a combustibililor din biomasă care sunt luate în
+considerare în scopurile prevăzute la pct.10 sunt:
+22.1. de cel puțin 50% pentru biocarburanții, biogazul consumat în sectorul
+transporturilor și biolichidele produse în instalații care erau operaționale la data de
+referință 5 octombrie 2015 sau înainte de această dată;
+22.2. de cel puțin 60% pentru biocarburanții, biogazul consumat în sectorul
+transporturilor și biolichidele produse în instalații care erau operaționale în perioada de
+referință 6 octombrie 2015-31 decembrie 2020;
+22.3. de cel puțin 65% pentru biocarburanții, biogazul consumat în sectorul
+transporturilor și biolichidele produse în instalații care au fost puse în funcțiune ulterior
+datei de 1 ianuarie 2023;
+22.4. de cel puțin 70% pentru producția de energie electrică și de încălzire și răcire
+pe bază de combustibili din biomasă utilizați în instalații care au devenit operaționale în
+perioada de referință 1 ianuarie 2023-31 decembrie 2027, și de 80% în cazul instalațiilor
+care intră în funcțiune începând cu data de 1 ianuarie 2028.
+### Punctul 23. Instalațiile prevăzute la pct.22 se consideră a fi puse în funcțiune odată ce a fost
+începută producția fizică de biocarburanți, de biogaz consumat în sectorul transporturilor și
+de biolichide și producția fizică de încălzire și răcire și de energie electrică pe bază de
+combustibili din biomasă.
+### Punctul 24. Reducerile emisiilor de gaze cu efect de seră care rezultă din utilizarea
+biocarburanților, a biogazului consumat în sectorul transporturilor și a biolichidelor și a
+combustibililor din biomasă utilizați în instalații de producere a încălzirii, a răcirii și a
+energiei electrice se calculează în conformitate cu Metodologia de calcul al impactului
+biocarburanților, biolichidelor și combustibililor din biomasă asupra emisiilor de gaze cu
+efect de seră.
+### Punctul 25. Energia electrică pe bază de combustibili din biomasă se ia în considerare în
+scopurile prevăzute la pct.10, numai dacă îndeplinește una sau mai multe dintre
+următoarele cerințe:
+25.1. este produsă în instalații cu o putere termică instalată totală mai mică de 50
+MW;
+25.2. pentru instalațiile cu o putere termică instalată totală între 50 MW și 100 MW,
+este produsă aplicând tehnologia de cogenerare de înaltă eficiență sau, pentru instalațiile
+care generează exclusiv energie electrică, respectând nivelurile de eficiență electrică
+asociate celor mai bune tehnici disponibile (BAT-AEEL), astfel cum vor fi definite de către
+organul central de specialitate al administrației publice pentru resurse naturale și mediu;
+
+
+25.3. pentru instalațiile cu o putere termică instalată totală de peste 100 MW, este
+produsă aplicând tehnologia de cogenerare de înaltă eficiență sau pentru instalațiile care
+generează exclusiv energie electrică, obținând un randament electric net de cel puțin 36%;
+25.4. este produsă aplicând captarea și stocarea CO2 provenit din biomasă.
+### Punctul 26. În scopurile prevăzute la pct.10, instalațiile care generează exclusiv energie
+electrică se iau în considerare numai dacă nu utilizează combustibili fosili ca principal
+combustibil și numai dacă nu există un potențial de rentabilitate pentru aplicarea
+tehnologiei de cogenerare de înaltă eficiență potrivit evaluării realizate în conformitate cu
+art. 24 din Legea nr.139/2018 cu privire la eficiența energetică.
+### Punctul 27. În scopurile prevăzute la subpct.10.1 și 10.2, se ia în calcul energia electrică
+generată de către instalațiile care au intrat în funcțiune sau sunt convertite la utilizarea
+combustibililor din biomasă după 25 decembrie 2024.
+### Punctul 28. În scopurile prevăzute la pct.10 și fără a aduce atingere prevederilor secțiunilor 1
+și 2 din capitolul II, pot fi luați în considerare, din alte motive de durabilitate, biocarburanții
+și biolichidele obținuți cu respectarea prevederilor prezentului capitol.
+Secțiunea a 2-a
+Verificarea conformității biocarburanților,
+a biolichidelor și a combustibililor din biomasă
+cu criteriile de durabilitate și de reducere a
+emisiilor de gaze cu efect de seră
+### Punctul 29. În cazul în care biocarburanții, biolichidele și combustibilii din biomasă sau alți
+combustibili care sunt eligibili pentru fi luați în considerare în scopurile prevăzute la
+secțiunea 1 din capitolul II și la pct.10, furnizorii de combustibili trebuie să demonstreze că
+au fost îndeplinite criteriile de durabilitate și de reducere a emisiilor de gaze cu efect de
+seră. În acest sens, furnizorii de combustibili trebuie să utilizeze un sistem de echilibrare a
+masei care:
+29.1. permite ca loturile de materii prime sau de combustibili cu caracteristici diferite
+de durabilitate și de reducere a emisiilor de gaze cu efect de seră să fie amestecate, de
+exemplu, într-un recipient, într-o instalație de prelucrare sau logistică, într-o infrastructură
+de transport și de distribuție sau într-un amplasament de acest gen;
+29.2. permite ca loturile de materii prime cu conținut energetic diferit să fie
+amestecate în scopul prelucrării ulterioare cu condiția ca dimensiunea loturilor să fie
+ajustată în funcție de conținutul lor energetic;
+29.3. impune ca informațiile cu privire la caracteristicile de durabilitate și de
+reducere a emisiilor de gaze cu efect de seră, precum și la dimensiunea loturilor prevăzute
+la subpct. 29.1 să rămână asociate amestecului;
+
+
+29.4. prevede ca suma tuturor loturilor retrase din amestec să fie descrisă ca având
+aceleași caracteristici de durabilitate, în aceleași cantități ca suma tuturor loturilor
+adăugate la amestec și impune ca acest echilibru să fie atins pe o perioadă adecvată;
+29.5. se asigură că fiecare lot este contabilizat o singură dată în consumul final brut
+de energie electrică din surse regenerabile sau, după caz, în consumul final brut de energie
+din surse regenerabile în sectorul de încălzire și de răcire, sau în consumul final de energie
+din surse regenerabile în sectorul transporturilor; și
+29.6. furnizează informații cu privire la faptul dacă a beneficiat de sprijin pentru
+producerea respectivelor loturi.
+### Punctul 30. Sistemul de echilibrare a masei asigură faptul că fiecare lot este luat în
+considerare o singură dată în scopul calculării consumului final brut de energie din surse
+regenerabile și include informații din care să reiasă dacă producerea lotului respectiv a
+beneficiat de sprijin și, în caz afirmativ, care este tipul schemei de sprijin.
+### Punctul 31. Atunci când un lot este prelucrat, informațiile referitoare la caracteristicile de
+durabilitate și de reducere a emisiilor de gaze cu efect de seră ale lotului se ajustează și se
+alocă rezultatelor producției în conformitate cu următoarele reguli:
+31.1. în cazul în care prelucrarea unui lot de materii prime duce la obținerea unui
+singur rezultat al producției care este destinat producerii de biocarburanți, de biolichide sau
+de combustibili din biomasă, de combustibili lichizi și gazoși de origine nebiologică produși
+din surse regenerabile și utilizați în transporturi sau de combustibili pe bază de carbon
+reciclat, dimensiunea lotului și cantitățile aferente ale caracteristicilor de durabilitate și de
+reducere a emisiilor de gaze cu efect de seră sunt ajustate prin aplicarea unui factor de
+conversie care reprezintă raportul dintre masa rezultatului producției care este destinat
+unei astfel de produceri și masa de materii prime care intră în proces;
+31.2. în cazul în care prelucrarea unui lot de materii prime duce la obținerea mai
+multor rezultate ale producției care sunt destinate producerii de biocarburanți, de biolichide
+sau de combustibili din biomasă, de combustibili lichizi și gazoși de origine nebiologică
+produși din surse regenerabile și utilizați în transporturi sau de combustibili pe bază de
+carbon reciclat, pentru fiecare rezultat al producției în parte se aplică un factor de
+conversie separat și se folosește un bilanț masic separat.
+### Punctul 32. Furnizorii de combustibili au obligația de a asigura:
+32.1. prezentarea anuală, pe adresa Centrului Național pentru Energie Durabilă și a
+Agenției de Mediu, a informațiilor cu privire la respectarea criteriilor de durabilitate și de
+reducere a emisiilor de gaze cu efect de seră și punerea la dispoziția acestor instituții a
+datelor relevante care au fost utilizate pentru pregătirea acestor informații, până la data de
+31 ianuarie a anului următor;
+32.2. organizarea evaluărilor anuale independente a informațiilor transmise conform
+subpct.32.1 și furnizarea dovezilor că evaluarea este efectuată în termenele stabilite în
+prezentul Regulament. Evaluarea independentă verifică dacă sistemele utilizate de către
+furnizorii de combustibili sunt precise, fiabile și protejate împotriva fraudelor, incluzând
+
+
+verificarea în scopul garantării faptului că materialele nu sunt modificate sau eliminate în
+mod intenționat, astfel încât lotul sau o parte a acestuia să poată deveni deșeu sau reziduu.
+Atunci când se efectuează o evaluare independentă, se estimează frecvența de eșantionare,
+metodologia și fiabilitatea datelor.
+### Punctul 33. Informațiile aferente implementării obligației de utilizare a unui sistem de
+echilibrare a masei și prezentate într-o formă standardizată Agenției de Mediu, conform
+obligațiilor furnizorilor de combustibili, includ date adecvate și relevante aferente
+biocarburanților, biolichidelor și combustibililor din biomasă cu privire la măsurile luate
+pentru protecția solului, a apei și a aerului, pentru restabilirea solului degradat și pentru
+evitarea consumul excesiv de apă în zonele sărace în resurse de apă.
+### Punctul 34. Obligațiile prevăzute de prezenta secțiune se aplică indiferent dacă
+biocarburanții, biolichidele, combustibilii din biomasă, combustibilii lichizi și gazoși de
+origine nebiologică produși din surse regenerabile și utilizați în transporturi sau
+combustibilii pe bază de carbon reciclat sunt produși în interiorul Comunității Energetice
+sau importați.
+### Punctul 35. Agenția de Mediu verifică dacă materiile prime și/sau biocarburanții, biolichidele
+și combustibilii din biomasă respectă criteriile de durabilitate și de reducere a emisiilor de
+gaze cu efect de seră prin obținerea de către furnizorii de combustibili a certificatelor din
+schemele voluntare naționale sau internaționale aprobate sau recunoscute de Guvern.
+### Punctul 36. Furnizorii de combustibili vor pune la dispoziția Centrului Național pentru
+Energie Durabilă informațiile cu privire la originea geografică și tipul de materii prime ale
+biocarburanților, ale biolichidelor și ale combustibililor din biomasă. Centrul Național
+pentru Energie Durabilă publică și actualizează anual aceste date din anul anterior de
+gestiune, până la data de 31 martie.
+### Punctul 37. Organul central de specialitate al administraţiei publice pentru resurse naturale și
+mediu prezintă Secretariatului Comunității Energetice informațiile prevăzute la pct. 31, în
+formă agregată.
+anexa nr. 1
+anexa nr. 2
+anexa nr. 3
+anexa nr.2

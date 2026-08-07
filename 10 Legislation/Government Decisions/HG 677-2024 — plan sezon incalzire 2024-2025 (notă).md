@@ -16,7 +16,7 @@ text_complet: false
 
 # HG nr. 677/2024 — heating season 2024–2025 preparedness — Analysis
 
-**Raw text:** [[HG 677-2024 — plan sezon incalzire 2024-2025 (text)]] ⚠️ *dispositif only — annexes missing* · **Hub:** [[MOC — Energetică]] · **Stock patch:** [[HG 364-2024 — modificare stocuri securitate gaze (notă)|364/2024]] · **Crisis:** [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)|L101/2026]]
+**Raw text:** [[HG 677-2024 — plan sezon incalzire 2024-2025 (text)]] ⚠️ *dispositif only — annexes missing* · **Hub:** [[MOC — Energetică]] · **Storage:** [[HG 365-2024 — obligatie stocare gaze naturale (notă)|365/2024]] *(pt. 4 patched)* · [[HG 364-2024 — modificare stocuri securitate gaze (notă)|364/2024]] · **Crisis:** [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)|L101/2026]]
 
 > [!abstract] Executive summary
 > **Core purpose:** Creates **inter-ministerial coordination commission** for 2024–2025 heating season and crisis mitigation; approves **Action plan** (Annex 2). Also **replaces pt. 4 of HG 365/2024** with Energocom obligation to store **50 mcm** in EnC/EU storage facilities.

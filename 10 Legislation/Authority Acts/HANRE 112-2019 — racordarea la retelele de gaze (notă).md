@@ -16,7 +16,7 @@ last_amended: '2026-08-06'
 
 # HANRE nr. 112/2019 — racordarea la rețelele de gaze naturale — Analysis
 
-**Raw text:** [[HANRE 112-2019 — racordarea la retelele de gaze (text)]] ✅ *complete* · **Gas law:** [[Legea 108-2016 — gazele naturale (notă)]] · **Network code:** [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)]] · **Supply:** [[HANRE 113-2019 — furnizarea gazelor naturale (notă)]] · **Concept:** [[Concept — Racordare la rețea]] · **Regulator:** [[ANRE]]
+**Raw text:** [[HANRE 112-2019 — racordarea la retelele de gaze (text)]] ✅ *complete + Anexa 5³ CTP noncasnic* · **Gas law:** [[Legea 108-2016 — gazele naturale (notă)]] · **Network code:** [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)]] · **Supply:** [[HANRE 113-2019 — furnizarea gazelor naturale (notă)]] · **QoS:** [[HANRE 422-2019 — calitate servicii transport distributie gaze (notă)|422/2019]] · **Concept:** [[Concept — Racordare la rețea]] · [[Concept — Consum tehnologic gaze]] · **Regulator:** [[ANRE]]
 
 > [!note] Current gas connection layer
 > Unlike [[HANRE 168-2019 — racordarea la retelele electrice (notă)]] (abrogated by 311/2026), this regulation remains live under L108. Consolidation records [[HANRE 328-2025 — modificare Codul retelelor de gaze naturale (notă)|HANRE 328/2025]] amendments (e.g. permit deadline **15 calendar → 10 working days**; OSD advance-payment tools vs risky suppliers).

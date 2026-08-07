@@ -204,3 +204,14 @@ updated: 2026-08-07
 | [`upload-hanre-355-2021-metodologie.md`](upload-hanre-355-2021-metodologie.md) | `10 Legislation/Authority Acts/HANRE 355-2021 — preturi reglementate furnizare gaze (text).md` |
 | [`upload-hanre-443-2020-metodologie.md`](upload-hanre-443-2020-metodologie.md) | `10 Legislation/Authority Acts/HANRE 443-2020 — Metodologie tarife distributie gaze (text).md` |
 | [`upload-hg-197-2025-metodologie.md`](upload-hg-197-2025-metodologie.md) | `10 Legislation/Government Decisions/HG 197-2025 — metodologie cogenerare inalta eficienta (text).md` |
+
+## Batch 2026-08-07g
+
+| Raw file | Vault location |
+|---|---|
+| [`upload-hanre-423-2019-cod.md`](upload-hanre-423-2019-cod.md) | `HANRE 423-2019 — Codul retelelor electrice (text).md` |
+| [`upload-hanre-422-2019-regulament.md`](upload-hanre-422-2019-regulament.md) | `HANRE 422-2019 — calitate servicii transport distributie gaze (text).md` |
+| [`upload-hanre-112-2019-anexa53.md`](upload-hanre-112-2019-anexa53.md) | `HANRE 112-2019 — racordarea la retelele de gaze (text).md` |
+| [`upload-hg-74-2025-regulament.md`](upload-hg-74-2025-regulament.md) | `HG 74-2025 — calcul consum energie regenerabila (text).md` |
+| [`upload-hg-76-2025-lista.md`](upload-hg-76-2025-lista.md) | `HG 76-2025 — cotizatii organizatii internationale 2025 (text).md` |
+| [`upload-hg-86-2025-pniec.md`](upload-hg-86-2025-pniec.md) | `HG 86-2025 — PNIEC 2025-2030 (text) — Index.md` (+ Secțiunea A/B/Anexe) |

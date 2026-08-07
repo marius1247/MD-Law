@@ -24,10 +24,11 @@ Centrul de comandă pentru normele privind accesul la rețelele electrice, de ga
 ## 1. Reglementări Sector Electrice
 * [[HANRE 311-2026 — racordarea la retelele electrice (notă)|HANRE 311/2026]] — **current** connection regulation (L164)
 * ~~[[HANRE 168-2019 — racordarea la retelele electrice (notă)|HANRE 168/2019]]~~ — abrogated; patched while live by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|833/2023]]
-* [[HANRE 423-2019 — Codul retelelor electrice (notă)|HANRE 423/2019]] — *Codul rețelei electrice* · substance via [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|656/2021]] (Parts I–V)
+* [[HANRE 423-2019 — Codul retelelor electrice (notă)|HANRE 423/2019]] — connection network code ✅ Titluri I–IV · also [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|656/2021]] Parts I–V
 
 ## 2. Reglementări Sector Gaze Naturale
-* [[HANRE 112-2019 — racordarea la retelele de gaze (notă)|HANRE 112/2019]] — *Regulamentul privind racordarea la rețelele de gaze naturale*
+* [[HANRE 112-2019 — racordarea la retelele de gaze (notă)|HANRE 112/2019]] — *Regulamentul privind racordarea la rețelele de gaze naturale* · Anexa 5³ CTP noncasnic ✅
+* [[HANRE 422-2019 — calitate servicii transport distributie gaze (notă)|HANRE 422/2019]] — gas QoS
 * [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)|HANRE 420/2019]] — *Codul rețelelor de gaze naturale*
 
 ## 3. Prosumers / capacity envelopes

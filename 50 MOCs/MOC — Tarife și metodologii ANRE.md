@@ -48,3 +48,7 @@ FROM #acte_normative
 WHERE contains(tags, "tarife") OR contains(tags, "metodologie")
 SORT file.name DESC
 ```
+
+## QoS → tariff cuts
+* [[HANRE 422-2019 — calitate servicii transport distributie gaze (notă)|HANRE 422/2019]] gas QoS (≤10% tariff cut)
+* [[HANRE 537-2020 — calitate servicii transport distributie EE (notă)|HANRE 537/2020]] electricity QoS

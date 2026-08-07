@@ -72,7 +72,7 @@ Other newly relevant amendment/transition acts now present:
 
 | Act | Problem | Priority |
 |---|---|---|
-| [[HANRE 423-2019 — Codul retelelor electrice (text)]] | **decision-only; clean annex consolidation missing** (partial substance via [[HANRE 656-2021 — modificare Codul retelelor electrice (text)\|656/2021]]) | High for point-perfect citations |
+| ~~[[HANRE 423-2019 — Codul retelelor electrice (text)]]~~ | ✅ connection code Titluri I–IV (2026-08-07g); still cross-check [[HANRE 656-2021 — modificare Codul retelelor electrice (text)|656/2021]] + later amends | Done (consolidate) |
 | ~~HANRE **535/2019** gas TSO tariff methodology~~ | ✅ methodology + CTP (2026-08-07f); [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)|329/2025]] ✅ | Done |
 | ~~HANRE **537/2020** QoS EE~~ | ✅ regulation + annexes ingested 2026-08-07; patched by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)|833/2023]]; L107 currency | Done (currency watch) |
 | [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]] | likely annex/methodology completeness should be rechecked | Medium |
@@ -208,7 +208,7 @@ Individual **tariff decisions and licences** were *not* ingested. ANRE issues th
 ## Current priorities
 
 1. **Manual download** remaining annexes (legis.md Cloudflare blocks automation): clean consolidation of [[HANRE 423-2019 — Codul retelelor electrice (text)]] (656 helps but is not a consolidation), finish [[HANRE 169-2019 — furnizarea energiei electrice (text)]] past pt. 146, [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]], [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]], [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] annexes — see [[Analysis backlog — texts without notes]].
-2. Ingest still-missing parents: ~~HANRE **853/2025**~~ ✅ · ~~Laws **461/2001** & **248/2025**~~ ✅ · ~~**94/2019**–**8/2023** batch 1~~ ✅ · ~~**297/2022**, **HG 10/2024**, **L234/2022** batch 2~~ ✅ · ~~**355/2021**, **540/2024**, **HG 621/622/364/677** batch 3~~ ✅ · ~~**537/2020** QoS~~ ✅ · ~~**535/2019**, **355/2021**, **443/2020** methodologies~~ ✅ (2026-08-07f) · **422/2019**, **L282/2023**, **HG 599/620/517** bodies, **HANRE 23/2017** regulation body, **HANRE 201/2017** GOs.
+2. Ingest still-missing parents: ~~**422/2019**, **423** connection code, **HG 74/86**~~ ✅ (2026-08-07g) · **L282/2023**, **HG 599/620/517** bodies, **HANRE 23/2017** regulation body, **HANRE 201/2017** GOs.
 3. Re-check electricity HANRE acts for L164-based re-adoption/replacement.
 4. Watch for a gas equivalent of [[Legea 164-2025 — energia electrica (text)|L164/2025]].
 5. Keep amendment acts (177, 261, 383, 328, 310, **656**, **833**, **329**) linked from affected notes.

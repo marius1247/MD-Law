@@ -15,6 +15,7 @@ updated: 2026-08-07
 ## Legal home
 * **TSO:** annex to [[HANRE 535-2019 — Metodologie tarife transport gaze (text)|HANRE 535/2019]] (full methodology now in vault). Overlay: [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]].
 * **DSO:** annex to [[HANRE 443-2020 — Metodologie tarife distributie gaze (text)|HANRE 443/2020]] — CTP split by HP/MP/LP using network-length and station weights.
+* **Non-household customer installation (connection):** [[HANRE 112-2019 — racordarea la retelele de gaze (text)|HANRE 112/2019]] Anexa 5³ — normative leakage / purge / SES volumes on the segment from street network to the meter.
 Feeds regulated revenue under [[Legea 108-2016 — gazele naturale (notă)|L108/2016]].
 
 ## Definition

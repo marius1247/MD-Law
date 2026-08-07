@@ -1,94 +1,3 @@
----
-title: HANRE 423-2019 — Codul retelelor electrice (text)
-type: act-text
-act_type: act-anre
-nr: '423'
-an: 2019
-domeniu:
-- energetică
-- energie-electrică
-in_vigoare: true
-legis_id: '151929'
-legis_url: https://www.legis.md/cautare/getResults?lang=ro&doc_id=151929
-continut: dispozitiv-plus-cod
-text_complet: true
-status_ingestie: Cod racordare (Titlurile I–IV) ✅ upload 2026-08-07; consolidați cu 656/2021 + 646/2025; L164 currency
-articole_numarate: 0
-tags:
-- act
-- text
-- acte_normative
-created: 2026-07-26
-updated: 2026-08-07
-source_ingest: manual-browser-download
-domain: energie_electrica
-issuer: ANRE
-legal_status: in_vigoare
-last_amended: '2026-07-26'
----
-
-# HANRE 423/2019 — Codul rețelelor electrice (dispozitiv)
-
-> [!tip] Codul (racordare) ingestat
-> Anexa — **Codul rețelelor electrice privind racordarea** (Titlurile I–IV; RfG / DCC / HVDC, EnC-adapted) din upload `cod_423md_ea3e.md`. Consolidați cu [[HANRE 656-2021 — modificare Codul retelelor electrice (text)|656/2021]] Parts I–V și amendamentele ulterioare (ex. HANRE 646/2025). Definițiile din dump citează deja [[Legea 164-2025 — energia electrica (text)|L164/2025]].
-
-> [!info] Sursă
-> legis.md doc_id [151929](https://www.legis.md/cautare/getResults?lang=ro&doc_id=151929). Hub: [[MOC — Energetică]] · [[Status ingestie — Energetica]] · Analiză: [[HANRE 423-2019 — Codul retelelor electrice (notă)]].
-
----
-
-## Republica Moldova
-## AGENȚIA NAȚIONALĂ PENTRU REGLEMENTARE ÎN ENERGETICĂ
-HOTĂRÂRE Nr. HANRE423/2019
-din 22.11.2019
-cu privire la aprobarea Codului rețelelor electrice
-Publicat : 24.01.2020 în MONITORUL OFICIAL Nr. 14-23 art. 63 Data intrării în vigoare
-## MODIFICAT
-HANRE646 din 04.11.25, MO605-607/09.12.25 art.1063; în vigoare 09.12.25
-## NOTĂ:
-Pe tot parcursul textului:
-cuvintele „o unitate generatoare” se substituie cu cuvintele „un modul generator”;
-cuvintele „unitatea generatoare” se substituie cu cuvintele „modulul generator”;
-cuvintele „unitate generatoare” se substituie cu cuvintele „modul generator”;
-cuvintele „o nouă unitate generatoare” se substituie cu cuvintele „un nou modul
-generator”  prin  HANRE646  din  04.11.25,  MO605-607/09.12.25  art.1063;  în  vigoare
-## 09.12.25
-## Înregistrat:
-Ministerul Justiţiei al Republicii Moldova
-nr. 1513 din 20 decembrie 2019
-Ministru ___________ Fadei NAGACEVSCHI
-În temeiul art. 53 alin. (4) și art. 96 alin. (8) din Legea nr. 107 din 27 mai 2016 cu
-privire la energia electrică (Monitorul Oficial al Republicii Moldova, 2016, nr.193-203, art.
-413), Consiliul de administrație al Agenţiei Naţionale pentru Reglementare în Energetică
-## HOTĂRĂŞTE:
-- Se aprobă Codul rețelelor electrice (se anexează).
-- La Normele tehnice ale reţelelor electrice de transport, aprobate prin Hotărârea
-Consiliului de administrație al Agenției Naționale pentru Reglementare în Energetică nr.266
-
-din 20 noiembrie 2007 (Monitorul Oficial al Republicii Moldova, 2007, nr.188-191, art.694),
-pct.4 literele a) și f), pct.9 lit. g), pct.13, Capitolul V „Condiții de racordare la rețeaua
-electrică  de  transport”,  Capitolul  VI  „Testare,  control  și  monitorizare”  și  Capitolul  VII
-„Schimburi de informații” se abrogă.
-- La Normele tehnice ale reţelelor electrice de distribuție, aprobate prin Hotărârea
-Consiliului de administrație al Agenției Naționale pentru Reglementare în Energetică nr.
-267 din 20 noiembrie 2007 (Monitorul Oficial al Republicii Moldova, 2007, nr. 188-191, art.
-695), pct. 12 litera f) și Capitolul V „Condiții de racordare la rețelele electrice de distribuție”
-se abrogă.
-- Controlul asupra executării prezentei hotărâri se pune în sarcina subdiviziunilor
-Agenției Naționale pentru Reglementare în Energetică.
-DIRECTORUL GENERAL Veaceslav UNTILA
-Directori Octavian CALMÎC
-Eugen CARPOV
-Ștefan CREANGĂ
-Nr. 423/2019. Chişinău, 22 noiembrie 2019.
-Codul rețelelor electrice
-[Codul  modificat  prin  HANRE646  din  04.11.25,  MO605-607/09.12.25  art.1063;  în
-vigoare 09.12.25]
-
----
-
-## Anexă — Codul rețelelor electrice privind racordarea (upload 2026-08-07)
-
 **UE**
 
 Aprobat:  
@@ -104,11 +13,11 @@ nr. 423/2019 din 22 noiembrie 2019
 
 Codul rețelelor electrice privind racordarea la rețelele electrice transpune _Regulamentul_ (UE) 2016/631 al Comisiei Europene din 14 aprilie 2016 de instituire a unui cod de rețea privind cerințele pentru racordarea la rețea a instalațiilor de generare (Text cu relevanță pentru SEE) publicat în Jurnalul Oficial al Uniunii Europene (JO) nr. L 112/1 din 27 aprilie 2016, adaptat prin Decizia Nr. 2018/03/PHLG - EnC a Grupului Permanent de Nivel Înalt al Comunității Energetice din 12 ianuarie 2018 privind adoptarea Regulamentului (UE) 2016/631 al Comisiei Europene din 14 aprilie 2016 de instituire a unui cod de rețea privind cerințele pentru racordarea la rețea a instalațiilor de generare, _Regulamentul_ (UE) 2016/1447 al Comisiei Europene din 26 august 2016 de instituire a unui cod de rețea privind cerințele pentru racordarea la rețea a sistemelor de înaltă tensiune în curent continuu și a modulelor generatoare din centrală conectate în curent continuu (Text cu relevanță pentru SEE) publicat în Jurnalul Oficial al Uniunii Europene (JO) nr. L 241/1 din 08 septembrie 2016, adaptat prin Decizia Nr. 2018/04/PHLG - EnC a Grupului Permanent de Nivel Înalt al Comunității Energetice din 12 ianuarie 2018 privind adoptarea Regulamentului (UE) 2016/1447 al Comisiei Europene din 26 august 2016 de instituire a unui cod de rețea privind cerințele pentru racordarea la rețea a sistemelor de înaltă tensiune în curent continuu și a modulelor generatoare din centrală conectate în curent continuu, și _Regulamentul_ (UE) 2016/1388 al Comisiei Europene din 17 august 2016 de stabilire a unui cod de rețea privind racordarea consumatorilor (Text cu relevanță pentru SEE) publicat în Jurnalul Oficial al Uniunii Europene (JO) nr. L 223/10 din 18 august 2016, adaptat prin Decizia Nr. 2018/05/PHLG - EnC a Grupului Permanent de Nivel Înalt al Comunității Energetice din 12 ianuarie 2018 privind adoptarea Regulamentului (UE) 2016/1388 al Comisiei Europene din 17 august 2016 de stabilire a unui cod de rețea privind racordarea consumatorilor.
 
-## Titlul I
+**Titlul I**
 
 **CERINȚE GENERALE**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Prevederi generale**
 
@@ -134,7 +43,7 @@ Codul rețelelor electrice privind racordarea la rețelele electrice transpune _
 
 **blocarea comutatorului de ploturi sub sarcină** – o acţiune care blochează comutatorul de ploturi al transformatorului în cazul scăderii tensiunii, pentru a opri acţiunile în acelaşi sens şi a opri scăderea tensiunii dintr-o zonă;
 
- **cameră de comandă** – centrul de operare al unui operator de sistem relevant;
+&nbsp;**cameră de comandă** – centrul de operare al unui operator de sistem relevant;
 
 **capacitatea de trecere peste defect (FRT)** – capacitatea dispozitivelor electrice de a rămâne conectate la reţea şi de a funcţiona pe perioada golurilor de tensiune din punctul de racordare cauzate de defectele eliminate;
 
@@ -150,7 +59,7 @@ Codul rețelelor electrice privind racordarea la rețelele electrice transpune _
 
 **capacitate de pornire fără sursă de tensiune din sistem** – capacitatea de repornire a unei unităţi generatoare după o cădere totală de tensiune cu ajutorul unei surse auxiliare de alimentare dedicate, fără ca unitatea generatoare să beneficieze de nicio sursă de alimentare externă;
 
- **certificatul echipamentului** – un document emis de un organism de certificare autorizat, care demonstrează satisfacerea de către echipamentele utilizate de o unitate generatoare, de o unitate consumatoare, de un operator al sistemului de distribuţie, de un loc de consum sau de sistemul HVDC a unor valori specifice din intervalul permis la nivel european. În scopul înlocuirii anumitor părţi din procesul de asigurare a conformităţii, certificatul echipamentului poate include modele matematice care au fost verificate comparativ cu rezultatele reale de testare;
+&nbsp;**certificatul echipamentului** – un document emis de un organism de certificare autorizat, care demonstrează satisfacerea de către echipamentele utilizate de o unitate generatoare, de o unitate consumatoare, de un operator al sistemului de distribuţie, de un loc de consum sau de sistemul HVDC a unor valori specifice din intervalul permis la nivel european. În scopul înlocuirii anumitor părţi din procesul de asigurare a conformităţii, certificatul echipamentului poate include modele matematice care au fost verificate comparativ cu rezultatele reale de testare;
 
 **comutator de ploturi sub sarcină** – un dispozitiv de selectare a prizei de reglaj a unei înfăşurări a transformatorului, adecvat pentru funcţionare, în timp ce transformatorul este sub tensiune sau sub sarcină;
 
@@ -272,7 +181,7 @@ Codul rețelelor electrice privind racordarea la rețelele electrice transpune _
 
 **regulator automat de tensiune (RAT)** – echipamentul automat care acţionează continuu reglând tensiunea la borne a unuia sau mai multor grupuri generatoare sincrone prin reglajul curentului de excitaţie, drept răspuns la abaterea valorii reale a tensiunii măsurate la borne de la o valoare de referinţă prestabilită;
 
- **reţea electrică de distribuţie racordată la reţeaua electrică de transport** – o reţea electrică de distribuţie racordată la reţeaua electrică cu tensiunea 35 kV şi mai mult, cu includerea instalaţiilor de distribuţie racordate la reţeaua electrică de transport;
+&nbsp;**reţea electrică de distribuţie racordată la reţeaua electrică de transport** – o reţea electrică de distribuţie racordată la reţeaua electrică cu tensiunea 35 kV şi mai mult, cu includerea instalaţiilor de distribuţie racordate la reţeaua electrică de transport;
 
 **sincronizarea şi încărcarea automată a sarcinii** – nivelul maxim de putere activă conectată în timpul restaurării sistemului după ce unităţile consumatoare au fost deconectate ca urmare a unui colaps de tensiune;
 
@@ -306,7 +215,7 @@ Codul rețelelor electrice privind racordarea la rețelele electrice transpune _
 
 **zonă sincronă** – o zonă operată de operatori ai sistemelor de transport a energie electrice (în continuare _OST_) interconectaţi sincron.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Aplicarea la unitățile generatoare existente, în cazul locurilor**
 
@@ -354,7 +263,7 @@ Analiza trebuie să includă cel puțin:
 
 10\. OST poate evalua la fiecare trei ani, în conformitate cu criteriile și procedurile prevăzute la pct. 6-8, aplicarea unora sau a tuturor dispozițiilor din prezentul Cod la unitățile generatoare existente, locurile de consum existente racordate la rețeaua electrică de transport, la instalațiile de distribuție existente racordate la rețeaua electrică de transport, la rețelele electrice de distribuție existente sau la unitățile consumatoare existente, sau la sistemele HVDC și modulele MGCCC existente.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Aspecte de reglementare**
 
@@ -381,7 +290,7 @@ Analiza trebuie să includă cel puțin:
 
 Agenția va examina neînțelegerile dintre întreprinderile electroenergetice în legătură cu prezentul Cod în cel mult două luni de la data primirii reclamației respective. Decizia emisă de Agenție pe marginea reclamațiilor produce efecte obligatorii până la o eventuală hotărâre judecătorească contrarie, emisă ca urmare a exercitării unei căi de atac.
 
-### Secțiunea 4
+**Secțiunea 4**
 
 **Recuperarea costurilor**
 
@@ -389,7 +298,7 @@ Agenția va examina neînțelegerile dintre întreprinderile electroenergetice �
 
 19\. La cererea Agenției, operatorii de sistem menționați la pct. 18 prezintă, în termen de trei luni de la data depunerii cererii, informațiile necesare pentru a facilita evaluarea costurilor suportate.
 
-### Secțiunea 5
+**Secțiunea 5**
 
 **Consultările publice**
 
@@ -402,7 +311,7 @@ Agenția va examina neînțelegerile dintre întreprinderile electroenergetice �
 
 21\. Operatorii de sistem relevanți și OST țin seama în mod corespunzător de opiniile părților interesate care rezultă în urma consultărilor, înainte de prezentarea proiectului, raportului, a analizei cost-beneficiu, sau a cerințele pentru unitățile consumatoare spre aprobarea Agenției. În orice situație, trebuie să se elaboreze o justificare solidă a includerii sau a neincluderii opiniilor părților interesate, care să fie publicată în timp util, înainte de, sau simultan cu publicarea proiectului, raportului, a analizei cost-beneficiu, sau a cerințelor pentru unitățile consumatoare.
 
-### Secțiunea 6
+**Secțiunea 6**
 
 **Obligații în materie de confidențialitate**
 
@@ -414,17 +323,17 @@ Agenția va examina neînțelegerile dintre întreprinderile electroenergetice �
 
 25\. Persoanele care primesc informații confidențiale în temeiul prezentului Cod, le pot utiliza numai în scopul exercitării funcțiilor lor în temeiul prezentului Cod.
 
-## Titlul II
+**Titlul II**
 
 **CERINȚELE PENTRU RACORDAREA LA**
 
 **REȚEAUA ELECTRICĂ A INSTALAȚIILOR DE GENERARE**
 
-### Capitolul I
+**Capitolul I**
 
 **PREVEDERI GENERALE**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Cerințe generale**
 
@@ -440,7 +349,7 @@ Operatorul de sistem relevant refuză să permită racordarea unităților gener
 2.  unităților generatoare care nu au un punct de racordare permanent și sunt utilizate temporar de operatorii de sistem, atunci când capacitatea normală a sistemului electroenergetic este parțial sau complet indisponibilă;
 3.  dispozitivelor de stocare, cu excepția unităților generatoare cu acumulare prin pompare.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Stabilirea importanței**
 
@@ -466,7 +375,7 @@ _Tabelul 1_ **Nivelele limită de capacitate pentru unitățile generatoare de 
 
 33\. În cazul în care, ca urmare a modificării limitelor, un modul generator se încadrează într-un tip diferit, procedura prevăzută în pct. 6 privind unitățile generatoare existente se aplică înainte de a solicita conformitatea cu cerințele pentru noul tip.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Aplicarea pentru unitățile generatoare, unitățile generatoare cu acumulare**
 
@@ -484,11 +393,11 @@ _Tabelul 1_ **Nivelele limită de capacitate pentru unitățile generatoare de 
 
 37\. Unitățile de cogenerare se evaluează pe baza capacității maxime de producere a energiei electrice.
 
-### Capitolul II
+**Capitolul II**
 
 **CERINȚE FAȚĂ DE INSTALAȚIILE DE PRODUCERE**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Cerințe generale**
 
@@ -954,7 +863,7 @@ _Tabelul 7.2_ **Parametrii pentru figura 3 privind capacitatea de trecere peste 
 8.  succesiunea fazelor;
 9.  diferența de tensiune și de frecvență.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Cerințe pentru grupurile generatoare sincrone**
 
@@ -1021,7 +930,7 @@ _Tabelul 8._ **Parametrii pentru conturul interior din figura 7**
 
 67\. Operatorul de sistem relevant și gestionarul instalației de producere a energiei electrice trebuie să încheie un acord privind capacitățile tehnice ale grupului generator pentru susținerea stabilității unghiulare în condiții de defect.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Cerințe pentru modulele generatoare din centrale**
 
@@ -1130,11 +1039,11 @@ Figura reprezintă limitele diagramei P-Q/P<sub>max</sub> ca dependență între
 
 74\. Modulele generatoare din centrală de tip D trebuie să satisfacă cerințele enumerate la Subsecțiunile 1, 2, 3 și 4, Secțiunea 1, precum și Subsecțiunile 1 și 2, Secțiunea 3 din Capitolul II, Titlul II, cu excepția celor din pct. 39, sbp. 2), din pct. 43, 44, 46, 52 și pct. 69, sbp. 1).
 
-### Capitolul III
+**Capitolul III**
 
 **RACORDAREA UNITĂȚILOR GENERATOARE**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Dispoziții generale**
 
@@ -1142,7 +1051,7 @@ Figura reprezintă limitele diagramei P-Q/P<sub>max</sub> ca dependență între
 
 76\. Operatorul de sistem relevant trebuie să clarifice și să pună la dispoziția publicului detaliile procedurii de notificare.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Notificarea pentru unitățile generatoare de tip A**
 
@@ -1161,7 +1070,7 @@ Figura reprezintă limitele diagramei P-Q/P<sub>max</sub> ca dependență între
 
 79\. Gestionarul instalației de producere a energiei electrice se asigură că operatorul de sistem relevant și Agenția sunt informați cu privire la retragerea definitivă din exploatare a unei unități generatoare, în conformitate cu legislația națională. Operatorul de sistem relevant se asigură că o astfel de notificare poate fi făcută de către terți, inclusiv de către agregatori.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Procedura pentru unitățile generatoare de tip B și C**
 
@@ -1187,7 +1096,7 @@ Figura reprezintă limitele diagramei P-Q/P<sub>max</sub> ca dependență între
 
 86\. Procedura de notificare pentru fiecare modul generator nou de tip B și C trebuie să permită acceptarea certificatelor pentru echipamente eliberate de un organism de certificare autorizat.
 
-### Secțiunea 4
+**Secțiunea 4**
 
 **Procedura pentru unitățile generatoare de tip D**
 
@@ -1199,7 +1108,7 @@ Figura reprezintă limitele diagramei P-Q/P<sub>max</sub> ca dependență între
 
 88\. Procedura de notificare pentru fiecare modul generator nou de tip D trebuie să permită acceptarea certificatelor pentru echipamente eliberate de un organism de certificare autorizat.
 
-### Secțiunea 5
+**Secțiunea 5**
 
 **Notificarea de punere sub tensiune pentru**
 
@@ -1209,7 +1118,7 @@ Figura reprezintă limitele diagramei P-Q/P<sub>max</sub> ca dependență între
 
 90\. Operatorul de sistem relevant emite o NPT la finalizarea acțiunilor pregătitoare acordul privind schemele de protecție și setările aferente aplicabili la punctul de racordare dintre operatorul de sistem relevant și gestionarul instalației de producere a energiei electrice.
 
-### Secțiunea 6
+**Secțiunea 6**
 
 **Notificarea de funcționare provizorie pentru**
 
@@ -1232,7 +1141,7 @@ Figura reprezintă limitele diagramei P-Q/P<sub>max</sub> ca dependență între
 
 95\. O prelungire a perioadei în care gestionarul instalației de producție a energiei electrice poate menține statutul de NFP, dincolo de perioada stabilită la pct. 94, poate fi acordată în cazul în care operatorului de sistem relevant i se adresează o cerere de derogare înainte de expirarea perioadei respective, în conformitate cu procedura de derogare prevăzută în Titlul VI.
 
-### Secțiunea 7
+**Secțiunea 7**
 
 **Notificarea de funcționare finală pentru**
 
@@ -1251,7 +1160,7 @@ Toate datele și informațiile finale se prezintă OST de către operatorul de s
 
 99\. Dacă se identifică o incompatibilitate în legătură cu emiterea NFF, poate fi acordată o derogare, în urma unei cereri adresate operatorului de sistem relevant, în conformitate cu procedura de derogare descrisă la Titlul VI. NFF se emite de către operatorul de sistem relevant dacă modul generator respectă dispozițiile derogării. În cazul în care cererea de derogare este respinsă, operatorul de sistem relevant are dreptul de a refuza să permită funcționarea unității generatoare până în momentul în care gestionarul instalației de producere a energiei electrice și operatorul de sistem relevant remediază incompatibilitatea și operatorul de sistem relevant consideră că modul generator este în conformitate cu dispozițiile prezentului Cod. Dacă operatorul de sistem relevant și gestionarul instalației de producere a energiei electrice nu rezolvă incompatibilitatea într-un interval de timp rezonabil, dar în niciun caz mai târziu de șase luni de la notificarea deciziei de respingere a cererii de derogare, fiecare parte poate prezenta problema spre soluționare Agenției.
 
-### Secțiunea 8
+**Secțiunea 8**
 
 **Notificarea de funcționare limitată pentru**
 
@@ -1278,11 +1187,11 @@ Toate datele și informațiile finale se prezintă OST de către operatorul de s
 
 106\. În cazul în care operatorul de sistem relevant nu acordă o prelungire a perioadei de valabilitate a NFL în conformitate cu pct. 104 sau în cazul în care acesta refuză să permită funcționarea unității generatoare după ce NFL își încetează valabilitatea în conformitate cu pct. 105, gestionarul instalației de producere a energiei electrice poate înainta o solicitare spre soluționare Agenției în termen de șase luni de la notificarea deciziei operatorului de sistem relevant.
 
-### Capitolul IV
+**Capitolul IV**
 
 **CONFORMITATEA**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Monitorizarea conformității**
 
@@ -1359,7 +1268,7 @@ Toate datele și informațiile finale se prezintă OST de către operatorul de s
 
 126\. Operatorul de sistem relevant furnizează gestionarului instalației de producere a energiei electrice datele tehnice și modelul de simulare a rețelei, în măsura în care acest lucru este necesar pentru a efectua simulările necesare în conformitate cu secțiunile 4 și 5, Capitolul IV din Titlul II.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Teste de conformitate pentru grupurile**
 
@@ -1449,7 +1358,7 @@ Toate datele și informațiile finale se prezintă OST de către operatorul de s
 
 137\. În locul efectuării testelor corespunzătoare, gestionarul instalației de producere a energiei electrice poate utiliza certificatele pentru echipamente eliberate de un organism de certificare autorizat, sau un certificat tehnic analogic, care ar demonstra conformitatea cu cerințele relevante. Într-un astfel de caz, certificatele pentru echipamente sunt puse la dispoziția operatorului de sistem relevant.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Teste de conformitate pentru modulele**
 
@@ -1570,7 +1479,7 @@ Toate datele și informațiile finale se prezintă OST de către operatorul de s
 
 152\. În locul efectuării testelor corespunzătoare, gestionarul instalației de producere a energiei electrice poate utiliza certificatele pentru echipamente eliberate de un organism de certificare autorizat, sau un certificat tehnic analogic, care ar demonstra conformitatea cu cerințele relevante. Într-un astfel de caz, certificatele pentru echipamente sunt puse la dispoziția operatorului de sistem relevant.
 
-### Secțiunea 4
+**Secțiunea 4**
 
 **Simulări privind conformitatea pentru**
 
@@ -1659,7 +1568,7 @@ Toate datele și informațiile finale se prezintă OST de către operatorul de s
 1.  trebuie demonstrată capacitatea unității generatoare de a furniza capacitatea de trecere peste defect în conformitate cu pct. 58, sbp. 1);
 2.  simularea se consideră reușită dacă respectarea cerinței prevăzute la pct. 58, sbp. 1) este demonstrată.
 
-### Secțiunea 5
+**Secțiunea 5**
 
 **Simulări privind conformitatea pentru modulele**
 
@@ -1756,13 +1665,13 @@ Toate datele și informațiile finale se prezintă OST de către operatorul de s
 
 180\. Simularea se consideră reușită dacă modelul demonstrează că respectă cerințele prevăzute la pct. 58, sbp. 1).
 
-### Capitolul V
+**Capitolul V**
 
 **DISPOZIȚII TRANZITORII PENTRU**
 
 **TEHNOLOGIILE EMERGENTE**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Tehnologii emergente**
 
@@ -1774,7 +1683,7 @@ Toate datele și informațiile finale se prezintă OST de către operatorul de s
 2.  pentru unitățile generatoare tehnologia este disponibilă pe piață;
 3.  vânzările cumulate ale tehnologiei unității generatoare într-o zonă sincronă în momentul depunerii cererii pentru încadrarea ca tehnologie emergentă nu depășește 25 % din nivelul maxim al capacității maxime cumulate stabilite în conformitate cu pct. 183.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Stabilirea nivelelor limită de încadrare ca tehnologie emergentă**
 
@@ -1782,7 +1691,7 @@ Toate datele și informațiile finale se prezintă OST de către operatorul de s
 
 184\. Nivelul maxim al capacității maxime cumulate a unităților generatoare încadrate la tehnologii emergente se calculează prin înmulțirea nivelului maxim al capacității maxime cumulate a unităților generatoare încadrate ca tehnologii emergente cu raportul dintre energia electrică produsă în 2014 în Republica Moldova și totalul energiei electrice produse în 2014 în zona sincronă respectivă din care Republica Moldova face parte.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Cererea de încadrare ca tehnologie emergentă**
 
@@ -1792,7 +1701,7 @@ Toate datele și informațiile finale se prezintă OST de către operatorul de s
 
 187\. Fabricantul trebuie să furnizeze dovada că o cerere depusă în temeiul pct. 185 respectă criteriile de eligibilitate stabilite Secțiunile 1 și 2, Capitolul V, Titlul II.
 
-### Secțiunea 4
+**Secțiunea 4**
 
 **Evaluarea și aprobarea cererilor de încadrare ca tehnologie emergentă**
 
@@ -1800,7 +1709,7 @@ Toate datele și informațiile finale se prezintă OST de către operatorul de s
 
 189\. Lista cu unitățile generatoare aprobate ca tehnologii emergente se publică de Agenție.
 
-### Secțiunea 5
+**Secțiunea 5**
 
 **Retragerea încadrării ca tehnologie emergentă**
 
@@ -1810,7 +1719,7 @@ Toate datele și informațiile finale se prezintă OST de către operatorul de s
 
 192\. Unitățile generatoare încadrate ca tehnologii emergente și racordate la rețea înainte de data retragerii respectivei încadrări ca tehnologie emergentă sunt considerate ca unități generatoare existente și, prin urmare, intră sub incidența cerințelor din prezentul Cod numai în temeiul dispozițiilor punctului 5 și Titlului V.
 
-## Titlul III
+**Titlul III**
 
 **RACORDAREA LOCURILOR DE CONSUM,**
 
@@ -1820,11 +1729,11 @@ Toate datele și informațiile finale se prezintă OST de către operatorul de s
 
 **TRANSPORT**
 
-### Capitolul I
+**Capitolul I**
 
 **PREVEDERI GENERALE**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Scopul**
 
@@ -1837,7 +1746,7 @@ Toate datele și informațiile finale se prezintă OST de către operatorul de s
 
 194\. Prezentul Titlu stabilește obligații pentru asigurarea faptului că operatorii de sistem utilizează adecvat capacitățile locurilor de consum și ale rețelelor de distribuție, într-un mod transparent și nediscriminatoriu.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Domeniu de aplicare**
 
@@ -1856,7 +1765,7 @@ Pe baza monitorizării conformității în corespundere cu Titlul III, OST refuz
 
 197\. În cazul locurilor de consum sau al sistemelor de distribuție închise cu mai mult de o unitate consumatoare, acesteа sunt considerate, împreună, o singură unitate consumatoare dacă nu pot fi operate independent una de cealaltă sau dacă este mai eficientă combinarea acestora.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Aplicarea în cazul unităților generatoare cu acumulare**
 
@@ -1868,7 +1777,7 @@ Pe baza monitorizării conformității în corespundere cu Titlul III, OST refuz
 
 200\. În cazul platformelor industriale cu un modul generator integrată, operatorul de sistem al unei platforme industriale, gestionarul locului de consum, gestionarul locului de generare și operatorul de sistem relevant la rețeaua căruia este racordată platforma industrială pot stabili, de comun acord, în coordonare cu OST, condițiile de deconectare a consumului critic de la rețeaua relevantă. Obiectivul acordului este asigurarea proceselor de producție ale platformei industriale în cazul unor condiții de perturbații în rețeaua relevantă.
 
-### Capitolul II
+**Capitolul II**
 
 **RACORDAREA LOCURILOR DE CONSUM, A**
 
@@ -1876,7 +1785,7 @@ Pe baza monitorizării conformității în corespundere cu Titlul III, OST refuz
 
 **DISTRIBUȚIE LA REȚEAUA ELECTRICĂ DE TRANSPORT**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Cerințe generale**
 
@@ -2067,7 +1976,7 @@ cu excepția situațiilor în care beneficiile tehnice sau financiare pentru sis
 
 241\. Fiecare operator de sistem relevant sau OST specifică cerințele referitoare la performanța înregistrărilor locurilor de consum racordate la rețeaua electrică de transport sau ale instalațiilor de distribuție racordate la rețeaua electrică de transport sau ale ambelor, pentru a compara răspunsul modelului cu aceste înregistrări.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Procedura de notificare**
 
@@ -2160,7 +2069,7 @@ Dacă OST și gestionarul locului de consum racordat la rețeaua electrică de t
 
 262\. În cazul în care OST nu acordă o prelungire a perioadei de valabilitate a NFL în conformitate cu pct. 260 sau în cazul în care acesta refuză să permită funcționarea locului de consum racordat la rețeaua electrică de transport, a instalației de distribuție racordate la rețeaua electrică de transport sau a sistemului de distribuție racordat la rețeaua electrică de transport după ce NFL își încetează valabilitatea în conformitate cu pct. 261, gestionarul locului de consum racordat la rețeaua electrică de transport sau operatorul sistemului de distribuție racordat la rețeaua electrică de transport poate înainta problema spre soluționare Agenției în termen de șase luni de la notificarea deciziei către OST.
 
-### Capitolul III
+**Capitolul III**
 
 **RACORDAREA UNITĂȚILOR DE CONSUM UTILIZATE**
 
@@ -2170,7 +2079,7 @@ Dacă OST și gestionarul locului de consum racordat la rețeaua electrică de t
 
 **CĂTRE OPERATORII DE REȚEA**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Cerințe generale**
 
@@ -2253,7 +2162,7 @@ Dacă OST și gestionarul locului de consum racordat la rețeaua electrică de t
 2.  principiul de funcționare a acestui sistem de reglaj și parametrii de performanță aferenți;
 3.  timpul de reacție pentru reglajul foarte rapid al puterii active, care nu trebuie să depășească două secunde.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Procedura de notificare**
 
@@ -2310,11 +2219,11 @@ Dacă OST și gestionarul locului de consum racordat la rețeaua electrică de t
 
 284\. Pe baza DCC,operatorul de sistem relevant emite o NFF către gestionarul locului de consum sau operatorul sistemului de distribuție închis.
 
-### Capitolul IV
+**Capitolul IV**
 
 **CONFORMITATE**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Dispoziții generale**
 
@@ -2372,7 +2281,7 @@ Gestionarul locului de consum, OSD sau operatorul sistemului de distribuție în
 
 298\. Dacă testele de conformitate sau simulările nu pot fi executate astfel cum s-a convenit între operatorul de sistem relevant și gestionarul locului de consum, OSD sau operatorul sistemului de distribuție închis din motive ce pot fi atribuite operatorului de sistem relevant, atunci acesta din urmă nu va refuza în mod nerezonabil notificarea menționată în secțiunile 2 și 3. Capitolul IV, Titlul III.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Testele de conformitate**
 
@@ -2476,7 +2385,7 @@ Gestionarul locului de consum, OSD sau operatorul sistemului de distribuție în
 2.  testul se efectuează prin simularea primirii unei dispoziții de la operatorul de sistem relevant sau de la OST, urmată de deconectarea instalației de compensare statică, de simularea primirii unei dispoziții de la operatorul de sistem relevant sau de la OST și apoi de reconectarea locului respectiv;
 3.  testul este considerat efectuat cu succes dacă sunt respectate condițiile specificate de operatorul de sistem relevant sau de OST în temeiul pct. 268, sbp. 4), 6), 7), 8), 11) și 12).
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Simularea conformității**
 
@@ -2548,7 +2457,7 @@ Gestionarul locului de consum, OSD sau operatorul sistemului de distribuție în
 
 335\. Se consideră că simularea a fost efectuată cu succes dacă modelul demonstrează respectarea condițiilor prevăzute în Subsecțiunea 4, Secțiunea 1, Capitolul III din Titlul III.
 
-### Secțiunea 4
+**Secțiunea 4**
 
 **Monitorizarea conformității**
 
@@ -2574,7 +2483,7 @@ Gestionarul locului de consum, OSD sau operatorul sistemului de distribuție în
 1.  locul de consum racordat la rețeaua electrică de transport trebuie să fie dotat cu echipamentele necesare pentru măsurarea puterii active și a puterii reactive, în conformitate cu Subsecțiunea 3, Secțiunea 1, Capitolul II din Titlul II;
 2.  operatorul de sistem relevant stabilește programul de monitorizare a conformității.
 
-## Titlul IV
+**Titlul IV**
 
 **CERINȚE PENTRU RACORDAREA LA REȚEA A SISTEMELOR**
 
@@ -2582,7 +2491,7 @@ Gestionarul locului de consum, OSD sau operatorul sistemului de distribuție în
 
 **CONTINUU**
 
-### Capitolul I
+**Capitolul I**
 
 **DOMENIU DE APLICARE**
 
@@ -2611,11 +2520,11 @@ Gestionarul locului de consum, OSD sau operatorul sistemului de distribuție în
 
 345\. Prezentul regulament nu se aplică sistemelor HVDC al căror punct de racordare este sub 110 kV, cu excepția cazului în care existența unui impact transfrontalier este demonstrată de către OST. În cadrul evaluării menționate OST trebuie să ia în considerare dezvoltarea pe termen lung a rețelei.
 
-### Capitolul II
+**Capitolul II**
 
 **CERINȚE GENERALE PENTRU RACORDAREA HVDC**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Cerințe pentru reglajul puterii active și menținerea frecvenței**
 
@@ -2700,7 +2609,7 @@ OST are următoarele drepturi:
 
 360\. În cazul în care un sistem HVDC face legătura între două sau mai multe zone de reglaj, OST în cauză se consultă reciproc pentru a stabili o valoare coordonată a pierderii maxime din injecția de energie activă, astfel cum se menționează la pct. 359, ținând seama de afectarea comună a diferitelor zone.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Cerințe pentru reglajul puterii reactive**
 
@@ -2795,7 +2704,7 @@ OST are următoarele drepturi:
 
 381\. Un proprietar de sistem HVDC trebuie să se asigure că propriul sistem de racordare la rețea nu determină un nivel de distorsiune sau de fluctuații ale tensiunii de alimentare în rețea, în punctul de racordare, peste nivelul specificat de operatorul de sistem relevant în cooperare cu OST. Procesul necesar pentru realizarea de studii și furnizarea de date relevante de către toți utilizatorii rețelei implicați, precum și măsurile de atenuare identificate și implementate trebuie să respecte procedura din Subsecțiunea 2, Secțiunea 4, Capitolul II din prezentul titlu.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Cerințe pentru capacitatea de trecere peste defect**
 
@@ -2833,7 +2742,7 @@ OST are următoarele drepturi:
 
 389\. Sistemele HVDC, inclusiv liniile aeriene în curent continuu, trebuie să permită revenirea rapidă după defectele tranzitorii apărute în sistemul HVDC. Detaliile acestei capacități fac obiectul coordonării și convenirii sistemelor de protecție și al setărilor menționate în temeiul pct. 415-417.
 
-### Secțiunea 4
+**Secțiunea 4**
 
 **Cerințe pentru comandă și control**
 
@@ -2915,7 +2824,7 @@ OST are următoarele drepturi:
 
 414\. Gestionarul sistemului HVDC furnizează operatorului de sistem relevant informații privind reziliența sistemului HVDC la perturbările din sistemul AC.
 
-### Secțiunea 5
+**Secțiunea 5**
 
 **Cerințe pentru dispozitivele și reglajele corespunzătoare**
 
@@ -2957,7 +2866,7 @@ OST are următoarele drepturi:
 
 422\. Modurile de reglaj și de transport, precum și valorile prescrise ale sistemului HVDC asociate trebuie să poată fi modificate de la distanță, astfel cum prevede operatorul de sistem relevant, în cooperare cu OST.
 
-### Secțiunea 6
+**Secțiunea 6**
 
 **Cerințe pentru restaurarea sistemului electroenergetic**
 
@@ -2967,13 +2876,13 @@ OST are următoarele drepturi:
 
 425\. OST și gestionarul sistemului HVDC convin asupra capacității și a disponibilității capacității de pornire fără sursă de tensiune din rețea și asupra procedurii operaționale.
 
-### Capitolul III
+**Capitolul III**
 
 **CERINȚE PENTRU MODULELE MGCCC ȘI PENTRU**
 
 **STAȚIILE DE CONVERSIE HVDC DIN EXTREMITĂȚI**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Cerințe pentru modulele MGCCC**
 
@@ -3087,7 +2996,7 @@ OST are următoarele drepturi:
 
 446\. În ceea ce privește cerințele generale în materie de operare a sistemului, tuturor modulelor MGCCC li se aplică pct. 49, pct. 55 și pct. 59.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Cerințe pentru stațiile de conversie HVDC din extremități**
 
@@ -3133,11 +3042,11 @@ OST are următoarele drepturi:
 
 453\. Proprietarii stațiilor de conversie HVDC din extremități trebuie să se asigure, că instalațiile de racordare la rețea ce le aparțin nu determină un nivel de distorsiune sau de fluctuații ale tensiunii de alimentare în rețea, în punctul de racordare, peste nivelul care le-a fost alocat de operatorul de sistem relevant, în cooperare cu OST. Contribuția necesară din partea utilizatorilor de sistem la studiile conexe, inclusiv, dar fără a se limita la acestea, la modulele MGCCC existente și la sistemele HVDC existente, nu poate fi refuzată în mod nejustificat. Procesul necesar pentru realizarea de studii și furnizarea de date relevante de către toți utilizatorii rețelei implicați, precum și măsurile de atenuare identificate și implementate trebuie să respecte procedura din Subsecțiunea 2, Secțiunea 4, Capitolul II din prezentul titlu.
 
-### Capitolul IV
+**Capitolul IV**
 
 **SCHIMB DE INFORMAȚII ȘI COORDONARE**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Operarea sistemelor HVDC**
 
@@ -3201,7 +3110,7 @@ d) comanda de inversare rapidă a sensului puterii active.
 
 457\. În ceea ce privește fiecare semnal, operatorul de sistem relevant poate stabili calitatea semnalului furnizat.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Parametri și setări**
 
@@ -3219,7 +3128,7 @@ d) comanda de inversare rapidă a sensului puterii active.
 
 6) capacitatea de reglaj al amortizării interacțiunilor torsionale subsincrone, menționată în Subsecțiunea 4, Secțiunea 4, Capitolul II din prezentul titlu.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Înregistrarea defectelor și monitorizarea**
 
@@ -3243,7 +3152,7 @@ d) comanda de inversare rapidă a sensului puterii active.
 
 463\. Sistemul de monitorizare a calității furnizării și a comportamentului dinamic al sistemului trebuie să includă dispoziții referitoare la accesul electronic la informații al gestionarului sistemului HVDC și al operatorului de sistem relevant. Protocoalele de comunicare pentru datele înregistrate sunt stabilite de comun acord între gestionarul sistemului HVDC, operatorul de sistem relevant și OST.
 
-### Secțiunea 4
+**Secțiunea 4**
 
 **Modele de simulare**
 
@@ -3271,13 +3180,13 @@ d) comanda de inversare rapidă a sensului puterii active.
 
 468\. Un proprietar de sistem HVDC emite un model echivalent al sistemului de reglaj în cazul în care se produc interacțiuni de reglaj adverse cu stații de conversie HVDC și alte conexiuni electrice în strânsă proximitate, dacă acest lucru este solicitat de către operatorul de sistem relevant sau OST. Modelul echivalent trebuie să conțină toate datele necesare pentru simularea realistă a interacțiunilor negative de reglaj.
 
-### Capitolul V
+**Capitolul V**
 
 **PROCEDURA DE NOTIFICARE DE FUNCȚIONARE**
 
 **PENTRU RACORDARE**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Racordarea sistemelor HVDC noi**
 
@@ -3389,7 +3298,7 @@ Dacă operatorul de sistem relevant și gestionarul sistemului HVDC nu rezolvă 
 
 491\. În cazul în care operatorul de sistem relevant nu acordă o prelungire a perioadei de valabilitate a NFL în conformitate cu pct. 489 sau în cazul în care acesta refuză să permită funcționarea sistemului HVDC după ce NFL nu mai este valabilă în conformitate cu pct. 490, gestionarul sistemului HVDC poate înainta problema spre soluționare Agenției în termen de șase luni de la notificarea deciziei operatorului de sistem relevant.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Racordarea noilor module MGCCC**
 
@@ -3489,11 +3398,11 @@ Dacă operatorul de sistem relevant și gestionarul sistemului HVDC nu rezolvă 
 
 512\. Operatorul de sistem relevant poate refuza operarea modulului MGCCC în cazul în care NFL expiră și situația care a dus la emiterea acesteia persistă. În astfel de cazuri, NFF se invalidează automat.
 
-### Capitolul VI
+**Capitolul VI**
 
 **CONFORMITATEA**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Monitorizarea conformității**
 
@@ -3581,7 +3490,7 @@ Dacă operatorul de sistem relevant și gestionarul sistemului HVDC nu rezolvă 
 
 534\. Operatorul de sistem relevant furnizează OST, la cererea acestuia, rezultatele testelor și simulărilor de conformitate menționate în prezenta secțiune.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Testele de conformitate**
 
@@ -3877,7 +3786,7 @@ c) precizia reglajului respectă valoarea menționată la pct. 73, sbp. 4);
 
 559\. În ceea ce privește încercările pentru modulele MGCCC în cazul cărora rețeaua colectoare a curentului alternativ nu este la frecvența nominală de 50 Hz, operatorul de sistem relevant, în coordonare cu OST convine încercările de conformitate necesare cu gestionarul modulului MGCCC.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Simulările de conformitate**
 
@@ -4003,7 +3912,7 @@ b) respectarea cerinței prevăzute la pct. 451 este demonstrată.
 
 **ANALIZA COST-BENEFICIU**
 
-### Capitolul I
+**Capitolul I**
 
 **IDENTIFICAREA COSTURILOR ȘI BENEFICIILOR APLICĂRII**
 
@@ -4037,7 +3946,7 @@ b) respectarea cerinței prevăzute la pct. 451 este demonstrată.
 
 2) perioadă de tranziție pentru implementarea cerințelor care trebuie să țină seama de specificul instalației electrice, după cum se prevede la pct. 30 și de orice obstacole în calea implementării eficiente a modificării/retehnologizării echipamentelor.
 
-### Capitolul II
+**Capitolul II**
 
 **PRINCIPIILE ANALIZEI COST-BENEFICIU**
 
@@ -4087,7 +3996,7 @@ c) costurile aferente modificărilor în operare și mentenanță.
 
 **DEROGĂRI**
 
-### Capitolul I
+**Capitolul I**
 
 **DISPOZIȚII GENERALE**
 
@@ -4099,7 +4008,7 @@ c) costurile aferente modificărilor în operare și mentenanță.
 
 585\. Agenția este în drept să decidă dacă instalațiile electrice pentru care a fost depusă o cerere de derogare în temeiul Capitolelor II-IV din prezentul Titlu nu trebuie să respecte cerințele prezentului Cod de la care s-a cerut derogarea, de la data depunerii cererii până la emiterea deciziei Agenției.
 
-### Capitolul II
+**Capitolul II**
 
 **CEREREA DE DEROGARE FORMULATĂ DE CĂTRE**
 
@@ -4151,7 +4060,7 @@ c) costurile aferente modificărilor în operare și mentenanță.
 
 597\. Pentru unitățile generatoare de tipul A, unităților consumatoare din cadrul unui loc de consum sau al unui sistem de distribuție închis racordat la un nivel de tensiune de 1 000 V sau mai mic, cererea de derogare în temeiul prezentului Capitol poate fi depusă și de un terț în numele gestionarului sau potențialului gestionar al unei instalații de producere a energiei electrice, gestionarului sau potențialului gestionar al locului de consum sau în numele operatorului sistemului de distribuție închis sau al potențialului operator. Această cerere poate viza o singură modul generator sau mai multe unități generatoare identice, precum și o singură unitate consumatoare sau pentru mai multe unități consumatoare din cadrul aceluiași loc de consum sau al aceluiași sistem de distribuție închis. În cazul din urmă și cu condiția să se specifice capacitatea maximă cumulată, terțul poate substitui detaliile solicitate la pct. 587, sbp. 1) cu propriile date de identificare.
 
-### Capitolul III
+**Capitolul III**
 
 **CEREREA DE DEROGARE A OST SAU A UNUI**
 
@@ -4197,7 +4106,7 @@ Operatorul de sistem relevant trebuie să prezinte orice informații suplimentar
 
 608\. Agenția este în drept să revoce o decizie de acordare a unei derogări în cazul în care circumstanțele și motivele care stau la baza derogării nu se mai aplică sau la recomandarea motivată a Secretariatului sau a Comitetului de reglementare al Comunității Energetice.
 
-### Capitolul IV
+**Capitolul IV**
 
 **EVIDENȚA DEROGĂRILOR DE LA CERINȚELE**
 
@@ -4237,7 +4146,7 @@ Operatorul de sistem relevant trebuie să prezinte orice informații suplimentar
 
 **ÎN PLANIFICAREA OPERAȚIONALĂ**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Dispoziții generale privind modelul rețelei**
 
@@ -4257,7 +4166,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 736\. Modelele individuale de rețea includ informațiile și datele structurale prevăzute în Regulamentul privind dirijarea prin dispecerat a sistemului electroenergetic, aprobat de ANRE, Capitolul „Modelul rețelei electrice”.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Modelul de rețea pe un an**
 
@@ -4309,7 +4218,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 741\. În cazul modificării de rețea, care este semnificativă pentru siguranța în funcționare, a celei mai bune estimări a variabilelor utilizate pentru determinarea modelului de rețea pe un an, stabilit în conformitate cu prevederile prezentei secțiuni, OST trebuie să actualizeze modelul de rețea pe un an.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Modelul de rețea pe o zi și intrazilnic**
 
@@ -4331,7 +4240,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 745\. În cazul în care, în urma evaluării menționate în prezentă secțiune, OST consideră că acuratețea variabilelor este insuficientă pentru a evalua siguranța în funcționare, el stabilește cauzele acestei deficiențe. În cazul în care cauzele depind de procesele OST de stabilire a modelului de rețea, OST reexaminează aceste procese pentru a obține rezultate mai precise. În cazul în care cauzele depind de variabile furnizare de alte părți, OST cu respectivele părți vor depune eforturi pentru a se asigura că variabilele respective sunt exacte.
 
-### Secțiunea 4
+**Secțiunea 4**
 
 **Controlul calității modelului de rețea**
 
@@ -4351,7 +4260,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 **ANALIZA SIGURANȚEI ÎN FUNCȚIONARE**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Dispoziții generale privind modelul rețelei**
 
@@ -4369,7 +4278,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 751\. OST transmite rezultatele analizelor siguranței în funcționare pe care le-a efectuat cel puțin către OST ale căror elemente sunt incluse în zona de observabilitate a OST și sunt afectate în conformitate cu această analiză a siguranței în funcționare, pentru a permite acestor OST să verifice dacă sunt respectate limitele de siguranță în funcționare în zonele lor de reglaj.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Analiza siguranței în funcționare pe un an**
 
@@ -4383,7 +4292,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 753\. Atunci când depistează o posibilă restricție, OST elaborează măsuri de remediere. Dacă nu sunt disponibile măsuri de remediere care nu presupun costuri și restricția este legată de indisponibilitatea planificată a unor active relevante, restricția este constituită de o incompatibilitate a planificării retragerilor din exploatare, iar OST inițiază coordonarea retragerilor din exploatare în conformitate cu prevederile Titlului III, în funcție de perioada anului când se inițiază această măsură.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Analiza siguranței în funcționare pe o zi,**
 
@@ -4405,7 +4314,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 **din exploatare, activele relevante**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Scopul coordonării retragerilor din exploatare**
 
@@ -4425,7 +4334,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 762\. OST furnizează OSD racordați la sistemul de transport și aflați în zona sa de reglaj toate informațiile relevante de care dispune cu privire la proiectele de infrastructură aferente sistemului de transport, care pot avea un impact asupra operării sistemului de distribuție al acestor OSD.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Metodologia de evaluare a relevanței activelor pentru**
 
@@ -4473,7 +4382,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 770\. În cazul în care deținătorul al elementului de rețea care urmează să fie inclus în lista activelor relevante nu este de acord cu o astfel de abordare, OST trebuie să utilizeze metoda de evaluare a relevanței activelor în scopul stabilirii relevanței acestor elemente pentru coordonarea retragerilor din exploatare.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Tratamentul activelor relevante aflate într-un sistem de**
 
@@ -4489,7 +4398,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 **Elaborarea și actualizarea planurilor de disponibilitate a activelor relevante**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Dispoziții generale privind planurile**
 
@@ -4513,7 +4422,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 777\. În cazul în care programele de producție și de consum sunt transmise OST în temeiul Secțiunii 1 din Capitolul V, perioada stărilor de disponibilitate trebuie să fie în concordanță cu aceste programe.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Furnizarea propunerilor de plan de disponibilitate pe un an**
 
@@ -4527,7 +4436,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 2) cu aplicarea procedurii stabilite în conformitate cu Secțiunea 7.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Evaluarea propunerilor de plan de disponibilitate**
 
@@ -4551,7 +4460,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 3) să notifice părțile afectate cu privire la planul de disponibilitate alternativ, inclusiv la motivele pentru elaborarea acestuia, precum și la impactul raportat de părțile afectate.
 
-### Secțiunea 4
+**Secțiunea 4**
 
 **Furnizarea planurilor preliminare de disponibilitate pe un an**
 
@@ -4563,7 +4472,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 787\. Înainte de data de 15 noiembrie a fiecărui an calendaristic, sau într-un alt termen stabilit în acorduri bilaterale, OST obține de la OST din țările vecine planurile coordonate de disponibilitate pentru anul calendaristic următor pentru toate activele interne relevante.
 
-### Secțiunea 5
+**Secțiunea 5**
 
 **Validarea planurilor de disponibilitate**
 
@@ -4581,7 +4490,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 2) notifică măsurile luate OSD sau OSDI afectați, inclusiv justificarea acestor măsuri, impactul raportat de către părțile afectate.
 
-### Secțiunea 6
+**Secțiunea 6**
 
 **Planul final de disponibilitate pe un an**
 
@@ -4595,7 +4504,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 794\. Înainte de data de 1 decembrie a fiecărui an calendaristic, OST furnizează OSDI relevant planurile sale finale de disponibilitate pe un an a fiecărui activ intern relevant aflat într-un sistem de distribuție închis.
 
-### Secțiunea 7
+**Secțiunea 7**
 
 **Actualizarea planului final de disponibilitate pe un an**
 
@@ -4627,7 +4536,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 **Executarea planului de disponibilitate**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Procedura de tratare a retragerilor forțate din exploatare**
 
@@ -4649,7 +4558,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 804\. În cazul în care OST constată că una sau mai multe retrageri forțate din exploatare ar putea scoate sistemul de transport din starea normală de funcționare, el informează operatorul sau operatorii afectați cu privire la termenul în care siguranța în funcționare nu mai poate fi menținută decât dacă activul sau activele lor relevante în retragere forțată din exploatare revin la starea „disponibil”. Operatorii informează OST dacă sunt capabili să respecte termenul respectiv și furnizează justificări întemeiate dacă nu sunt în măsură să respecte acest termen.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Executarea în timp real a planurilor**
 
@@ -4671,7 +4580,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 **Servicii tehnologice de sistem**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Servicii tehnologice de sistem**
 
@@ -4687,7 +4596,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 813\. OST comunică nivelul disponibil al rezervelor de putere activă altor OST, la cerere.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Servicii tehnologice de sistem pentru puterea reactivă**
 
@@ -4713,7 +4622,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 **Programare**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Notificarea programelor**
 
@@ -4729,7 +4638,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 818\. Notificare programelor se realizează cu luarea în considerare a prevederilor Titlului V din Regulile pieței energiei electrice, aprobate de Agenție.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Programarea UP/CD**
 
@@ -4737,7 +4646,7 @@ Metodologiile în baza cărora sunt elaborate modele individuale de rețea, sunt
 
 820\. Procedurile elaborate de OST trebuie să fie conforme cu cerințele Legii nr. 107/2016 cu privire la energia electrică și actele normative de reglementare aprobate de către Agenție.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Declarații de Disponibilitate**
 
@@ -4841,7 +4750,7 @@ f) exporturile și importurile stabilite cu alte țări, separat pentru fiecare 
 
 841\. NF aprobate reprezintă obligații ferme pentru PRE respectiv, ele putând fi modificate doar în cazurile prevăzute la Subsecțiunea 2 din Secțiunea curentă.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Compensarea dezechilibrelor în D-1**
 
@@ -4901,7 +4810,7 @@ f) exporturile și importurile stabilite cu alte țări, separat pentru fiecare 
 
 854\. Toate operațiile descrise în prezentă Secțiune sunt înregistrate la OST cu eticheta de timp și numele operatorului.
 
-### Secțiunea 4
+**Secțiunea 4**
 
 **Coerența programelor**
 
@@ -4909,7 +4818,7 @@ f) exporturile și importurile stabilite cu alte țări, separat pentru fiecare 
 
 856\. OST trebuie să verifice că toate programele de schimburi cu alte sisteme în capacitate de schimb agregată sunt echilibrate. În cazul în care apare o nepotrivire și OST nu cade de acord în privința programului schimburilor cu un alt OST în capacitate de schimb agregată, se aplică valoarea cea mai mică.
 
-### Secțiunea 5
+**Secțiunea 5**
 
 **Furnizarea de informații către alți OST**
 
@@ -4929,7 +4838,7 @@ f) exporturile și importurile stabilite cu alte țări, separat pentru fiecare 
 
 **Adecvanța**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Analiza adecvanței zonei de reglaj**
 
@@ -4953,7 +4862,7 @@ c) potențialul consum comandabil.
 
 862\. Cât mai curând posibil după evaluarea absenței adecvanței în zona sa de reglaj, OST informează în acest sens OST vecini și orice altă parte afectată.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Analiza adecvanței zonei de reglaj în intervalul**
 
@@ -4991,7 +4900,7 @@ c) potențialul consum comandabil.
 
 **CALITATEA FRECVENȚEI**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Parametrii care definesc calitatea frecvenței**
 
@@ -5015,7 +4924,7 @@ c) potențialul consum comandabil.
 
 868\. OST propune și întreprinde toate măsurile necesare întru respectarea valorilor parametrilor care definesc calitatea frecvenței.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Parametrii-țintă pentru ARRF și criteriile de evaluare a**
 
@@ -5043,7 +4952,7 @@ c) potențialul consum comandabil.
 
 875\. OST conlucrează cu OST din cadrul blocului RFP întru elaborarea și întreprinderea măsurilor necesare întru respectarea valorilor parametrilor care definesc calitatea frecvenței și ale parametrilor-țintă pentru calitatea frecvenței.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Perioada de variație a sarcinii**
 
@@ -5063,7 +4972,7 @@ c) potențialul consum comandabil.
 
 **STRUCTURA REGLAJULUI FRECVENȚĂ-PUTERE**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Structura de bază**
 
@@ -5075,7 +4984,7 @@ c) potențialul consum comandabil.
 
 2) o structură de responsabilitate.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Structura de activare și de responsabilitate**
 
@@ -5137,7 +5046,7 @@ c) potențialul consum comandabil.
 
 890\. OST are dreptul de a forma un bloc RFP cu alți OST.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Procesul de stabilizare a frecvenței**
 
@@ -5149,7 +5058,7 @@ c) potențialul consum comandabil.
 
 894\. Utilizatorii de sistem calificați pentru procesului de stabilizare a frecvenței vor coopera cu OST întru implementarea procesului și asigurarea RSF conform indicațiilor OST.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Procesul de restabilire a frecvenței**
 
@@ -5193,7 +5102,7 @@ c) potențialul consum comandabil.
 
 2) să ia în considerare ARRF din întregul bloc RFP la calculul valorii de referință pentru activarea aRRF, în plus față de ARRF din zona sa RFP.
 
-### Secțiunea 4
+**Secțiunea 4**
 
 **Procesul de înlocuire a rezervelor**
 
@@ -5205,7 +5114,7 @@ c) potențialul consum comandabil.
 
 904\. PIR se operează prin instrucțiunile de activare manuală a RI în vederea îndeplinirii obiectivului de reglaj.
 
-### Secțiunea 5
+**Secțiunea 5**
 
 **Procesul de compensare a dezechilibrelor**
 
@@ -5229,7 +5138,7 @@ c) potențialul consum comandabil.
 
 909\. OST implementează transferul de putere la compensarea dezechilibrelor astfel încât să nu se depășească cantitatea reală a RRF activate, necesară pentru reglarea la zero a ARRF, fără transfer de putere la compensarea dezechilibrelor.
 
-### Secțiunea 6
+**Secțiunea 6**
 
 **Procesul de activare a RRF transfrontaliere**
 
@@ -5255,7 +5164,7 @@ c) potențialul consum comandabil.
 
 914\. Procesul de activare a RRF transfrontaliere trebuie să includă un mecanism de rezervă care să asigure că transferul de putere la restabilirea frecvenței este zero sau este limitat la o valoare la care poate fi garantată siguranța în funcționare.
 
-### Secțiunea 7
+**Secțiunea 7**
 
 **Procesul de activare a RI transfrontaliere**
 
@@ -5285,7 +5194,7 @@ c) potențialul consum comandabil.
 
 **OPERAREA REGLAJULUI FRECVENȚĂ-PUTERE**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Stările sistemului legate de frecvența sistemului**
 
@@ -5317,7 +5226,7 @@ c) potențialul consum comandabil.
 
 **REZERVE PENTRU STABILIZAREA FRECVENȚEI**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Dimensionarea RSF**
 
@@ -5325,7 +5234,7 @@ c) potențialul consum comandabil.
 
 926\. Valoarea RSF necesară a fi asigurată în sistemul electroenergetic național este stabilită în conformitate cu obligația de RSF care revine sistemului electroenergetic național în cadrul zonei sincrone din care face parte. Valoarea RSF necesară a fi asigurată în sistemul electroenergetic național se notifică Agenției.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Cerințe tehnice minime pentru RSF**
 
@@ -5373,7 +5282,7 @@ c) potențialul consum comandabil.
 
 936\. La cererea OST și dacă este necesar pentru verificarea activării RSF, furnizorul de RSF pune la dispoziție informațiile solicitate privind instalațiile tehnice care fac parte din aceeași unitate furnizoare de RSF.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Procesul de calificare prealabilă pentru RSF**
 
@@ -5391,7 +5300,7 @@ c) potențialul consum comandabil.
 
 940\. La solicitarea OST producătorii vor prezenta informația necesară și vor realiza testele necesare pentru procesul de calificare pentru RSF.
 
-### Secțiunea 4
+**Secțiunea 4**
 
 **Furnizarea de RSF**
 
@@ -5419,7 +5328,7 @@ c) potențialul consum comandabil.
 
 **REZERVE PENTRU RESTABILIREA FRECVENȚEI**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Dimensionarea RRF**
 
@@ -5447,7 +5356,7 @@ c) potențialul consum comandabil.
 
 951\. OST trebuie să aibă o capacitate de rezervă suficientă pe RRF, în orice moment.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Cerințe tehnice minime pentru RRF**
 
@@ -5489,7 +5398,7 @@ b) puterea activă instantanee cu marcă de timp pentru:
 
 956\. OST asigură monitorizarea conformității cu cerințele tehnice minime pentru RRF, cu cerințele privind disponibilitatea RRF, cu cerințele privind viteza de variație a sarcinii și cu cerințele de racordare prin intermediul unităților furnizoare de RRF și al grupurilor furnizoare de RRF.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Procesul de calificare prealabilă pentru RRF**
 
@@ -5513,7 +5422,7 @@ b) puterea activă instantanee cu marcă de timp pentru:
 
 **REZERVE DE ÎNLOCUIRE**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Dimensionarea RI**
 
@@ -5543,7 +5452,7 @@ b) puterea activă instantanee cu marcă de timp pentru:
 
 968\. OST trebuie să dispună în orice moment de o capacitate de rezervă suficientă pe RI în conformitate cu regulile de dimensionare a RI. OST precizează, în acordul operațional în blocul RFP, o procedură de escaladare pentru situațiile de risc grav de capacitate de rezervă insuficientă pe RI.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Cerințe tehnice minime pentru RI**
 
@@ -5575,7 +5484,7 @@ b) puterea activă instantanee cu marcă de timp, pentru fiecare unitate furnizo
 
 973\. OST asigură monitorizarea conformității și respectarea cerințelor tehnice pentru RI, cerințelor privind disponibilitatea RI și cerințelor de racordare în ceea ce privește unitățile sale furnizoare de RI și grupurile sale furnizoare de RI.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Procesul de calificare prealabilă pentru RI**
 
@@ -5599,7 +5508,7 @@ b) puterea activă instantanee cu marcă de timp, pentru fiecare unitate furnizo
 
 **SCHIMBUL ȘI PARTAJAREA DE REZERVE**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Schimbul și partajarea de RSF într-o zonă sincronă**
 
@@ -5619,7 +5528,7 @@ b) puterea activă instantanee cu marcă de timp, pentru fiecare unitate furnizo
 
 984\. OST nu partajează RSF cu alți OST pentru a-și îndeplini RSF obligatorie.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Schimbul și partajarea de RRF și de RI**
 
@@ -5653,7 +5562,7 @@ b) puterea activă instantanee cu marcă de timp, pentru fiecare unitate furnizo
 
 989\. OST de comun acord cu OST din blocul RFP din care face parte sistemul electroenergetic național, definește în acordul operațional în blocul RFP, rolurile și responsabilitățile OST în ceea ce privește schimbul sau partajarea de RRF și/sau de RI cu OST din alte blocuri RFP.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Schimbul și partajarea de RSF, RRF și de RI**
 
@@ -5703,7 +5612,7 @@ b) puterea activă instantanee cu marcă de timp, pentru fiecare unitate furnizo
 
 **FUNCȚII ȘI RESPONSABILITĂȚI**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Rolul operatorului sistemului de transport**
 
@@ -5713,7 +5622,7 @@ b) puterea activă instantanee cu marcă de timp, pentru fiecare unitate furnizo
 
 1001\. OST aplică un model de autodispecerizare pentru a stabili programele de producere și de consum.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Cooperarea cu operatorii de sisteme de distribuție**
 
@@ -5723,7 +5632,7 @@ b) puterea activă instantanee cu marcă de timp, pentru fiecare unitate furnizo
 
 1004\. Operatorii de sisteme de distribuție raportează OST orice limite, care ar putea afecta îndeplinirea cerințelor prevăzute în prezentul cod.
 
-### Secțiunea 3
+**Secțiunea 3**
 
 **Rolul furnizorilor de servicii de echilibrare**
 
@@ -5743,7 +5652,7 @@ b) puterea activă instantanee cu marcă de timp, pentru fiecare unitate furnizo
 
 1012\. În cazul fiecărui produs de energie de echilibrare sau de capacitate pentru echilibrare, unitatea de furnizare a rezervelor, grupul de furnizare a rezervelor, locul de consum sau terțul și părțile asociate responsabile trebuie să aparțină aceleiași zone de programare.
 
-### Secțiunea 4
+**Secțiunea 4**
 
 **Rolul părților responsabile cu echilibrarea**
 
@@ -5753,7 +5662,7 @@ b) puterea activă instantanee cu marcă de timp, pentru fiecare unitate furnizo
 
 1015\. Fiecare parte responsabilă cu echilibrarea poate modifica programele pentru a-și ajusta poziția contractuală în conformitate cu cerințele Regulilor pieței energiei electrice, aprobate de ANRE.
 
-### Secțiunea 5
+**Secțiunea 5**
 
 **Clauze și condiții în materie de echilibrare**
 
@@ -5793,11 +5702,11 @@ b) puterea activă instantanee cu marcă de timp, pentru fiecare unitate furnizo
 
 **SERVICIILE DE ECHILIBRARE**
 
-### Capitolul 1
+**Capitolul 1**
 
 **Energia de echilibrare**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Activarea ofertelor de energie de echilibrare**
 
@@ -5823,7 +5732,7 @@ b) puterea activă instantanee cu marcă de timp, pentru fiecare unitate furnizo
 
 1035\. OST poate solicita activarea ofertelor de energie de echilibrare din listele cu ordine de merit economic până la cantitatea totală a energiei de echilibrare disponibilă. Cantitatea totală a energiei de echilibrare care poate fi activată de către OST este suma cantităților din ofertele de energie de echilibrare din listele cu ordine de merit comune sau interne.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Funcția de optimizare a activării**
 
@@ -5855,11 +5764,11 @@ b) puterea activă instantanee cu marcă de timp, pentru fiecare unitate furnizo
 
 1042\. Cu excepția cazului în care sistemul se află în starea normală de funcționare, OST pot decide să echilibreze sistemul utilizând numai ofertele de energie de echilibrare primite din partea furnizorilor de servicii de echilibrare din sistemul electroenergetic național, în cazul în care această decizie contribuie la atenuarea severității stării actuale a sistemului.
 
-### Capitolul II
+**Capitolul II**
 
 **Capacitatea pentru echilibrare**
 
-### Secțiunea 1
+**Secțiunea 1**
 
 **Norme privind achizițiile**
 
@@ -5873,7 +5782,7 @@ b) puterea activă instantanee cu marcă de timp, pentru fiecare unitate furnizo
 
 1044\. OST achiziționează capacitate pentru echilibrare pe piața serviciilor de sistem în conformitate cu prevederile Regulilor pieței energiei electrice.
 
-### Secțiunea 2
+**Secțiunea 2**
 
 **Schimbul de capacitate pentru echilibrare**
 
@@ -5987,7 +5896,7 @@ _ANEXA 3_
 
 - - - - 1.  **Răspunsul la frecvență**
 
-<div class="joplin-table-wrapper"><table><tbody><tr><td><p></p></td><td><p>1.</p></td><td><p>Atunci când operează în modul de răspuns la frecvență (RFA):</p><table><tbody><tr><td><p>(a)</p></td><td><p>sistemul HVDC trebuie să fie capabil să răspundă la abaterile de frecvență din fiecare rețea de curent alternativ conectată prin ajustarea transportului puterii active, așa cum se arată în figura 10 și în conformitate cu parametrii specificați de către OST, în limitele indicate în tabelul 11. Această specificație face obiectul unei notificări către Agenției. Modalitățile de realizare a acestei notificări se stabilesc în conformitate cu cadrul de reglementare național aplicabil;</p></td></tr></tbody></table><p></p><table><tbody><tr><td><p>(b)</p></td><td><p>ajustarea răspunsului la frecvență al puterii active este limitată de capacitatea minimă de transport al puterii active a sistemului HVDC și de capacitatea maximă de transport al puterii active a sistemului HVDC (în fiecare direcție).</p><p></p><img src=""><p><strong>Figura 10 - </strong>Capacitatea de răspuns la abaterile de frecvență a unui sistem HVDC în mod RFA, ilustrând cazul bandă moartă și bandă de insensibilitate zero cu o valoare de consemn pozitivă a puterii active (mod import). ΔΡ este variația puterii active din sistemul HVDC. fn este frecvența țintă în rețeaua de curent alternativ în cazul în care FSM este furnizat serviciul RFA, iar Δf este abaterea de frecvență din rețeaua de curent alternativ în care este furnizat serviciul FSM.</p><p></p><p><strong>Tabelul 1 - Parametri pentru răspunsul la abaterile de frecvență în RFA</strong></p><p></p><table><tbody><tr><td><p><strong>Parametri</strong></p></td><td><p><strong>Intervale</strong></p></td></tr><tr><td><p>Bandă moartă pentru răspunsul la frecvență</p></td><td><p>0-±500 mHz</p></td></tr><tr><td><p>Statism <em>s<sub>1</sub> </em>(reglaj crescător)</p></td><td><p>Minimum 0,1 %</p></td></tr><tr><td><p>Statism <em>s<sub>2</sub></em> (reglaj descrescător)</p></td><td><p>Minimum 0,1 %</p></td></tr><tr><td><p>Marjă de insensibilitate pentru răspunsul la frecvență</p></td><td><p>Maximum 30 mHz</p></td></tr></tbody></table><p></p></td></tr></tbody></table><p></p><table><tbody><tr><td><p>(c)</p></td><td><p>în urma unei instrucțiuni transmise de OST, sistemul HVDC trebuie să poată să ajusteze statismul pentru reglajul crescător și descrescător, banda moartă pentru răspunsul la frecvență și intervalul operațional al variației în limita gamei de putere active disponibile pentru RFA, prezentată în figura 10 și, mai general, în limitele stabilite la literele (a) și (b). Aceste valori fac obiectul unei notificări către Agenție. Modalitățile de realizare a acestei notificări se stabilesc în conformitate cu cadrul de reglementare național aplicabil;</p></td></tr></tbody></table><p></p><table><tbody><tr><td><p>(d)</p></td><td><p>ca urmare a schimbării treptei de frecvență, sistemul HVDC trebuie să permită ajustarea puterii active la răspunsul la abaterile de frecvență definit în figura 10, astfel încât răspunsul să fie:</p><table><tbody><tr><td><p>(i)</p></td><td><p>atât de rapid cât permite capacitatea tehnică;</p></td></tr></tbody></table><p></p><table><tbody><tr><td><p>(ii)</p></td><td><p>pe linia plină sau deasupra acesteia, în conformitate cu figura 11, în conformitate cu parametrii specificați de către OST, în limitele prevăzute în tabelul 12 de mai jos:</p><p></p><table><tbody><tr><td><ul><li>sistemul HVDC trebuie să fie capabil să ajusteze producția de putere activă ΔΡ până la limita intervalului de putere activă solicitată de OST în conformitate cu t<sub>1</sub> și t<sub>2</sub> potrivit limitelor din tabelul 12, unde t<sub>1</sub> este intervalul inițial, iar t<sub>2</sub> este timpul pentru activarea completă. Valorile pentru t<sub>1</sub> și t<sub>2</sub> se specifică de către OST, sub rezerva notificării Agenției. Modalitățile de realizare a acestei notificări se stabilesc în conformitate cu cadrul de reglementare național aplicabil;</li></ul></td><td><p></p></td></tr></tbody></table><ul><li>dacă intervalul inițial de activare este mai mare de 0,5 s, gestionarul sistemului HVDC trebuie să justifice acest lucru în mod rezonabil în fața OST.</li></ul><img src=""><p><strong>Figura 11</strong>: Capacitatea de răspuns la abaterile de frecvență a unui sistem HVDC. ΔΡ este variația puterii active declanșate de schimbarea treptei de frecvență.</p><p></p><p><strong>Tabelul 2</strong> - Parametri pentru activarea în întregime a răspunsului la abaterile de frecvență care rezultă din schimbarea treptei de frecvență.</p><table><tbody><tr><td><p><strong>Parametri</strong></p></td><td><p><strong>Timp</strong></p></td></tr><tr><td><p>Intervalul inițial maxim admisibil <em>t<sub>1</sub></em></p></td><td><p>0,5 secunde</p></td></tr><tr><td><p>Durata maximă admisibilă pentru activarea completă <em>t<sub>2</sub></em>, cu excepția cazului în care OST specifică durate de activare mai mari</p></td><td><p>30 de secunde</p></td></tr></tbody></table><p></p></td></tr></tbody></table><p></p></td></tr></tbody></table><p></p><table><tbody><tr><td><p>(e)</p></td><td><p>pentru sistemele HVDC care leagă diferite zone de reglaj sau zone sincrone, în modul de funcționare RFA, sistemul HVDC trebuie să poată ajusta răspunsul integral la frecvență/putere activă în orice moment și pentru o perioadă de timp neîntreruptă;</p></td></tr></tbody></table><p></p><table><tbody><tr><td><p>(f)</p></td><td><p>atâta timp cât continuă abaterile de frecvență, reglajul puterii active nu trebuie să aibă niciun impact negativ asupra răspunsului la abaterile de frecvență.</p></td></tr></tbody></table><p></p></td></tr></tbody></table></div>
+<div class="joplin-table-wrapper"><table><tbody><tr><td><p></p></td><td><p>1.</p></td><td><p>Atunci când operează în modul de răspuns la frecvență (RFA):</p><table><tbody><tr><td><p>(a)</p></td><td><p>sistemul HVDC trebuie să fie capabil să răspundă la abaterile de frecvență din fiecare rețea de curent alternativ conectată prin ajustarea transportului puterii active, așa cum se arată în figura 10 și în conformitate cu parametrii specificați de către OST, în limitele indicate în tabelul 11. Această specificație face obiectul unei notificări către Agenției. Modalitățile de realizare a acestei notificări se stabilesc în conformitate cu cadrul de reglementare național aplicabil;</p></td></tr></tbody></table><p></p><table><tbody><tr><td><p>(b)</p></td><td><p>ajustarea răspunsului la frecvență al puterii active este limitată de capacitatea minimă de transport al puterii active a sistemului HVDC și de capacitatea maximă de transport al puterii active a sistemului HVDC (în fiecare direcție).</p><p></p><img src=""><p><strong>Figura 10 - </strong>Capacitatea de răspuns la abaterile de frecvență a unui sistem HVDC în mod RFA, ilustrând cazul bandă moartă și bandă de insensibilitate zero cu o valoare de consemn pozitivă a puterii active (mod import). ΔΡ este variația puterii active din sistemul HVDC. fn este frecvența țintă în rețeaua de curent alternativ în cazul în care FSM este furnizat serviciul RFA, iar Δf este abaterea de frecvență din rețeaua de curent alternativ în care este furnizat serviciul FSM.</p><p></p><p><strong>Tabelul 1 - Parametri pentru răspunsul la abaterile de frecvență în RFA</strong></p><p></p><table><tbody><tr><td><p><strong>Parametri</strong></p></td><td><p><strong>Intervale</strong></p></td></tr><tr><td><p>Bandă moartă pentru răspunsul la frecvență</p></td><td><p>0-±500&nbsp;mHz</p></td></tr><tr><td><p>Statism <em>s<sub>1</sub> </em>(reglaj crescător)</p></td><td><p>Minimum 0,1 %</p></td></tr><tr><td><p>Statism <em>s<sub>2</sub></em> (reglaj descrescător)</p></td><td><p>Minimum 0,1 %</p></td></tr><tr><td><p>Marjă de insensibilitate pentru răspunsul la frecvență</p></td><td><p>Maximum 30 mHz</p></td></tr></tbody></table><p></p></td></tr></tbody></table><p></p><table><tbody><tr><td><p>(c)</p></td><td><p>în urma unei instrucțiuni transmise de OST, sistemul HVDC trebuie să poată să ajusteze statismul pentru reglajul crescător și descrescător, banda moartă pentru răspunsul la frecvență și intervalul operațional al variației în limita gamei de putere active disponibile pentru RFA, prezentată în figura 10 și, mai general, în limitele stabilite la literele (a) și (b). Aceste valori fac obiectul unei notificări către Agenție. Modalitățile de realizare a acestei notificări se stabilesc în conformitate cu cadrul de reglementare național aplicabil;</p></td></tr></tbody></table><p></p><table><tbody><tr><td><p>(d)</p></td><td><p>ca urmare a schimbării treptei de frecvență, sistemul HVDC trebuie să permită ajustarea puterii active la răspunsul la abaterile de frecvență definit în figura 10, astfel încât răspunsul să fie:</p><table><tbody><tr><td><p>(i)</p></td><td><p>atât de rapid cât permite capacitatea tehnică;</p></td></tr></tbody></table><p></p><table><tbody><tr><td><p>(ii)</p></td><td><p>pe linia plină sau deasupra acesteia, în conformitate cu figura 11, în conformitate cu parametrii specificați de către OST, în limitele prevăzute în tabelul 12 de mai jos:</p><p></p><table><tbody><tr><td><ul><li>sistemul HVDC trebuie să fie capabil să ajusteze producția de putere activă ΔΡ până la limita intervalului de putere activă solicitată de OST în conformitate cu t<sub>1</sub> și t<sub>2</sub> potrivit limitelor din tabelul 12, unde t<sub>1</sub> este intervalul inițial, iar t<sub>2</sub> este timpul pentru activarea completă. Valorile pentru t<sub>1</sub> și t<sub>2</sub> se specifică de către OST, sub rezerva notificării Agenției. Modalitățile de realizare a acestei notificări se stabilesc în conformitate cu cadrul de reglementare național aplicabil;</li></ul></td><td><p></p></td></tr></tbody></table><ul><li>dacă intervalul inițial de activare este mai mare de 0,5 s, gestionarul sistemului HVDC trebuie să justifice acest lucru în mod rezonabil în fața OST.</li></ul><img src=""><p><strong>Figura 11</strong>: Capacitatea de răspuns la abaterile de frecvență a unui sistem HVDC. ΔΡ este variația puterii active declanșate de schimbarea treptei de frecvență.</p><p></p><p><strong>Tabelul 2</strong> - Parametri pentru activarea în întregime a răspunsului la abaterile de frecvență care rezultă din schimbarea treptei de frecvență.</p><table><tbody><tr><td><p><strong>Parametri</strong></p></td><td><p><strong>Timp</strong></p></td></tr><tr><td><p>Intervalul inițial maxim admisibil <em>t<sub>1</sub></em></p></td><td><p>0,5&nbsp;secunde</p></td></tr><tr><td><p>Durata maximă admisibilă pentru activarea completă <em>t<sub>2</sub></em>, cu excepția cazului în care OST specifică durate de activare mai mari</p></td><td><p>30 de secunde</p></td></tr></tbody></table><p></p></td></tr></tbody></table><p></p></td></tr></tbody></table><p></p><table><tbody><tr><td><p>(e)</p></td><td><p>pentru sistemele HVDC care leagă diferite zone de reglaj sau zone sincrone, în modul de funcționare RFA, sistemul HVDC trebuie să poată ajusta răspunsul integral la frecvență/putere activă în orice moment și pentru o perioadă de timp neîntreruptă;</p></td></tr></tbody></table><p></p><table><tbody><tr><td><p>(f)</p></td><td><p>atâta timp cât continuă abaterile de frecvență, reglajul puterii active nu trebuie să aibă niciun impact negativ asupra răspunsului la abaterile de frecvență.</p></td></tr></tbody></table><p></p></td></tr></tbody></table></div>
 
 **B. Răspunsul la abaterile de frecvență – creșterea frecvenței**
 

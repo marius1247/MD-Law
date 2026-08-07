@@ -13,7 +13,8 @@ updated: 2026-08-07
 **RO:** indicatori generali / garantați de continuitate · **EN:** continuity-of-supply indices
 
 ## Legal home
-Defined and applied in [[HANRE 537-2020 — calitate servicii transport distributie EE (text)|HANRE 537/2020]] (QoS regulation for electricity TSO/DSO), with compensation / tariff-reduction magnitudes in its Annex 3. Patched by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|833/2023]]. Enabling historically under L107/2016 art. 54 → check [[Legea 164-2025 — energia electrica (notă)|L164/2025]].
+* **Electricity:** [[HANRE 537-2020 — calitate servicii transport distributie EE (text)|HANRE 537/2020]] (Annex 3 magnitudes). Patched by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|833/2023]]. Historical L107 art. 54 → check [[Legea 164-2025 — energia electrica (notă)|L164/2025]].
+* **Gas:** [[HANRE 422-2019 — calitate servicii transport distributie gaze (text)|HANRE 422/2019]] — continuity (SAIDI/SAIFI/CAIDI) + quality/pressure; tariff cut **up to 10%** and/or individual compensations.
 
 ## Definition
 * **SAIDI** — average interruption **duration** per system user (long interruptions >3 min).

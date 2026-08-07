@@ -24,6 +24,12 @@ updated: 2026-08-07
 | `147716` | [`147716-147716_966a.pdf`](147716-147716_966a.pdf) · [`147716.txt`](147716.txt) | `10 Legislation/Government Decisions/HG 158-2025 — modificare norme cheltuieli institutii sociale (text).md` *(peripheral)* |
 | `147843` | [`147843-147843_3f1e.pdf`](147843-147843_3f1e.pdf) · [`147843.txt`](147843.txt) | `10 Legislation/Laws/Legea 45-2025 — garantiile avizelor de racordare si tolerante dezechilibre (text).md` |
 | `148066` | [`148066-148066_6246.pdf`](148066-148066_6246.pdf) · [`148066.txt`](148066.txt) | `10 Legislation/Government Decisions/HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (text).md` *(methodology annex missing)* |
+| `148399` | [`148399-148399_4415.pdf`](148399-148399_4415.pdf) · [`148399.txt`](148399.txt) | `10 Legislation/Laws/Legea 88-2025 — utilitate publica LEA 400 kV Balti-Suceava (text).md` |
+| `148535` | [`148535-148535_1749.pdf`](148535-148535_1749.pdf) · [`148535.txt`](148535.txt) | `10 Legislation/Government Decisions/HG 302-2025 — modificare HG 668-2022 stocuri securitate gaze (text).md` |
+| `148815` | [`148815-148815_4cf9.pdf`](148815-148815_4cf9.pdf) · [`148815.txt`](148815.txt) | `10 Legislation/Government Decisions/HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile (text).md` *(annex 2 missing)* |
+| `149130` | [`149130-149130_5fcb.pdf`](149130-149130_5fcb.pdf) · [`149130.txt`](149130.txt) | `10 Legislation/Authority Acts/HANRE 422-2019 — calitate servicii transport distributie gaze (text).md` *(decision-only)* |
+| `150581` | [`150581-150581_da5b.pdf`](150581-150581_da5b.pdf) · [`150581.txt`](150581.txt) | `10 Legislation/Laws/Legea 227-2025 — optimizarea actelor permisive (text).md` |
+| `150831` | [`150831-150831_eeb7.pdf`](150831-150831_eeb7.pdf) · [`150831.txt`](150831.txt) | `10 Legislation/Government Decisions/HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (text).md` |
 | `121240` | [`121240.md`](121240.md) | `10 Legislation/Laws/Legea 183-2012 — concurenta (text).md` |
 | `140021` | [`140021.md`](140021.md) | `10 Legislation/Authority Acts/HANRE 486-2017 — Metodologie tarife transport EE (text).md` |
 | `142654` | [`142654.md`](142654.md) | `10 Legislation/Laws/Legea 235-2006 — principii reglementare intreprinzator (text).md` |
@@ -194,5 +200,16 @@ updated: 2026-08-07
 | `147843` | [`147843-147843_3f1e.pdf`](147843-147843_3f1e.pdf) · [`147843.txt`](147843.txt) | `10 Legislation/Laws/Legea 45-2025 — garantiile avizelor de racordare si tolerante dezechilibre (text).md` |
 | `148066` | [`148066-148066_6246.pdf`](148066-148066_6246.pdf) · [`148066.txt`](148066.txt) | `10 Legislation/Government Decisions/HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (text).md` *(methodology annex missing)* |
 
+## PDF batch 2026-08-07f — energy (batch 6)
+
+| doc_id | Raw file | Vault location |
+|---|---|---|
+| `148815` | [`148815-148815_4cf9.pdf`](148815-148815_4cf9.pdf) · [`148815.txt`](148815.txt) | `10 Legislation/Government Decisions/HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile (text).md` *(annex 2 missing)* |
+| `149130` | [`149130-149130_5fcb.pdf`](149130-149130_5fcb.pdf) · [`149130.txt`](149130.txt) | `10 Legislation/Authority Acts/HANRE 422-2019 — calitate servicii transport distributie gaze (text).md` *(decision-only)* |
+| `150581` | [`150581-150581_da5b.pdf`](150581-150581_da5b.pdf) · [`150581.txt`](150581.txt) | `10 Legislation/Laws/Legea 227-2025 — optimizarea actelor permisive (text).md` |
+| `150831` | [`150831-150831_eeb7.pdf`](150831-150831_eeb7.pdf) · [`150831.txt`](150831.txt) | `10 Legislation/Government Decisions/HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (text).md` |
+| `148399` | [`148399-148399_4415.pdf`](148399-148399_4415.pdf) · [`148399.txt`](148399.txt) | `10 Legislation/Laws/Legea 88-2025 — utilitate publica LEA 400 kV Balti-Suceava (text).md` |
+| `148535` | [`148535-148535_1749.pdf`](148535-148535_1749.pdf) · [`148535.txt`](148535.txt) | `10 Legislation/Government Decisions/HG 302-2025 — modificare HG 668-2022 stocuri securitate gaze (text).md` |
+
 ## See also
-[[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — PDF batch 2026-08-07 (4)]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]
+[[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — PDF batch 2026-08-07 (4)]] · [[Status ingestie — PDF batch 2026-08-07 (5)]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]

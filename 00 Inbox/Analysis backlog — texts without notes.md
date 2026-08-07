@@ -146,4 +146,15 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 | [[HG 158-2025 — modificare norme cheltuieli institutii sociale (text)]] | [[HG 158-2025 — modificare norme cheltuieli institutii sociale (notă)]] ⚠️ peripheral |
 | [[HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (text)]] | [[HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (notă)]] ⚠️ methodology annex missing · [[Concept — Garanții de origine (cogenerare HE)]] |
 
-Optional next: **PNIEC annex**, **HG 197 methodology annex**, **HG 1059/2023**, **535/355/537** methodology annexes, **422/2019**, **HG 74/2025** annex, **L282/2023** parent.
+## Batch 12 — energy PDF (2026-08-07f) ✅
+
+| Act | Note |
+|---|---|
+| [[Legea 88-2025 — utilitate publica LEA 400 kV Balti-Suceava (text)]] | [[Legea 88-2025 — utilitate publica LEA 400 kV Balti-Suceava (notă)]] |
+| [[Legea 227-2025 — optimizarea actelor permisive (text)]] | [[Legea 227-2025 — optimizarea actelor permisive (notă)]] |
+| [[HG 302-2025 — modificare HG 668-2022 stocuri securitate gaze (text)]] | [[HG 302-2025 — modificare HG 668-2022 stocuri securitate gaze (notă)]] |
+| [[HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile (text)]] | [[HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile (notă)]] ⚠️ annex 2 · [[Concept — Facturare netă]] |
+| [[HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (text)]] | [[HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (notă)]] |
+| [[HANRE 422-2019 — calitate servicii transport distributie gaze (text)]] | [[HANRE 422-2019 — calitate servicii transport distributie gaze (notă)]] ⚠️ decision-only |
+
+Optional next: **PNIEC annex**, **HG 197 methodology**, **422/537 QoS annexes**, **HG 401/2021** + HG 329 annex 2, **HG 1059/2023**, **HG 668/2022**, **535/355** methodology annexes, **HG 74/2025** annex, **L282/2023** parent.

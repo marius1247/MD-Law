@@ -77,6 +77,17 @@ Other newly relevant amendment/transition acts now present:
 | [[HG 156-2025 — modificare HG 1059-2023 PSO securitate EE (text)\|HG 156/2025]] | ✅ complete amend | Extends PSO to 31.12.2025; parent 1059 ❌ |
 | [[HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (text)\|HG 197/2025]] | ⚠️ methodology annex missing | HG 297 reference tables present · [[Concept — Garanții de origine (cogenerare HE)]] |
 
+## ✅ Ingested 2026-08-07f — interconnect / quotas / permissive / QoS PDFs
+
+| Act | Status | Notes |
+|---|---|---|
+| [[Legea 88-2025 — utilitate publica LEA 400 kV Balti-Suceava (text)\|LP88/2025]] | ✅ complete | Bălți–Suceava public utility |
+| [[Legea 227-2025 — optimizarea actelor permisive (text)\|LP227/2025]] | ✅ complete omnibus | Energy slices L461/L92/L10/L108 |
+| [[HG 302-2025 — modificare HG 668-2022 stocuri securitate gaze (text)\|HG 302/2025]] | ✅ complete | **50 mcm** by 1.10.2025 |
+| [[HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile (text)\|HG 329/2025]] | ⚠️ annex 2 missing | Net-billing quotas · [[Concept — Facturare netă]] |
+| [[HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (text)\|HG 596/2025]] | ✅ complete | Patches 1037/517/26 |
+| [[HANRE 422-2019 — calitate servicii transport distributie gaze (text)\|HANRE 422/2019]] | ⚠️ decision-only | Gas QoS annex missing |
+
 ## ❌ Still incomplete / decision-only
 
 | Act | Problem | Priority |
@@ -91,6 +102,9 @@ Other newly relevant amendment/transition acts now present:
 | [[HG 86-2025 — Plan national integrat energie clima 2025-2030 (text)\|HG 86/2025]] | **PNIEC 2025–2030 annex missing** | High for strategy / RES quota opinions |
 | [[HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (text)\|HG 197/2025]] | **methodology annex missing** (HG 297 tables OK) | High for HE-CHP GO certification |
 | HG **1059/2023** security PSO | parent not ingested; [[HG 156-2025 — modificare HG 1059-2023 PSO securitate EE (text)\|156/2025]] ✅ | Medium |
+| [[HANRE 422-2019 — calitate servicii transport distributie gaze (text)\|HANRE 422/2019]] | **decision-only; QoS annex missing** | Medium — gas compensation |
+| [[HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile (text)\|HG 329/2025]] | **annex 2 missing**; parent HG 401/2021 ❌ | High for net-billing sizing |
+| HG **668/2022** security stocks parent | not ingested; [[HG 302-2025 — modificare HG 668-2022 stocuri securitate gaze (text)\|302/2025]] ✅ (50 mcm) | Medium |
 
 ## Electricity transition map — L107 to L164
 

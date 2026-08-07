@@ -24,6 +24,9 @@ legal_status: in_vigoare
 > [!danger] L107 / 168 currency
 > Enabling cite is **L107/2016**; connection regulation cite is **HANRE 168/2019** — both superseded. Remap to **L164/2025** + **HANRE 311/2026** before 2026 litigation.
 
+> [!important] Patched by HG 596/2025
+> [[HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (notă)|HG 596/2025]] extends this PSO to **balancing-capacity auction winners**, remaps the enabling clause to **L164 art. 4(1)(e), 17(2)–(3)**, and keeps the priority wait-list mechanics — but still cites HANRE 168 in the amended text.
+
 ## Sources
 
-[[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (text)]] — legis.md doc_id `146906` · PDF ingest 2026-08-07.
+[[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (text)]] — legis.md doc_id `146906` · PDF ingest 2026-08-07 · amended [[HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (text)|HG 596/2025]].

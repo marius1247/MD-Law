@@ -5,7 +5,7 @@ domeniu: [energetică]
 tags: [concept, energetică, licențiere]
 status: reviewed
 created: 2026-07-23
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Concept — Licență în energetică
@@ -36,7 +36,7 @@ Art. 18 types now expressly cover activities that L107 treated poorly or not at 
 - [[Legea 164-2025 — energia electrica (text)#Articolul 18. Tipuri de licențe în sectorul electroenergetic.|L164 art. 18]] — licence types
 - [[Legea 164-2025 — energia electrica (text)#Articolul 23. Retragerea licenței|L164 art. 23]] — withdrawal
 - Parallel gas licensing in [[Legea 108-2016 — gazele naturale (text)|L108/2016]]
-- **HANRE 24/2017** *(not ingested)* — procurement by licence-holders → [[MOC — Achiziții publice & Statul]]
+- Licence-holder procurement: historic [[HANRE 24-2017 — achizitii titulari de licenta (abrogata) (notă)|HANRE 24/2017]] **abrogated** by [[HANRE 305-2021 — abrogare HANRE 24-2017 achizitii titulari (notă)|HANRE 305/2021]]; live regime [[Legea 74-2020 — achizitii sectoriale (notă)|L74/2020]] → [[MOC — Achiziții publice & Statul]]
 
 ## Related
 [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Tarif reglementat]] · [[Concept — Furnizor de ultimă opțiune]] · [[ANRE]] · [[Energetică — synthesis]]

@@ -4,12 +4,12 @@ type: reference
 domeniu: [energetică, meta]
 tags: [reference, meta, ingestion, data-quality]
 created: 2026-07-22
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Ingestion status — Energy corpus
 
-**Read this before citing any energy text in this vault.** The core energy corpus has moved from "mostly partial" to **mostly complete** after manual browser downloads on 2026-07-23 and 2026-07-26. The remaining high-value hole is **HANRE 423/2019 electricity network code**, whose annex is still missing.
+**Read this before citing any energy text in this vault.** The core energy corpus has moved from "mostly partial" to **mostly complete** after manual browser downloads on 2026-07-23 and 2026-07-26. **2026-08-07 upload batch** added HANRE 24/305 (procurement repeal), 656 (423 restructuring), 833 (renewables omnibus), 329 (gas TSO tariff amend). The remaining high-value hole is a **clean consolidation of HANRE 423/2019** (656 now supplies Parts I–V substance).
 
 > [!danger] Legal-currency warning, not just a completeness warning
 > [[Legea 107-2016 — energia electrica (text)|L107/2016]] was **repealed** on 19 August 2025 by [[Legea 164-2025 — energia electrica (text)|L164/2025]]. Many pre-2025 electricity HANRE acts were issued under L107 and now need currency checking against L164. Completeness is the *second* thing to check; **currency is the first**.
@@ -58,11 +58,23 @@ Other newly relevant amendment/transition acts now present:
 
 - [[HANRE 177-2026 — modificarea unor hotarari ANRE (text)]] — omnibus ANRE amendment package; check for knock-on amendments before citing affected acts.
 
+## ✅ Ingested 2026-08-07 — user PDF upload batch
+
+| Act | Status | Notes |
+|---|---|---|
+| [[HANRE 24-2017 — achizitii titulari de licenta (abrogata) (text)]] | ✅ body · annexes 1–12 named only · **abrogated** | Historic; [[HANRE 24-2017 — achizitii titulari de licenta (abrogata) (notă)\|notă]] |
+| [[HANRE 305-2021 — abrogare HANRE 24-2017 achizitii titulari (text)]] | ✅ complete | Repeal IF 06.08.2021 → L74/2020 |
+| [[HANRE 656-2021 — modificare Codul retelelor electrice (text)]] | ✅ complete amending act (81 pp.) | Parts I–V substance for 423; repeals 266/267/2007 |
+| [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)]] | ✅ complete | Patches 168/169/537; connection patches superseded by 311/2026 |
+| [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)]] | ✅ complete | Conditional-capacity tariffs; parent 535 still missing |
+
 ## ❌ Still incomplete / decision-only
 
 | Act | Problem | Priority |
 |---|---|---|
-| [[HANRE 423-2019 — Codul retelelor electrice (text)]] | **decision-only; annex missing** | High. Still needed by [[HANRE 311-2026 — racordarea la retelele electrice (notă)]] and technical connection/network-code analysis |
+| [[HANRE 423-2019 — Codul retelelor electrice (text)]] | **decision-only; clean annex consolidation missing** (partial substance via [[HANRE 656-2021 — modificare Codul retelelor electrice (text)\|656/2021]]) | High for point-perfect citations |
+| HANRE **535/2019** gas TSO tariff methodology | parent not ingested; [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)\|329/2025]] ✅ | High for full tariff opinions |
+| HANRE **537/2020** QoS EE | not ingested; patched by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)\|833/2023]] | Medium |
 | [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]] | likely annex/methodology completeness should be rechecked | Medium |
 | [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]] | likely annex/methodology completeness should be rechecked | Medium |
 | [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] | earlier flagged as detached-annex risk | Medium |
@@ -75,7 +87,7 @@ Other newly relevant amendment/transition acts now present:
 | [[HANRE 168-2019 — racordarea la retelele electrice (text)]] | **Abrogated** by [[HANRE 311-2026 — racordarea la retelele electrice (text)]] |
 | [[HANRE 486-2017 — Metodologie tarife transport EE (text)]] | **Abrogated** by [[HANRE 626-2023 — Metodologie tarife transport EE (text)]] |
 | [[HANRE 283-2020 — Regulile pietei energiei electrice (text)]] | Complete annex, amended 2026, but originally L107-based; check for L164 re-adoption/replacement |
-| [[HANRE 423-2019 — Codul retelelor electrice (text)]] | Still decision-only; annex missing; originally L107-based |
+| [[HANRE 423-2019 — Codul retelelor electrice (text)]] | Decision-only parent; [[HANRE 656-2021 — modificare Codul retelelor electrice (text)\|656/2021]] ingested; originally L107-based |
 
 ## Limitation 1 — the ~96 KB fetch ceiling
 
@@ -123,17 +135,18 @@ Procedure/civil/procurement support notes also created because they are needed f
 ## Scope decision (deliberate)
 Individual **tariff decisions and licences** were *not* ingested. ANRE issues these continuously; they date fast and would swamp the graph. Only structural acts — rules, codes, procedures, methodologies — are in scope. Current tariffs: [ANRE › Tarife în vigoare](https://anre.md/tarife-in-vigoare-3-204).
 
-## Newly ingested parents (2026-08-06)
+## Newly ingested parents (2026-08-06 / 2026-08-07)
 
 - [[HANRE 363-2020 — schimbarea furnizorului de gaze (text)]] ✅ — gas supplier switching; companion [[HANRE 363-2020 — schimbarea furnizorului de gaze (notă)]]; amended by [[HANRE 177-2026 — modificarea unor hotarari ANRE (notă)]].
+- 2026-08-07 PDF batch: 24/305, 656, 833, 329 — see table above.
 
 ## Current priorities
 
-1. **Manual download** remaining annexes (legis.md Cloudflare blocks automation): [[HANRE 423-2019 — Codul retelelor electrice (text)]], finish [[HANRE 169-2019 — furnizarea energiei electrice (text)]] past pt. 146, [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]], [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]], [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] annexes — see [[Analysis backlog — texts without notes]].
-2. Ingest still-missing parents: HANRE **853/2025** (balancing T&Cs), **535/2019** (gas transmission tariffs), Laws **461/2001** & **248/2025**.
+1. **Manual download** remaining annexes (legis.md Cloudflare blocks automation): clean consolidation of [[HANRE 423-2019 — Codul retelelor electrice (text)]] (656 helps but is not a consolidation), finish [[HANRE 169-2019 — furnizarea energiei electrice (text)]] past pt. 146, [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]], [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]], [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] annexes — see [[Analysis backlog — texts without notes]].
+2. Ingest still-missing parents: HANRE **853/2025** (balancing T&Cs), **535/2019** (gas transmission tariffs — 329 amend ✅), **537/2020** (QoS — 833 patches ✅), Laws **461/2001** & **248/2025**.
 3. Re-check electricity HANRE acts for L164-based re-adoption/replacement.
 4. Watch for a gas equivalent of [[Legea 164-2025 — energia electrica (text)|L164/2025]].
-5. Keep amendment acts ([[HANRE 177-2026 — modificarea unor hotarari ANRE (text)]], [[HANRE 261-2026 — modificare Metodologie tarife transport EE (text)]], [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (text)]], [[HANRE 328-2025 — modificare Codul retelelor de gaze naturale (text)]], [[HANRE 310-2026 — modificare Codul retelelor de gaze naturale (text)]]) linked from affected notes.
+5. Keep amendment acts (177, 261, 383, 328, 310, **656**, **833**, **329**) linked from affected notes.
 
 ## See also
 [[MOC — Energetică]] · [[Energetică — synthesis]] · [[Conventions]] · [[Roadmap]]

@@ -70,7 +70,7 @@ This is the pressure point in the current liberalisation programme: PSOs for lar
 
 **Electricity.** The market rules ([[HANRE 283-2020 — Regulile pietei energiei electrice (notă)|HANRE 283/2020]], as amended by [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (notă)|383/2026]]) define the segments — bilaterals / POCB, day-ahead and intraday, balancing, and imbalance settlement. The economic core is that every participant nominates a schedule and pays for deviating from it — [[Concept — Parte responsabilă de echilibrare|BRP]] is the pivotal role. Live statutory frame: [[Legea 164-2025 — energia electrica (notă)|L164/2025]].
 
-**A 2026 structural change:** suppliers and system operators are again required to procure electricity — **including for network losses** — through **market-based mechanisms**. During the crisis years this had been suspended in favour of directed/negotiated procurement. Its restoration is the single most consequential change to trading practice in the current period, and it interacts with [[MOC — Achiziții publice & Statul|procurement law]] via HANRE 24/2017 (procurement procedures for licence-holders — not yet ingested).
+**A 2026 structural change:** suppliers and system operators are again required to procure electricity — **including for network losses** — through **market-based mechanisms**. During the crisis years this had been suspended in favour of directed/negotiated procurement. Its restoration is the single most consequential change to trading practice in the current period, and it interacts with [[MOC — Achiziții publice & Statul|procurement law]] via [[Legea 74-2020 — achizitii sectoriale (notă)|L74/2020]] (utilities/sectoral). Historic ANRE regulation [[HANRE 24-2017 — achizitii titulari de licenta (abrogata) (notă)|HANRE 24/2017]] was **abrogated** by [[HANRE 305-2021 — abrogare HANRE 24-2017 achizitii titulari (notă)|HANRE 305/2021]] (IF 06.08.2021) — do not cite it as live.
 
 **Gas.** [[HANRE 534-2019 — Regulile pietei gazelor naturale (text)|HANRE 534/2019]] is the one tier-3 act in the vault with **complete text** — so it is the best available specimen for seeing how ANRE actually drafts market rules. Read it as the model even when the question is about electricity.
 
@@ -122,8 +122,9 @@ Alignment landmarks in the corpus:
 - Watch for a **gas equivalent of L164/2025** — gas is now a package behind electricity
 - Ingest **HG 820 Annexes 1–2**; parents for L101 (L461/2001, L248/2025, L131/2015) still thin/absent
 - Analysis backlog Batches 2–4: [[Analysis backlog — texts without notes]]
-- Not yet ingested: gas tariff methodologies (HANRE 535/2019, 443/2020), quality of service (422/2019, 537/2020), network development (94/2019), dispatch (316/2018), gas metering (297/2022)
-- **HANRE 24/2017** — procurement by licence-holders → bridges to [[MOC — Achiziții publice & Statul]]
+- Not yet ingested: gas tariff **parent** HANRE 535/2019 (amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] ✅), 443/2020, quality of service (422/2019, 537/2020 — 537 patched by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|833/2023]]), network development (94/2019), dispatch (316/2018), gas metering (297/2022)
+- Electricity network code: parent annex still incomplete; [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|656/2021]] now supplies Parts I–V substance
+- Licence-holder procurement → [[Legea 74-2020 — achizitii sectoriale (notă)|L74/2020]] / [[MOC — Achiziții publice & Statul]] (HANRE 24 abrogated)
 - Corporate-law overlap: unbundling is executed through **group restructuring** — see [[Societăți & guvernanță — synthesis]]
 
 ## Related

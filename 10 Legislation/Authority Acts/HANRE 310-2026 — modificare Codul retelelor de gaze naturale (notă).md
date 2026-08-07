@@ -60,7 +60,7 @@ legal_status: in_vigoare
 | PVT vs no-PVT split | Wrong commercial product booked | Explicitly state PVT access in nomination/contract |
 | 6 mcm/day PVT cap | Corridor congestion / forced no-PVT path | Reserve matched Grebenyky exit early |
 | Outside balancing portfolio | Imbalance accounting surprises | Align BRP systems to exclude conditional quantities |
-| Tariff source 535/2019 absent | Incomplete price advice | Pull HANRE 535 before pricing |
+| Tariff source 535/2019 parent absent | Incomplete base methodology advice | Pull HANRE 535; use [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] for conditional-capacity tariff formula |
 
 ---
 

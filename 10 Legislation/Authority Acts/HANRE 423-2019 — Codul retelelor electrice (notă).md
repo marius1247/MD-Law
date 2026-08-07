@@ -18,7 +18,7 @@ tags:
 - acte_normative
 status: draft
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-07
 domain: energie_electrica
 issuer: ANRE
 legal_status: in_vigoare
@@ -27,10 +27,10 @@ last_amended: '2026-07-28'
 
 # HANRE nr. 423/2019 — Codul rețelelor electrice — Analysis
 
-**Raw text:** [[HANRE 423-2019 — Codul retelelor electrice (text)]] ⚠️ *decision only — annex missing* · **Electricity law:** [[Legea 164-2025 — energia electrica (notă)]] · **Connection:** [[HANRE 311-2026 — racordarea la retelele electrice (notă)]] · **Hub:** [[MOC — Energetică]]
+**Raw text:** [[HANRE 423-2019 — Codul retelelor electrice (text)]] ⚠️ *decision only — parent annex consolidation still missing* · **Best in-vault substance:** [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|HANRE 656/2021]] (Parts I–V insert) · **Electricity law:** [[Legea 164-2025 — energia electrica (notă)]] · **Connection:** [[HANRE 311-2026 — racordarea la retelele electrice (notă)]] · **Hub:** [[MOC — Energetică]]
 
-> [!danger] Annex not in vault
-> Only the approving decision is ingested. The substantive **Codul rețelelor electrice** (network code annex) must be downloaded separately from [legis.md](https://www.legis.md/cautare/getResults?lang=ro&doc_id=151929). Analysis below is based on the decision text, cross-references in other acts, and the Batch 2 Law House dossier. **Do not cite specific technical parameters without verifying the annex.**
+> [!warning] Parent annex still not consolidated in vault
+> The approving decision of 423 is ingested; the standalone consolidated annex is not. **[[HANRE 656-2021 — modificare Codul retelelor electrice (text)|HANRE 656/2021]]** (ingested 2026-08-07) inserts the five-part ENTSO-E-style structure and is now the richest operative text in-vault. Still verify point numbers against the current legis.md consolidation (incl. later amendments such as HANRE 646/2025).
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Mandatory technical operational requirements for system security — grid frequency, voltage stability, dispatch protocols, fault ride-through, and technical connection parameters across HV/MV/LV networks.
@@ -65,6 +65,7 @@ last_amended: '2026-07-28'
 
 ### C. Amendments
 
+* [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|HANRE 656/2021]] — major restructuring (Parts I–V; definitions; repeals 2007 norms 266/267). **Read this first** until a full 423 consolidation is ingested.
 * HANRE 646/2025 (in force 09.12.2025) amends the code — check current consolidation before relying on pre-2025 technical parameters.
 
 ---
@@ -75,7 +76,7 @@ last_amended: '2026-07-28'
 | :--- | :--- | :--- | :--- |
 | **Emergency curtailment** | Broad TSO discretion under "system emergency" declarations without clear compensation | Revenue loss for renewable operators without compensation mechanism | Log all TSO dispatch orders; verify against [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)]] market rules; challenge non-discriminatory curtailment via ANRE |
 | **Inverter certification** | Evolving compliance requirements during commissioning | Operational delay from rejection of international testing certificates | Pre-audit inverter documentation against ENTSO-E parameters referenced in code |
-| **Annex availability** | Network code annex not publicly ingested in vault | Advice based on incomplete technical parameters | Download annex from legis.md; flag `text_complet: false` until ingested |
+| **Annex availability** | No clean 423 consolidation; 656 is amending text | Point-number drift vs current MO text | Use 656 for substance; verify on legis.md consolidation; still ingest full annex |
 | **L107 → L164 transition** | Code adopted under repealed electricity law | Currency risk for new market entrants post-August 2025 | Cross-check L164 network-code enabling articles; monitor ANRE re-adoption |
 
 ---
@@ -89,7 +90,7 @@ last_amended: '2026-07-28'
 
 ## 5. Client action checklist / compliance roadmap
 
-- [ ] Download and ingest the network code annex from legis.md doc_id `151929`.
+- [ ] Prefer [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|656/2021]] for Parts I–V substance; still download a clean 423 consolidation from legis.md when available.
 - [ ] Audit inverter and protection relay settings against ENTSO-E grid code parameters before commissioning tests.
 - [ ] Establish telemetry and SCADA data links with TSO/DSO control centre before requesting energisation.
 - [ ] Log all TSO dispatch/curtailment orders with timestamps for potential imbalance or compensation disputes.
@@ -100,6 +101,7 @@ last_amended: '2026-07-28'
 ## 6. Connections in the vault
 
 * **Electricity law:** [[Legea 164-2025 — energia electrica (notă)]]
+* **Major amendment:** [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)]]
 * **Connection regulation:** [[HANRE 311-2026 — racordarea la retelele electrice (notă)]]
 * **Market rules:** [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)]]
 * **Gas equivalent:** [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)]]
@@ -109,4 +111,4 @@ last_amended: '2026-07-28'
 
 ## Sources
 
-[[HANRE 423-2019 — Codul retelelor electrice (text)]] — legis.md doc_id `151929`, decision only (`continut: doar-dispozitiv`, `text_complet: false`). Annex ingestion pending.
+[[HANRE 423-2019 — Codul retelelor electrice (text)]] — legis.md doc_id `151929`, decision only (`continut: doar-dispozitiv`, `text_complet: false`). Partial operative substance via [[HANRE 656-2021 — modificare Codul retelelor electrice (text)]] (`129504`).

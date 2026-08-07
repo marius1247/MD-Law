@@ -209,7 +209,7 @@ This is a gateway provision: actual sanctions may be in the Contravention Code, 
 
 ## Open questions
 
-- Map the SNC layer by Ministry of Finance order.
+- Individual SNC texts still open — gateway [[OMF 118-2013 — Standardele Nationale de Contabilitate (notă)|OMF 118/2013]] ingested 2026-08-07.
 - Add a dedicated note for statutory audit law and audit oversight.
 - Build [[Concept — Situații financiare]] around legal functions: tax base, distributable profit, net assets, insolvency dating and director liability.
 - Track practical effects of the 2027 threshold reset under [[Legea 86-2026 — modificare Legea contabilitatii (notă)]].

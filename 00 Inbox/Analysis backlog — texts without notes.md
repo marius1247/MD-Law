@@ -13,6 +13,16 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 
 **Starting set (2026-08-06):** 14 acts. **All four batches now have Law House notes.** **Batch 6 (2026-08-07)** ingested five user-uploaded ANRE PDFs with companions. Remaining work is annex completion / parent ingestion, not missing companions.
 
+## Batch — tax/accounting uploads (2026-08-07) ✅
+
+| Act | Status |
+|---|---|
+| [[Legea 77-2016 — parcuri tehnologia informatiei (text)]] / [[Legea 77-2016 — parcuri tehnologia informatiei (notă)\|notă]] | ✅ · [[Concept — Parc IT]] |
+| [[Legea 125-2024 — modificare parc IT si tranzitii vamale (text)]] / [[Legea 125-2024 — modificare parc IT si tranzitii vamale (notă)\|notă]] | ✅ omnibus (IT Park / CA art. 214 / customs) |
+| [[OMF 118-2013 — Standardele Nationale de Contabilitate (text)]] / [[OMF 118-2013 — Standardele Nationale de Contabilitate (notă)\|notă]] | ✅ approving order · individual SNC texts still ❌ |
+| [[OMF 73-2022 — modificare indicatii metodice contabilitate (text)]] / [[OMF 73-2022 — modificare indicatii metodice contabilitate (notă)\|notă]] | ✅ |
+| [[OMF 128-2024 — modificare formular IPC21 (text)]] / [[OMF 128-2024 — modificare formular IPC21 (notă)\|notă]] | ✅ · parent OMF 94/2020 still ❌ |
+
 ## Batch 1 — primary / crisis / security ✅
 
 | Act | Note |

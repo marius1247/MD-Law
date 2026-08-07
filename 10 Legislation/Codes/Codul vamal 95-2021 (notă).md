@@ -178,6 +178,7 @@ Customs risk often sits outside the visible price clause. A cheap import can bec
 
 - Build a dedicated Serviciul Vamal authority note.
 - Map customs regimes after art. 192 onward: free circulation, special regimes, transit, storage, processing, temporary admission and export.
+- Apply transitional patches from [[Legea 125-2024 — modificare parc IT si tranzitii vamale (notă)|LP125/2024]] Art. IV (preferential tariff restoration, fixed-installation declarations, old-regime authorisations through 2027).
 - Add a concept note for customs value and another for preferential origin / approved exporter.
 - Track the Ministry of Finance concept for rewriting the Customs Code and Fiscal Code, flagged in [[Fiscalitate — synthesis]].
 

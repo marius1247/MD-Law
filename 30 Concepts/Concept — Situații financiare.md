@@ -45,7 +45,7 @@ Primary act notes: [[Legea 287-2017 — contabilitate (notă)]] · [[Legea 86-20
 > Modelling **2027 L86 reclassification** now is correct and enacted. The draft Estonian-style CIT rewrite is a **separate** instrument and **not law** — it does not change L287 thresholds.
 
 ## Reporting framework
-- **SNC** — national accounting standards, the default *(MF orders — corpus not yet ingested)*
+- **SNC** — national accounting standards, the default — gateway [[OMF 118-2013 — Standardele Nationale de Contabilitate (notă)|OMF 118/2013]] ✅; individual standard texts still not ingested
 - **IFRS** — mandatory for **public interest entities** (banks, insurers, others designated by law); available to others by election
 
 Medium and large entities prepare **complete statements under SNC**; micro and small entities may use abridged forms.
@@ -75,7 +75,7 @@ Category is determined by not exceeding **two of three** criteria — total asse
 
 ## Governing provisions
 - **Legea contabilității și raportării financiare nr. 287/2017**, and amending **Legea nr. 86/2026** ✅ ingested
-- **SNC** — approved by Ministry of Finance order *(still open)*
+- **SNC** — approved by [[OMF 118-2013 — Standardele Nationale de Contabilitate (notă)|OMF 118/2013]] *(individual texts still open)*
 - **Codul fiscal Titlul II** — adjustments from accounting to taxable profit; art. 87(11) deferral
 - **Legea nr. 1134/1997** / **Legea nr. 135/2007** — approval and distribution
 - Statutory audit law *(horizon P2)*

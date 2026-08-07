@@ -38,6 +38,9 @@ See [[MOC — Energetică]] for the full tiered list. Key families:
 ## Pattern worth noting
 Every ANRE act cites the **exact article of the parent law** empowering it, and methodologies are adopted for a fixed **multi-year application period**. That makes the law→regulator chain traceable in both directions — and means post-L164 electricity acts must be checked for re-adoption or fresh enabling citations.
 
+> [!warning] Suspension carve-outs
+> [[Legea 125-2024 — modificare parc IT si tranzitii vamale (notă)|LP125/2024]] rewrote Codul administrativ art. **214(9)** so certain ANRE decisions (gas unbundling/continuity licence withdrawals; specified electricity/gas crisis powers) **cannot be court-suspended**. Screen before filing art. 214 motions.
+
 ## Not covered here
 Individual tariff decisions and licences — deliberately out of scope, see [[Status ingestie — Energetica]]. Current tariffs: [ANRE › Tarife în vigoare](https://anre.md/tarife-in-vigoare-3-204).
 

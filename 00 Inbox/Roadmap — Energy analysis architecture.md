@@ -14,7 +14,7 @@ Reorganise the energy **analysis layer** so a practitioner can navigate by **(A)
 Corpus status and ingestion remain tracked in [[Status ingestie — Energetica]] and [[00 Inbox/Roadmap|the main vault roadmap]]. This note is the **structuring** track only.
 
 > [!tip] Entry point for the new layer
-> **[[Energetică — architecture map]]**. Electricity: [[MOC — Piața de energie electrică]]. Gas: [[MOC — Piața gazelor naturale]]. Petroleum: [[MOC — Piața produselor petroliere]] · coal gap [[Energetică — cărbune gap stub (notă)]].
+> **[[Energetică — architecture map]]**. Electricity: [[MOC — Piața de energie electrică]]. Gas: [[MOC — Piața gazelor naturale]]. Petroleum: [[MOC — Piața produselor petroliere]] · coal gap [[Energetică — cărbune gap stub (notă)]]. Thermal: [[MOC — Piața energiei termice]] · geothermal gap [[Energetică — geotermal gap stub (notă)]].
 
 ---
 
@@ -71,11 +71,14 @@ Keep [[Energetică — synthesis]] as the short practitioner narrative. Do **not
 - [[Concept — Preț maxim ANRE produse petroliere]]
 - Coal: [[Energetică — cărbune gap stub (notă)]] — **no dedicated ANRE coal market**; PNIEC/reserves/customs/environment
 
-### Step 5 — Thermal / CHP / geothermal
-- Hub from [[Legea 92-2014 — energia termica si cogenerarea (notă)|L92/2014]] + [[HANRE 23-2017 — furnizarea energiei termice (notă)|HANRE 23/2017]] + [[HG 197-2025 — metodologie cogenerare inalta eficienta (notă)|HG 197/2025]]
-- Geothermal: classify as RES (L10) vs heat (L92) vs absent — stub honestly
+### Step 5 — Thermal / CHP / geothermal ✅ *(2026-08-07)*
+- [[MOC — Piața energiei termice]] · [[Energetică — segmente piață termică (notă)]]
+- Concept: [[Concept — Cogenerare de înaltă eficiență]]
+- Verdict: **local public-service tariffs**, not PZU/PVT; CHP electricity → L164 / transitional FCEE; HANRE 23 body still incomplete
+- Geothermal: [[Energetică — geotermal gap stub (notă)]] — RES (L10) / SACET (L92) / **no** dedicated market; PNIEC **PM_DC25** watch
 
 ### Step 6 — Biofuels & hydrogen
+
 - Biofuels: [[HG 53-2025 — durabilitate biocarburanti emisii GES (notă)|HG 53/2025]] + L10 / fuel-quality bridges
 - Hydrogen: map EnC / EU acquis expectations vs MD primary law silence; keep as **watch-list vector**, not fake completeness
 
@@ -109,4 +112,4 @@ A market hub is “filled” when it has:
 **Do not open Step N+1 until Step N has a navigable stub.** Prefer one complete hub over seven empty folders. Electricity first because the corpus and concepts are densest; gas second because the package lag is the live legislative story.
 
 ## Related
-[[Energetică — architecture map]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[MOC — Piața produselor petroliere]] · [[Energetică — segmente piață electricitate (notă)]] · [[Energetică — segmente piață gaze (notă)]] · [[Energetică — segmente piață petrol (notă)]] · [[Energetică — cărbune gap stub (notă)]] · [[Energetică — synthesis]] · [[MOC — Energetică]] · [[00 Inbox/Roadmap]]
+[[Energetică — architecture map]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[MOC — Piața produselor petroliere]] · [[MOC — Piața energiei termice]] · [[Energetică — segmente piață electricitate (notă)]] · [[Energetică — segmente piață gaze (notă)]] · [[Energetică — segmente piață petrol (notă)]] · [[Energetică — segmente piață termică (notă)]] · [[Energetică — cărbune gap stub (notă)]] · [[Energetică — geotermal gap stub (notă)]] · [[Energetică — synthesis]] · [[MOC — Energetică]] · [[00 Inbox/Roadmap]]

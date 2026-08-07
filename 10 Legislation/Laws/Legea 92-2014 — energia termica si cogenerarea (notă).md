@@ -184,10 +184,12 @@ This is why the law emphasises affordability, public service, quality, continuit
 
 ## 12. Connections in the vault
 
+- [[MOC — Piața energiei termice]] · [[Energetică — segmente piață termică (notă)]] · [[Energetică — geotermal gap stub (notă)]]
+- [[Concept — Cogenerare de înaltă eficiență]]
 - [[MOC — Energetică]]
-- [[Energetică — synthesis]]
+- [[Energetică — synthesis]] · [[Energetică — architecture map]]
 - [[Legea 174-2017 — energetica (notă)]]
-- [[Legea 164-2025 — energia electrica (notă)]]
+- [[Legea 164-2025 — energia electrica (notă)]] · [[Concept — Furnizor central de energie electrică]]
 - [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)]]
 - [[HANRE 23-2017 — furnizarea energiei termice (notă)]]
 - [[HG 197-2025 — metodologie cogenerare inalta eficienta (notă)]] — high-efficiency CHP quantities / GOs

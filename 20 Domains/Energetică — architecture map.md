@@ -146,10 +146,11 @@ Every energy vector is analysed with the **same columns**. Cells may be empty �
 | **Gas** | ✅ Step 3 | L108 · HANRE 534 · 420/328/310 · 112/113/177 · 535/443/355 · HG 365 |
 | **Petroleum** | ✅ Step 4 | L461 · L101 · L248/CNMC |
 | **Coal** | ✅ Step 4 stub | [[Energetică — cărbune gap stub (notă)]] — no dedicated market law |
-| **Thermal / CHP** | ⏳ Step 5 | L92 · HANRE 23 · HG 197 |
-| **Geothermal** | ⏳ Step 5 stub | Classify under L10 / L92 / absent |
+| **Thermal / CHP** | ✅ Step 5 | L92 · HANRE 23 · HG 197 · [[MOC — Piața energiei termice]] |
+| **Geothermal** | ✅ Step 5 stub | [[Energetică — geotermal gap stub (notă)]] — L10 RES / L92 if SACET / PM_DC25 |
 | **Biofuels** | ⏳ Step 6 | HG 53 · L10 bridges |
 | **Hydrogen** | ⏳ Step 6 stub | Watch EnC / EU; MD primary silence |
+
 
 ### 4.4 Cross-cutting layers (Step 7)
 
@@ -170,10 +171,14 @@ Every energy vector is analysed with the **same columns**. Cells may be empty �
 | [[MOC — Piața de energie electrică]] | **Axis B hub — electricity** (segments, actors, activities) |
 | [[MOC — Piața gazelor naturale]] | **Axis B hub — gas** (PVT, entry-exit, balancing, PSO exit) |
 | [[MOC — Piața produselor petroliere]] | **Axis B hub — petroleum** (price-cap retail, licensing, crisis) |
+| [[MOC — Piața energiei termice]] | **Axis B hub — heat / CHP** (public-service tariffs, licences, HE CHP → EE) |
 | [[Energetică — segmente piață electricitate (notă)]] | Electricity segment briefs |
 | [[Energetică — segmente piață gaze (notă)]] | Gas segment briefs |
 | [[Energetică — segmente piață petrol (notă)]] | Petroleum segment briefs |
+| [[Energetică — segmente piață termică (notă)]] | Thermal / CHP segment briefs |
 | [[Energetică — cărbune gap stub (notă)]] | Coal — no dedicated ANRE market |
+| [[Energetică — geotermal gap stub (notă)]] | Geothermal — RES / SACET / no dedicated market |
+
 | [[Energetică — prosumer vs consumator activ (notă)]] | Electricity prosumer boundary |
 | [[MOC — Racordare și acces la rețele]] | Monopoly / connection slice (cross-vector) |
 | [[MOC — Tarife și metodologii ANRE]] | Monopoly / tariff slice |
@@ -193,12 +198,13 @@ Every energy vector is analysed with the **same columns**. Cells may be empty �
 | 2 | Electricity deep fill (segment briefs + missing concepts) | **Done (2026-08-07)** — [[Energetică — segmente piață electricitate (notă)]] · actor/retail/FCEE concepts · [[Energetică — prosumer vs consumator activ (notă)]] |
 | 3 | Gas market hub | **Done (2026-08-07)** — [[MOC — Piața gazelor naturale]] · [[Energetică — segmente piață gaze (notă)]] · [[Concept — Punct virtual de tranzacționare]] |
 | 4 | Petroleum + coal gap | **Done (2026-08-07)** — [[MOC — Piața produselor petroliere]] · [[Energetică — segmente piață petrol (notă)]] · [[Concept — Preț maxim ANRE produse petroliere]] · [[Energetică — cărbune gap stub (notă)]] |
-| 5–6 | Thermal/geothermal · biofuels/hydrogen | **Next: Step 5** |
+| 5 | Thermal / CHP + geothermal stub | **Done (2026-08-07)** — [[MOC — Piața energiei termice]] · [[Energetică — segmente piață termică (notă)]] · [[Concept — Cogenerare de înaltă eficiență]] · [[Energetică — geotermal gap stub (notă)]] |
+| 6 | Biofuels / hydrogen | **Next: Step 6** |
 | 7 | Prosumers · incentives · ESG notes | Queued |
-| 8 | Synthesis retune to this spine | After Step 5 has substance |
+| 8 | Synthesis retune to this spine | After Step 6–7 have substance |
 
-**Immediate next work (Step 5):** thermal / CHP hub from [[Legea 92-2014 — energia termica si cogenerarea (notă)|L92]] + geothermal classification stub.
+**Immediate next work (Step 6):** biofuels hub from [[HG 53-2025 — durabilitate biocarburanti emisii GES (notă)|HG 53]] + hydrogen watch-list stub.
 
 
 ## Related
-[[Roadmap — Energy analysis architecture]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[MOC — Piața produselor petroliere]] · [[Energetică — cărbune gap stub (notă)]] · [[Energetică — synthesis]] · [[MOC — Energetică]] · [[ANRE]] · [[Legea 164-2025 — energia electrica (notă)]] · [[Legea 174-2017 — energetica (notă)]] · [[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (notă)]]
+[[Roadmap — Energy analysis architecture]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[MOC — Piața produselor petroliere]] · [[MOC — Piața energiei termice]] · [[Energetică — cărbune gap stub (notă)]] · [[Energetică — geotermal gap stub (notă)]] · [[Energetică — synthesis]] · [[MOC — Energetică]] · [[ANRE]] · [[Legea 164-2025 — energia electrica (notă)]] · [[Legea 174-2017 — energetica (notă)]] · [[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (notă)]]

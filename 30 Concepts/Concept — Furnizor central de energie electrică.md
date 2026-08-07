@@ -37,7 +37,7 @@ A Government-designated entity that **buys** electricity from **eligible RES pro
 - [[Concept — Producător eligibil]] · [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Tarif reglementat]]
 
 ## Related
-[[Energetică — segmente piață electricitate (notă)]] §8 · [[MOC — Piața de energie electrică]] · [[Legea 92-2014 — energia termica si cogenerarea (notă)|L92/2014]] (urban CHP bridge) · [[ANRE]]
+[[Energetică — segmente piață electricitate (notă)]] §8 · [[MOC — Piața de energie electrică]] · [[MOC — Piața energiei termice]] · [[Legea 92-2014 — energia termica si cogenerarea (notă)|L92/2014]] (urban CHP bridge) · [[ANRE]]
 
 ## Notes / conclusions
 > FCEE is the **commercial hinge** of the support scheme: bankability = FCEE credit + regulated resale economics + BRP allocation + connection queue. When CfDs replace FCEE offtake for RES, re-paper every eligible-producer structure — do not assume perpetual central-buyer offtake.

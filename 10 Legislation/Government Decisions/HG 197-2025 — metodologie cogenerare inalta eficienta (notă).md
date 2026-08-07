@@ -15,7 +15,7 @@ legal_status: in_vigoare
 ---
 # HG nr. 197/2025 — high-efficiency CHP electricity quantities — Analysis
 
-**Raw text:** [[HG 197-2025 — metodologie cogenerare inalta eficienta (text)]] ✅ *methodology* · **Hub:** [[MOC — Energetică]] · **Parent:** [[Legea 92-2014 — energia termica si cogenerarea (notă)|L92/2014]] · **GO regulation:** HANRE 201/2017 *(not yet ingested)* · **Thermal supply:** [[HANRE 23-2017 — furnizarea energiei termice (notă)|HANRE 23/2017]]
+**Raw text:** [[HG 197-2025 — metodologie cogenerare inalta eficienta (text)]] ✅ *methodology* · **Hub:** [[MOC — Piața energiei termice]] · **Concept:** [[Concept — Cogenerare de înaltă eficiență]] · **Parent:** [[Legea 92-2014 — energia termica si cogenerarea (notă)|L92/2014]] · **GO regulation:** HANRE 201/2017 *(not yet ingested)* · **Thermal supply:** [[HANRE 23-2017 — furnizarea energiei termice (notă)|HANRE 23/2017]]
 
 > [!abstract] Executive summary
 > **Core purpose:** Calculation method for **electricity from high-efficiency cogeneration** and **primary energy savings (PES)**, used to certify quantities eligible for **guarantees of origin** — transposition of Commission Decision **2008/952/EC**.

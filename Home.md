@@ -26,7 +26,7 @@ See [[Conventions]] for the full skeleton, naming, frontmatter, and ingestion wo
 ## Domain maps (your focus areas)
 | Hub | Read the synthesis first |
 |---|---|
-| [[MOC — Energetică]] | [[Energetică — synthesis]] · [[Energetică — architecture map]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[MOC — Piața produselor petroliere]] |
+| [[MOC — Energetică]] | [[Energetică — synthesis]] · [[Energetică — architecture map]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[MOC — Piața produselor petroliere]] · [[MOC — Piața energiei termice]] |
 | [[MOC — Societăți & Guvernanță corporativă]] | [[Societăți & guvernanță — synthesis]] |
 | [[MOC — Fiscalitate & Contabilitate]] | [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] |
 | [[MOC — Drept comercial]] | [[Drept comercial — synthesis]] |
@@ -57,4 +57,4 @@ All hubs: [[00 - Index general]]. Concept index: [[00 Index Concepts]].
 > **Completeness:** automated ingestion stops at ~96–102 KB. Manual browser downloads (now in `99 Attachments/source-legis/`) bypass that. [[HANRE 423-2019 — Codul retelelor electrice (text)|HANRE 423/2019]] connection code Titluri I–IV now ingested (still cross-check [[HANRE 656-2021 — modificare Codul retelelor electrice (text)|656/2021]]). Details: [[Status ingestie — Energetica]] · [[Conventions]].
 
 ## Status *(2026-08-07)*
-Structuring Steps 1–4 ✅: electricity · gas · petroleum + [[Energetică — cărbune gap stub (notă)|coal gap]] ([[Roadmap — Energy analysis architecture]] · [[Energetică — architecture map]]). Energy corpus + keystone texts otherwise as before — [[Status ingestie — Energetica]].
+Structuring Steps 1–5 ✅: electricity · gas · petroleum + [[Energetică — cărbune gap stub (notă)|coal gap]] · thermal / CHP + [[Energetică — geotermal gap stub (notă)|geothermal gap]] ([[Roadmap — Energy analysis architecture]] · [[Energetică — architecture map]]). Energy corpus + keystone texts otherwise as before — [[Status ingestie — Energetica]].

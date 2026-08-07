@@ -15,7 +15,7 @@ text_complet: false
 ---
 # HANRE nr. 23/2017 — thermal energy supply regulation — Analysis
 
-**Raw text:** [[HANRE 23-2017 — furnizarea energiei termice (text)]] ⚠️ *annex 1 contract only* · **Hub:** [[MOC — Energetică]] · **Parent:** [[Legea 92-2014 — energia termica si cogenerarea (notă)|L92/2014]] · **Condominium bridge:** Legea 187/2022 · **Patch:** [[HANRE 8-2023 — modificare racordare gaze si masurare gaze (notă)|8/2023]]
+**Raw text:** [[HANRE 23-2017 — furnizarea energiei termice (text)]] ⚠️ *annex 1 contract only* · **Hub:** [[MOC — Piața energiei termice]] · **Parent:** [[Legea 92-2014 — energia termica si cogenerarea (notă)|L92/2014]] · **Condominium bridge:** Legea 187/2022 · **Patch:** [[HANRE 8-2023 — modificare racordare gaze si masurare gaze (notă)|8/2023]]
 
 > [!abstract] Executive summary
 > **Core purpose:** Annex 1 is the **mandatory-structure supply contract** for district heating: parties (including condominium association as service intermediary), delimitation point, quality/continuity duties, metering & billing, disconnection rules, suspension/termination, liability, ANRE dispute channel.

@@ -131,7 +131,7 @@ Individual **tariff decisions and licences** were *not* ingested. ANRE issues th
 ## Current priorities
 
 1. **Manual download** remaining annexes (legis.md Cloudflare blocks automation): [[HANRE 423-2019 — Codul retelelor electrice (text)]], finish [[HANRE 169-2019 — furnizarea energiei electrice (text)]] past pt. 146, [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]], [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]], [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] annexes — see [[Analysis backlog — texts without notes]].
-2. Ingest still-missing parents: HANRE **853/2025** (balancing T&Cs), **535/2019** (gas transmission tariffs), Laws **461/2001** & **248/2025**.
+2. Ingest still-missing parents: HANRE **853/2025** (balancing T&Cs), **535/2019 annex** (gas transmission tariffs — decision only in vault), Laws **461/2001** & **248/2025** (CNMC implementing HG 346/2026 + L150/2026 now present).
 3. Re-check electricity HANRE acts for L164-based re-adoption/replacement.
 4. Watch for a gas equivalent of [[Legea 164-2025 — energia electrica (text)|L164/2025]].
 5. Keep amendment acts ([[HANRE 177-2026 — modificarea unor hotarari ANRE (text)]], [[HANRE 261-2026 — modificare Metodologie tarife transport EE (text)]], [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (text)]], [[HANRE 328-2025 — modificare Codul retelelor de gaze naturale (text)]], [[HANRE 310-2026 — modificare Codul retelelor de gaze naturale (text)]]) linked from affected notes.

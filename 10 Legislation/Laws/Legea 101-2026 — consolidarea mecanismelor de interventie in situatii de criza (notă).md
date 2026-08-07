@@ -34,7 +34,7 @@ legal_status: in_vigoare
   2. **Contraventional Code No. 218/2008** art. 41¹ — ANRE sanctioning competence
   3. **Law No. 131/2015** — public procurement art. 76 — price-adjustment clause
   4. **[[Legea 164-2025 — energia electrica (text)]]** — arts. 72 & 150
-* Crisis-management overlay referenced: **Law No. 248/2025** on crisis management (alert / emergency states) — not yet in vault.
+* Crisis-management overlay referenced: **Law No. 248/2025** on crisis management (alert / emergency states) — parent still not in vault; implementing [[HG 346-2026 — Comisia Nationala Management Crize (notă)|HG 346/2026]] (CNMC) and amending [[Legea 150-2026 — modificare management situatii de criza (notă)|L150/2026]] now ingested.
 * Related security instrument: [[HG 820-2024 — situatii exceptionale electroenergetic (notă)]] (electricity risk preparedness; annex still missing).
 
 ---

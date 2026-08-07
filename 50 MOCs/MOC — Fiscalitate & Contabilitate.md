@@ -52,6 +52,8 @@ Key watch: Government **politica fiscală 2027** draft proposes Estonian-style d
 | [[HG 829-2025 — modificare acte fiscale vamale audit (text)\|HG nr. 829/2025]] | ✅ complete · **IF 1 Jan 2026** | [[HG 829-2025 — modificare acte fiscale vamale audit (notă)]] |
 | [[Legea 327-2025 — managementul finantelor publice (text)\|Legea nr. 327/2025]] (public-finance management) | ✅ complete · staged IF → 2027 | [[Legea 327-2025 — managementul finantelor publice (notă)]] |
 | [[Legea 187-2025 — modificare BNM (text)\|Legea nr. 187/2025]] (NBM + fiscal/customs omnibus) | ✅ complete · staged IF → 2027 | [[Legea 187-2025 — modificare BNM (notă)]] |
+| [[Legea 489-1999 — sistemul public de asigurari sociale (text)\|Legea nr. 489/1999]] (CNAS / social contributions) | ⚠️ annex check | [[Legea 489-1999 — sistemul public de asigurari sociale (notă)]] |
+| [[Legea 135-2026 — coordonare securitate sociala UE (text)\|Legea nr. 135/2026]] (EU social coordination) | ✅ · **IF = EU accession** | [[Legea 135-2026 — coordonare securitate sociala UE (notă)]] |
 
 ### Fiscal Code by Titlu
 

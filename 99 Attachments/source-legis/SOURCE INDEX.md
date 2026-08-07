@@ -64,7 +64,12 @@ updated: 2026-08-07
 | `155151` | [`155151.md`](155151.md) | `10 Legislation/Authority Acts/HANRE 383-2026 — modificare Regulile pietei energiei electrice (text).md` |
 | `155187` | [`155187.md`](155187.md) | `10 Legislation/Authority Acts/HANRE 283-2020 — Regulile pietei energiei electrice (text).md` |
 | `155279` | [`155279.md`](155279.md) | `10 Legislation/Laws/Legea 74-2020 — achizitii sectoriale (text).md` |
+| `155424` | [`155424.md`](155424.md) · [`155424.pdf`](155424.pdf) | `10 Legislation/Laws/Legea 135-2026 — coordonare securitate sociala UE (text).md` |
 | `155438` | [`155438.md`](155438.md) | `10 Legislation/Laws/Legea 220-2007 — inregistrarea de stat (text).md` |
+| `155453` | [`155453.md`](155453.md) · [`155453.pdf`](155453.pdf) | `10 Legislation/Laws/Legea 489-1999 — sistemul public de asigurari sociale (text).md` *(annex possibly truncated)* |
+| `155507` | [`155507.md`](155507.md) · [`155507.pdf`](155507.pdf) | `10 Legislation/Government Decisions/HG 379-2026 — modificare HG 346-2026 crize (text).md` |
+| `155511` | [`155511.md`](155511.md) · [`155511.pdf`](155511.pdf) | `10 Legislation/Government Decisions/HG 346-2026 — Comisia Nationala Management Crize (text).md` |
+| `155513` | [`155513.md`](155513.md) · [`155513.pdf`](155513.pdf) | `10 Legislation/Laws/Legea 150-2026 — modificare management situatii de criza (text).md` |
 | `95607` | [`95607.md`](95607.md) | `10 Legislation/Laws/Legea 23-2008 — arbitraj (text).md` |
 
 ## Intentionally unused duplicates
@@ -82,7 +87,8 @@ updated: 2026-08-07
 - `HANRE 169/2019` — electricity supply regulation (still truncated; source 148195 is a *different* act: HANRE 169/**2025** water/sewerage)
 - `HANRE 64/2018`, `HANRE 375/2017` — tariff methodology annexes
 - `HG 820/2024` — risk-preparedness annex
-- `HANRE 853/2025`, Law `461/2001`, Law `248/2025` — parents not yet dumped (legis.md Cloudflare / no mirror)
+- `HANRE 853/2025`, Law `461/2001` — parents not yet dumped (legis.md Cloudflare / no mirror)
+- **Legea 248/2025** crisis management — parent still missing; implementing [[HG 346-2026 — Comisia Nationala Management Crize (text)|HG 346/2026]] + [[Legea 150-2026 — modificare management situatii de criza (text)|L150/2026]] now in vault
 - **HANRE 535/2019** — decision ingested (`149131`); **methodology annex still missing** (same class as HANRE 423)
 - **HANRE 329/2025** — amends HANRE 535; not yet dumped
 - **Legea nr. 384/2023** privind protecția secretelor comerciale — pivot for [[Legea 330-2025 — modificare secret comercial (notă)]]; not yet dumped
@@ -91,6 +97,7 @@ updated: 2026-08-07
 
 1. doc_ids `152300`, `152350`, `152360`, `152472`, `152587` — full `(text)` + `(notă)`
 2. doc_ids `149085`, `149131`, `149593`, `149719`, `151444` — L144 + HANRE 535 (decision-only) new; L187/L308 notes deepened + PDF mirrors; Civil Code PDF mirror only (books already split)
+3. doc_ids `155424`, `155453`, `155507`, `155511`, `155513` — L135/2026 (EU social coordination, accession-gated); L489/1999 (social insurance, annex possibly truncated); HG 379/2026; HG 346/2026 (CNMC); L150/2026 (amends L248/2025)
 
 ## See also
 [[Conventions]] · [[Status ingestie — Energetica]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]

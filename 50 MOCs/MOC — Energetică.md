@@ -101,6 +101,7 @@ Moldova is an **Energy Community** contracting party by [[Legea 117-2009 — ade
 
 ## Open threads
 - [[HANRE 535-2019 — Metodologie tarife transport gaze (text)\|HANRE 535/2019]] gas transmission tariff methodology — ⚠️ **decision-only** ([[HANRE 535-2019 — Metodologie tarife transport gaze (notă)\|notă]]); annex + HANRE 329/2025 still needed
+- Crisis governance (CNMC): [[HG 346-2026 — Comisia Nationala Management Crize (notă)\|HG 346/2026]] · [[HG 379-2026 — modificare HG 346-2026 crize (notă)\|HG 379/2026]] · [[Legea 150-2026 — modificare management situatii de criza (notă)\|L150/2026]] — parent **L248/2025** still missing; bridges [[HG 820-2024 — situatii exceptionale electroenergetic (notă)\|HG 820/2024]] · [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)\|L101/2026]]
 - Not yet ingested: gas tariff methodology **443/2020**, quality-of-service (422/2019, 537/2020), network development (94/2019), dispatch (316/2018), gas metering (297/2022), **licence-holder procurement (HANRE 24/2017)** → [[MOC — Achiziții publice & Statul]]
 - **Live transitions:** L164/2025 changeover; gas PSO withdrawal for large industrials; market-based procurement of electricity including network losses.
 - Unbundling is executed through company law → [[Societăți & guvernanță — synthesis]] · [[Legea 135-2007 — SRL (notă)]] / [[Legea 1134-1997 — societati pe actiuni (notă)]]

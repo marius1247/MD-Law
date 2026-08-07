@@ -1,0 +1,223 @@
+---
+title: "Legea 150-2026 — modificare management situatii de criza (text)"
+type: act-text
+instrument: lege-organică
+act_type: lege-organică
+nr: "150"
+an: 2026
+domeniu:
+- administrativ
+- crize
+domain: [administrativ, crize]
+forta_juridica: 3
+in_force: true
+in_vigoare: true
+mo_publicare: "MO 338/28.07.2026 art. 348"
+legis_id: "155513"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=155513"
+version_date: 2026-07-28
+versiune_text: 2026-07-28
+continut: text-integral
+text_complet: true
+articole_numarate: 0
+tags: [act, text, acte_normative]
+created: 2026-08-07
+updated: 2026-08-07
+source_ingest: pdf-upload
+issuer: Parlament
+legal_status: in_vigoare
+last_amended: '2026-07-28'
+---
+# Legea 150-2026 — modificare management situatii de criza
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md** PDF (doc_id [155513](https://www.legis.md/cautare/getResults?lang=ro&doc_id=155513)), export mPDF.
+> Versiune: `2026-07-28`. Analiză: [[Legea 150-2026 — modificare management situatii de criza (notă)]].
+
+---
+
+Republica Moldova
+PARLAMENTUL
+LEGE Nr. LP150/2026
+din 24.07.2026
+pentru modificarea Legii nr. 248/2025
+privind managementul situațiilor de criză
+Publicat : 28.07.2026 în MONITORUL OFICIAL Nr. 338 art. 348 Data intrării în vigoare
+Parlamentul adoptă prezenta lege organică.
+### Art. I. – Legea nr. 248/2025 privind managementul situațiilor de criză (Monitorul
+Oficial al Republicii Moldova, 2025, nr. 437–440, art. 600) se modifică după cum urmează:
+1. La articolul 2:
+punctele 3, 6 și 14 vor avea următorul cuprins:
+„3. criză – urgență internă sau externă, generată de un pericol natural sau artificial,
+inclusiv de un dezastru ori de o amenințare la adresa securității naționale, ale cărei
+consecințe pe teritoriul Republicii Moldova au o amploare și o intensitate atât de mare încât
+aceasta nu poate fi gestionată sau eliminată utilizând resursele disponibile ale instituției
+principale, fiind necesare decizii și o coordonare interinstituțională la nivel național;”
+„6. dezastru – orice situație care are sau poate avea efecte grave asupra persoanelor,
+mediului sau bunurilor materiale, inclusiv asupra patrimoniului cultural;”
+„14. plan de management al situațiilor de criză – document elaborat de autoritățile și
+instituțiile publice și de operatorii economici, în care sunt descrise activitățile necesare
+pentru managementul incidentelor, al urgențelor sau al crizelor, inclusiv procesul
+decizional, coordonarea, comunicarea, precum și prioritizarea resurselor;”
+articolul se completează cu punctul 14¹ cu următorul cuprins:
+„14¹. plan de contingență – document elaborat, de regulă, pe baza unor scenarii de
+risc, prin care se stabilesc măsurile, responsabilitățile, procedurile și resursele necesare
+pentru a răspunde la manifestarea unei situații de criză sau pentru a preveni manifestarea
+acesteia;”
+punctul 21 va avea următorul cuprins:
+„21. funcții vitale ale statului – funcții care au un impact predominant asupra
+funcționării statului, inclusiv menținerea ordinii constituționale, asigurarea securității
+naționale, protejarea vieții și sănătății populației, asigurarea funcționării economiei și a
+sistemului financiar, menținerea ordinii de drept și asigurarea stabilității sociale;”
+articolul se completează cu punctele 21¹ și 34 cu următorul cuprins:
+„21¹. servicii esențiale – servicii indispensabile pentru menținerea funcțiilor vitale ale
+statului, a activităților economice vitale, a sănătății și siguranței publice sau a mediului;”
+„34. refugiu – spațiu de depozitare securizat aflat pe teritoriul Republicii Moldova,
+care este desemnat de Guvern pentru păstrarea în condiții de siguranță a bunurilor
+culturale cu importanță deosebită pentru patrimoniul cultural național care sunt supuse
+unor amenințări serioase și iminente de distrugere sau de pierdere dacă ar rămâne în locul
+lor actual. Lista bunurilor culturale se elaborează de Ministerul Culturii.”
+2. La articolul 9, alineatul (1) se completează cu litera l) cu următorul cuprins:
+„l) crearea refugiilor pentru depozitarea bunurilor culturale, în scopul păstrării lor în
+condiții de siguranță, conform unui mecanism aprobat.”
+3. La articolul 12, alineatele (10), (11) și (13) vor avea următorul cuprins:
+„(10) Coordonarea interinstituțională, suportul decizional și funcția de decizie în
+procesul de management al situațiilor de criză se realizează pe patru niveluri, în cadrul unor
+ședințe de lucru, după cum urmează:
+a) la nivelul experților desemnați de autoritățile și instituțiile publice;
+b) la nivelul conducătorilor structurilor responsabile de managementul situațiilor de
+criză;
+c) la nivelul secretarilor de stat;
+d) la nivelul Comisiei Naționale de Management al Crizelor sau la nivelul Guvernului.
+(11) Metodologia de organizare și funcționare a mecanismului prevăzut la alin. (10) se
+aprobă prin ordin al directorului general al Centrului Național de Management al Crizelor.”
+„(13) Autoritățile și instituțiile publice au obligația de a elabora planuri sectoriale de
+management al crizelor, planuri de contingență și planuri de continuitate a activității.”
+4. Articolul 16 se completează cu alineatele (4¹)–(4³) cu următorul cuprins:
+„(4¹) Ordinele cu caracter executoriu care se aplică unui număr nedeterminat de
+persoane sau care produc efecte generale, inclusiv cele care afectează exercitarea unor
+drepturi sau libertăți fundamentale, se motivează și cuprind în mod obligatoriu temeiul de
+drept și de fapt, scopul urmărit, durata aplicării, teritoriul pe care se aplică și justificarea
+caracterului adecvat și proporțional al măsurilor dispuse.
+(4²) Ordinele prevăzute la alin. (4¹) se publică, în ziua semnării, pe site-ul web oficial
+al instituției principale emitente și, după caz, în Monitorul Oficial al Republicii Moldova și se
+transmit Guvernului, Centrului Național de Management al Crizelor și Parlamentului în
+termen de cel mult 72 de ore de la data emiterii.
+(4³) Comisiile parlamentare permanente au dreptul de a examina, în orice moment pe
+durata situației de criză, ordinele prevăzute la alin. (4¹) și de a propune Parlamentului spre
+aprobare un raport privind concluziile controlului parlamentar desfășurat. La aprobarea
+raportului, Parlamentul poate propune Guvernului sau autorității emitente modificarea sau
+abrogarea totală ori parțială a ordinelor cu caracter executoriu.”
+5. La articolul 18, litera c) va avea următorul cuprins:
+„c) la nivel național , coordonarea strategică a răspunsului la situațiile de criză îi
+revine Comisiei Naționale de Management al Crizelor, iar coordonarea operațională –
+instituției principale, în cooperare cu instituțiile de sprijin, sub monitorizarea Centrului
+Național de Management al Crizelor.”
+6. La articolul 19, alineatul (1) va avea următorul cuprins:
+„(1) Conducătorul operațiilor la nivel sectorial sau local este persoana desemnată din
+cadrul instituției principale, care coordonează instituțiile de sprijin implicate în răspunsul la
+situația de criză.”
+7. Articolul 23:
+la alineatele (2) și (3), cifrele „60” se substituie cu cifrele „30”;
+la alineatul (6), cuvântul „imediat” se substituie cu textul „ , în termen de cel mult 72
+de ore,”.
+8. Articolul 24 se completează cu alineatul (3) cu următorul cuprins:
+„(3) Centrul Național de Management al Crizelor notifică Consiliul Concurenței
+despre măsurile și restricțiile adoptate la declararea stării de alertă.”
+9. Articolul 27 se completează cu literele k) și l) cu următorul cuprins:
+,,k) impunerea de restricții sau condiții speciale privind producerea, comercializarea,
+stocarea și consumul de energie;
+l) efectuarea achizițiilor publice în condiții speciale, cu derogare de la legislația în
+vigoare, în măsura necesară pentru gestionarea situației de criză.”
+10. Legea se completează cu articolele 27
+1
+–27³ cu următorul cuprins:
+„Articolul 27¹. Încetarea efectelor măsurilor dispuse
+pe perioada stării de alertă și a stării
+de urgență
+(1) Actele normative și administrative emise exclusiv pentru aplicarea măsurilor pe
+durata stării de alertă sau a stării de urgență își încetează de drept efectele la data încetării
+stării respective, dacă nu se prevede expres altfel.
+(2) Menținerea, după încetarea stării de alertă ori a stării de urgență, a unor măsuri
+dispuse în perioada acesteia poate fi prevăzută numai printr-un act normativ adoptat în
+procedură ordinară.
+Articolul 27². Punerea în aplicare a măsurilor dispuse
+pe perioada stării de alertă și a stării
+de urgență
+Măsurile prevăzute de prezenta lege se pun în aplicare prin acte administrative sau
+normative emise de autoritățile competente, în condițiile legii.
+Articolul 27³. Dispunerea măsurilor de către Comisia
+Națională de Management al Crizelor
+pe perioada stării de alertă și a stării
+de urgență
+Comisia Națională de Management al Crizelor poate dispune măsuri obligatorii în
+limitele competențelor și împuternicirilor stabilite prin lege sau delegate de Guvern.”
+11. La articolul 29:
+alineatul (2) va avea următorul cuprins:
+„(2) Starea de urgență poate fi declarată pe o perioadă de la 30 de zile până la 90 de
+zile, în funcție de analiza indicatorilor de risc, și poate fi prelungită prin hotărâre a
+Parlamentului, la solicitarea motivată a Președintelui Republicii Moldova sau a Guvernului,
+pentru perioade succesive care nu vor depăși 60 de zile, doar dacă se mențin circumstanțele
+care au determinat declararea acesteia.”
+articolul se completează cu alineatul (4) cu următorul cuprins:
+„(4) Împuternicirile speciale și dreptul de a impune restricții pot fi acordate
+autorităților publice sau Comisiei Naționale de Management al Crizelor prin hotărârea
+Parlamentului de declarare a stării de urgență.”
+12. Legea se completează cu articolul 32¹ cu următorul cuprins:
+„Articolul 32¹. Controlul parlamentar asupra actelor,
+restricțiilor și măsurilor adoptate
+pe durata stării de urgență
+(1) Parlamentul exercită controlul parlamentar asupra hotărârilor, deciziilor,
+ordinelor și altor acte, asupra restricțiilor și măsurilor care afectează drepturile și libertățile
+fundamentale, adoptate pe durata stării de urgență de către Guvern, de autoritățile și
+instituțiile publice împuternicite de Guvern sau de Parlament, de Comisia Națională de
+Management al Crizelor și de Centrul Național de Management al Crizelor.
+(2) Actele, restricțiile și măsurile adoptate în temeiul stării de urgență se comunică
+Parlamentului în termen de cel mult 72 de ore.
+(3) Comisiile parlamentare permanente au dreptul de a examina, în orice moment pe
+durata stării de urgență, actele, restricțiile și măsurile prevăzute la alin. (1) și de a propune
+Parlamentului spre aprobare un raport privind concluziile controlului parlamentar
+desfășurat. La aprobarea raportului, Parlamentul poate propune Guvernului sau autorității
+emitente modificarea sau abrogarea totală ori parțială a actului, a restricției sau a măsurii
+vizate.
+(4) În termen de 30 de zile de la expirarea perioadei pentru care a fost declarată
+starea de urgență sau de la încetarea acesteia înainte de termen, Guvernul prezintă
+Parlamentului, pentru examinare în plen, un raport care cuprinde:
+a) informații privind activitatea desfășurată și măsurile adoptate în gestionarea stării
+de urgență;
+b) informații privind impactul măsurilor adoptate în vederea prevenirii, diminuării și
+lichidării consecințelor factorilor care au impus declararea stării de urgență;
+c) informații privind situația existentă la data încetării stării de urgență;
+d) lista actelor emise pe perioada stării de urgență.
+(5) Controlul parlamentar exercitat în temeiul prezentului articol nu exclude controlul
+de constituționalitate și cel judecătoresc, după caz, asupra actelor, restricțiilor și măsurilor
+adoptate.”
+13. La articolul 34, litera a) va avea următorul cuprins:
+„a) decide asupra măsurilor imediate de gestionare a situațiilor de criză, precum și
+asupra opțiunilor strategice de pregătire și răspuns;”.
+14. Articolul 35 se completează cu alineatul (3¹) cu următorul cuprins:
+„(3¹) Deciziile Comisiei Naționale de Management al Crizelor sunt obligatorii pentru
+autoritățile publice și entitățile vizate și pot fi contestate în condițiile legislației privind
+contenciosul administrativ.”
+15. Legea se completează cu articolul 41¹ cu următorul cuprins:
+„Articolul 41¹. Funcționarii publici cu statut special
+din cadrul Centrului Național
+de Management al Crizelor
+(1) Funcționarii publici cu statut special exercită atribuții specifice de gestionare a
+situațiilor de criză, care implică exercitarea prerogativelor de autoritate publică,
+disponibilitate operațională și îndeplinirea misiunilor în condiții speciale.
+(2) Funcțiilor publice cu statut special li se aplică prevederile Legii nr. 158/2008 cu
+privire la funcția publică și statutul funcționarului public.
+(3) Funcționarilor publici cu statut special li se acordă grade speciale, uniformă de
+serviciu, însemne distinctive și legitimație de serviciu.
+(4) Directorului general și directorului general adjunct ai Centrului li se pot acorda
+grade speciale sau militare în virtutea funcției deținute.
+(5) Ierarhia gradelor speciale, condițiile de acordare, promovare, retragere și
+echivalare a acestora, precum și modelul uniformei, al însemnelor distinctive și al
+legitimației de serviciu și regulile de utilizare a acestora se stabilesc de Guvern.”
+### Art. II. – (1) Prezenta lege intră în vigoare la data publicării în Monitorul Oficial al
+Republicii Moldova.
+(2) Guvernul, în termen de 30 de zile de la data intrării în vigoare a prezentei legi, va
+aduce actele sale normative în concordanță cu aceasta.
+PREȘEDINTELE PARLAMENTULUI Igor GROSU
+Nr. 150. Chișinău, 24 iulie 2026.

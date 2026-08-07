@@ -36,7 +36,7 @@ text_complet: false
 * **Stated enabling basis in text:** art. 4(1)(m) of [[Legea 107-2016 — energia electrica (text)|L107/2016]].
 * **Currency problem:** L107/2016 was **repealed 19.08.2025** by [[Legea 164-2025 — energia electrica (text)|L164/2025]]. HG 820 remains in force as a Government act, but its enabling citation is stale. Locate the L164 equivalent competence (security of supply / exceptional measures / Government powers) before litigating validity or amendment procedure.
 * **EU acquis:** Reg. **(EU) 2019/941** on electricity risk preparedness (repeals Dir. 2005/89/EC), EnC-adapted.
-* **Crisis neighbours:** [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)]] (petroleum / procurement / L164 auction transition — different instrument); Law 248/2025 crisis management *(not ingested)*.
+* **Crisis neighbours:** [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)]] (petroleum / procurement / L164 auction transition — different instrument); Law 248/2025 crisis management *(parent still missing)* — CNMC implementing [[HG 346-2026 — Comisia Nationala Management Crize (notă)|HG 346/2026]] (Annex 3 amends this plan’s contacts/wording) · [[Legea 150-2026 — modificare management situatii de criza (notă)|L150/2026]].
 
 ---
 

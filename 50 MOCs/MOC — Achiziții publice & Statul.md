@@ -23,6 +23,7 @@ Public procurement, tenders, and working with the state.
 | Concessions / PPP legislation | ❌ verify current act on legis.md |
 | Government decisions implementing procurement procedures | ❌ |
 | [[Legea 327-2025 — managementul finantelor publice (text)\|Legea nr. 327/2025]] — public-finance management / Inspectoratul Control Financiar de Stat | ✅ text + [[Legea 327-2025 — managementul finantelor publice (notă)\|notă]] |
+| **Legea nr. 248/2025** — crisis management | ❌ parent still missing · implementing [[HG 346-2026 — Comisia Nationala Management Crize (text)\|HG 346/2026]] + [[Legea 150-2026 — modificare management situatii de criza (text)\|L150/2026]] ✅ |
 
 ## Concepts (to write)
 - [[Concept — Autoritate contractantă]] · [[Concept — Procedură de achiziție]] · [[Concept — Documentația de atribuire]] · [[Concept — Contestare (ANSC)]]

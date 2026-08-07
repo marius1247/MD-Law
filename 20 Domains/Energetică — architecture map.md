@@ -170,9 +170,12 @@ Every energy vector is analysed with the **same columns**. Cells may be empty �
 | [[MOC — Piața de energie electrică]] | **Axis B hub — electricity** (segments, actors, activities) |
 | [[MOC — Piața gazelor naturale]] | **Axis B hub — gas** (PVT, entry-exit, balancing, PSO exit) |
 | [[MOC — Piața produselor petroliere]] | **Axis B hub — petroleum** (price-cap retail, licensing, crisis) |
+| [[Energetică — segmente piață electricitate (notă)]] | Electricity segment briefs |
+| [[Energetică — segmente piață gaze (notă)]] | Gas segment briefs |
 | [[Energetică — segmente piață petrol (notă)]] | Petroleum segment briefs |
 | [[Energetică — cărbune gap stub (notă)]] | Coal — no dedicated ANRE market |
 | [[Energetică — prosumer vs consumator activ (notă)]] | Electricity prosumer boundary |
+| [[MOC — Racordare și acces la rețele]] | Monopoly / connection slice (cross-vector) |
 | [[MOC — Tarife și metodologii ANRE]] | Monopoly / tariff slice |
 | [[Energetică — sector electricitate ANRE (notă)]] | Operational dossier — feeds the electricity hub |
 | [[Energetică — sector gaze ANRE (notă)]] | Operational dossier — feeds the gas hub |
@@ -198,4 +201,4 @@ Every energy vector is analysed with the **same columns**. Cells may be empty �
 
 
 ## Related
-[[Roadmap — Energy analysis architecture]] · [[MOC — Piața de energie electrică]] · [[Energetică — synthesis]] · [[MOC — Energetică]] · [[ANRE]] · [[Legea 164-2025 — energia electrica (notă)]] · [[Legea 174-2017 — energetica (notă)]] · [[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (notă)]]
+[[Roadmap — Energy analysis architecture]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[MOC — Piața produselor petroliere]] · [[Energetică — cărbune gap stub (notă)]] · [[Energetică — synthesis]] · [[MOC — Energetică]] · [[ANRE]] · [[Legea 164-2025 — energia electrica (notă)]] · [[Legea 174-2017 — energetica (notă)]] · [[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (notă)]]

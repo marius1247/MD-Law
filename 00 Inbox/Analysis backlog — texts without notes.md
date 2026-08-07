@@ -64,7 +64,7 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 | [[HANRE 363-2020 — schimbarea furnizorului de gaze (text)]] / [[HANRE 363-2020 — schimbarea furnizorului de gaze (notă)]] | ✅ ingested from mirror PDF (transautogaz / weblex tipar); 177/2026 amendments reflected |
 | Finance/transport Law House deepen (L202, L548, L171, L92, L1194, HG 854, Cod aerian, Cod feroviar) | ✅ notes deepened from existing vault texts |
 | HANRE **853/2025** balancing T&Cs (PRE/BSP) | ❌ blocked — legis.md Cloudflare; moldelectrica 403 from this environment |
-| HANRE **535/2019** gas transmission tariff methodology | ❌ parent still missing — amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)\|329/2025]] ingested 2026-08-07 |
+| HANRE **535/2019** gas transmission tariff methodology | 🟡 decision ✅ ([[HANRE 535-2019 — Metodologie tarife transport gaze (notă)\|notă]]) · **annex still ❌** — amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)\|329/2025]] ✅ |
 | Law **461/2001** petroleum products market | ❌ legis.md blocked |
 | Law **248/2025** crisis management | ❌ parent still missing · HG 346/2026 + L150/2026 ingested 2026-08-07 |
 
@@ -80,6 +80,7 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 | [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]] | `103972` | Methodology annex missing |
 | [[HANRE 169-2019 — furnizarea energiei electrice (text)]] | `114962` | Truncates mid-pt. 146 |
 | [[HANRE 423-2019 — Codul retelelor electrice (text)]] | `151929` | Clean annex consolidation still missing — **partial substance** via [[HANRE 656-2021 — modificare Codul retelelor electrice (text)\|656/2021]] (`129504`) ✅ |
+| [[HANRE 535-2019 — Metodologie tarife transport gaze (text)]] | `149131` | Approving decision ✅ · **methodology annex missing** · amend [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)\|329/2025]] ✅ |
 
 ## Batch 6 — user PDF upload (2026-08-07) ✅
 
@@ -89,6 +90,6 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 | [[HANRE 305-2021 — abrogare HANRE 24-2017 achizitii titulari (text)]] / [[HANRE 305-2021 — abrogare HANRE 24-2017 achizitii titulari (notă)\|notă]] | ✅ repeal → L74/2020 |
 | [[HANRE 656-2021 — modificare Codul retelelor electrice (text)]] / [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)\|notă]] | ✅ Parts I–V restructuring of 423 |
 | [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)]] / [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)\|notă]] | ✅ renewables omnibus (168/169/537) |
-| [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)]] / [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)\|notă]] | ✅ conditional-capacity tariffs; parent 535 still ❌ |
+| [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)]] / [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)\|notă]] | ✅ conditional-capacity tariffs; parent [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)\|535]] decision ✅ · annex ❌ |
 
-Optional next: ingest HANRE **535/2019** parent + **537/2020** QoS; water/utilities MOC if the water corpus grows.
+Optional next: recover HANRE **535/2019 methodology annex** + **537/2020** QoS; water/utilities MOC if the water corpus grows.

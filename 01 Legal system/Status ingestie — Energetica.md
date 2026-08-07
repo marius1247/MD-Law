@@ -136,10 +136,12 @@ Procedure/civil/procurement support notes also created because they are needed f
 ## Scope decision (deliberate)
 Individual **tariff decisions and licences** were *not* ingested. ANRE issues these continuously; they date fast and would swamp the graph. Only structural acts — rules, codes, procedures, methodologies — are in scope. Current tariffs: [ANRE › Tarife în vigoare](https://anre.md/tarife-in-vigoare-3-204).
 
+**Exception (2026-08-07 PDF batch):** [[HANRE 535-2019 — Metodologie tarife transport gaze (text)|HANRE 535/2019]] approving decision was ingested as a methodology parent stub (annex still missing); companion amend [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] is in vault.
+
 ## Newly ingested parents (2026-08-06 / 2026-08-07)
 
 - [[HANRE 363-2020 — schimbarea furnizorului de gaze (text)]] ✅ — gas supplier switching; companion [[HANRE 363-2020 — schimbarea furnizorului de gaze (notă)]]; amended by [[HANRE 177-2026 — modificarea unor hotarari ANRE (notă)]].
-- 2026-08-07 PDF batch: 24/305, 656, 833, 329 — see table above.
+- 2026-08-07 PDF batch: 24/305, 656, 833, 329 — see table above; plus 535 decision-only from the parallel PDF ingest branch.
 
 ## Current priorities
 

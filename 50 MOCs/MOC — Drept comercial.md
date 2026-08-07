@@ -31,7 +31,7 @@ Moldova has **no commercial code**; the Civil Code governs civil and commercial 
 ## Primary legislation
 **The right to do business** *(in transition)*
 - [[Legea 845-1992 — antreprenoriat si intreprinderi (text)|**Legea nr. 845/1992**]] cu privire la antreprenoriat și întreprinderi — ✅ text + [[Legea 845-1992 — antreprenoriat si intreprinderi (notă)|notă]]; legacy; **slated for complete repeal** by a new entrepreneurship law (Government project 345/MDED/2025), in force **two years after publication**
-- [[Legea 330-2025 — modificare secret comercial (text)|**Legea nr. 330/2025**]] — omnibus aligning statutes to Legea 384/2023 trade-secrets vocabulary → [[Legea 330-2025 — modificare secret comercial (notă)|notă]]
+- [[Legea 330-2025 — modificare secret comercial (text)|**Legea nr. 330/2025**]] — omnibus aligning statutes to Legea 384/2023 trade-secrets vocabulary → [[Legea 330-2025 — modificare secret comercial (notă)|notă]] · [[Concept — Secret comercial]]
 - **Legea nr. 235/2006** privind principiile de bază de reglementare a activității de întreprinzător — the better-regulation statute: proportionality, predictability, RIA, "silence is consent"
 - **Legea nr. 160/2011** privind reglementarea prin autorizare a activității de întreprinzător — the **exhaustive permits list**; no permit may be demanded unless it is on it
 

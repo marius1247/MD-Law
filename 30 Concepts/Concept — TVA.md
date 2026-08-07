@@ -5,7 +5,7 @@ domeniu: [fiscal]
 tags: [concept, fiscal, tva]
 status: reviewed
 created: 2026-07-23
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Concept — TVA
@@ -63,16 +63,17 @@ Crucially, the **4% small business income tax regime requires being outside VAT 
 ## 2026 mechanics that changed advice
 - **Energy reverse charge (art. 101⁷):** seller invoices comerciant without VAT; comerciant self-accounts output + input. Wrong status / missing SFS declaration destroys deduction.
 - **Art. 102(18) abrogated:** non-e-Factura formats are no longer an automatic deduction denial against mandatory e-Factura users — but a valid invoice and primary documents remain essential.
-- **Refunds** — export-heavy and investment-heavy businesses; HG 93/2013 layer still not ingested (horizon P1).
+- **Refunds** — export-heavy and investment-heavy businesses; procedure layer is [[HG 93-2013 — restituirea TVA (notă)|HG 93/2013]], as last rewritten by [[HG 829-2025 — modificare acte fiscale vamale audit (notă)|HG 829/2025]].
 
 ## Governing provisions
 - **Codul fiscal, Titlul III** — VAT (arts. 93–117 core)
 - **Codul fiscal, Titlul V** — administration, control, refunds, appeals
+- **[[HG 93-2013 — restituirea TVA (notă)|HG 93/2013]]** — VAT refund regulation (consol. with [[HG 829-2025 — modificare acte fiscale vamale audit (notă)|HG 829/2025]])
 - **Codul vamal** — import VAT → [[Codul vamal 95-2021 (notă)]]
 - Annual fiscal-policy law; [[Fiscalitate & Contabilitate — horizon and gaps]]
 
 ## Related
-[[Concept — Impozit pe venit]] · [[Concept — Accize]] · [[Concept — Situații financiare]] · [[Fiscalitate — synthesis]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Codul fiscal 1163-1997 (notă)]] · [[SFS]]
+[[Concept — Impozit pe venit]] · [[Concept — Accize]] · [[Concept — Situații financiare]] · [[Fiscalitate — synthesis]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Codul fiscal 1163-1997 (notă)]] · [[HG 93-2013 — restituirea TVA (notă)]] · [[HG 829-2025 — modificare acte fiscale vamale audit (notă)]] · [[SFS]]
 
 ## Notes / conclusions
 > VAT is administratively the heaviest tax for a Moldovan business and the most audited. Recurring failure modes: **defective invoices**, **reverse-charge status errors on energy**, and **slow refunds** that never appear in anyone's model.

@@ -12,10 +12,10 @@ tags:
 - tarife
 - transport
 created: '2026-07-28'
-updated: '2026-07-28'
+updated: '2026-08-07'
 ---
 
-# 🚚 Concept — Tarif de transport
+# Concept — Tarif de transport
 
 ## Definiție Legală
 Prețul reglementat aprobat de Consiliul de Administrație al ANRE, perceput de Operatorul Sistemului de Transport (OST) pentru prestarea serviciului de transport al energiei electrice sau al gazelor naturale prin rețelele de înaltă tensiune / înaltă presiune.
@@ -33,11 +33,11 @@ Unde:
 * **CMPC:** Costul Mediu Ponderat al Capitalului.
 
 ## Aplicare
-* **Electricitate:** Achitat de furnizori, traderi sau consumatori eligibili racordați direct la rețeaua de transport (OTS *Moldelectrica*).
-* **Gaze Naturale:** Aplicat pe principiul **Entry/Exit** (Intrare/Ieșire) din sistemul național de transport (*Vestmoldtransgaz*).
+* **Electricitate:** Achitat de furnizori, traderi sau consumatori eligibili racordați direct la rețeaua de transport (OTS *Moldelectrica*). Methodology stack: [[HANRE 626-2023 — Metodologie tarife transport EE (notă)]] (+ [[HANRE 261-2026 — modificare Metodologie tarife transport EE (notă)|261/2026]]).
+* **Gaze Naturale:** Aplicat pe principiul **Entry/Exit** (Intrare/Ieșire) din sistemul național de transport (*Vestmoldtransgaz*). Parent methodology: [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)|HANRE 535/2019]] *(decision ✅ · annex ❌)*; conditional-capacity overlay: [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|HANRE 329/2025]] → [[Concept — Capacitate condiționată]].
 
 ---
 
 ## Legături în Vault
-* **MOC Hub:** [[MOC — Tarife și metodologii ANRE]]
-* **Concepte Conexe:** [[Concept — Punct de delimitare]], [[Concept — Loc de consum]]
+* **MOC Hub:** [[MOC — Tarife și metodologii ANRE]] · [[Energetică — metodologii tarifare (notă)]]
+* **Concepte Conexe:** [[Concept — Punct de delimitare]] · [[Concept — Loc de consum]] · [[Concept — Tarif reglementat]] · [[Concept — Capacitate condiționată]]

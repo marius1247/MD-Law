@@ -94,6 +94,7 @@ legis_id: "152350"
 
 ## 6. Connections in the vault
 
+* **Concept:** [[Concept — Secret comercial]]
 * **Consolidated target:** [[Legea 845-1992 — antreprenoriat si intreprinderi (notă)]]
 * **Also touches:** [[Legea 135-2007 — SRL (notă)]] · [[Legea 183-2012 — concurenta (notă)]] · [[Legea 149-2012 — insolvabilitate (notă)]] · [[Legea 74-2020 — achizitii sectoriale (notă)]] · [[Codul de procedura civila 225-2003 (notă)]] · [[Codul vamal 95-2021 (notă)]]
 * **Hubs:** [[MOC — Drept comercial]] · [[MOC — Societăți & Guvernanță corporativă]] · [[MOC — Proceduri]]

@@ -18,14 +18,14 @@ legal_status: in_vigoare
 
 # HANRE nr. 329/2025 — gas TSO tariff methodology amendment (conditional capacity) — Analysis
 
-**Raw text:** [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)]] ✅ · **Parent methodology:** HANRE **535/2019** *(text still missing in vault)* · **Network-code product:** [[Concept — Capacitate condiționată]] · [[HANRE 310-2026 — modificare Codul retelelor de gaze naturale (notă)]] · **Gas law:** [[Legea 108-2016 — gazele naturale (notă)]]
+**Raw text:** [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)]] ✅ · **Parent methodology:** [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)|HANRE 535/2019]] *(decision ✅ · methodology annex ❌)* · **Network-code product:** [[Concept — Capacitate condiționată]] · [[HANRE 310-2026 — modificare Codul retelelor de gaze naturale (notă)]] · **Gas law:** [[Legea 108-2016 — gazele naturale (notă)]]
 
 > [!abstract] Executive summary & commercial impact
 > **Core purpose:** Updates HANRE 535/2019 gas transmission tariff methodology — unit changes, labour-index rule, IP wording — and **adds Section 7²** calculating regulated tariffs for **conditional capacity** at interconnection points.
-> **Primary business risk:** Pricing Trans-Balkan conditional-capacity products without the parent 535 methodology text; or missing the **25.06.2025** OST filing duty for conditional-capacity tariffs.
+> **Primary business risk:** Pricing Trans-Balkan conditional-capacity products without the parent 535 **methodology annex**; or missing the **25.06.2025** OST filing duty for conditional-capacity tariffs.
 
-> [!warning] Parent still incomplete
-> The vault has this amending act, not the full HANRE 535/2019 methodology. Tariff advice that needs the base BAR / allowed-revenue formulae must still pull 535 from legis.md.
+> [!warning] Parent annex still incomplete
+> The vault has the [[HANRE 535-2019 — Metodologie tarife transport gaze (text)|535/2019 approving decision]] and this amending act, but **not** the 535 methodology annex. Tariff advice that needs the base BAR / allowed-revenue formulae must still pull that annex from legis.md / ANRE.
 
 ---
 
@@ -71,7 +71,7 @@ Gas TSO must file with ANRE, by **25 June 2025**, the application to approve reg
 
 | Issue | Risk | Strategy |
 |---|---|---|
-| Parent 535 absent | Incomplete allowed-revenue / BAR advice | Ingest HANRE 535 before full tariff opinions |
+| Parent 535 annex absent | Incomplete allowed-revenue / BAR advice | Ingest 535 methodology annex before full tariff opinions |
 | Formula line-breaks in PDF | Wrong algebraic reconstruction | Use MO PDF / ANRE annex for filings |
 | Unit mismatch vs older contracts | lei/m³/day vs lei/1000 m³/h | Re-paper capacity bookings and invoices |
 | Conditional product without approved tariff | Unpriced / delayed IP offers | Track ANRE approval of the 25.06.2025 filing |
@@ -83,12 +83,13 @@ Gas TSO must file with ANRE, by **25 June 2025**, the application to approve reg
 - [ ] **Shippers / traders:** confirm conditional-capacity tariff decision published after the OST filing; align units to lei/1000 m³/h (lei/MWh/h).
 - [ ] **OST:** keep labour-index evidence (HG + actual application + CPI comparison).
 - [ ] Cross-read product rules in [[HANRE 310-2026 — modificare Codul retelelor de gaze naturale (notă)]] / [[Concept — Capacitate condiționată]].
-- [ ] Still missing parent → pull HANRE 535/2019 into vault next.
+- [ ] Still missing parent annex → pull HANRE 535/2019 methodology annex into vault next.
 
 ---
 
 ## 5. Connections
 
+* **Parent:** [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)]]
 * [[Concept — Capacitate condiționată]] · [[Concept — Tarif de transport]] · [[Concept — Tarif reglementat]]
 * [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)]] · [[MOC — Tarife și metodologii ANRE]] · [[Energetică — metodologii tarifare (notă)]]
 * [[MOC — Energetică]] · [[ANRE]]

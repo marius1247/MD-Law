@@ -5,6 +5,7 @@ domeniu: [comercial]
 tags: [concept, comercial, autorizare]
 status: draft
 created: 2026-07-23
+updated: 2026-08-07
 ---
 
 # Concept — Autorizarea activității de întreprinzător
@@ -52,16 +53,16 @@ These are not aspirations. They are grounds of challenge to an administrative ac
 5. Ancillary: premises, sanitary, environmental, fire safety, as applicable
 
 ## The transition to watch
-**Legea nr. 845/1992** — the old entrepreneurship framework — is slated for **complete repeal** by a new entrepreneurship law (Government project 345/MDED/2025), taking effect **two years after publication**. It will reshape the general layer above the permits regime. Track it before relying on 845/1992 for anything.
+**[[Legea 845-1992 — antreprenoriat si intreprinderi (notă)|Legea nr. 845/1992]]** — the old entrepreneurship framework — is now in the vault and still slated for **complete repeal** by a new entrepreneurship law (Government project 345/MDED/2025), taking effect **two years after publication**. It will reshape the general layer above the permits regime. Treat 845 as legacy: check Civil Code displacement before relying on any article.
 
-## Governing provisions *(to ingest)*
-- **Legea nr. 160/2011** privind reglementarea prin autorizare a activității de întreprinzător
-- **Legea nr. 235/2006** privind principiile de bază de reglementare a activității de întreprinzător
-- **Legea nr. 845/1992** — legacy framework, pending repeal
-- **Codul administrativ nr. 116/2018** — challenging an authority's decision
+## Governing provisions
+- **Legea nr. 160/2011** privind reglementarea prin autorizare a activității de întreprinzător *(not yet ingested as `(text)`/`(notă)`)*
+- **Legea nr. 235/2006** privind principiile de bază de reglementare a activității de întreprinzător *(not yet ingested)*
+- **[[Legea 845-1992 — antreprenoriat si intreprinderi (text)|Legea nr. 845/1992]]** — legacy framework, pending repeal → [[Legea 845-1992 — antreprenoriat si intreprinderi (notă)|notă]]
+- **Codul administrativ nr. 116/2018** — challenging an authority's decision → [[Codul administrativ 116-2018 (notă)]]
 
 ## Related
-[[Concept — Licență în energetică]] · [[Concept — Poziție dominantă]] · [[Drept comercial — synthesis]] · [[Societăți & guvernanță — synthesis]] · [[ASP]]
+[[Concept — Licență în energetică]] · [[Concept — Poziție dominantă]] · [[Concept — Secret comercial]] · [[Legea 845-1992 — antreprenoriat si intreprinderi (notă)]] · [[Drept comercial — synthesis]] · [[Societăți & guvernanță — synthesis]] · [[ASP]]
 
 ## Notes / conclusions
 > When a client is told they need a permit, the first question is not how to obtain it — it is **whether it is on the nomenclator at all**. A surprising proportion of demanded requirements are not.

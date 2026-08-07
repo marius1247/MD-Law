@@ -44,9 +44,9 @@ legis_id: "149131"
 |---|---|
 | Approving decision (pct. 1–2) | ✅ in `(text)` |
 | Methodology annex | ❌ missing |
-| HANRE 329/2025 amending act | ❌ not ingested |
+| HANRE 329/2025 amending act | ✅ [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)\|ingested]] (conditional-capacity Section 7²) |
 
-Operational tariff analysis for TSO capacity products still depends on pulling the annex (and 329/2025) from legis.md / ANRE.
+Operational tariff analysis for TSO capacity products still depends on pulling the **methodology annex** from legis.md / ANRE.
 
 ---
 
@@ -55,13 +55,14 @@ Operational tariff analysis for TSO capacity products still depends on pulling t
 | Provision | Flaw / ambiguity | Practical risk | Mitigation |
 | :--- | :--- | :--- | :--- |
 | **Annex absent** | No formula / WACC / allocation keys | Wrong capacity price advice | Block client work until annex ingested |
-| **HANRE 329/2025** | Amend text not in vault | Citing pre-24.06.2025 rules | Fetch 329 before any 2025–26 tariff year work |
+| **Post-329 rules** | Conditional-capacity Section 7² + unit changes live from 24.06.2025 | Citing pre-amend methodology | Read [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)\|329/2025]] together with any recovered annex |
 
 ---
 
 ## 4. Client action checklist
 
-- [ ] Obtain full methodology annex + HANRE 329/2025 before any tariff model
+- [ ] Obtain full methodology annex before any tariff model
+- [ ] Apply [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] unit and conditional-capacity overlays
 - [ ] Cross-check against [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)|gas network code]] capacity product definitions
 - [ ] Re-open this note to `reviewed` once annex is in vault
 
@@ -70,6 +71,7 @@ Operational tariff analysis for TSO capacity products still depends on pulling t
 ## 5. Connections in the vault
 
 * **Parent:** [[Legea 108-2016 — gazele naturale (notă)]]
+* **Amendment:** [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)]] · [[Concept — Capacitate condiționată]] · [[Concept — Tarif de transport]]
 * **Network rules:** [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)]] · [[HANRE 112-2019 — racordarea la retelele de gaze (notă)]] · [[HANRE 113-2019 — furnizarea gazelor naturale (notă)]]
 * **EE analogue:** [[HANRE 626-2023 — Metodologie tarife transport EE (notă)]]
 * **Dossiers:** [[Energetică — metodologii tarifare (notă)]] · [[Status ingestie — Energetica]]

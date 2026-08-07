@@ -66,10 +66,10 @@ Superscript "bis" articles (art. 36¹ etc.) that pdftotext flattens were reconst
 ## Next — highest value first
 
 ### 1. Re-verify the remaining pre-L164 HANRE layer
-[[HANRE 283-2020 — Regulile pietei energiei electrice (text)|HANRE 283/2020]] still rests on L107 enabling articles (even though amended 2026). [[HANRE 423-2019 — Codul retelelor electrice (text)|HANRE 423/2019]] annex is **still missing**. Check [ANRE › Hotărâri](https://anre.md/acte-normative-3-18) for re-adoptions under L164.
+[[HANRE 283-2020 — Regulile pietei energiei electrice (text)|HANRE 283/2020]] still rests on L107 enabling articles (even though amended 2026). [[HANRE 423-2019 — Codul retelelor electrice (text)|HANRE 423/2019]] still lacks a clean consolidation — [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|656/2021]] now supplies Parts I–V substance. Check [ANRE › Hotărâri](https://anre.md/acte-normative-3-18) for re-adoptions under L164.
 
 ### 2. Remaining energy tier-3 downloads
-Gas tariff methodologies (HANRE 535/2019, 443/2020), quality of service (422/2019, 537/2020), network development (94/2019), dispatch (316/2018), gas metering (297/2022), **HANRE 24/2017** (licence-holder procurement), electricity network code annex (423/2019), distribution & renewables tariff methodology annexes (64/2018, 375/2017).
+Gas tariff **parent** HANRE 535/2019 (amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] ✅), 443/2020, quality of service (422/2019, **537/2020** — patched by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|833/2023]]), network development (94/2019), dispatch (316/2018), gas metering (297/2022), distribution & renewables tariff methodology annexes (64/2018, 375/2017). Licence-holder procurement: HANRE 24 **abrogated** by [[HANRE 305-2021 — abrogare HANRE 24-2017 achizitii titulari (notă)|305/2021]] → use L74/2020.
 
 ### 3. General public procurement
 **Legea nr. 131/2015** — the core procurement statute (L74/2020 sectoral is already in). Plus AAP/ANSC authority profiles.
@@ -77,7 +77,7 @@ Gas tariff methodologies (HANRE 535/2019, 443/2020), quality of service (422/201
 ### 4. Deepen analysis layer
 - Domain syntheses for Achiziții / Proceduri / Drept civil (currently thin)
 - Atomic concepts for those domains
-- Double-tax-treaty table; IT Park regime detail; SNC map
+- Double-tax-treaty table; IT Park HG registration regulation (L77 ✅); individual SNC texts (OMF 118 gateway ✅)
 - State aid law (exact number — verify on legis.md)
 
 ### 5. Watch list (unchanged — still live)

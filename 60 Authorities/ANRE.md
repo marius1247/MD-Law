@@ -5,7 +5,7 @@ nivel: regulator
 domeniu: [energetică]
 tags: [authority, energetică]
 created: 2026-07-22
-updated: 2026-08-06
+updated: 2026-08-07
 status: reviewed
 ---
 
@@ -29,13 +29,17 @@ Run by a **Consiliu de administrație** (Director general + directors), whose de
 See [[MOC — Energetică]] for the full tiered list. Key families:
 
 - **Market rules** — [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)|electricity]] (historical L107 enabling; live under L164 market chapter + [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (notă)|383/2026]]), [[HANRE 534-2019 — Regulile pietei gazelor naturale (notă)|gas]]
-- **Network codes** — [[HANRE 423-2019 — Codul retelelor electrice (notă)|electricity]], [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)|gas]] (+ [[HANRE 310-2026 — modificare Codul retelelor de gaze naturale (notă)|310/2026]] conditional capacity)
-- **Connection & supply** — [[HANRE 311-2026 — racordarea la retelele electrice (notă)|racordare EE (live)]], [[HANRE 168-2019 — racordarea la retelele electrice (notă)|racordare EE (abrogated)]], [[HANRE 169-2019 — furnizarea energiei electrice (notă)|furnizare EE]], [[HANRE 112-2019 — racordarea la retelele de gaze (notă)|racordare gaz]], [[HANRE 113-2019 — furnizarea gazelor naturale (notă)|furnizare gaz]] (+ [[HANRE 177-2026 — modificarea unor hotarari ANRE (notă)|177/2026]])
-- **Tariff methodologies** — [[HANRE 626-2023 — Metodologie tarife transport EE (notă)|transport EE (live)]], [[HANRE 486-2017 — Metodologie tarife transport EE (notă)|transport EE (abrogated)]], [[HANRE 64-2018 — Metodologie tarife distributie EE (notă)|distribuție EE]], [[HANRE 375-2017 — Metodologie tarife regenerabile (notă)|regenerabile]]
+- **Network codes** — [[HANRE 423-2019 — Codul retelelor electrice (notă)|electricity]] (+ [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|656/2021]] Parts I–V), [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)|gas]] (+ [[HANRE 310-2026 — modificare Codul retelelor de gaze naturale (notă)|310/2026]] conditional capacity)
+- **Connection & supply** — [[HANRE 311-2026 — racordarea la retelele electrice (notă)|racordare EE (live)]], [[HANRE 168-2019 — racordarea la retelele electrice (notă)|racordare EE (abrogated)]], [[HANRE 169-2019 — furnizarea energiei electrice (notă)|furnizare EE]], [[HANRE 112-2019 — racordarea la retelele de gaze (notă)|racordare gaz]], [[HANRE 113-2019 — furnizarea gazelor naturale (notă)|furnizare gaz]] (+ [[HANRE 177-2026 — modificarea unor hotarari ANRE (notă)|177/2026]]; renewables omnibus [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|833/2023]])
+- **Tariff methodologies** — [[HANRE 626-2023 — Metodologie tarife transport EE (notă)|transport EE (live)]], [[HANRE 486-2017 — Metodologie tarife transport EE (notă)|transport EE (abrogated)]], [[HANRE 64-2018 — Metodologie tarife distributie EE (notă)|distribuție EE]], [[HANRE 375-2017 — Metodologie tarife regenerabile (notă)|regenerabile]], gas TSO transport amend [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] (parent 535 still missing)
 - **Tariff application procedure** — [[HANRE 286-2018 — licentiere energie (notă)|HANRE 286/2018]] *(filename says “licențiere”; substance = base costs / annual tariffs / adjustments)*
+- **Procurement** — historic [[HANRE 24-2017 — achizitii titulari de licenta (abrogata) (notă)|24/2017]] repealed by [[HANRE 305-2021 — abrogare HANRE 24-2017 achizitii titulari (notă)|305/2021]] → [[Legea 74-2020 — achizitii sectoriale (notă)|L74/2020]]
 
 ## Pattern worth noting
 Every ANRE act cites the **exact article of the parent law** empowering it, and methodologies are adopted for a fixed **multi-year application period**. That makes the law→regulator chain traceable in both directions — and means post-L164 electricity acts must be checked for re-adoption or fresh enabling citations.
+
+> [!warning] Suspension carve-outs
+> [[Legea 125-2024 — modificare parc IT si tranzitii vamale (notă)|LP125/2024]] rewrote Codul administrativ art. **214(9)** so certain ANRE decisions (gas unbundling/continuity licence withdrawals; specified electricity/gas crisis powers) **cannot be court-suspended**. Screen before filing art. 214 motions.
 
 ## Not covered here
 Individual tariff decisions and licences — deliberately out of scope, see [[Status ingestie — Energetica]]. Current tariffs: [ANRE › Tarife în vigoare](https://anre.md/tarife-in-vigoare-3-204).

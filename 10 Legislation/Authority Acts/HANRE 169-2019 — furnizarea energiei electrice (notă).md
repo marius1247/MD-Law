@@ -106,12 +106,13 @@ Pts. 132–145 complete in vault; **pt. 146 incomplete** (disconnection stay whi
 ## 6. Connections
 
 * **Statute:** [[Legea 164-2025 — energia electrica (notă)]]
+* **Renewables / net-metering patch:** [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)]] (also touched 168 + 537)
 * **Gas analogue (updated 2026):** [[HANRE 113-2019 — furnizarea gazelor naturale (notă)]] · [[HANRE 177-2026 — modificarea unor hotarari ANRE (notă)]]
-* **Concepts:** [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Loc de consum]] · [[Concept — Loc de măsurare]]
+* **Concepts:** [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Loc de consum]] · [[Concept — Loc de măsurare]] · [[Concept — Producător eligibil]]
 * **Hub:** [[MOC — Energetică]] · [[ANRE]]
 
 ---
 
 ## Sources
 
-[[HANRE 169-2019 — furnizarea energiei electrice (text)]] — legis.md doc_id `114962` (incomplete).
+[[HANRE 169-2019 — furnizarea energiei electrice (text)]] — legis.md doc_id `114962` (incomplete). Amended by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)]] (`141264`).

@@ -35,11 +35,12 @@ The capacity threshold separating the tracks, and the quota, are set administrat
 - **Guarantees of origin**, tracking the renewable attribute separately from the energy itself
 
 ## Prosumers — a different animal
-Small self-consumers with generation are handled by **net metering / net billing** rather than the eligible-producer track: surplus injected is set off against consumption over a settlement period. Lower administrative burden, no quota competition, but no tariff support either.
+Small self-consumers with generation are handled by **net metering / net billing** rather than the eligible-producer track: surplus injected is set off against consumption over a settlement period. Lower administrative burden, no quota competition, but no tariff support either. Secondary-act alignment after LP331/2023: [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|HANRE 833/2023]] (supply 169 + historic connection 168 patches; live connection now [[HANRE 311-2026 — racordarea la retelele electrice (notă)|311/2026]]).
 
 ## Governing provisions
 - [[Legea 10-2016 — surse regenerabile (notă)]] — support scheme, eligibility, quotas, net billing ✅ *(complete consolidation)*
 - [[HANRE 375-2017 — Metodologie tarife regenerabile (notă)]] — fixed tariff / ceiling price *(annex missing)*
+- [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)]] — renewables omnibus (net metering / commissioning)
 - [[Legea 164-2025 — energia electrica (notă)|L164/2025]] — market participation, dispatch, connection
 - [[HANRE 311-2026 — racordarea la retelele electrice (notă)]] — connection queue / >200 kW guarantee
 - [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)]] · [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (notă)|383/2026 POCB]]

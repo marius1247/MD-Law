@@ -243,9 +243,9 @@ This is the post-2025 anti-queue-blocking tool: a speculative project must carry
 
 ## 17. Relationship to the missing electricity network code annex
 
-The regulation cross-refers to [[HANRE 423-2019 — Codul retelelor electrice (text)]], especially for connection-code technical matters. The vault still has HANRE 423 as decision-only with the annex missing.
+The regulation cross-refers to [[HANRE 423-2019 — Codul retelelor electrice (text)]], especially for connection-code technical matters. The vault still has HANRE 423 as decision-only; **[[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|HANRE 656/2021]]** now supplies Parts I–V operative substance (still not a clean consolidation).
 
-Practical consequence: this note is strong on the connection regulation itself, but technical network-code detail still needs source verification outside the vault until HANRE 423's annex is completed.
+Practical consequence: this note is strong on the connection regulation itself; for technical network-code detail start from 656 + current legis consolidation, and still prefer a full 423 annex when available.
 
 ## 18. How to use this note
 
@@ -264,7 +264,7 @@ Do not use it alone for:
 - licensing → [[Concept — Licență în energetică]];
 - market participation → [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)]];
 - tariff calculation → [[Concept — Tarif reglementat]] and tariff methodologies;
-- technical network-code detail → verify HANRE 423 annex.
+- technical network-code detail → [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)]] + verify current 423 consolidation.
 
 ## 19. Practitioner cautions
 

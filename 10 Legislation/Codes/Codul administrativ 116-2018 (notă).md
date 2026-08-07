@@ -253,10 +253,13 @@ Art. 214 is the emergency provision: suspension of execution of an administrativ
 
 For clients, suspension may matter more than eventual annulment. A sanction, permit cancellation or disconnection-related decision can cause immediate harm before final judgment.
 
+> [!danger] ANRE carve-outs (LP125/2024)
+> [[Legea 125-2024 — modificare parc IT si tranzitii vamale (notă)|LP125/2024]] rewrote art. **214(9)**: certain [[ANRE]] decisions **cannot be suspended** — gas licence withdrawals for unbundling/independence/certification failures and gas-transport continuity decisions; plus acts under (historical) L107 art. 81¹(1) and L108 art. 108¹(5). Remap the electricity limb to [[Legea 164-2025 — energia electrica (notă)|L164/2025]] before litigating. Former (10) was abrogated.
+
 The legal strategy should ask:
 
 1. Is the act executable?
-2. Is suspension available?
+2. Is suspension available — or carved out by art. 214(9)?
 3. What irreparable harm or serious doubt must be shown?
 4. Does special law modify the standard?
 

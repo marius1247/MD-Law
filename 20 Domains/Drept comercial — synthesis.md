@@ -88,7 +88,7 @@ Almost everything in this domain moves under the **Association Agreement and DCF
 - Track the **new entrepreneurship law** replacing L845/1992; ingest **Legea nr. 384/2023** (trade secrets pivot for L330/2025)
 - Ingest **Codul civil, Cartea III** (obligations) per Titlu → [[MOC — Drept civil]]
 - Write the **[[Consiliul Concurenței]]** profile out further; add **AGEPI** and **BNM**
-- **HANRE 24/2017** — procurement by energy licence-holders: sits between this hub, energy and procurement
+- Energy/utilities procurement: live [[Legea 74-2020 — achizitii sectoriale (notă)|L74/2020]]; historic [[HANRE 24-2017 — achizitii titulari de licenta (abrogata) (notă)|HANRE 24/2017]] abrogated by [[HANRE 305-2021 — abrogare HANRE 24-2017 achizitii titulari (notă)|305/2021]] — sits between this hub, energy and [[MOC — Achiziții publice & Statul]]
 - State aid in the energy sector — renewables support schemes are state aid and need the analysis run
 
 ## Related

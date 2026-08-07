@@ -269,5 +269,9 @@ Read with crisis/supply-security rules and any Government emergency acts before 
 - Be careful with contract modification under art. 82.
 - Check LP102/2026 effective dates for thresholds and harmonisation wording.
 
+## 18. Relationship to repealed ANRE procurement regulation
+
+ANRE’s former licence-holder procurement regulation [[HANRE 24-2017 — achizitii titulari de licenta (abrogata) (notă)|HANRE 24/2017]] was **abrogated** by [[HANRE 305-2021 — abrogare HANRE 24-2017 achizitii titulari (notă)|HANRE 305/2021]] expressly on **art. 89(3)** of this law (IF 06.08.2021). Live utilities procurement advice starts here — not with HANRE 24.
+
 ## Sources
 [[Legea 74-2020 — achizitii sectoriale (text)]] — legis.md doc_id `155279`, complete text, manual-browser download 2026-07-26; consolidated with LP102/2026 changes entering into force 01.01.2027.

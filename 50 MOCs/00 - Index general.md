@@ -13,11 +13,11 @@ Navigation hubs for the vault. Each domain map links the raw acts, analysis note
 ## Domains
 | Hub | Synthesis | State |
 |---|---|---|
-| [[MOC — Energetică]] | [[Energetică — synthesis]] | **Built** — core laws complete; ANRE layer largely complete; L164 transition ongoing |
+| [[MOC — Energetică]] | [[Energetică — synthesis]] | **Built** — core laws complete; ANRE layer largely complete; L164 transition ongoing; 2026-08-07: 656/833/329 + 24/305 currency fix |
 | [[MOC — Societăți & Guvernanță corporativă]] | [[Societăți & guvernanță — synthesis]] | **Built** — L135/2007, L1134/1997, L220/2007, L149/2012 + Civil Code Cartea I ingested |
-| [[MOC — Fiscalitate & Contabilitate]] | [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] · [[Fiscalitate & Contabilitate — horizon and gaps]] | **Built** — CF Titluri I–X, L287/L86, Customs; horizon tracks 2026 live + 2027 draft |
+| [[MOC — Fiscalitate & Contabilitate]] | [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] · [[Fiscalitate & Contabilitate — horizon and gaps]] | **Built** — CF Titluri I–X, L287/L86, Customs; **L77 IT Park + OMF 118 SNC gateway** (2026-08-07); horizon tracks 2026 live + 2027 draft |
 | [[MOC — Drept comercial]] | [[Drept comercial — synthesis]] | **Built** — L183/2012, L235/2006, L160/2011 + uploads batch (banking, trade, transport codes) ingested |
-| [[MOC — Achiziții publice & Statul]] | — | **Built** — L74/2020, [[HG 773-2016 — Regulament achizitii interne (notă)]], [[Legea 179-2008 — parteneriat public-privat (notă)]] ingested |
+| [[MOC — Achiziții publice & Statul]] | — | **Built** — L74/2020, HG 773, L179; HANRE 24 **abrogated** by [[HANRE 305-2021 — abrogare HANRE 24-2017 achizitii titulari (notă)|305/2021]] (2026-08-07) |
 | [[MOC — Proceduri]] | — | **Built** — Cod administrativ, CPC, Cod de executare, L23/2008, L74/2025, L436/2006, L136/2017, L797/1996, L1234/2000 ingested |
 | [[MOC — Drept civil]] | — | **Partial** — Codul civil complete (Cărțile I–V); synthesis still thin |
 
@@ -28,7 +28,7 @@ Energy sub-MOCs: [[MOC — Piața de energie electrică]] · [[MOC — Racordare
 
 **Companies** — [[Concept — Capital social]] · [[Concept — Acțiune vs parte socială]] · [[Concept — Adunarea generală]] · [[Concept — Consiliul societății]] · [[Concept — Administrator]] · [[Concept — Insolvabilitate]]
 
-**Tax & accounting** — [[Concept — Impozit pe venit]] · [[Concept — TVA]] · [[Concept — Accize]] · [[Concept — Rezident fiscal]] · [[Concept — Situații financiare]]
+**Tax & accounting** — [[Concept — Impozit pe venit]] · [[Concept — TVA]] · [[Concept — Accize]] · [[Concept — Rezident fiscal]] · [[Concept — Situații financiare]] · [[Concept — Parc IT]]
 
 **Commercial** — [[Concept — Autorizarea activității de întreprinzător]] · [[Concept — Poziție dominantă]] · [[Concept — Ajutor de stat]]
 

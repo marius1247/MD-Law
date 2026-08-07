@@ -71,6 +71,16 @@ updated: 2026-08-07
 | `155511` | [`155511.md`](155511.md) · [`155511.pdf`](155511.pdf) | `10 Legislation/Government Decisions/HG 346-2026 — Comisia Nationala Management Crize (text).md` |
 | `155513` | [`155513.md`](155513.md) · [`155513.pdf`](155513.pdf) | `10 Legislation/Laws/Legea 150-2026 — modificare management situatii de criza (text).md` |
 | `95607` | [`95607.md`](95607.md) | `10 Legislation/Laws/Legea 23-2008 — arbitraj (text).md` |
+| `127246` | [`127246-HANRE-305-2021.pdf`](127246-HANRE-305-2021.pdf) | `10 Legislation/Authority Acts/HANRE 305-2021 — abrogare HANRE 24-2017 achizitii titulari (text).md` |
+| `127268` | [`127268-HANRE-24-2017.pdf`](127268-HANRE-24-2017.pdf) | `10 Legislation/Authority Acts/HANRE 24-2017 — achizitii titulari de licenta (abrogata) (text).md` *(abrogated; annexes named only)* |
+| `129504` | [`129504-HANRE-656-2021.pdf`](129504-HANRE-656-2021.pdf) | `10 Legislation/Authority Acts/HANRE 656-2021 — modificare Codul retelelor electrice (text).md` |
+| `131855` | [`131855-OMF-73-2022.pdf`](131855-OMF-73-2022.pdf) | `10 Legislation/Authority Acts/OMF 73-2022 — modificare indicatii metodice contabilitate (text).md` |
+| `131868` | [`131868-OMF-118-2013.pdf`](131868-OMF-118-2013.pdf) | `10 Legislation/Authority Acts/OMF 118-2013 — Standardele Nationale de Contabilitate (text).md` *(approving order; individual SNC texts separate)* |
+| `141264` | [`141264-HANRE-833-2023.pdf`](141264-HANRE-833-2023.pdf) | `10 Legislation/Authority Acts/HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text).md` |
+| `143425` | [`143425-Legea-125-2024.pdf`](143425-Legea-125-2024.pdf) | `10 Legislation/Laws/Legea 125-2024 — modificare parc IT si tranzitii vamale (text).md` |
+| `143443` | [`143443-Legea-77-2016.pdf`](143443-Legea-77-2016.pdf) | `10 Legislation/Laws/Legea 77-2016 — parcuri tehnologia informatiei (text).md` |
+| `145617` | [`145617-OMF-128-2024.pdf`](145617-OMF-128-2024.pdf) | `10 Legislation/Authority Acts/OMF 128-2024 — modificare formular IPC21 (text).md` |
+| `149100` | [`149100-HANRE-329-2025.pdf`](149100-HANRE-329-2025.pdf) | `10 Legislation/Authority Acts/HANRE 329-2025 — modificare Metodologie tarife transport gaze (text).md` |
 
 ## Intentionally unused duplicates
 
@@ -83,21 +93,20 @@ updated: 2026-08-07
 
 ## Still incomplete in vault (no adequate source dump yet)
 
-- `HANRE 423/2019` — electricity network code **annex** (source 151929 is decision-only)
+- `HANRE 423/2019` — clean **annex consolidation** still missing (151929 decision-only; partial substance via `129504` / HANRE 656/2021 ✅)
 - `HANRE 169/2019` — electricity supply regulation (still truncated; source 148195 is a *different* act: HANRE 169/**2025** water/sewerage)
 - `HANRE 64/2018`, `HANRE 375/2017` — tariff methodology annexes
 - `HG 820/2024` — risk-preparedness annex
-- `HANRE 853/2025`, Law `461/2001` — parents not yet dumped (legis.md Cloudflare / no mirror)
+- `HANRE 853/2025`, `HANRE 537/2020`, Law `461/2001` — still missing / incomplete
+- **HANRE 535/2019** — decision ingested (`149131`); **methodology annex still missing**; amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)|329/2025]] ✅
 - **Legea 248/2025** crisis management — parent still missing; implementing [[HG 346-2026 — Comisia Nationala Management Crize (text)|HG 346/2026]] + [[Legea 150-2026 — modificare management situatii de criza (text)|L150/2026]] now in vault
-- **HANRE 535/2019** — decision ingested (`149131`); **methodology annex still missing** (same class as HANRE 423)
-- **HANRE 329/2025** — amends HANRE 535; not yet dumped
 - **Legea nr. 384/2023** privind protecția secretelor comerciale — pivot for [[Legea 330-2025 — modificare secret comercial (notă)]]; not yet dumped
 
-## PDF batches 2026-08-07
+## PDF batches 2026-08-07 (this branch)
 
 1. doc_ids `152300`, `152350`, `152360`, `152472`, `152587` — full `(text)` + `(notă)`
-2. doc_ids `149085`, `149131`, `149593`, `149719`, `151444` — L144 + HANRE 535 (decision-only) new; L187/L308 notes deepened + PDF mirrors; Civil Code PDF mirror only (books already split)
-3. doc_ids `155424`, `155453`, `155507`, `155511`, `155513` — L135/2026 (EU social coordination, accession-gated); L489/1999 (social insurance, annex possibly truncated); HG 379/2026; HG 346/2026 (CNMC); L150/2026 (amends L248/2025)
+2. doc_ids `149085`, `149131`, `149593`, `149719`, `151444` — L144 + HANRE 535 (decision-only) new; L187/L308 notes deepened + PDF mirrors; Civil Code PDF mirror only
+3. doc_ids `155424`, `155453`, `155507`, `155511`, `155513` — L135/2026; L489/1999; HG 379/2026; HG 346/2026; L150/2026
 
 ## See also
 [[Conventions]] · [[Status ingestie — Energetica]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]

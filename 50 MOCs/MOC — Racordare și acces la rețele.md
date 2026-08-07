@@ -12,7 +12,7 @@ tags:
 - racordare
 - infrastructura
 created: '2026-07-28'
-updated: '2026-07-28'
+updated: '2026-08-07'
 ---
 
 # 🔌 Map of Content: Racordare și Acces la Rețele
@@ -22,8 +22,9 @@ Centrul de comandă pentru normele privind accesul la rețelele electrice, de ga
 ---
 
 ## 1. Reglementări Sector Electrice
-* [[HANRE 168-2019 — racordarea la retelele electrice (notă)|HANRE 168/2019]] — *Regulamentul privind racordarea la rețelele electrice și prestarea serviciilor de transport și distribuție*
-* [[HANRE 423-2019 — Codul retelelor electrice (notă)|HANRE 423/2019]] — *Codul rețelei electrice (Capitolele de Acces)*
+* [[HANRE 311-2026 — racordarea la retelele electrice (notă)|HANRE 311/2026]] — **current** connection regulation (L164)
+* ~~[[HANRE 168-2019 — racordarea la retelele electrice (notă)|HANRE 168/2019]]~~ — abrogated; patched while live by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|833/2023]]
+* [[HANRE 423-2019 — Codul retelelor electrice (notă)|HANRE 423/2019]] — *Codul rețelei electrice* · substance via [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|656/2021]] (Parts I–V)
 
 ## 2. Reglementări Sector Gaze Naturale
 * [[HANRE 112-2019 — racordarea la retelele de gaze (notă)|HANRE 112/2019]] — *Regulamentul privind racordarea la rețelele de gaze naturale*

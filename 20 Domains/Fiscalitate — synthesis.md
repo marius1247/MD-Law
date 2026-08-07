@@ -148,8 +148,8 @@ Two practical points that decide outcomes more often than the substantive law:
 **Still open** (from [[Fiscalitate & Contabilitate — horizon and gaps|horizon gaps]]):
 - Ingest the **annual fiscal-policy law** for the current year (and 2027 package when enacted)
 - Map the **double tax treaty** network — standing reference table
-- Detail the **IT Park** regime beyond Titlul X (admission rules)
-- Map **SNC**; statutory audit law; Serviciul Vamal / CNAS / CNAM profiles
+- IT Park admission law ✅ [[Legea 77-2016 — parcuri tehnologia informatiei (notă)|L77/2016]] · [[Concept — Parc IT]] — still need HG resident-registration regulation
+- Map **individual SNC texts** (gateway [[OMF 118-2013 — Standardele Nationale de Contabilitate (notă)|OMF 118/2013]] ✅); statutory audit law; Serviciul Vamal / CNAS / CNAM profiles
 - Track the **2027 Estonian-style draft** and the longer CF/Customs rewrite concept — contingency only until enacted
 - Dispute workflow note; accounting ↔ tax bridge table; energy × tax dossier
 

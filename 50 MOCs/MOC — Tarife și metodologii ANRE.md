@@ -13,7 +13,7 @@ tags:
 - metodologii
 - anre
 created: '2026-07-28'
-updated: '2026-07-28'
+updated: '2026-08-07'
 ---
 
 # 📊 Map of Content: Tarife și Metodologii ANRE
@@ -23,13 +23,15 @@ Indexul tuturor metodologiilor de calcul, aprobărilor de tarife reglementate ș
 ---
 
 ## 1. Sectorul Energie Electrică
-* [[Concept — Tarif de transport]]
-* Metodologia de determinare a tarifelor pentru serviciul de distribuție a energiei electrice
-* Metodologia de calcul al prețurilor reglementate de furnizare
+* [[Concept — Tarif de transport]] · [[HANRE 626-2023 — Metodologie tarife transport EE (notă)|626/2023]] (+ [[HANRE 261-2026 — modificare Metodologie tarife transport EE (notă)|261/2026]])
+* [[HANRE 64-2018 — Metodologie tarife distributie EE (notă)|64/2018]] — distribution *(annex gap)*
+* [[HANRE 375-2017 — Metodologie tarife regenerabile (notă)|375/2017]] — renewables fixed tariffs *(annex gap)*
+* [[HANRE 286-2018 — licentiere energie (notă)|286/2018]] — tariff/price **application** procedure *(not licensing)*
 
 ## 2. Sectorul Gaze Naturale
-* Metodologia de calculare și aplicare a tarifelor reglementate la gazele naturale
-* Hotărâri ANRE privind tarifele de ieșire/intrare în rețeaua GTS (*Vestmoldtransgaz* / *Moldovatransgaz*)
+* HANRE **535/2019** gas TSO transport methodology — parent ❌ · amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] ✅ (conditional-capacity Section 7²)
+* [[Concept — Capacitate condiționată]] · [[HANRE 310-2026 — modificare Codul retelelor de gaze naturale (notă)|310/2026]] product rules
+* HANRE 443/2020 — still not ingested
 
 ## 3. Concepte Atomice Asociate
 * [[Concept — Tarif de transport]]

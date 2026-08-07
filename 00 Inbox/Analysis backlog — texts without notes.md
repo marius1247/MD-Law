@@ -157,4 +157,15 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 | [[HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (text)]] | [[HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (notă)]] |
 | [[HANRE 422-2019 — calitate servicii transport distributie gaze (text)]] | [[HANRE 422-2019 — calitate servicii transport distributie gaze (notă)]] ⚠️ decision-only |
 
-Optional next: **PNIEC annex**, **HG 197 methodology**, **422/537 QoS annexes**, **HG 401/2021** + HG 329 annex 2, **HG 1059/2023**, **HG 668/2022**, **535/355** methodology annexes, **HG 74/2025** annex, **L282/2023** parent.
+## Batch 13 — energy PDF (2026-08-07g) ✅
+
+| Act | Note |
+|---|---|
+| [[HG 1060-2023 — organizare functionare CNED (text)]] | [[HG 1060-2023 — organizare functionare CNED (notă)]] ⚠️ annex 4 |
+| [[HG 620-2025 — transmitere bunuri Fond eficienta energetica CNED (text)]] | [[HG 620-2025 — transmitere bunuri Fond eficienta energetica CNED (notă)]] |
+| [[HG 599-2025 — limite cote capacitate regenerabile pana 2030 (text)]] | [[HG 599-2025 — limite cote capacitate regenerabile pana 2030 (notă)]] ⚠️ annexes |
+| [[HG 517-2024 — Regulament constructie reconstructie centrale electrice (text)]] | [[HG 517-2024 — Regulament constructie reconstructie centrale electrice (notă)]] |
+| [[HANRE 23-2017 — furnizarea energiei termice (text)]] | [[HANRE 23-2017 — furnizarea energiei termice (notă)]] ⚠️ form annexes |
+| [[HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (text)]] | [[HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (notă)]] · parent 443 ❌ |
+
+Optional next: **HG 599 annexes**, **HANRE 443/2020**, **PNIEC / HG 197 methodology**, **422/537 QoS annexes**, **HANRE 23 forms**, **HG 1059/668**, **535/355** methodology annexes, **L282/2023**.

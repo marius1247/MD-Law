@@ -16,7 +16,7 @@ legis_id: "150831"
 
 # HG nr. 596/2025 — TSO corridor + plant authorisation + balancing-capacity PSO — Analysis
 
-**Raw text:** [[HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (text)]] ✅ · **Hub:** [[MOC — Energetică]] · [[MOC — Racordare și acces la rețele]] · **Patches:** HG 1037/2023 · HG 517/2024 · [[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (notă)|HG 26/2025]]
+**Raw text:** [[HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (text)]] ✅ · **Hub:** [[MOC — Energetică]] · [[MOC — Racordare și acces la rețele]] · **Patches:** HG 1037/2023 · [[HG 517-2024 — Regulament constructie reconstructie centrale electrice (notă)|HG 517/2024]] ✅ · [[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (notă)|HG 26/2025]]
 
 > [!abstract] Executive summary
 > **Core purpose:** Three-track Government patch — (1) clean-up of **Vulcănești–Chișinău** expropriation parcels/rules (HG 1037/2023); (2) **remap HG 517/2024** plant-construction regulation from L107 → **L164**, add FDI/security investment pre-approval; (3) extend [[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (notă)|HG 26/2025]] PSO priority queue to **winners of balancing-capacity auctions** (storage / plants).

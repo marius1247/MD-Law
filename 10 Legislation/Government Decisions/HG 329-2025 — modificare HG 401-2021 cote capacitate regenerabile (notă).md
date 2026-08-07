@@ -19,11 +19,11 @@ legis_id: "148815"
 **Raw text:** [[HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile (text)]] ⚠️ *annex 2 missing* · **Parent:** HG 401/2021 *(not in vault)* · **Hub:** [[MOC — Energetică]] · [[Concept — Producător eligibil]]
 
 > [!abstract] Executive summary
-> **Core purpose:** Patches HG 401/2021 (RES capacity limits/quotas valid to **31.12.2025**) — CNED-style body monitors net-billing commissioning and alerts ME at **90%** of annex-2 quota; replaces annex 2; allows **household** net-billing capacity-ceiling uplift; rules for **multi-site** household / non-household plants **outside** the consumption site (cap **≤ 200 kW**).
-> **Primary business risk:** Advising on new individual ceilings without annex 2 numbers — the PDF only has placeholder „anexa nr.2”.
+> **Core purpose:** Patched HG 401/2021 (RES capacity limits/quotas valid to **31.12.2025**) — monitoring at 90% of annex-2 quota; multi-site net-billing rules (≤ 200 kW).
+> **Superseded:** [[HG 599-2025 — limite cote capacitate regenerabile pana 2030 (notă)|HG 599/2025]] (IF 19.09.2025) **abrogates HG 401/2021** and resets the regime to **2030**. Keep this note only for the brief 06.06–19.09.2025 window / transitional disputes.
 
-> [!warning] Annex missing + parent gap
-> Fetch annex 2 and consider ingesting consolidated **HG 401/2021**. Connection ops for net billing: [[HANRE 311-2026 — racordarea la retelele electrice (notă)|311/2026]].
+> [!danger] Currency
+> Do not use HG 329/401 for 2026 capacity advice — use HG 599 (annexes still missing in vault).
 
 ---
 

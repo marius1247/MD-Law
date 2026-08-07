@@ -68,9 +68,11 @@ Segments: Bilateral Contracts Market · Day-Ahead (PZU) · Intraday (PI) · Bala
 - [ ] Verify REMIT registration under [[Legea 164-2025 — energia electrica (notă)]].
 - [ ] Challenge supply-quality failures under HANRE 169/2019 compensation rules.
 
-- Cross-links
-  - [[MOC — Piața de energie electrică]] — segment / actor / activity hub
-  - [[Energetică — architecture map]] — inter-law bridges
-  - [[Energetică — sector gaze ANRE (notă)]] — parallel gas framework
-  - [[Energetică — metodologii tarifare (notă)]] — transmission/distribution tariffs
-  - [[Energetică — contencios administrativ și precedente (notă)]] — litigation pathways
+## Cross-links
+
+- [[MOC — Piața de energie electrică]] — segment / actor / activity hub
+- [[Energetică — segmente piață electricitate (notă)]] — segment briefs + licensing inventory
+- [[Energetică — architecture map]] — inter-law bridges
+- [[Energetică — sector gaze ANRE (notă)]] — parallel gas framework
+- [[Energetică — metodologii tarifare (notă)]] — transmission/distribution tariffs
+- [[Energetică — contencios administrativ și precedente (notă)]] — litigation pathways

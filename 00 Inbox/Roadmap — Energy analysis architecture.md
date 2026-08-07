@@ -14,7 +14,7 @@ Reorganise the energy **analysis layer** so a practitioner can navigate by **(A)
 Corpus status and ingestion remain tracked in [[Status ingestie — Energetica]] and [[00 Inbox/Roadmap|the main vault roadmap]]. This note is the **structuring** track only.
 
 > [!tip] Entry point for the new layer
-> **[[Energetică — architecture map]]** — inter-law map + market taxonomy. First filled segment hub: **[[MOC — Piața de energie electrică]]**.
+> **[[Energetică — architecture map]]** — inter-law map + market taxonomy. Electricity hub: **[[MOC — Piața de energie electrică]]** · segment briefs: **[[Energetică — segmente piață electricitate (notă)]]**.
 
 ---
 
@@ -49,18 +49,17 @@ Keep [[Energetică — synthesis]] as the short practitioner narrative. Do **not
 
 ## Phased plan
 
-### Step 1 — Architecture + electricity market hub *(this turn)* ✅
+### Step 1 — Architecture + electricity market hub ✅
 - Publish [[Energetică — architecture map]] (cascade + horizontal bridges + full-vector taxonomy)
 - Rewrite [[MOC — Piața de energie electrică]] as the first regulation-oriented market hub (segments, actors, regulated activities, governing acts)
 - Wire into [[MOC — Energetică]], [[Energetică — synthesis]], [[Home]], [[00 - Index general]]
 
-### Step 2 — Electricity deep fill
-For each electricity market segment (bilaterals / POCB · PZU · PI · balancing · system services · capacity / adequacy · LT hedges / FCEE contracts):
-- short regulatory brief (what it is, who may trade, settlement logic, key articles)
-- concept notes where the doctrine is missing (e.g. OPEED, consumator activ, agregator, stocare)
-- regulated-activity inventory from L164 licensing catalogue vs HANRE 286/2018 currency
+### Step 2 — Electricity deep fill ✅ *(2026-08-07)*
+- Segment briefs + licensing inventory: [[Energetică — segmente piață electricitate (notă)]]
+- Concepts: [[Concept — OPEED]] · [[Concept — Consumator activ]] · [[Concept — Agregator independent]] · [[Concept — Stocare a energiei]] · [[Concept — Comunitate de energie a cetățenilor]]
+- Verdict recorded: **no live capacity market** (L164 arts. 49–51 toolbox only); HANRE 286 is **not** the licensing regulation
 
-### Step 3 — Gas market hub
+### Step 3 — Gas market hub *(next)*
 Mirror Step 1–2 pattern under a new `MOC — Piața gazelor naturale`:
 - segments from [[HANRE 534-2019 — Regulile pietei gazelor naturale (notă)|HANRE 534/2019]]
 - actors (TSO / DSO / storage / suppliers / FUO / traders)
@@ -109,4 +108,4 @@ A market hub is “filled” when it has:
 **Do not open Step N+1 until Step N has a navigable stub.** Prefer one complete hub over seven empty folders. Electricity first because the corpus and concepts are densest; gas second because the package lag is the live legislative story.
 
 ## Related
-[[Energetică — architecture map]] · [[MOC — Piața de energie electrică]] · [[Energetică — synthesis]] · [[MOC — Energetică]] · [[00 Inbox/Roadmap]]
+[[Energetică — architecture map]] · [[MOC — Piața de energie electrică]] · [[Energetică — segmente piață electricitate (notă)]] · [[Energetică — synthesis]] · [[MOC — Energetică]] · [[00 Inbox/Roadmap]]

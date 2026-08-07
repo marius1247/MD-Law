@@ -234,6 +234,7 @@ Do not use it alone for:
 
 ## 15. Connections
 
+- Related: [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Furnizor de servicii de echilibrare]] · [[Concept — Piața organizată a contractelor bilaterale]] · [[Concept — OPEED]] · [[Energetică — segmente piață electricitate (notă)]] · [[MOC — Piața de energie electrică]]
 - [[Legea 164-2025 — energia electrica (notă)]]
 - [[Legea 174-2017 — energetica (notă)]]
 - [[HANRE 311-2026 — racordarea la retelele electrice (notă)]]
@@ -242,6 +243,8 @@ Do not use it alone for:
 - [[Concept — Furnizor de ultimă opțiune]]
 - [[Concept — Tarif reglementat]]
 - [[MOC — Energetică]]
+- [[MOC — Piața de energie electrică]]
+- [[Energetică — segmente piață electricitate (notă)]]
 
 ## 16. Practitioner cautions
 

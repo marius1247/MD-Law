@@ -183,13 +183,13 @@ Every energy vector is analysed with the **same columns**. Cells may be empty �
 | Step | Deliverable | Status |
 |---|---|---|
 | 1 | This map + electricity market MOC rewrite | **Done (2026-08-07)** |
-| 2 | Electricity deep fill (segment briefs + missing concepts) | Next |
-| 3 | Gas market hub | Queued |
+| 2 | Electricity deep fill (segment briefs + missing concepts) | **Done (2026-08-07)** — [[Energetică — segmente piață electricitate (notă)]] · concepts OPEED / consumator activ / agregator / stocare / CEC |
+| 3 | Gas market hub | **Next** |
 | 4–6 | Petroleum/coal · thermal/geothermal · biofuels/hydrogen | Queued |
 | 7 | Prosumers · incentives · ESG notes | Queued |
-| 8 | Synthesis retune to this spine | After Step 2–3 have substance |
+| 8 | Synthesis retune to this spine | After Step 3 has substance |
 
-**Immediate next work (Step 2):** expand [[MOC — Piața de energie electrică]] segment rows into short regulatory briefs; add concept stubs for **OPEED**, **consumator activ**, **agregator independent**, **stocare a energiei** if not already atomic.
+**Immediate next work (Step 3):** new `MOC — Piața gazelor naturale` mirroring the electricity hub pattern from [[HANRE 534-2019 — Regulile pietei gazelor naturale (notă)|HANRE 534]] + L108.
 
 ## Related
 [[Roadmap — Energy analysis architecture]] · [[MOC — Piața de energie electrică]] · [[Energetică — synthesis]] · [[MOC — Energetică]] · [[ANRE]] · [[Legea 164-2025 — energia electrica (notă)]] · [[Legea 174-2017 — energetica (notă)]] · [[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (notă)]]

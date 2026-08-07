@@ -39,4 +39,4 @@ Art. 18 types now expressly cover activities that L107 treated poorly or not at 
 - Licence-holder procurement: historic [[HANRE 24-2017 — achizitii titulari de licenta (abrogata) (notă)|HANRE 24/2017]] **abrogated** by [[HANRE 305-2021 — abrogare HANRE 24-2017 achizitii titulari (notă)|HANRE 305/2021]]; live regime [[Legea 74-2020 — achizitii sectoriale (notă)|L74/2020]] → [[MOC — Achiziții publice & Statul]]
 
 ## Related
-[[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Tarif reglementat]] · [[Concept — Furnizor de ultimă opțiune]] · [[ANRE]] · [[Energetică — synthesis]]
+[[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Tarif reglementat]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Stocare a energiei]] · [[Concept — Agregator independent]] · [[Concept — OPEED]] · [[ANRE]] · [[Energetică — synthesis]] · [[Energetică — segmente piață electricitate (notă)]]

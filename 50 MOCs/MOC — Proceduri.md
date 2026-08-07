@@ -42,3 +42,4 @@ Tracker: [[Status ingestie — Uploads]]
 
 ## Open threads
 - Map the appeal routes for each domain (procurement → ANSC; energy → ANRE/court; tax → SFS/court).
+- Energy suspension carve-outs: [[Legea 125-2024 — modificare parc IT si tranzitii vamale (notă)|LP125/2024]] → Codul administrativ art. **214(9)** (certain ANRE acts non-suspendable).

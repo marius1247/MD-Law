@@ -5,7 +5,7 @@ domeniu: [fiscal]
 tags: [authority, fiscal]
 status: reviewed
 created: 2026-07-23
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # SFS — Serviciul Fiscal de Stat
@@ -56,4 +56,4 @@ Most assessments are **evidential rather than substantive**: the transaction was
 - **Codul administrativ nr. 116/2018** — judicial review
 
 ## Related
-[[MOC — Fiscalitate & Contabilitate]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] · [[Concept — TVA]] · [[Codul fiscal 1163-1997 (notă)]] · [[MOC — Proceduri]] · [[00 - Harta instituțională]]
+[[MOC — Fiscalitate & Contabilitate]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] · [[Concept — TVA]] · [[Concept — Parc IT]] · [[OMF 128-2024 — modificare formular IPC21 (notă)|IPC21 / OMF 128]] · [[Codul fiscal 1163-1997 (notă)]] · [[MOC — Proceduri]] · [[00 - Harta instituțională]]

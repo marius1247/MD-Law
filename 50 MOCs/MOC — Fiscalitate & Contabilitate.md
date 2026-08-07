@@ -4,7 +4,7 @@ type: moc
 domeniu: fiscal
 tags: [moc, index, fiscal]
 created: 2026-07-22
-updated: 2026-08-06
+updated: 2026-08-07
 status: reviewed
 ---
 
@@ -48,6 +48,11 @@ Key watch: Government **politica fiscală 2027** draft proposes Estonian-style d
 | [[Legea 287-2017 — contabilitate (text)\|Legea nr. 287/2017]] | ✅ complete | [[Legea 287-2017 — contabilitate (notă)]] |
 | [[Legea 86-2026 — modificare Legea contabilitatii (text)\|Legea nr. 86/2026]] | ✅ complete · **IF 1 Jan 2027** | [[Legea 86-2026 — modificare Legea contabilitatii (notă)]] |
 | [[Codul vamal 95-2021 (text)\|Codul vamal nr. 95/2021]] | ✅ complete | [[Codul vamal 95-2021 (notă)]] |
+| [[Legea 77-2016 — parcuri tehnologia informatiei (text)\|Legea nr. 77/2016]] — IT Parks | ✅ complete (incl. LP125) | [[Legea 77-2016 — parcuri tehnologia informatiei (notă)]] · [[Concept — Parc IT]] |
+| [[Legea 125-2024 — modificare parc IT si tranzitii vamale (text)\|Legea nr. 125/2024]] — omnibus (IT Park / CA / customs) | ✅ | [[Legea 125-2024 — modificare parc IT si tranzitii vamale (notă)]] |
+| [[OMF 118-2013 — Standardele Nationale de Contabilitate (text)\|OMF 118/2013]] — SNC approving order | ✅ order · individual SNC texts still ❌ | [[OMF 118-2013 — Standardele Nationale de Contabilitate (notă)]] |
+| [[OMF 73-2022 — modificare indicatii metodice contabilitate (text)\|OMF 73/2022]] | ✅ | [[OMF 73-2022 — modificare indicatii metodice contabilitate (notă)]] |
+| [[OMF 128-2024 — modificare formular IPC21 (text)\|OMF 128/2024]] — IPC21 amend | ✅ · parent OMF 94/2020 ❌ | [[OMF 128-2024 — modificare formular IPC21 (notă)]] |
 
 ### Fiscal Code by Titlu
 
@@ -83,14 +88,14 @@ Key watch: Government **politica fiscală 2027** draft proposes Estonian-style d
 
 ## Concepts
 
-[[Concept — Impozit pe venit]] · [[Concept — TVA]] · [[Concept — Accize]] · [[Concept — Rezident fiscal]] · [[Concept — Situații financiare]]
+[[Concept — Impozit pe venit]] · [[Concept — TVA]] · [[Concept — Accize]] · [[Concept — Rezident fiscal]] · [[Concept — Situații financiare]] · [[Concept — Parc IT]]
 
 ## Authorities
 
-- **[[SFS]]** — Serviciul Fiscal de Stat: assessment, control, enforcement, first-instance appeal; comerciant reverse-charge declarations
-- **Serviciul Vamal** — the border *(authority note still open)*
-- **Ministerul Finanțelor** — policy; approves **SNC**
-- **CNAS** / **CNAM** — social and health contributions *(profiles still open)*
+- **[[SFS]]** — Serviciul Fiscal de Stat: assessment, control, enforcement, first-instance appeal; comerciant reverse-charge declarations; IPC21 filing
+- **Serviciul Vamal** — the border *(authority note still open)*; LP125 transitional customs rules
+- **Ministerul Finanțelor** — policy; approves **SNC** ([[OMF 118-2013 — Standardele Nationale de Contabilitate (notă)|OMF 118/2013]] gateway)
+- **CNAS** / **CNAM** — social and health contributions *(profiles still open)*; IT Park single-tax split (L77 art. 14)
 
 ## Cross-domain bridges
 
@@ -105,18 +110,19 @@ Key watch: Government **politica fiscală 2027** draft proposes Estonian-style d
 ## Still open *(from [[Fiscalitate & Contabilitate — horizon and gaps|horizon gaps]])*
 
 **P0 / P1 — acts not in vault**
-- **Annual fiscal-policy laws** (esp. 318/2025 and successors; 2027 package *when enacted*)
+- **Annual fiscal-policy laws** (esp. 318/2025 and successors; 2027 package *when enacted*; Law **214/2024** if needed beyond IPC21 hook)
 - **HG 93/2013** VAT refund regulation (+ amends)
-- **IT Park** admission law / regulations beyond Titlul X
+- **IT Park** Government resident-registration regulation (L77 parent law ✅ ingested 2026-08-07)
 - **Double tax treaty** texts (at least RO, UA corridors, NL, DE, US if used)
 
 **P2 — acts / layers**
 - **Statutory audit law** + oversight body
-- **SNC** (MF orders) as a mapped corpus
+- **Individual SNC texts** (gateway [[OMF 118-2013 — Standardele Nationale de Contabilitate (notă)|OMF 118/2013]] ✅; full standards still ❌)
+- Parent **OMF 94/2020** IPC21 form (128/2024 amend ✅)
 - **Serviciul Vamal** authority note; **CNAS/CNAM** profiles
 - Transfer-pricing secondary rules / SFS guides
 
 **Analysis still thin**
 - Dispute workflow note (Titlul V: control → contestation → court)
 - Accounting ↔ tax bridge table (non-deductibles, depreciation, provisions, art. 87(11))
-- Energy × tax dossier; IT Park concept beyond Titlul X
+- Energy × tax dossier

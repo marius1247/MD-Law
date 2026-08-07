@@ -5,7 +5,7 @@ domeniu: [fiscal, contabilitate]
 tags: [domain, analysis, fiscal, contabilitate, horizon, gaps]
 status: reviewed
 created: 2026-08-06
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Fiscalitate & Contabilitate — structure, horizon, gaps
@@ -81,10 +81,11 @@ Verified against MF summaries and the vault’s CF consolidation (Aug 2026). Re-
 |---|---|---|
 | **Annual fiscal-policy laws** (esp. 318/2025 and successors; 2027 package when enacted) | Rate and regime vehicle every 1 January | **P0** |
 | **HG 93/2013** VAT refund regulation (+ later amends) | Cash-flow disputes | **P1** |
-| **IT Park law / regulations** (beyond Titlul X) | Flagship incentive — status rules sit outside CF | **P1** |
+| **IT Park HG** resident-registration regulation (L77 + LP125 ✅ ingested 2026-08-07) | Onboarding procedure detail | **P1** |
 | **Double tax treaty texts** (at least RO, RO/UA corridors, NL, DE, US if used) | Withholding advice | **P1** |
 | **Statutory audit law** + oversight body acts | Who must be audited beyond L287 categories | **P2** |
-| **SNC** (MF orders) as a mapped layer | Book vs tax depreciation, provisions | **P2** |
+| **Individual SNC texts** (gateway [[OMF 118-2013 — Standardele Nationale de Contabilitate (notă)\|OMF 118/2013]] ✅) | Book vs tax depreciation, provisions | **P2** |
+| Parent **OMF 94/2020** IPC21 ([[OMF 128-2024 — modificare formular IPC21 (notă)\|128/2024]] ✅) | Full payroll-return field map | **P2** |
 | **Serviciul Vamal** authority note; **CNAS/CNAM** profiles | Procedure at border / payroll wedge | **P2** |
 | **Transfer-pricing** secondary rules / SFS guides | Related-party adjustments | **P2** |
 
@@ -96,7 +97,7 @@ Verified against MF summaries and the vault’s CF consolidation (Aug 2026). Re-
 | Dispute workflow note | Control → contestation → court (Titlul V) not yet a dedicated procedure note |
 | Accounting ↔ tax bridge table | Non-deductibles, depreciation, provisions, art. 87(11) deferral |
 | Energy × tax dossier | Reverse charge + connection-asset deduction + 8% gas transport VAT deserve a short cross-domain note |
-| IT Park concept | Titlul X alone is incomplete without Park admission rules |
+| [[Concept — Parc IT]] | ✅ created 2026-08-07 from L77 — keep synced when HG registration rules ingested |
 
 ### C. Do **not** treat as missing
 

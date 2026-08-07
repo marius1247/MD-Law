@@ -137,7 +137,7 @@ The practical sequence in disputes is: control act → SFS decision → administ
 
 [[Codul fiscal 1163-1997 — text — Titlul X#Articolul 367. Noţiuni|Titlul X art. 367]] begins the special regime. [[Codul fiscal 1163-1997 — text — Titlul X#Articolul 368. Subiecţii impunerii|Art. 368]] identifies taxpayers, [[Codul fiscal 1163-1997 — text — Titlul X#Articolul 369. Obiectul impunerii|art. 369]] the object, [[Codul fiscal 1163-1997 — text — Titlul X#Articolul 370. Cota impozitului|art. 370]] the rate, and [[Codul fiscal 1163-1997 — text — Titlul X#Articolul 372. Componenţa impozitului unic|art. 372]] the composition of the single tax.
 
-For technology-sector advice, Titlul X is often more important than Titlul II because the single tax replaces much of the ordinary burden for eligible IT Park residents. But it is status-dependent: loss or acquisition of IT Park status changes the fiscal period and regime, cross-linking back to [[Codul fiscal 1163-1997 — text — Titlul II#Articolul 12. ## 1|Titlul II art. 12^1]].
+For technology-sector advice, Titlul X is often more important than Titlul II because the single tax replaces much of the ordinary burden for eligible IT Park residents. But it is status-dependent: loss or acquisition of IT Park status changes the fiscal period and regime, cross-linking back to [[Codul fiscal 1163-1997 — text — Titlul II#Articolul 12. ## 1|Titlul II art. 12^1]]. **Admission / activities / withdrawal** live in [[Legea 77-2016 — parcuri tehnologia informatiei (notă)|L77/2016]] → [[Concept — Parc IT]] (not in the CF alone).
 
 ## 9. Customs interface
 
@@ -211,7 +211,7 @@ Full horizon checklist: [[Fiscalitate & Contabilitate — horizon and gaps#5. Cl
 Aligned to [[Fiscalitate & Contabilitate — horizon and gaps|horizon gaps]] (concepts already exist — keep refreshing after each fiscal-policy law):
 
 - **Ingest the annual fiscal-policy law** (esp. 318/2025 and successors; 2027 package *when enacted*) and link rate/regime amendments to each Titlu.
-- Ingest **HG 93/2013** (VAT refund) and **IT Park** admission rules beyond Titlul X.
+- Ingest **HG 93/2013** (VAT refund). IT Park admission law ✅ [[Legea 77-2016 — parcuri tehnologia informatiei (notă)|L77/2016]] · [[Concept — Parc IT]] — still need HG resident-registration regulation.
 - Build a tax-dispute workflow note from [[Codul fiscal 1163-1997 — text — Titlul V#Articolul 214. Principiile generale de efectuare|control]] → [[Codul fiscal 1163-1997 — text — Titlul V#Articolul 267. Dreptul de a contesta decizia|contestare]] → court.
 - Accounting ↔ tax bridge table; energy × tax dossier; treaty reference table; deepen [[SFS]] (electronic services, rulings, comerciant reverse-charge practice).
 

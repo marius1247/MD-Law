@@ -77,7 +77,7 @@ Gas tariff methodologies (HANRE 535/2019, 443/2020), quality of service (422/201
 ### 4. Deepen analysis layer
 - Domain syntheses for Achiziții / Proceduri / Drept civil (currently thin)
 - Atomic concepts for those domains
-- Double-tax-treaty table; IT Park regime detail; SNC map
+- Double-tax-treaty table; IT Park HG registration regulation (L77 ✅); individual SNC texts (OMF 118 gateway ✅)
 - State aid law (exact number — verify on legis.md)
 
 ### 5. Watch list (unchanged — still live)

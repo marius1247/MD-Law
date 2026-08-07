@@ -88,7 +88,7 @@ Payments to non-residents — dividends, interest, royalties, certain services �
 - **Codul fiscal, Titlul I** — general provisions, definitions, residence
 - **Codul fiscal, Titlul II** — income tax (anchors above)
 - **Codul fiscal, Titlul V** — administration, control, appeals
-- **Codul fiscal, Titlul X** — IT Park (incomplete without Park admission rules — horizon gap)
+- **Codul fiscal, Titlul X** + [[Legea 77-2016 — parcuri tehnologia informatiei (notă)|L77/2016]] — IT Park single tax → [[Concept — Parc IT]]
 - Annual fiscal-policy law — **ingest still open**
 - **Legea nr. 287/2017** — the accounting base
 

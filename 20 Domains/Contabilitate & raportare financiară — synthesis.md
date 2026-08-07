@@ -33,7 +33,7 @@ So the accounting regime is the plumbing under company law and tax law both. Get
 **Legea contabilității și raportării financiare nr. 287/2017** — replaced the previous accounting law and rebuilt the regime on the EU **Accounting Directive 2013/34/EU** model. Its central move is **proportionality**: obligations scale with entity size. → [[Legea 287-2017 — contabilitate (notă)]] ✅ ingested
 
 Two reporting frameworks sit beneath it:
-- **SNC** — *Standardele Naționale de Contabilitate*, the national standards *(MF orders — not yet ingested as a corpus)*
+- **SNC** — *Standardele Naționale de Contabilitate*, the national standards — gateway approving order [[OMF 118-2013 — Standardele Nationale de Contabilitate (notă)|OMF 118/2013]] ✅; **individual SNC texts still not ingested**
 - **IFRS** — mandatory for **public interest entities**; available to others by election
 
 **Public interest entities** — banks, insurers, and other entities designated by law — always report under **IFRS**, regardless of size. Size only determines the regime for everyone else.
@@ -85,7 +85,7 @@ Roughly, in ascending order of size:
 **Ingested (do not re-list as missing):** [[Legea 287-2017 — contabilitate (notă)|L287/2017]] · [[Legea 86-2026 — modificare Legea contabilitatii (notă)|L86/2026]].
 
 **Still open** — point to [[Fiscalitate & Contabilitate — horizon and gaps#4. What you are missing (gap list)|horizon gaps]]:
-- Map **SNC** (MF orders) as a corpus — book vs tax depreciation, provisions
+- Ingest **individual SNC texts** listed in [[OMF 118-2013 — Standardele Nationale de Contabilitate (notă)|OMF 118/2013]] — book vs tax depreciation, provisions · methodological cleanup [[OMF 73-2022 — modificare indicatii metodice contabilitate (notă)|OMF 73/2022]]
 - **Statutory audit law** + oversight body acts (who must be audited beyond L287 categories)
 - Build the **accounting ↔ tax bridge** table (non-deductibles, depreciation, provisions, art. 87(11) deferral)
 - Verify headcount criterion / transitional practice for borderline entities under L86

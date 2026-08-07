@@ -16,11 +16,11 @@ legis_id: "148535"
 
 # HG nr. 302/2025 — gas security stocks to 50 mcm — Analysis
 
-**Raw text:** [[HG 302-2025 — modificare HG 668-2022 stocuri securitate gaze (text)]] ✅ · **Parent:** HG 668/2022 *(not in vault)* · **Prior patch:** [[HG 364-2024 — modificare stocuri securitate gaze (notă)|HG 364/2024]] (47.1 mcm) · **Hub:** [[MOC — Energetică]]
+**Raw text:** [[HG 302-2025 — modificare HG 668-2022 stocuri securitate gaze (text)]] ✅ · **Parent:** [[HG 668-2022 — stocuri securitate gaze naturale (notă)|HG 668/2022]] ✅ · **Prior:** [[HG 364-2024 — modificare stocuri securitate gaze (notă)|HG 364/2024]] (47.1 mcm) · **Later:** **HG 299/2026** → **56.3 mcm** (in consolidated parent; amend not ingested) · **Hub:** [[MOC — Energetică]]
 
 > [!abstract] Executive summary
 > **Core purpose:** Raises the HG 668/2022 security-stock target from **47.1 mcm → 50 mcm**; deletes the second sentence of pt. 6; narrows pt. 8 drawdown trigger from „alertă sau urgență” to **„situație de urgență”** only; deadline to build the new level: **1 October 2025**.
-> **Primary business risk:** Still citing the 47.1 mcm figure from HG 364/2024 as current — superseded on volume by this HG (IF 22.05.2025).
+> **Primary business risk:** Treating **50 mcm** as still current. Consolidated [[HG 668-2022 — stocuri securitate gaze naturale (text)|HG 668]] pt. 6 is now **56.3 mcm** (HG 299/2026, IF 12.06.2026).
 
 ---
 
@@ -38,9 +38,9 @@ Related: [[HG 365-2024 — obligatie stocare gaze naturale (notă)|HG 365/2024]]
 
 ## 2. Checklist
 
-- [ ] Update security-stock opinions to **50 mcm**
+- [ ] Update security-stock opinions to **56.3 mcm** (post-HG 299)
 - [ ] Confirm alert vs emergency drawdown language in crisis playbooks
-- [ ] Still missing: consolidated parent HG 668/2022
+- [ ] Parent consolidated: [[HG 668-2022 — stocuri securitate gaze naturale (notă)|HG 668]] ✅ · ingest HG 299/2026
 
 ---
 

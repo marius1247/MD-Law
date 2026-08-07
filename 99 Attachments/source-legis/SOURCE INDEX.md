@@ -239,5 +239,16 @@ updated: 2026-08-07
 | `152374` | [`152374-152374_e3f4.pdf`](152374-152374_e3f4.pdf) · [`152374.txt`](152374.txt) | `10 Legislation/Laws/Legea 317-2025 — modificare acte permisive (text).md` |
 | `154098` | [`154098-154098_09a4.pdf`](154098-154098_09a4.pdf) · [`154098.txt`](154098.txt) | `10 Legislation/Laws/Legea 53-2026 — reforma autoritatilor Ministerul Mediului (text).md` *(peripheral)* |
 
+## PDF batch 2026-08-07i — energy (batch 9)
+
+| doc_id | Raw file | Vault location |
+|---|---|---|
+| `154839` | [`154839-154839_b6cf.pdf`](154839-154839_b6cf.pdf) · [`154839.txt`](154839.txt) | `10 Legislation/Government Decisions/HG 668-2022 — stocuri securitate gaze naturale (text).md` |
+| `154418` | [`154418-154418_6b51.pdf`](154418-154418_6b51.pdf) · [`154418.txt`](154418.txt) | `10 Legislation/Government Decisions/HG 852-2024 — zone protectie retele electrice (text).md` *(form annexes missing)* |
+| `154133` | [`154133-154133_7a85.pdf`](154133-154133_7a85.pdf) · [`154133.txt`](154133.txt) | `10 Legislation/Laws/Legea 74-2024 — actiuni climatice (text).md` |
+| `155406` | [`155406-155406_205c.pdf`](155406-155406_205c.pdf) · [`155406.txt`](155406.txt) | `10 Legislation/Laws/Legea 75-2026 — cadru institutii publice (text).md` *(peripheral)* |
+| `154422` | [`154422-154422_9db1.pdf`](154422-154422_9db1.pdf) · [`154422.txt`](154422.txt) | `10 Legislation/Laws/Legea 105-2024 — Retea date durabilitate agricola (text).md` *(peripheral)* |
+| `155290` | [`155290-155290_59ee.pdf`](155290-155290_59ee.pdf) · [`155290.txt`](155290.txt) | *archive only* — duplicate of HG 346 vault text (`155511`) |
+
 ## See also
-[[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — PDF batch 2026-08-07 (4)]] · [[Status ingestie — PDF batch 2026-08-07 (5)]] · [[Status ingestie — PDF batch 2026-08-07 (6)]] · [[Status ingestie — PDF batch 2026-08-07 (7)]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]
+[[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — PDF batch 2026-08-07 (4)]] · [[Status ingestie — PDF batch 2026-08-07 (5)]] · [[Status ingestie — PDF batch 2026-08-07 (6)]] · [[Status ingestie — PDF batch 2026-08-07 (7)]] · [[Status ingestie — PDF batch 2026-08-07 (8)]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]

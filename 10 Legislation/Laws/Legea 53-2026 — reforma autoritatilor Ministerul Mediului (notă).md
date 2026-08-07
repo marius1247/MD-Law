@@ -16,7 +16,7 @@ legis_id: "154098"
 
 # Legea nr. 53/2026 — Environment Ministry subordinate-authority reform — Analysis
 
-**Raw text:** [[Legea 53-2026 — reforma autoritatilor Ministerul Mediului (text)]] ✅ · **Hub:** peripheral to [[MOC — Energetică]] (climate / GHG / environmental accounts)
+**Raw text:** [[Legea 53-2026 — reforma autoritatilor Ministerul Mediului (text)]] ✅ · **Also patches:** [[Legea 74-2024 — actiuni climatice (notă)|LP74/2024 climate]] · **Hub:** peripheral to [[MOC — Energetică]] (climate / GHG / environmental accounts)
 
 > [!abstract] Executive summary
 > **Core purpose:** Organic reform of authorities under the **Ministry of Environment** (Agenția de Mediu etc.), implementing **EMAS** (Reg. 1221/2009) and European **environmental accounts** (Reg. 691/2011), including a physical **energy-flow** accounts module and GHG MRV touchpoints under climate law.
@@ -31,6 +31,7 @@ legis_id: "154098"
 
 * Environmental accounts module for **physical energy flows** (Reg. 691/2011 family).
 * GHG monitoring / reporting / verification language under climate / air-quality patches (Art. XXI area and related).
+* Patches [[Legea 74-2024 — actiuni climatice (notă)|LP74/2024]] institutional articles (Environment-side renames).
 * Institutional rename / competence shifts at Environment Ministry — check if a permit still cites a dissolved body.
 
 **IF:** Art. XXIV — on MO publication (**25.04.2026**), except Arts. **IX, X, XXII** → **29.05.2026**.

@@ -1,0 +1,2158 @@
+---
+title: "Legea 74-2024 — actiuni climatice (text)"
+type: act-text
+act_type: lege-organică
+nr: "74"
+an: 2024
+domeniu:
+- climă
+- energetică
+- GES
+domain: [climă, energetică, GES]
+forta_juridica: 3
+issuer: Parlament
+in_force: true
+in_vigoare: true
+mo_publicare: "MO 209-212/16.05.2024 art. 293"
+legis_id: "154133"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=154133"
+version_date: 2026-08-07
+versiune_text: 2026-08-07
+continut: text-integral
+text_complet: true
+articole_numarate: 62
+puncte_numarate: 0
+tags: [act, text, acte_normative, energetică]
+created: 2026-08-07
+updated: 2026-08-07
+source_ingest: pdf-upload-pdftotext
+legal_status: in_vigoare
+enabling_act: "Organic — ETS Directive 2003/87/CE · Governance Reg. (EU) 2018/1999 (energy union / climate)"
+amended_by: "[[Legea 53-2026 — reforma autoritatilor Ministerul Mediului (text)|LP53/2026]]"
+---
+# Legea 74-2024 — actiuni climatice
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md** PDF (doc_id [154133](https://www.legis.md/cautare/getResults?lang=ro&doc_id=154133)), pdftotext + structură ușoară.
+> Analiză: [[Legea 74-2024 — actiuni climatice (notă)]].
+
+---
+
+Republica Moldova
+
+PARLAMENTUL
+LEGE Nr. LP74/2024
+din 11.04.2024
+
+privind acțiunile climatice
+Publicat : 16.05.2024 în MONITORUL OFICIAL Nr. 209-212 art. 293 Data intrării în vigoare
+
+MODIFICAT
+LP53 din 09.04.26, MO183-185/25.04.26 art.150; în vigoare 25.04.26
+
+UE
+Parlamentul adoptă prezenta lege organică.
+Prezenta lege transpune:
+a) art. 1, art. 2, art. 3a, art. 3g, art. 3ga, art. 3gd, art. 3ge, art. 3h, art. 4–6, art. 10d,
+art. 12, art. 14, art. 15, art. 15a, art. 18, anexa I, anexa IV și anexa V din Directiva
+2003/87/CE a Parlamentului European și a Consiliului din 13 octombrie 2003 de stabilire a
+unui sistem de comercializare a cotelor de emisie de gaze cu efect de seră în cadrul Uniunii
+și de modificare a Directivei 96/61/CE a Consiliului (text cu relevanță pentru SEE), publicată
+în Jurnalul Oficial al Uniunii Europene L 275 din 25 octombrie 2003 (CELEX: 02003L0087),
+astfel cum a fost modificată ultima dată prin Directiva (UE) 2023/959 a Parlamentului
+European și a Consiliului din 10 mai 2023 de modificare a Directivei 2003/87/CE de stabilire
+a unui sistem de comercializare a cotelor de emisie de gaze cu efect de seră în cadrul
+Uniunii și a Deciziei (UE) 2015/1814 privind înființarea și funcționarea unei rezerve pentru
+stabilitatea pieței aferentă schemei UE de comercializare a certificatelor de emisii de gaze
+cu efect de seră;
+b) art. 1, art. 15 și art. 16 din Regulamentul (UE) 2018/1999 al Parlamentului
+European și al Consiliului din 11 decembrie 2018 privind guvernanța uniunii energetice și a
+acțiunilor climatice, de modificare a Regulamentelor (CE) nr. 663/2009 și (CE) nr. 715/2009
+ale Parlamentului European și ale Consiliului, a Directivelor 94/22/CE, 98/70/CE,
+2009/31/CE, 2009/73/CE, 2010/31/UE, 2012/27/UE și 2013/30/UE ale Parlamentului
+European și ale Consiliului, a Directivelor 2009/119/CE și (UE) 2015/652 ale Consiliului și
+de abrogare a Regulamentului (UE) nr. 525/2013 al Parlamentului European și al Consiliului
+(text cu relevanță pentru SEE), publicat în Jurnalul Oficial al Uniunii Europene L 328 din 21
+decembrie 2018 (CELEX: 32018R1999), astfel cum a fost modificat prin Regulamentul (UE)
+2023/857 al Parlamentului European și al Consiliului din 19 aprilie 2023 de modificare a
+Regulamentului (UE) 2018/842 privind reducerea anuală obligatorie a emisiilor de gaze cu
+
+
+efect de seră de către statele membre în perioada 2021–2030 în vederea unei contribuții la
+acțiunile climatice de respectare a angajamentelor asumate în temeiul Acordului de la Paris
+și a Regulamentului (UE) 2018/1999;
+c) art. 2, art. 4, art. 5, art. 9 și art. 11 din Regulamentul (UE) 2021/1119 al
+Parlamentului European și al Consiliului din 30 iunie 2021 de instituire a cadrului pentru
+realizarea neutralității climatice și de modificare a Regulamentelor (CE) nr. 401/2009 și
+(UE) 2018/1999 („Legea europeană a climei”), publicat în Jurnalul Oficial al Uniunii
+Europene L 243 din 9 iulie 2021 (CELEX: 32021R1119);
+d) art. 1–4 și art. 16 din Regulamentul (UE) 2015/757 al Parlamentului European și al
+Consiliului din 29 aprilie 2015 privind monitorizarea, raportarea și verificarea emisiilor de
+dioxid de carbon generate de transportul maritim și de modificare a Directivei 2009/16/CE
+(text cu relevanță pentru SEE), publicat în Jurnalul Oficial al Uniunii Europene L 123 din 19
+mai 2015 (CELEX: 32015R0757), astfel cum a fost modificat prin Regulamentul (UE)
+2023/957 al Parlamentului European și al Consiliului din 10 mai 2023 de modificare a
+Regulamentului (UE) 2015/757 pentru includerea activităților de transport maritim în
+schema UE de comercializare a certificatelor de emisii și pentru monitorizarea, raportarea
+și verificarea emisiilor de gaze cu efect de seră suplimentare și a emisiilor de la alte tipuri
+de nave;
+e) art. 1 și art. 3–7 din Directiva 1999/94/CE a Parlamentului European și a
+Consiliului din 13 decembrie 1999 privind disponibilitatea informațiilor cu privire la
+consumul de carburant și emisiile de CO2 destinate consumatorilor la comercializarea
+autoturismelor noi, publicată în Jurnalul Oficial al Uniunii Europene L 12 din 18 ianuarie
+2000 (CELEX: 31999L0094), astfel cum a fost modificată ultima dată prin Regulamentul
+(CE) nr. 1137/2008 al Parlamentului European și al Consiliului din 22 octombrie 2008 de
+adaptare la Decizia 1999/468/CE a Consiliului a anumitor acte care fac obiectul procedurii
+prevăzute la articolul 251 din tratat, în ceea ce privește procedura de reglementare cu
+control – Adaptare la procedura de reglementare cu control – Partea întâi.
+Capitolul I
+DISPOZIȚII GENERALE
+### Articolul 1. Obiectul și scopul legii
+(1) Prezenta lege stabilește cadrul normativ în domeniul acțiunilor climatice orientate
+spre realizarea obiectivului de atingere a neutralității climatice până în anul 2050, în
+vederea îndeplinirii obiectivului pe termen lung privind temperatura globală prevăzut în
+Acordul de la Paris, ratificat prin Legea nr. 78/2017, precum și cadrul normativ pentru
+realizarea de progrese în vederea îndeplinirii obiectivului global în materie de adaptare la
+schimbările climatice.
+(2) Scopul prezentei legi este de a asigura reducerea treptată și ireversibilă a
+emisiilor de gaze cu efect de seră în vederea protecției sănătății umane, integrității
+ecosistemelor și a biodiversității împotriva amenințărilor pe care le reprezintă schimbările
+climatice, de a consolida capacitatea de adaptare, de a reduce vulnerabilitatea societății la
+
+
+schimbările climatice și de a spori reziliența climatică, aplicându-se mecanismul financiar de
+stabilire a prețului pentru emisiile de dioxid de carbon (în continuare și emisiile de CO2) și
+principiul „poluatorul plătește”.
+### Articolul 2. Domeniul de aplicare
+(1) Prevederile prezentei legi se aplică emisiilor antropice provenite din surse și
+reținerilor prin sechestrare de către absorbanți a gazelor cu efect de seră, care sunt
+stabilite de Sistemul național de monitorizare și raportare a emisiilor de gaze cu efect de
+seră și altor informații relevante pentru schimbările climatice, aprobat de Guvern.
+(2) Normativele, condițiile și limitele aplicabile gazelor fluorurate cu efect de seră
+sunt reglementate prin Legea nr. 43/2023 privind gazele fluorurate cu efect de seră.
+### Articolul 3. Obiectivele prezentei legi
+Prezenta lege are următoarele obiective:
+a) asigurarea elaborării și punerii în aplicare a documentelor de politici și de
+planificare pentru realizarea obiectivelor și atingerea țintelor naționale stabilite în
+conformitate cu Acordul de la Paris, precum și a obiectivelor privind energia și clima
+stabilite în temeiul Tratatului de constituire a Comunității Energetice la care Republica
+Moldova a aderat prin Legea nr. 117/2009 (în continuare – Tratatul Comunității Energetice);
+b) asigurarea planificării alocării mijloacelor financiare necesare, în vederea realizării
+progresului privind dezvoltarea cu un nivel redus de emisii de gaze cu efect de seră și
+sporirea rezilienței climatice, în conformitate cu obligațiile stabilite în Acordul de la Paris și
+în Tratatul Comunității Energetice;
+c) asigurarea monitorizării complete, actuale, transparente, exacte, coerente și
+comparabile a emisiilor de gaze cu efect de seră, precum și a raportării integrate privind
+progresul înregistrat în elaborarea și implementarea politicilor de atenuare și adaptare la
+schimbările climatice;
+d) asigurarea accesului publicului la informațiile privind planificarea în domeniul
+reducerii emisiilor de gaze cu efect de seră și al adaptării la schimbările climatice,
+elaborarea documentelor de politici și de planificare în domeniul atenuării și al adaptării la
+schimbările climatice și evaluarea realizării acestora.
+### Articolul 4. Noțiuni principale
+În sensul prezentei legi, următoarele noțiuni semnifică:
+absorbție sau reținere prin sechestrare – proces, activitate sau mecanism care elimină
+prin absorbție sau sechestrare din atmosferă un gaz cu efect de seră, un aerosol sau un
+precursor al unui gaz cu efect de seră;
+adaptare – proces de ajustare, determinat de om, a sistemelor naturale și antropice la
+variabilitatea climatică curentă sau la viitoarele schimbări climatice în scopul atenuării
+daunelor sau al explorării oportunităților benefice;
+
+
+adaptare bazată pe ecosistem – soluție bazată pe mediul natural, care valorifică
+biodiversitatea și serviciile ecosistemice pentru a reduce vulnerabilitatea și a spori
+reziliența climatică;
+armator – persoană fizică sau juridică care exploatează o navă, indiferent dacă o
+exploatează în calitate de proprietar al acesteia sau în alt temei legal;
+autoturism nou – autoturism care nu a mai fost vândut unei persoane care l-a
+cumpărat cu altă intenție decât cea de a-l vinde sau de a-l furniza unui terț;
+capacitate de adaptare – capacitate a unui sistem de a se adapta la schimbările
+climatice, inclusiv la variabilitatea climatică și la fenomenele meteorologice extreme, pentru
+a atenua potențiale daune și de a valorifica oportunitățile emergente sau de a gestiona
+consecințele;
+călătorie – deplasare a unei nave care începe sau se termină într-un port de escală și
+este utilizată pentru transportul de pasageri sau de mărfuri, în scopuri comerciale;
+combustibili fosili – surse de energie neregenerabile pe bază de carbon, precum sunt
+combustibilii solizi, gazele naturale și petrolul;
+companie de transport maritim – proprietar al navei sau orice altă organizație ori
+persoană, precum este administratorul sau navlositorul navei nude, care și-a asumat
+responsabilitatea pentru exploatarea navei în locul proprietarului acesteia și care, odată cu
+asumarea responsabilității respective, a consimțit să preia toate sarcinile și
+responsabilitățile impuse de Codul internațional de management pentru siguranța
+exploatării navelor și pentru prevenirea poluării;
+contribuție națională determinată (în continuare – CND) – angajament luat de o țară
+de a-și reduce emisiile de gaze cu efect de seră și de a atenua efectele schimbărilor
+climatice, în temeiul Acordului de la Paris, document în care sunt stabilite țintele,
+obiectivele și măsurile naționale de reducere a emisiilor de gaze cu efect de seră și de
+adaptare la schimbările climatice, în vederea realizării obiectivelor globale;
+echivalent al dioxidului de carbon – unitate de măsură utilizată pentru a compara
+emisiile de diferite gaze cu efect de seră pe baza potențialului acestora de încălzire globală;
+efecte adverse ale schimbărilor climatice – modificări ale mediului fizic sau ale
+organismelor vii, cauzate de schimbările climatice, care au efecte negative semnificative
+asupra compoziției, stabilității sau productivității ecosistemelor naturale și celor antropice,
+precum și asupra funcționării sistemelor socioeconomice sau asupra sănătății și bunăstării
+umane;
+eliminare antropică – absorbție a gazelor cu efect de seră din atmosferă ca urmare a
+activității umane deliberate;
+emisii antropice – eliberare în atmosferă a gazelor cu efect de seră sau a
+precursorilor acestora de la sursele staționare sau difuze atribuite activităților umane;
+
+
+gaze cu efect de seră (în continuare și GES) – amestec de gaze (vapori de apă, dioxid
+de carbon, metan, oxid de azot, hidrofluorocarburi (HFC)), care sunt constituenți gazoși ai
+atmosferei, de origine naturală sau antropică, și care absorb temperatura sau radiațiile
+infraroșii;
+instalație – unitate tehnică staționară, în care sunt desfășurate una sau mai multe
+dintre activitățile specificate în anexa nr. 1, precum și orice alte activități direct asociate cu
+acestea, care au o legătură de natură tehnică cu activitățile desfășurate în locul respectiv și
+care ar putea avea efecte asupra emisiilor și a poluării;
+mecanism de ajustare la frontieră a carbonului (în continuare – MAFC) – mecanism de
+ajustare la frontieră în funcție de emisiile de dioxid de carbon, implementat de Uniunea
+Europeană, având drept scop reducerea emisiilor de dioxid de carbon, stabilirea unui preț
+echitabil pentru dioxidul de carbon emis în timpul producției de mărfuri cu emisii ridicate
+de dioxid de carbon importate în Uniunea Europeană și încurajarea producției industriale
+mai curate prin intermediul unei metodologii de calculare a emisiilor încorporate, în
+conformitate cu Acordul de la Paris;
+neutralitate climatică – realizare a unui echilibru între emisiile de gaze cu efect de
+seră și reținere prin sechestrare a acestora din atmosferă;
+Planul național integrat privind energia și clima (în continuare – PNIEC) – document
+de bază privind planificarea strategică, care determină obiectivele naționale pentru fiecare
+dintre cele cinci dimensiuni indicate la art.71 alin.(4) din Legea nr.174/2017 cu privire la
+energetică, precum și politicile și măsurile corespunzătoare necesare realizării obiectivelor
+respective;
+planificare națională a adaptării (în continuare – PNA) – modalitate a planificării și
+implementării acțiunilor de adaptare la schimbările climatice la nivel național pe termen
+mediu și lung, în scopul reducerii vulnerabilității și sporirii rezilienței climatice;
+potențial de încălzire globală – forțare radiativă cumulativă, prin efecte directe și
+indirecte, într-un interval de timp specificat, rezultată în urma emisiei unui kilogram de gaz
+cu efect de seră, în comparație cu forțarea radiativă rezultată din emisia unui kilogram de
+CO2 într-o perioadă de 100 de ani;
+raport de verificare – document elaborat de către un verificator independent, care
+este acreditat în conformitate cu standardele de reducere a emisiilor;
+reducere a emisiilor – eliminare sau reținere prin sechestrare a unui sau a mai multor
+gaze cu efect de seră din atmosferă ori evitare sau reducere a emisiilor unui sau mai multor
+gaze cu efect de seră;
+reziliență climatică – capacitate a sistemelor sociale, economice sau de mediu de a
+gestiona perturbările climatice, prin reacții de răspuns sau transformări care le mențin
+funcțiile esențiale, identitatea și structura, precum și capacitatea de adaptare, învățare și
+transformare;
+rezultate de atenuare transferate la nivel internațional – inițiative de cooperare care
+
+
+includ reduceri și eliminări de emisii de GES, verificate și suplimentate, precum și beneficii
+conexe de atenuare, rezultate din acțiunile de adaptare sau din planurile de diversificare
+economică, ori metode prin care acestea pot fi realizate, transferate la nivel internațional;
+schimbare climatică – schimbare a modelelor meteorologice, atribuite direct sau
+indirect unei activități umane, care alterează compoziția atmosferei la nivel global și care se
+suprapune variabilității naturale a climei, observată pe parcursul unor intervale de timp
+comparabile;
+sechestrare a carbonului – proces prin care carbonul este absorbit din atmosferă și
+stocat, inclusiv în sol și în vegetație, cu excepția produselor lemnoase recoltate sau a altor
+tipuri de vegetație care au fost recoltate, curățate sau tăiate;
+sistem climatic – totalitate formată din atmosferă, hidrosferă, biosferă și geosferă,
+precum și interacțiunile dintre acestea;
+soluții bazate pe natură – măsuri de protecție, de gestionare durabilă și de restabilire
+a ecosistemelor naturale și a celor modificate, care răspund provocărilor antropice, în mod
+eficient și adaptabil, și care aduc beneficii oamenilor și naturii;
+sursă – proces, activitate sau mecanism care degajă în atmosferă un gaz cu efect de
+seră, un aerosol sau un precursor al unui gaz cu efect de seră;
+tranziție justă – tranziție către o economie circulară incluzivă și neutră din punct de
+vedere climatic, în care emisiile de GES rămase sunt reținute prin sechestrare de către
+absorbanții acestora, în cadrul căreia sunt create locuri de muncă și este asigurată
+coeziunea socială;
+verificare – activitate desfășurată de către un verificator pentru a emite raportul de
+verificare a emisiilor de GES, în temeiul prevederilor legii;
+verificator – persoană fizică sau juridică care desfășoară activități de verificare în
+temeiul prevederilor legii, acreditată de Centrul Național de Acreditare din Republica
+Moldova, în conformitate cu prevederile Legii nr. 235/2011 privind activitățile de acreditare
+și de evaluare a conformității, sau a cărei acreditare este recunoscută conform legislației;
+vulnerabilitate – nivel de sensibilitate sau incapacitate al unui sistem de a face față
+efectelor negative ale schimbărilor climatice, inclusiv variabilității climatice și fenomenelor
+meteorologice extreme.
+### Articolul 5. Principiile de bază
+În vederea atingerii țintelor climatice, până în anul 2030, se aplică următoarele
+principii:
+a) principiul stabilirii neutralității climatice până în anul 2050;
+b) principiul reducerii echitabile și durabile a emisiilor de GES;
+c) principiul prevenirii poluării mediului;
+
+
+d) principiul precauției;
+e) principiul „poluatorul plătește”;
+f) principiul tranziției juste și echitabile;
+g) principiul angajamentelor comune în desfășurarea activităților de planificare,
+raportare și monitorizare;
+h) principiul transparenței și accesibilității informațiilor și datelor.
+Capitolul II
+ATRIBUȚII ȘI RESPONSABILITĂȚI
+### Articolul 6. Atribuțiile Guvernului
+Guvernul are următoarele atribuții:
+a) aprobă documentele de politici și actele normative în domeniul reducerii emisiilor
+de GES și al adaptării la schimbările climatice;
+b) aprobă cerințele privind mecanismele financiare climatice;
+c) asigură utilizarea eficientă și transparentă a veniturilor generate din prețul pentru
+emisiile de CO2;
+d) coordonează activitatea tuturor autorităților administrației publice cu competențe
+în domeniul reducerii emisiilor de GES, al consolidării capacității de adaptare și al reducerii
+vulnerabilității la efectele schimbărilor climatice.
+### Articolul 7. Atribuțiile Comisiei naționale privind
+schimbările climatice
+(1) Comisia națională privind schimbările climatice este un organ interinstituțional,
+fără personalitate juridică, instituită la nivel de Guvern, cu atribuții de coordonare și
+aprobare a politicilor în domeniul schimbărilor climatice și a proiectelor de investiții
+capitale publice în contextul atenuării și adaptării la schimbările climatice, precum și de
+management al riscurilor producerii dezastrelor naturale.
+(2) Comisia națională privind schimbările climatice este formată din miniștrii
+Ministerului Mediului, Ministerului Finanțelor, Ministerului Energiei, Ministerului
+Infrastructurii și Dezvoltării Regionale, Ministerului Agriculturii și Industriei Alimentare,
+Ministerului Sănătății, Ministerului Muncii și Protecției Sociale, Ministerului Educației și
+Cercetării și Ministerului Afacerilor Interne, sub egida Prim-ministrului.
+(3) Comisia națională privind schimbările climatice este instituită și activează pentru
+realizarea următoarelor obiective:
+a) promovarea dialogului, cooperării, coordonării și coerenței între sectoarele
+
+
+economiei în procesul de planificare, elaborare, coordonare, implementare și monitorizare a
+politicilor și acțiunilor în domeniul schimbărilor climatice;
+b) stimularea includerii măsurilor privind schimbările climatice în documentele de
+politici privind dezvoltarea social-economică la nivel național și sectorial și facilitarea
+implementării acțiunilor în domeniul schimbărilor climatice;
+c) coordonarea și monitorizarea alocării mijloacelor financiare, provenite din surse
+naționale și internaționale, pentru implementarea acțiunilor în domeniul schimbărilor
+climatice în diferite sectoare;
+d) asigurarea transparenței în realizarea documentelor de politici și acțiunilor în
+domeniul schimbărilor climatice.
+(4) Secretariatul Comisiei naționale privind schimbările climatice este asigurat de
+către Ministerul Mediului.
+### Articolul 8. Atribuțiile Ministerului Mediului
+Ministerul Mediului are următoarele atribuții:
+a) elaborează și promovează documentele de politici și actele normative în domeniul
+reducerii emisiilor de GES și al adaptării la schimbările climatice, orientate spre progresul
+privind dezvoltarea cu un nivel redus de emisii de GES și spre sporirea rezilienței climatice,
+conform Acordului de la Paris;
+b) asigură respectarea prevederilor tratatelor internaționale în domeniul protecției
+mediului și al schimbărilor climatice la care Republica Moldova este parte și fundamentarea
+relațiilor cu alte state pe principiile și normele unanim recunoscute ale dreptului
+internațional;
+c) deține calitatea de punct oficial de contact pentru tratatele internaționale în
+domeniile de aplicare ale legii la care Republica Moldova este parte;
+d) monitorizează, la nivel național, implementarea actelor normative în domeniul
+reducerii emisiilor de GES și al adaptării la schimbările climatice;
+e) cooperează cu autoritățile administrației publice centrale și locale, prin schimb
+reciproc de informații și date, în procesul de elaborare și de actualizare a CND, a
+documentului strategic de politici publice de dezvoltare cu emisii reduse pe termen lung, a
+documentelor de politici privind adaptarea la schimbările climatice și a inventarului național
+al emisiilor de gaze cu efect de seră, precum și în procesul de monitorizare și raportare a
+implementării documentelor respective;
+f) promovează politici și cooperează în domeniul educației, al formării profesionale, al
+sporirii nivelului de conștientizare privind schimbările climatice;
+g) aprobă anual lista operatorilor de instalații staționare ale căror activități sunt
+specificate în anexa nr. 1 și care dețin autorizația integrată de mediu sau autorizația de
+mediu, în conformitate cu Legea nr. 227/2022 privind emisiile industriale, în baza datelor
+
+
+raportate de către operatorii respectivi în anul precedent;
+h) coordonează elaborarea rapoartelor privind implementarea politicilor de atenuare
+și adaptare la schimbările climatice;
+i) asigură elaborarea, actualizarea și aprobarea CND și a inventarului național al
+emisiilor de gaze cu efect de seră, precum și a instrumentelor de raportare ale acestora;
+j) asigură evaluarea corespunzătoare a proiectelor investiționale și a documentelor de
+politici pentru realizarea acțiunilor climatice;
+k) efectuează evaluarea climatică pentru toate propunerile relevante de politici noi și
+de proiecte de investiții, asigurând transparența în procesul de alocare a mijloacelor și în
+procesul de luare a deciziilor de politici;
+l) elaborează norme și metodologii pentru analizarea investițiilor din punctul de
+vedere al capacității de adaptare și al sporirii rezilienței climatice, precum și măsuri de
+atenuare;
+m) examinează propunerile privind alocarea mijloacelor financiare din fondurile
+publice pentru politicile cu impact asupra atenuării și adaptării la schimbările climatice,
+parvenite din diferite sectoare;
+n) asigură transparența în procesul de elaborare a documentelor de politici și a
+actelor normative în domeniul rezilienței climatice;
+o) coordonează grupul de lucru în domeniul schimbărilor climatice, format din
+reprezentanții mediului de afaceri, ai mediului academic și ai mediului asociativ.
+### Articolul 9. Atribuțiile Ministerului Energiei
+Ministerul Energiei are următoarele atribuții:
+a) evaluează și include în documentele de politici sectoriale pentru activitățile din
+domeniul energetic, în limita competențelor, prevederi și măsuri ce vizează dezvoltarea
+sectoarelor economiei naționale cu un nivel redus de emisii de GES și sporirea rezilienței
+climatice;
+b) instituie și asigură funcționarea mecanismului de guvernanță energetică și a
+acțiunilor climatice;
+c) participă, în limita competențelor, la elaborarea și implementarea politicilor în
+domeniul energeticii și al acțiunilor climatice;
+d) elaborează documente de politici pentru susținerea utilizării tehnologiilor cu emisii
+reduse de carbon în sectorul energetic;
+e) asigură implementarea MAFC-ului în domeniul electricității și al energiei;
+f) contribuie la asigurarea accesului autorităților administrației publice și al
+
+
+publicului, prin intermediul instituției publice „Centrul Național pentru Energie Durabilă”,
+la informații privind produsele, tehnologiile, serviciile și noile metode inovative pentru
+susținerea utilizării tehnologiilor cu emisii reduse de carbon în sectorul energetic;
+g) asigură elaborarea și actualizarea PNIEC-ului.
+### Articolul 10. Atribuțiile Ministerului Sănătății
+Ministerul Sănătății are următoarele atribuții:
+a) evaluează riscurile legate de efectele schimbărilor climatice la adresa stării de
+sănătate a populației și dezvoltă măsuri pentru a atenua impactul efectelor respective,
+consolidând reziliența în sectoarele esențiale pentru sănătate și îmbunătățind starea
+generală de sănătate;
+b) stabilește prioritățile și include riscurile în documentele de politici sectoriale
+conform competențelor, elaborând măsurile de adaptare a populației la efectele
+fenomenelor meteorologice extreme asociate schimbărilor climatice;
+c) elaborează metodologiile de evaluare a riscurilor la adresa stării de sănătate a
+populației, inclusiv măsuri de protecție a grupurilor vulnerabile ale populației, ca urmare a
+expunerii la anumite fenomene meteorologice extreme asociate schimbărilor climatice;
+d) implementează sistemul informatizat de supraveghere și răspuns la fenomenele
+meteorologice extreme asociate schimbărilor climatice cu risc pentru populație;
+e) informează populația cu privire la riscurile pentru sănătate asociate fenomenelor
+meteorologice extreme ale schimbărilor climatice;
+f) stabilește prioritatea deciziilor de investiții în funcție de prezența aspectelor legate
+de adaptarea la schimbările climatice în cadrul proiectelor sectoriale, în vederea protecției
+sănătății publice prin asigurarea rezilienței instituțiilor medicale față de schimbările
+climatice și a unui nivel minim de emisii de gaze cu efect de seră în cadrul sectorului de
+sănătate;
+g) mobilizează și alocă, în mod strategic, mijloace financiare pentru extinderea și
+sporirea rezilienței instituțiilor medicale față de schimbările climatice;
+h) elaborează și promovează strategii de sănătate publică în domeniul educației,
+formării profesionale, sporirii nivelului de conștientizare de către populație a impactului
+fenomenelor meteorologice extreme asociate schimbărilor climatice;
+i) supraveghează și elaborează programe și/sau planuri privind măsurile de protecție
+a sănătății și de asigurare a securității ocupaționale în timpul fenomenelor meteorologice
+extreme asociate schimbărilor climatice;
+j) cooperează cu alte ministere în vederea asigurării cu apă potabilă și a securității
+alimentare în timpul fenomenelor meteorologice extreme asociate schimbărilor climatice;
+k) asigură schimbul intersectorial de date pentru desfășurarea cercetărilor științifico-
+
+
+practice în domeniul sănătății publice, în scopul evaluării și prevenirii riscurilor pentru
+sănătate și al elaborării măsurilor de adaptare la schimbările climatice.
+### Articolul 11. Atribuțiile Ministerului Dezvoltării
+Economice și Digitalizării
+Ministerul Dezvoltării Economice și Digitalizării are următoarele atribuții:
+a) evaluează și include în documentele de politici sectoriale, în limita competențelor,
+prevederi și măsuri pentru sectorul industrial ce vizează dezvoltarea cu un nivel redus de
+emisii de GES și sporirea rezilienței climatice;
+b) elaborează documente de politici pentru susținerea utilizării tehnologiilor cu emisii
+reduse de carbon în sectorul industrial;
+c) cooperează cu Ministerul Mediului, prin schimb reciproc de informații și date, în
+procesul de elaborare și de actualizare a CND, a documentului strategic de politici publice
+de dezvoltare cu emisii reduse pe termen lung, a documentelor de politici privind adaptarea
+la schimbările climatice și a inventarului național al emisiilor de gaze cu efect de seră,
+precum și în procesul de monitorizare și raportare a implementării documentelor respective.
+### Articolul 12. Atribuțiile Ministerului Infrastructurii
+și Dezvoltării Regionale
+Ministerul Infrastructurii și Dezvoltării Regionale are următoarele atribuții:
+a) evaluează și include în documentele de politici pentru activitățile din domeniul
+transportului și dezvoltării regionale, în limita competențelor, prevederi și măsuri ce vizează
+dezvoltarea cu un nivel redus de emisii de GES și sporirea rezilienței climatice;
+b) elaborează documente de politici pentru susținerea utilizării tehnologiilor care
+contribuie la reducerea emisiilor de GES în domeniile de competență și la adaptarea
+schimbărilor climatice;
+c) elaborează acte normative cu privire la reducerea impactului emisiilor de GES
+provenite din sectorul transporturilor și cu privire la îmbunătățirea eficienței consumului de
+combustibil;
+d) elaborează ghidul privind consumul de combustibil și emisiile de CO2;
+e) monitorizează implementarea actelor normative în domeniul reducerii emisiilor de
+GES provenite de la activitățile din domeniul aviației și ale transportului maritim;
+f) contribuie la asigurarea accesului autorităților administrației publice și al
+publicului la informații referitoare la tehnologiile cu emisii reduse de carbon în sfera
+consumului eficient de combustibil și al emisiilor de CO2;
+g) cooperează cu Ministerul Mediului, prin schimb reciproc de informații și date, în
+
+
+procesul de elaborare și de actualizare a CND, a documentului strategic de politici publice
+de dezvoltare cu emisii reduse pe termen lung, a documentelor de politici privind adaptarea
+la schimbările climatice și a inventarului național al emisiilor de gaze cu efect de seră,
+precum și în procesul de monitorizare și raportare a implementării documentelor
+respective;
+h) elaborează și promovează documente de politici privind atenuarea și adaptarea la
+schimbările climatice în procesul de planificare a operațiunilor de urbanism și de amenajare
+a teritoriului, precum și în cadrul proiectării construcțiilor și a lucrărilor de construcții,
+inclusiv în vederea diminuării riscurilor producerii dezastrelor naturale;
+i) elaborează și promovează normativele tehnice în construcții bazându-se pe
+aspectele legate de atenuarea și adaptarea la schimbările climatice, inclusiv în vederea
+diminuării riscurilor producerii dezastrelor naturale.
+### Articolul 13. Atribuțiile Ministerului Agriculturii
+și Industriei Alimentare
+Ministerul Agriculturii și Industriei Alimentare are următoarele atribuții:
+a) include în documentele de politici pentru activitățile din domeniul agriculturii și
+industriei alimentare, în limita competențelor, prevederi și măsuri ce vizează dezvoltarea cu
+un nivel redus de emisii de GES și sporirea rezilienței climatice;
+b) stabilește în documentele de politici în domeniul agriculturii și dezvoltării rurale
+măsuri de intervenție care să contribuie la atenuarea efectelor schimbărilor climatice și la
+adaptarea la acestea, inclusiv prin reducerea emisiilor de GES;
+c) evaluează riscurile climatice la adresa agriculturii și industriei alimentare și
+elaborează măsuri de adaptare și de reducere a impactului schimbărilor climatice;
+d) elaborează metodologiile de evaluare a riscurilor climatice la adresa agriculturii și
+industriei alimentare;
+e) cooperează cu Ministerul Mediului, prin schimb reciproc de informații și date, în
+procesul de elaborare și de actualizare a CND, a documentului strategic de politici publice
+de dezvoltare cu emisii reduse pe termen lung, a documentelor de politici privind adaptarea
+la schimbările climatice și a inventarului național al emisiilor de gaze cu efect de seră,
+precum și în procesul de monitorizare și raportare a implementării documentelor
+respective;
+f) elaborează măsurile de dezvoltare în domeniul exploatării și schimbării categoriei
+de folosință a terenurilor și silviculturii (Land Use, Land-Use Change and Forestry, în
+continuare – LULUCF) și în domeniul agriculturii;
+g) integrează conceptul de politici agricole inteligente în politicele sectoriale de
+adaptare la schimbările climatice în vederea reducerii emisiilor de GES.
+### Articolul 14. Atribuțiile Ministerului Muncii
+
+
+și Protecției Sociale
+Ministerul Muncii și Protecției Sociale are următoarele atribuții:
+a) elaborează, în limita competențelor, prevederi și măsuri ce vizează consolidarea
+capacității de adaptare la schimbările climatice și le include în documentele de politici
+sectoriale în domeniul promovării incluziunii și asistenței sociale și a egalității de gen;
+b) evaluează riscurile climatice asupra bunăstării grupurilor social-vulnerabile,
+egalității de gen și elaborează măsuri de adaptare și de diminuare a impactului schimbărilor
+climatice;
+c) elaborează metodologiile de evaluare a riscurilor la adresa grupurilor socialvulnerabile, ca urmare a expunerii la riscurile legate de schimbările climatice;
+d) cooperează cu Ministerul Mediului, prin schimb reciproc de informații și date, în
+procesul de elaborare și de actualizare a documentului strategic de politici publice de
+dezvoltare cu emisii reduse pe termen lung, a documentelor de politici privind adaptarea la
+schimbările climatice, precum și în procesul de monitorizare și raportare a implementării
+documentelor respective.
+### Articolul 15. Atribuțiile Ministerului Educației și Cercetării
+Ministerul Educației și Cercetării are următoarele atribuții:
+a) elaborează, în limita competențelor, prevederi și măsuri ce vizează promovarea
+cunoștințelor pentru formarea competențelor necesare privind prevenirea impactului
+schimbărilor climatice și adaptarea la acestea și le include în documentele de politici
+sectoriale în domeniul educației, cercetării și inovării;
+b) integrează proiectele ce vizează reducerea emisiilor de GES și adaptarea la
+schimbările climatice drept o componentă a politicii de stat în domeniul cercetărilor
+fundamentale și aplicate, precum și în activitatea de inovare;
+c) cooperează cu organizațiile de drept public din domeniile cercetării și inovării și
+promovează dezvoltarea studiilor pentru a estima impactul schimbărilor climatice asupra
+diferitor sisteme socioeconomice și pentru a evalua incertitudinile asociate acestora;
+d) completează programele de studii și elaborează, în comun cu Ministerul Mediului,
+materiale didactice privind protecția mediului și combaterea schimbărilor climatice.
+### Articolul 16. Atribuțiile Ministerului Afacerilor Interne
+Ministerul Afacerilor Interne exercită, prin intermediul Inspectoratului General
+pentru Situații de Urgență, următoarele atribuții:
+a) participă la elaborarea și implementarea politicii de stat în domeniul protecției
+populației și al teritoriului în caz de pericol sau de declanșare a dezastrelor provocate de
+schimbările climatice;
+
+
+b) aplică actele normative cu privire la asigurarea protecției populației și a teritoriilor
+în caz de pericol sau de declanșare a situațiilor excepționale și/sau a incendiilor;
+c) contribuie la elaborarea normelor și regulilor în domeniul protecției civile și al
+apărării împotriva incendiilor, întocmește avize asupra proiectelor de standarde, de cerințe
+tehnice, de norme și reguli ce reglementează domeniul respectiv;
+d) desfășoară activități de lichidare și de limitare a consecințelor situațiilor de
+urgență și ale celor excepționale prin intermediul acțiunilor de informare, de cercetări
+inginerești, chimice, bacteriologice și radiologice, de decontaminare, de evacuare, de
+adăpostire, de căutare, de salvare-deblocare, de descarcerare, de acordare a primului ajutor
+calificat, de stingere a incendiilor, de transportare, de asigurare cu apă potabilă, precum și
+al altor măsuri de protecție a populației și a bunurilor materiale, prin intermediul forțelor
+proprii sau prin cooperare cu alte structuri;
+e) cooperează cu Instituția Publică Autoritatea de Meteorologie și Monitoring de
+Mediu în procesul de evaluare a prevenirii și lichidării consecințelor situațiilor de urgență și
+ale celor excepționale;
+[Art.16 lit.e) modificată prin LP53 din 09.04.26, MO183-185/25.04.26 art.150; în
+vigoare 25.04.26]
+f) cooperează cu Inspectoratul pentru Protecția Mediului în procesul de prevenire și
+lichidare a consecințelor situațiilor de urgență și ale celor excepționale;
+g) cooperează cu Ministerul Mediului, prin schimb reciproc de informații și date, în
+procesul de elaborare și de actualizare a documentelor de politici publice în domeniul
+reducerii emisiilor de GES și al adaptării la schimbările climatice, precum și în procesul de
+monitorizare și raportare a implementării documentelor respective.
+### Articolul 17. Atribuțiile Ministerului Finanțelor
+Ministerul Finanțelor are următoarele atribuții:
+a) asigură integrarea perspectivei de mediu, inclusiv a celei ce vizează capacitatea de
+adaptare, sporirea rezilienței climatice și măsurile de atenuare, în cadrul metodologic
+privind procesul de planificare bugetară și privind proiectele de investiții capitale publice,
+care să conțină și rezultatele evaluărilor de mediu realizate de către Ministerul Mediului;
+b) elaborează și implementează politici fiscale în vederea promovării practicilor de
+mediu și a descurajării activităților care contribuie la schimbările climatice, în baza
+evaluărilor efectuate de către Ministerul Mediului, și determină oportunitatea intervențiilor;
+c) reprezintă interesele financiare ale țării în cadrul forurilor internaționale și
+participă la negocierea acordurilor legate de finanțarea acțiunilor climatice.
+### Articolul 18. Atribuțiile Agenției de Mediu
+Agenția de Mediu are următoarele atribuții:
+
+
+a) asigură implementarea actelor normative în domeniul reducerii emisiilor de GES și
+al adaptării la schimbările climatice, monitorizează nivelul realizării acestora și raportează,
+periodic, Ministerului Mediului despre aceasta;
+b) acordă suport Ministerului Mediului la elaborarea și modificarea actelor normative
+în domeniul reducerii emisiilor de GES și al adaptării la schimbările climatice;
+c) eliberează autorizația integrată de mediu sau autorizația de mediu pentru
+activitățile specificate în anexa nr. 1, care acordă dreptul de a degaja emisiile de GES din
+întreaga instalație staționară sau dintr-o parte a acesteia, controlată de același operator, cu
+respectarea cerințelor de evaluare a planului de monitorizare a emisiilor de gaze cu efect de
+seră;
+d) coordonează planul de monitorizare a emisiilor de gaze cu efect de seră, prezentat
+de către operator pentru una sau mai multe dintre activitățile specificate în anexa nr. 1, și
+monitorizează realizarea acestuia;
+e) ține Registrul național al emisiilor și al transferului de poluanți (în continuarea –
+RETP), în conformitate cu prevederile Hotărârii Guvernului nr. 373/2018 cu privire la
+Registrul național al emisiilor și al transferului de poluanți, și recepționează raportul anual
+privind emisiile de gaze cu efect de seră (în continuarea – RAE), depus prin intermediul
+acestuia;
+f) asigură monitorizarea și raportarea emisiilor de GES incluse în inventarul național,
+în conformitate cu prevederile Regulamentului privind instituirea și funcționarea Sistemului
+național de monitorizare și raportare a emisiilor de gaze cu efect de seră și altor informații
+relevante pentru schimbările climatice, aprobat de Guvern;
+g) asigură monitorizarea și implementarea Regulamentului privind monitorizarea,
+raportarea și verificarea emisiilor de gaze cu efect de seră provenite de la instalațiile
+staționare și de la activitățile din domeniul aviației, aprobat de Guvern;
+h) asigură monitorizarea și implementarea Regulamentului privind monitorizarea,
+raportarea și verificarea emisiilor de gaze cu efect de seră provenite de la activitățile din
+domeniul transportului maritim, aprobat de Guvern;
+i) elaborează informații și rapoarte; participă la elaborarea rapoartelor, reieșind din
+acordurile internaționale la care Republica Moldova este parte, și le prezintă Ministerului
+Mediului;
+j) solicită și primește, în mod gratuit și în condițiile legii, date și informații
+generalizate cu privire la emisiile de GES, precum și stabilește structura și formatul
+raportării;
+k) asigură caracterul integral al informațiilor furnizate, corectitudinea și
+comparabilitatea acestora;
+l) furnizează, la cerere și în mod gratuit, informații cu privire la indicii de poluare a
+aerului atmosferic și la emisiile de GES către instituțiile și structurile de cercetare din
+
+
+diferite domenii.
+### Articolul 19. Atribuțiile Autorității Aeronautice Civile
+Autoritatea Aeronautică Civilă are următoarele atribuții:
+a) asigură implementarea actelor normative și a documentelor de politici în domeniul
+aviației și al reducerii emisiilor de GES provenite de la activitățile din domeniul aviației;
+b) monitorizează emisiile de CO2 provenite de la activitățile din domeniul aviației și
+prezintă periodic datele respective Instituției Publice Autoritatea de Meteorologie și
+Monitoring de Mediu;
+[Art.19 lit.b) modificată prin LP53 din 09.04.26, MO183-185/25.04.26 art.150; în
+vigoare 25.04.26]
+c) asigură instituirea și funcționarea Schemei de compensare și de reducere a
+emisiilor de carbon pentru aviația internațională (CORSIA);
+d) asigură elaborarea, actualizarea și aplicarea reglementărilor privind monitorizarea
+emisiilor de GES, politicilor și măsurilor care contribuie la reducerea acestora prin aplicarea
+Schemei de compensare și de reducere a emisiilor de carbon pentru aviația internațională;
+e) solicită și primește de la operatorii aerieni, în mod gratuit și în condițiile legii, date
+și informații generalizate cu privire la emisiile de GES;
+f) asigură caracterul integral al informațiilor furnizate, corectitudinea și
+comparabilitatea acestora.
+### Articolul 20. Atribuțiile Agenției Navale
+Agenția Navală are următoarele atribuții:
+a) asigură implementarea reglementărilor privind reducerea emisiilor de GES
+provenite de la activitățile din domeniul transportului maritim, monitorizează și raportează
+datele privind emisiile de CO2 din activitățile respective, specificate în anexa nr. 1;
+b) monitorizează emisiile de CO 2 provenite de la activitățile din domeniul
+transportului maritim și prezintă periodic datele respective Instituției Publice Autoritatea de
+Meteorologie și Monitoring de Mediu;
+[Art.20 lit.b) modificată prin LP53 din 09.04.26, MO183-185/25.04.26 art.150; în
+vigoare 25.04.26]
+c) solicită și primește de la operatorii transportului maritim, în mod gratuit și în
+condițiile legii, date și informații generalizate cu privire la emisiile de GES;
+d) asigură caracterul integral al informațiilor furnizate, corectitudinea și
+comparabilitatea acestora.
+
+
+### Articolul 21. Atribuțiile Serviciului Vamal
+Serviciul Vamal are următoarele atribuții:
+a) cooperează cu Agenția de Mediu în vederea implementării actelor normative în
+domeniul reducerii emisiilor de GES și furnizează, în mod gratuit și în condițiile legii, date și
+informații generalizate necesare pentru compilarea inventarului național al emisiilor de
+gaze cu efect de seră;
+b) cooperează cu Inspectoratul pentru Protecția Mediului în procesul de
+supraveghere și control asupra executării prevederilor prezentei legi și ale actelor
+normative aprobate în temeiul acesteia;
+c) asigură caracterul integral al informațiilor furnizate, corectitudinea și
+comparabilitatea acestora;
+d) asigură aplicarea MAFC-ului în vederea verificării conținutului de carbon al
+mărfurilor exportate pentru a determina taxele aferente MAFC-ului; asigură monitorizarea
+conformității și aplicării MAFC-ului pentru a se asigura că operatorii își respectă obligațiile.
+### Articolul 22. Atribuțiile Inspectoratului pentru
+Protecția Mediului
+Inspectoratul pentru Protecția Mediului are următoarele atribuții:
+a) efectuează controlul privind respectarea prevederilor prezentei legi și ale actelor
+normative din domeniul reducerii emisiilor de GES și al adaptării la schimbările climatice;
+b) efectuează controlul privind respectarea de către operatori a cerințelor în
+domeniul raportării în RETP și al aplicării mecanismului financiar de stabilire a prețului
+pentru emisiile de CO2;
+c) verifică, în cadrul controalelor planificate sau inopinate, respectarea de către
+operatori a prevederilor Regulamentului privind monitorizarea, raportarea și verificarea
+emisiilor de gaze cu efect de seră provenite de la instalațiile staționare și de la activitățile
+din domeniul aviației, ale Regulamentului privind funcționarea Schemei de compensare și
+de reducere a emisiilor de carbon pentru aviația internațională, precum și a prevederilor
+Regulamentului privind monitorizarea, raportarea și verificarea emisiilor de gaze cu efect
+de seră provenite de la activitățile din domeniul transportului maritim, aprobate de Guvern;
+d) constată cazurile de încălcare a legislației în domeniul reducerii emisiilor de GES și
+al adaptării la schimbările climatice și aplică sancțiuni conform Codului contravențional;
+calculează prejudiciul cauzat mediului, ca urmare a încălcării prevederilor actelor normative
+și ale actelor permisive.
+### Articolul 23. Atribuțiile Instituției Publice
+Autoritatea de Meteorologie
+
+
+și Monitoring de Mediu
+[Art.23 denumirea modificată prin LP53 din 09.04.26, MO183-185/25.04.26 art.150;
+în vigoare 25.04.26]
+Instituția Publică Autoritatea de Meteorologie și Monitoring de Mediu are
+următoarele atribuții:
+[Art.23 partea introductivă modificată prin LP53 din 09.04.26, MO183-185/25.04.26
+art.150; în vigoare 25.04.26]
+a) asigură monitorizarea stării și evoluției condițiilor meteorologice și hidrologice pe
+teritoriul țării în vederea protecției populației contra fenomenelor meteorologice și
+hidrologice periculoase și a impactului negativ al schimbărilor climatice;
+b) asigură schimbul operațional de date și informații meteorologice și hidrologice
+pentru prevenirea potențialelor fenomene periculoase, precum și pentru prevenirea
+riscurilor asociate cu schimbările climatice și dezastrele naturale;
+c) asigură schimbul operațional de date și informații în vederea evaluării riscurilor
+meteorologice, hidrologice și climatologice asupra securității și sănătății publice;
+d) furnizează, la cerere și în mod gratuit, Agenției de Mediu, instituțiilor și
+structurilor de cercetare din diferite domenii informații cu privire la indicii climatici și
+condițiile climatologice colectate și procesate, conform prevederilor Legii nr. 368/2023 cu
+privire la activitatea meteorologică și hidrologică.
+### Articolul 24. Atribuțiile Agenției „Moldsilva”
+Agenția „Moldsilva” are următoarele atribuții:
+a) coordonează implementarea principiilor de dezvoltare durabilă a pădurilor și a
+fondului forestier, asigurând corelarea cu politicile de dezvoltare cu un nivel redus de emisii
+de GES și de sporire a rezilienței climatice;
+b) evaluează riscurile cu privire la starea vegetației și a pădurilor, asigurând
+corelarea acțiunilor cu progresele în realizarea obiectivelor de dezvoltare cu un nivel redus
+de emisii de GES și de sporire a rezilienței climatice, pe care le prezintă anual Agenției de
+Mediu;
+c) participă la elaborarea și implementarea documentului strategic de politici publice
+de dezvoltare cu emisii reduse pe termen lung și a documentelor de politici privind
+adaptarea la schimbările climatice;
+d) în limita competențelor, implementează politicile privind folosirea terenurilor,
+schimbarea categoriei de folosință a terenurilor și privind silvicultura; implementează
+politicile de extindere a fondului forestier și alte acțiuni în vederea promovării măsurilor de
+extindere și de reabilitare a pădurilor.
+### Articolul 25. Atribuțiile autorităților administrației
+
+
+publice locale
+(1) Autoritățile administrației publice locale au următoarele atribuții:
+a) contribuie la realizarea obiectivelor politicii naționale de atenuare a emisiilor
+antropice de GES și de adaptare la schimbările climatice, în limita competențelor și a
+mijloacelor financiare disponibile;
+b) elaborează, în raza teritoriului administrat și după necesitate, planuri de acțiuni în
+domeniile relevante climei și energiei și asigură implementarea și raportarea acestora.
+(2) Autoritatea administrației publice locale de nivelul întâi elaborează și prezintă
+anual către Ministerul Mediului raportul privind implementarea planurilor de acțiuni
+sustenabile pentru energie și climă.
+### Articolul 26. Responsabilitățile operatorilor
+(1) Operatorii care desfășoară activități ce cad sub incidența prevederilor prezentei
+legi au următoarele responsabilități:
+a) desfășoară activități industriale și economice, specificate în anexa nr. 1, în baza
+autorizației integrate de mediu sau a autorizației de mediu, care acordă dreptul de a degaja
+emisiile de GES din întreaga instalație staționară sau dintr-o parte a acesteia, controlată de
+același operator, cu respectarea cerințelor de evaluare a planului de monitorizare a
+emisiilor de gaze cu efect de seră;
+b) asigură corectitudinea și completitudinea tuturor datelor și informațiilor conținute
+în documentele prezentate Agenției de Mediu, pe toată perioada de valabilitate a
+autorizației integrate de mediu sau a autorizației de mediu;
+c) furnizează datele și informațiile necesare pentru facilitarea verificării emisiilor de
+GES în conformitate cu Regulamentul privind acreditarea și cerințele aplicabile
+verificatorilor emisiilor de gaze cu efect de seră, aprobat de Guvern;
+d) elaborează planul de monitorizare a emisiilor de gaze cu efect de seră și îl
+coordonează cu Agenția de Mediu. Planul de monitorizare a emisiilor de gaze cu efect de
+seră trebuie să includă planificarea măsurilor de monitorizare și de raportare a emisiilor de
+GES, metodologia de monitorizare a emisiilor de gaze cu efect de seră și altele, după caz;
+e) raportează trimestrial, prin intermediul RETP-ului, datele privind emisiile și
+transferul de poluanți legate de activitățile industriale și economice, astfel cum sunt
+specificate în anexa nr. 1;
+f) asigură verificarea RAE-ului prezentat spre coordonare sau, după caz, spre validare
+la Agenția de Mediu de către verificator;
+g) anual, până la data de 1 decembrie, notifică Agenția de Mediu în cazul în care
+există sau nu modificări cu privire la informațiile incluse în autorizația integrată de mediu
+sau în autorizația de mediu, în planul de monitorizare, în RAE și în anexele aferente
+acestora.
+
+
+(2) Activitățile care fac obiectul mecanismului de stabilire a prețului pentru emisiile
+de CO 2 , altul decât MAFC-ul, sunt desfășurate de către operatori în modul stabilit de
+Guvern.
+(3) Operatorii care desfășoară activități ce nu fac obiectul prezentei legi trebuie să
+înregistreze, să monitorizeze, să raporteze și să ia măsuri de reducere a emisiilor de GES în
+conformitate cu cerințele internaționale, cu cerințele stabilite în autorizația integrată de
+mediu sau în autorizația de mediu și cu cerințele aprobate de Guvern.
+Capitolul III
+OBIECTIVELE, POLITICILE INTERSECTORIALE
+ȘI MĂSURILE PRIVIND ACȚIUNILE CLIMATICE
+Secțiunea 1
+Obiectivele și țintele
+### Articolul 27. Țintele de reducere netă
+a emisiilor de GES
+(1) Pentru a atinge neutralitatea climatică până în anul 2050, Guvernul stabilește
+țintele de reducere a emisiilor de GES în conformitate cu angajamentele asumate în cadrul
+Convenției-cadru a Organizației Națiunilor Unite asupra schimbărilor climatice (CCONUSC)
+și ale Comunității Energetice.
+(2) Documentul strategic de politici publice de dezvoltare cu emisii reduse pe termen
+lung, Programul de dezvoltare cu emisii reduse, PNIEC-ul și alte documente de politici
+sectoriale determină foaia de parcurs și planurile de acțiune pentru reducerea emisiilor de
+gaze cu efect de seră.
+(3) Obiectivul național privind limitarea și reducerea emisiilor de GES este stabilit în
+PNIEC.
+### Articolul 28. Stabilirea țintelor naționale de reducere
+a emisiilor de GES
+(1) La stabilirea țintelor naționale de reducere a emisiilor de GES, care includ și
+reținerea prin sechestrare a acestora de către sursele naturale, se iau în considerare:
+a) reducerea netă a emisiilor de GES la nivelul economiei naționale, comparativ cu
+nivelul emisiilor din anul de referință 1990;
+b) acoperirea geografică a reducerii emisiilor de GES, care se aplică pe întreg
+teritoriul Republicii Moldova;
+c) acoperirea emisiilor de dioxid de carbon (CO 2), metan (CH4), protoxid de azot
+
+
+(N2O), hidrofluorocarburi (HFC), perfluoricarburi (PFC), hexafluorură de sulf (SF 6) și
+trifluorură de azot (NF3);
+d) reducerea emisiilor de GES care nu sunt controlate de Protocolul de la Montreal:
+emisii de dioxid de carbon (CO2), metan (CH4), protoxid de azot (N2O), hidrofluorocarburi
+(HFC), perfluoricarburi (PFC), hexafluorură de sulf (SF6) și trifluorură de azot (NF3);
+e) categoriile de emisii antropice de GES și reținerea prin sechestrare a acestora,
+inclusiv sectoarele stabilite în țintele naționale de reducere, care corespund categoriilor și
+sectoarelor prevăzute în ghidurile elaborate de Grupul interguvernamental de experți în
+schimbările climatice (Intergovernmental Panel on Climate Change, în continuare – IPCC):
+procese industriale și utilizare a produselor, agricultură, folosința terenurilor, schimbarea
+categoriei de folosință a terenurilor și silviculturii (LULUCF), gestionarea deșeurilor,
+precum și subsectoarele prevăzute în anexa nr. 1.
+(2) În procesul de estimare a emisiilor de GES și de reținere prin sechestrare a
+acestora se utilizează ghidurile IPCC-ului, prin aplicarea valorilor potențialului de încălzire
+globală într-un interval de timp de 100 de ani, conform Raportului de evaluare al IPCC-ului.
+Valorile respective se aplică în raportarea cumulativă a emisiilor și absorbțiilor de GES,
+exprimate în echivalenți de dioxid de carbon.
+(3) La atingerea țintelor naționale de reducere a emisiilor de GES, care includ și
+reținerea prin sechestrare a acestora de către sursele naturale, se ia în considerare
+contribuția sectorului LULUCF, în conformitate cu metodologia de calculare utilizată pentru
+evaluarea contribuției acestora.
+(4) Metodologia de calculare, menționată la alin. (3), este elaborată și aprobată de
+Ministerul Mediului și are la bază abordarea de producție pentru contabilizarea produselor
+din lemn recoltat, conform ghidurilor IPCC-ului, excluzând emisiile provenite în urma
+dezastrelor naturale.
+(5) Mecanismele de piață internaționale, regionale și bilaterale sunt utilizate pentru
+atingerea țintelor naționale de reducere a emisiilor de GES, în condițiile implementării unor
+sisteme, care să asigure reduceri reale și verificate ale emisiilor de GES.
+(6) La stabilirea țintelor naționale de reducere a emisiilor de GES se iau în
+considerare următoarele:
+a) concluziile științifice recente disponibile, inclusiv concluziile rapoartelor IPCC-ului
+și ale Consiliului consultativ;
+b) impactul social, economic și de mediu, inclusiv costurile inacțiunii;
+c) necesitatea de a asigura o tranziție justă și echitabilă din punct de vedere social;
+d) eficiența din punctul de vedere al costurilor și economică eficientă;
+e) competitivitatea economiei, în special a întreprinderilor mici și mijlocii și a
+sectoarelor care sunt cele mai expuse la relocarea emisiilor de CO2;
+
+
+f) cele mai eficiente tehnologii disponibile, din punctul de vedere al costurilor, al
+siguranței și al durabilității;
+g) eficiența energetică, inclusiv principiul „eficiența energetică înainte de toate”,
+accesibilitatea energiei din punctul de vedere al prețului și siguranța alimentării cu energie;
+h) necesitatea de a asigura eficacitatea protecției mediului și a evoluției graduale în
+timp;
+i) necesitatea de a menține, a gestiona și a îmbunătăți absorbanții naturali pe termen
+lung, de a proteja și de a reface biodiversitatea;
+j) oportunitățile de atragere a investițiilor;
+k) evoluțiile internaționale și eforturile depuse pentru realizarea obiectivelor pe
+termen lung ale Acordului de la Paris și a obiectivului final al CCONUSC.
+### Articolul 29. Stabilirea obiectivelor de adaptare la
+schimbările climatice
+(1) Adaptarea la schimbările climatice este un proces continuu, iar planificarea
+acțiunilor de adaptare la schimbările climatice se efectuează în mod repetat, în baza PNA
+pentru o perioadă de 4 ani. La sfârșitul fiecărui ciclu al PNA, în baza evaluărilor efectuate,
+se planifică următoarea PNA în funcție de necesitățile de adaptare identificate. Ministerul
+Mediului coordonează procesul de planificare națională a acțiunilor de adaptare la
+schimbările climatice.
+(2) PNA constă din următoarele etape:
+1) stabilirea situației de referință – etapă realizată de către grupurile de lucru
+sectoriale și intersectoriale, formate din experți în domeniul schimbărilor climatice și
+specialiști într-un anumit domeniu, în cadrul căreia se desfășoară următoarele activități:
+a) identificarea riscurilor și a vulnerabilității climatice la nivel sectorial și național;
+b) efectuarea evaluărilor de impact al riscurilor și vulnerabilității climatice
+identificate;
+c) identificarea lacunelor de capacitate;
+d) alte activități de susținere a stabilirii situației de referință;
+2) formularea PNA prin:
+a) stabilirea scopului general al PNA;
+b) stabilirea obiectivelor și a țintelor specifice de adaptare pentru fiecare sector care
+contribuie la realizarea scopului general al PNA;
+c) elaborarea foii de parcurs a PNA, care se bazează pe măsurile sectoriale de
+
+
+adaptare și pe documentele de politici naționale și care stabilește abordarea adoptată
+pentru planificarea procesului de adaptare pentru perioada respectivă;
+3) identificarea opțiunilor de adaptare și prioritizarea setului de măsuri/acțiuni de
+adaptare care constă din totalitatea măsurilor/acțiunilor de adaptare la schimbările
+climatice incluse în politicile sectoriale, precum și din acțiunile comune pentru toate
+sectoarele (consolidare a capacităților, cercetare, transfer tehnologic, egalitate de gen, alte
+aspecte intersectoriale relevante pentru procesul de adaptare), orientate spre realizarea
+scopului, a obiectivelor și spre atingerea țintelor stabilite pentru fiecare PNA;
+4) aplicarea sistemului de monitorizare și de evaluare a implementării acțiunilor de
+adaptare, în cadrul căruia:
+a) se stabilește contribuția acțiunilor de adaptare pentru reducerea vulnerabilității,
+consolidarea capacității de adaptare la schimbările climatice și sporirea rezilienței
+sistemelor naturale și a celor socioeconomice;
+b) se evaluează eficacitatea politicilor elaborate, utilizarea mijloacelor financiare și
+resurselor umane;
+c) se asigură transparența procesului de colectare a datelor pentru evaluarea
+eficienței acțiunilor de adaptare;
+5) comunicarea, în cadrul căreia, în urma evaluărilor efectuate la sfârșitul
+implementării PNA:
+a) se formulează concluziile privind rezultatele implementării măsurilor sectoriale de
+adaptare la schimbările climatice și a PNA și se comunică publicului larg;
+b) se elaborează recomandări pentru următorul ciclu al PNA.
+(3) La stabilirea obiectivelor de adaptare la schimbările climatice, precum și la
+identificarea necesităților asociate cu adaptarea obiectivelor sectoriale și ale altor obiective
+relevante, se iau în considerare următoarele:
+a) concluziile științifice recente;
+b) analiza vulnerabilității la schimbările climatice;
+c) necesitățile pentru evitarea, minimizarea și prevenirea pierderilor și daunelor
+asociate cu efectele schimbărilor climatice;
+d) necesitatea identificării grupurilor și sectoarelor vulnerabile.
+### Articolul 30. Contribuția națională determinată
+(1) Ministerul Mediului elaborează CND, prin care stabilește țintele naționale
+climatice intermediare pentru îndeplinirea angajamentelor asumate în conformitate cu
+Acordul de la Paris. CND se elaborează cu respectarea cerințelor stabilite de CCONUSC,
+fiind raportată prin intermediul Sistemului național de monitorizare și raportare a emisiilor
+
+
+de gaze cu efect de seră și altor informații relevante pentru schimbările climatice.
+(2) CND conține obiectivele climatice intermediare revizuite, luându-se în considerare
+perspectiva pe perioade de 10 ani, se elaborează și se prezintă către Secretariatul
+CCONUSC începând cu anul 2025 și, ulterior, la fiecare 5 ani.
+(3) CND este elaborată în corespundere cu PNIEC-ul, parte componentă a
+mecanismului de guvernanță energetică și a acțiunilor climatice, în conformitate cu
+prevederile Legii nr. 174/2017 cu privire la energetică.
+(4) Cerințele privind formatul, structura, conținutul și termenele de raportare,
+precum și elaborarea, actualizarea, raportarea și evaluarea CND sunt stabilite în temeiul
+CCONUSC, al Acordului de la Paris și al deciziilor adoptate în temeiul acestora.
+Secțiunea a 2-a
+Politici sectoriale
+### Articolul 31. Documentul strategic de politici publice
+de dezvoltare cu emisii reduse pe termen lung
+(1) Documentul strategic de politici publice de dezvoltare cu emisii reduse pe termen
+lung reprezintă documentul principal de planificare strategică, care determină politicile
+statului și acțiunile pentru realizarea obiectivului privind neutralitatea climatică și
+contribuie la îndeplinirea angajamentelor asumate de către Republica Moldova în
+conformitate cu CCONUSC și cu Acordul de la Paris.
+(2) Documentul menționat la alin. (1) este elaborat de către Ministerul Mediului în
+corespundere cu Acordul de la Paris.
+(3) Cerințele privind cuprinsul documentului menționat la alin. (1) sunt stabilite în
+Regulamentul privind mecanismul de guvernanță energetică și a acțiunilor climatice,
+aprobat de Guvern.
+### Articolul 32. Documentele de politici privind
+implementarea acțiunilor de adaptare
+la schimbările climatice
+(1) Documentul de politici de nivel național privind implementarea acțiunilor de
+adaptare la schimbările climatice este Programul național de adaptare la schimbările
+climatice (în continuare – PNASC), elaborat de către Ministerul Mediului.
+(2) Scopul PNASC-ului îl constituie integrarea măsurilor de adaptare la schimbările
+climatice și planificarea dezvoltării la toate nivelurile și în toate sectoarele prioritare, pentru
+a asigura reziliența climatică pe termen mediu și lung a sistemelor economice, sociale și de
+mediu.
+
+
+(3) Procesul de identificare a acțiunilor prioritare de adaptare este transparent și se
+bazează pe aplicarea unor metode și instrumente de evaluare econometrică relevante
+(analiza cost-beneficiu, analiza cost-eficiență, analiza decizională cu multiple criterii).
+(4) Măsurile și acțiunile de adaptare la schimbările climatice incluse în PNASC sunt
+orientate asupra categoriilor de populație și sectoarelor celor mai vulnerabile și afectate.
+(5) La elaborarea documentelor de politici pentru implementarea acțiunilor de
+adaptare la schimbările climatice se iau în considerare:
+a) analizele, evaluările progreselor înregistrate și indicatorii în domeniul schimbărilor
+climatice și vulnerabilității;
+b) vulnerabilitatea populației și a sectoarelor afectate, printre care sectorul agricol,
+sistemele de alimentare cu apă și securitatea alimentară;
+c) promovarea soluțiilor bazate pe natură și adaptarea bazată pe ecosisteme;
+d) indicatorii determinați pentru a asigura implementarea politicilor, măsurilor și
+acțiunilor de adaptare la schimbările climatice;
+e) necesitățile financiare, tehnologice și de consolidare a capacităților pentru
+realizarea acestora;
+f) indicatorii determinați din perspectiva raportului cost-beneficiu.
+(6) Măsurile și acțiunile de adaptare, identificate în documentele de politici, asigură
+conexiunea între politicile sectoriale și sunt direcționate spre integrarea consecventă a
+acțiunilor de adaptare la schimbările climatice în acțiunile socioeconomice și de mediu
+relevante.
+(7) Documentele de politici privind implementarea acțiunilor de adaptare la
+schimbările climatice sunt supuse consultărilor cu Comisia națională privind schimbările
+climatice în vederea asigurării alinierii la prioritățile naționale privind schimbările climatice,
+precum și la prioritățile de dezvoltare durabilă.
+(8) În cadrul planificării, dezvoltării, realizării și monitorizării politicilor și măsurilor,
+conținutul documentelor de politici privind implementarea acțiunilor de adaptare la
+schimbările climatice, cerințele de monitorizare și raportare, principiile și practicile de
+identificare, clasificare și gestionare a riscurilor producerii dezastrelor naturale, precum și
+termenele de raportare către Secretariatul CCONUSC și Secretariatul Comunității
+Energetice sunt aprobate de Guvern.
+### Articolul 33. Documentele de politici sectoriale
+(1) Autoritățile publice centrale elaborează și promovează cadrul de planificare la
+nivel sectorial pentru adaptarea la schimbările climatice prin integrarea măsurilor de
+adaptare în documentele de politici sectoriale.
+(2) Documentele de politici sectoriale care au impact asupra emisiilor de GES sunt
+
+
+elaborate în corespundere cu PNIEC-ul și cu documentul strategic de politici publice de
+dezvoltare cu emisii reduse pe termen lung și includ prevederi referitoare la estimarea
+cantitativă a efectelor emisiilor provenite din surse și a reținerilor prin sechestrare de către
+absorbanți a GES, în conformitate cu cerințele CCONUSC și ale Acordului de la Paris.
+(3) La identificarea acțiunilor prioritare de adaptare se ia în considerare impactul
+potențial al schimbărilor climatice asupra diverselor grupuri sociale, inclusiv asupra
+femeilor, copiilor, persoanelor în etate, persoanelor cu dizabilități, fiind un proces
+transparent, bazat pe aplicarea unor metode și instrumente de evaluare econometrică
+relevante (analiza cost-beneficiu, analiza cost-eficiență, analiza decizională cu criterii
+multiple).
+(4) Ministerul Mediului asigură suportul consultativ ministerelor de resort din
+sectoarele relevante ale economiei naționale pentru identificarea metodologiilor de estimare
+cantitativă a efectelor emisiilor de GES provenite din surse și a reținerilor prin sechestrare
+de către absorbanți a GES.
+(5) Ministerul Mediului elaborează și pune la dispoziția publicului metodologii pentru
+planificarea, monitorizarea și raportarea privind reducerea emisiilor de GES și privind
+adaptarea la schimbările climatice, precum și alte instrumente pentru planificare și
+raportare.
+(6) Cerințele privind formatul, structura și termenele de raportare, precum și
+revizuirea rapoartelor sunt stabilite în Regulamentul privind instituirea și funcționarea
+Sistemului național de monitorizare și raportare a emisiilor de gaze cu efect de seră și altor
+informații relevante pentru schimbările climatice și în Regulamentul privind mecanismul de
+guvernanță energetică și a acțiunilor climatice, aprobate de Guvern.
+### Articolul 34. Programul privind reducerea metanului
+(1) Programul privind reducerea metanului stabilește politicile și măsurile pentru
+realizarea obiectivelor de reducere a impactului pe termen scurt și mediu al emisiilor de
+metan asupra emisiilor totale de GES, luându-se în considerare potențialul de încălzire
+globală și durata de viață, relativ scurtă, a metanului în atmosferă, precum și obiectivele
+economiei circulare, după caz.
+(2) Ministerul Mediului, în comun cu Ministerul Agriculturii și Industriei Alimentare și
+Ministerul Energiei, examinează opțiunile de politică pentru a aborda rapid problema
+emisiilor de metan și elaborează programul privind reducerea metanului.
+### Articolul 35. Documentele de politici de nivel local
+(1) Autoritățile administrației publice locale elaborează și implementează planuri de
+acțiuni sustenabile pentru energie și climă (în continuare – PASEC), care conțin acțiuni de
+atenuare și adaptare la schimbările climatice. PASEC-urile pot fi elaborate și aprobate ca
+documente separate sau ca parte a planurilor locale integrate privind energia și clima.
+(2) Unitățile administrativ-teritoriale, în special cele cu un număr mic sau mediu de
+populație, inclusiv cele amalgamate, pot elabora în comun PASEC-uri pentru anul 2030 cu
+
+
+scopul de a realiza, în mod individual sau colectiv, obiectivul de reducere a emisiilor de
+GES.
+(3) PASEC-urile sunt elaborate în corespundere cu PNASC-ul și aprobate până la data
+de 1 ianuarie 2026.
+(4) Monitorizarea implementării PASEC-urilor este asigurată prin raportarea
+periodică către Ministerul Mediului.
+(5) Formatul, conținutul, parametrii și metodologiile utilizate în elaborarea,
+monitorizarea și raportarea PASEC-urilor sunt prevăzute în Ghidul privind acțiunile
+autorităților administrației publice locale de atenuare și adaptare la schimbările climatice,
+aprobat prin ordinul ministrului mediului.
+### Articolul 36. Prognozele naționale privind
+emisiile de GES
+(1) Instituția de monitorizare a mediului colectează datele necesare pentru elaborarea
+prognozelor naționale privind emisiile de GES și organizează elaborarea prognozelor
+naționale privind emisiile de GES provenite din surse și reținerile prin sechestrare de către
+absorbanți a GES, care sunt structurate pe tipuri de gaze sau grupuri de gaze și pe
+sectoare.
+(2) Prognozele naționale privind emisiile de GES sunt estimate cantitativ cu
+succesiune pentru viitor de 6 ani, care se termină cu 0 sau cu 5, imediat următori anului de
+raportare.
+(3) Prognozele naționale privind emisiile de GES includ toate politicile și măsurile
+adoptate la nivel național și cuprind date cu privire la:
+a) previziunile referitoare la politicile și măsurile existente și previziunile cu privire la
+politicile și măsurile adiționale, în cazul în care sunt disponibile;
+b) previziunile referitoare la emisiile totale de GES și estimările pentru fiecare
+categorie;
+c) impactul politicilor și al măsurilor, iar în cazul în care astfel de politici și măsuri nu
+sunt incluse, acest lucru se precizează în mod clar;
+d) rezultatele analizei de sensibilitate efectuate pentru prognoze;
+e) toate referințele relevante la evaluările și rapoartele tehnice care stau la baza
+prognozelor.
+(4) Instituția de monitorizare a mediului raportează Secretariatului CCONUSC și
+Secretariatului Comunității Energetice prognozele naționale privind emisiile de GES
+provenite din surse și reținerile prin sechestrare de către absorbanți, în termenele
+specificate în Regulamentul privind instituirea și funcționarea Sistemului național de
+monitorizare și raportare a emisiilor de gaze cu efect de seră și altor informații relevante
+
+
+pentru schimbările climatice, aprobat de Guvern.
+Secțiunea a 3-a
+Acțiunile politice pentru reducerea consumului de combustibil
+și a emisiilor de dioxid de carbon în sectorul transportului
+### Articolul 37. Consumul de combustibil și emisiile
+de CO2 provenite de la autoturismele noi
+(1) În vederea garantării pentru consumatori a posibilității de a face o alegere în
+cunoștință de cauză, informațiile privind consumul de carburanți și emisiile de CO2 ale
+autoturismelor noi, oferite spre vânzare sau spre achiziționare prin leasing, sunt puse la
+dispoziția acestora.
+(2) Acțiunile privind reducerea emisiilor de CO2 provenite de la autoturismele noi sunt
+stabilite prin lege.
+### Articolul 38. Eticheta privind consumul de combustibil
+și emisiile de CO2
+(1) La plasarea pe piață a autoturismelor noi, agentul economic se asigură că acestea
+sunt însoțite de eticheta privind consumul de combustibil și emisiile de CO2.
+(2) Formatul și conținutul etichetei privind consumul de combustibil și emisiile de CO2
+se aprobă de către Ministerul Infrastructurii și Dezvoltării Regionale.
+(3) Se interzice aplicarea etichetei privind consumul de combustibil și emisiile de CO2
+care poate induce în eroare potențialii cumpărători de autoturisme noi și care contravine
+prevederilor ghidului prevăzut la art. 39 sau ale documentației promoționale.
+### Articolul 39. Ghidul privind consumul de combustibil
+și emisiile de CO2
+(1) Ministerul Infrastructurii și Dezvoltării Regionale organizează procedura de
+elaborare și ajustare a ghidului privind consumul de combustibil și emisiile de CO2 de la
+autoturismele noi comercializate.
+(2) Ghidul privind consumul de combustibil și emisiile de CO2 conține, după caz:
+a) o listă, elaborată anual, a tuturor modelelor de autoturisme noi disponibile pentru
+vânzare, grupate în funcție de marcă și în ordine alfabetică. În cazul în care ghidul este
+actualizat mai mult de o dată pe an, acesta trebuie să conțină o listă a tuturor modelelor de
+autoturisme noi disponibile la data publicării actualizării respective;
+b) tipul de carburant, valoarea numerică a consumului oficial de carburant și a
+
+
+emisiilor specifice oficiale de CO 2 pentru fiecare model menționat în ghid. Valoarea
+consumului oficial de carburant este exprimată fie în litri per suta de kilometri (l/100 km),
+fie în kilometri per litru (km/l), fie printr-o combinație adecvată a celor două formule, și este
+indicată cu o precizie de o zecimală. Emisiile specifice oficiale de CO 2 trebuie să fie
+exprimate în grame per kilometru (g/km) și rotunjite la cel mai apropiat număr întreg;
+c) o listă formată din zece modele de autoturisme noi, care pune în evidență pe cele
+mai performante din punctul de vedere al randamentului energetic, clasificate în ordine
+crescătoare în funcție de emisiile de CO2 pentru fiecare tip de carburant. Lista include
+modelul, valoarea numerică a consumului oficial de carburant, precum și emisiile specifice
+oficiale de CO2;
+d) recomandări destinate conducătorilor auto care să precizeze că o bună utilizare și
+o întreținere regulată a vehiculului, precum și un anumit comportament la volan, care
+implică, de exemplu, evitarea condusului agresiv, rularea cu o viteză moderată, anticiparea
+frânării, verificarea umflării corespunzătoare a pneurilor, reducerea perioadelor de mers în
+gol, evitarea transportării de greutăți excesive, îmbunătățesc consumul de carburant și
+reduc emisiile de CO2 ale autoturismului lor;
+e) o descriere privind efectele emisiilor de GES, schimbările climatice potențiale și
+rolul autoturismelor noi, precum și o referință la diferiți carburanți care sunt propuși
+consumatorului și la implicațiile utilizării acestora asupra mediului, stabiliți în baza celor
+mai recente date științifice și în conformitate cu prevederile legislației.
+(3) La plasarea pe piață a autoturismelor noi, agentul economic, în termen de 30 de
+zile, remite Ministerului Infrastructurii și Dezvoltării Regionale informația privind consumul
+de combustibil și privind emisiile de CO2 ale autoturismelor noi comercializate.
+### Articolul 40. Documentația promoțională și promovarea
+(1) Comercianții afișează, într-un loc vizibil, la punctele de vânzare, un anunț care
+conține datele privind consumul de combustibil și emisiile de CO2.
+(2) Comercianții se asigură că documentația promoțională conține date oficiale
+privind consumul de combustibil și emisiile de CO2 ale noului model de autoturism.
+Capitolul IV
+MONITORIZAREA ȘI RAPORTAREA EMISIILOR DE GAZE
+CU EFECT DE SERĂ ȘI A ALTOR INFORMAȚII RELEVANTE.
+MONITORIZAREA ȘI EVALUAREA ADAPTĂRII
+LA SCHIMBĂRILE CLIMATICE
+Secțiunea 1
+Sistemul național de monitorizare
+
+
+### Articolul 41. Cadrul general privind managementul
+datelor emisiilor de GES
+(1) Monitorizarea emisiilor de GES care provin de la sectoarele și categoriile de surse
+și sechestrare incluse în inventarul național se realizează de către instituția de monitorizare
+a mediului, în baza Regulamentului privind instituirea și funcționarea Sistemului național de
+monitorizare și raportare a emisiilor de gaze cu efect de seră și altor informații relevante
+pentru schimbările climatice, aprobat de Guvern.
+(2) Estimarea nivelului emisiilor antropice provenite din surse și a reținerilor prin
+sechestrare de către absorbanți a GES, compilate în inventarul național, se realizează prin
+intermediul Sistemului național de inventariere, care este parte componentă a Sistemului
+național de monitorizare și raportare a emisiilor de gaze cu efect de seră și altor informații
+relevante pentru schimbările climatice.
+(3) Evaluarea progresului înregistrat în implementarea obiectivelor CND, a
+documentului strategic de politici publice de dezvoltare cu emisii reduse pe termen lung, a
+PNASC-ului, a documentelor sectoriale, a PASEC-urilor, precum și a prognozelor privind
+emisiile antropice provenite din surse sau reținerile prin sechestrare de către absorbanți a
+GES se realizează prin intermediul Sistemului național pentru politici, măsuri și prognoze.
+(4) Monitorizarea completă, transparentă, exactă, coerentă și comparabilă în timp și
+raportarea integrală a emisiilor de GES provenite de la activitățile specificate în anexa nr. 1,
+precum și a datelor privind activitatea instalațiilor staționare și a celor din domeniul aviației
+civile și al transportului maritim și a informaților privind emisiile de carbon provenite din
+aviația internațională se realizează prin monitorizarea, raportarea și verificarea de către
+operator a emisiilor de GES (în continuare – MRV) .
+### Articolul 42. Monitorizarea și evaluarea adaptării
+la schimbările climatice
+(1) Sistemul de monitorizare, raportare și evaluare privind adaptarea la schimbările
+climatice este un instrument de bază pentru evaluarea realizării obiectivelor PNA, precum și
+pentru următoarea PNA. În cadrul fiecărei PNA, sistemul de monitorizare și evaluare este
+utilizat pentru a monitoriza implementarea acțiunilor de adaptare în conformitate cu
+scopurile și obiectivele stabilite în PNA.
+(2) Scopul sistemului de monitorizare, raportare și evaluare este de a măsura
+progresele înregistrate în timp la nivel național, sectorial, administrativ-teritorial, pentru a
+determina gradul de vulnerabilitate al țării ca urmare a realizării PNA și a măsurilor
+sectoriale de adaptare la schimbările climatice.
+(3) Sistemul de monitorizare, raportare și evaluare este utilizat pentru:
+a) monitorizarea și evaluarea impactului acțiunilor de adaptare realizate (măsuri de
+adaptare naționale și sectoriale, programe și proiecte implementate pe teritoriul țării atât
+de entitățile naționale, cât și de cele internaționale, alte tipuri de intervenții);
+
+
+b) raportarea privind realizarea acțiunilor de adaptare, conform indicatorilor de
+monitorizare;
+c) asigurarea integrării priorităților de adaptare în planificarea sectorială și națională;
+d) asigurarea transparenței procesului de adaptare și a colectării datelor;
+e) măsurarea și evaluarea rezultatelor și a impactului activităților de adaptare, a
+investițiilor, a proiectelor, a programelor privind reziliența climatică din perspectiva
+sensibilității la dimensiunea de gen.
+(4) Sistemul de monitorizare, raportare și evaluare colectează, prin intermediul
+indicatorilor, datele cu privire la acțiunile de adaptare implementate. Fișa indicatorilor, care
+conține descrierea fiecărui tip de indicator, termenul de colectare, modul de utilizare în
+procesul de raportare și evaluare a adaptării la schimbările climatice, este indicată în
+Regulamentul privind instituirea și funcționarea Sistemului de monitorizare și evaluare
+privind adaptarea la schimbările climatice, aprobat de Guvern.
+Secțiunea a 2-a
+Raportarea în cadrul CCONUSC, al Acordului de la Paris
+și al Tratatului Comunității Energetice
+### Articolul 43. Formatul comun de monitorizare și raportare
+(1) Pentru a respecta angajamentele asumate în cadrul CCONUSC, al Acordului de la
+Paris, al Tratatului Comunității Energetice și în baza datelor și informațiilor recepționate de
+la autoritățile și instituțiile responsabile care fac parte din Sistemul național de monitorizare
+și raportare a emisiilor de gaze cu efect de seră și altor informații relevante pentru
+schimbările climatice, Ministerul Mediului transmite Secretariatului CCONUSC și
+Secretariatului Comunității Energetice următoarele:
+a) inventarul național al emisiilor antropice provenite din surse și al reținerilor prin
+sechestrare de către absorbanți a gazelor cu efect de seră;
+b) CND, Raportul bienal de transparență și Raportul național de inventariere;
+c) documentul strategic de politici publice de dezvoltare cu emisii reduse pe termen
+lung.
+(2) Ministerul Mediului raportează comunicarea națională cu privire la atenuarea și
+adaptarea la schimbările climatice, în conformitate cu Acordul de la Paris și cu
+Regulamentul privind mecanismul de guvernanță energetică și a acțiunilor climatice,
+aprobat de Guvern.
+(3) Instrumentele de raportare specificate la alin. (1) sunt elaborate în conformitate
+cu prevederile ghidurilor, aprobate prin deciziile adoptate în cadrul conferințelor părților
+semnatare ale CCONUSC, ale Acordului de la Paris și ale Tratatului Comunității Energetice.
+
+
+(4) Cerințele privind formatul, structura instrumentelor de raportare specificate la
+alin. (1) și (2), precum și termenele de raportare se stabilesc în Regulamentul privind
+instituirea și funcționarea Sistemului național de monitorizare și raportare a emisiilor de
+gaze cu efect de seră și altor informații relevante pentru schimbările climatice, aprobat de
+Guvern.
+### Articolul 44. Raportarea prin intermediul Sistemului
+național de inventariere
+(1) Sistemul național de inventariere este elaborat și administrat de către autoritatea
+competentă corespunzătoare, astfel încât să asigure transparența, acuratețea, coerența,
+comparabilitatea și caracterul integral în compilarea inventarului național, în temeiul
+CCONUSC, al Acordului de la Paris și al deciziilor adoptate în temeiul acestora, precum și în
+conformitate cu prevederile Regulamentului privind instituirea și funcționarea Sistemului
+național de monitorizare și raportare a emisiilor de gaze cu efect de seră și altor informații
+relevante pentru schimbările climatice, aprobat de Guvern.
+(2) Sistemul național de inventariere este elaborat și administrat astfel încât să
+asigure calitatea inventarului național prin parcurgerea etapelor de planificare, pregătire și
+management al datelor privind activitățile specificate în anexa nr. 1 la Hotărârea Guvernului
+nr. 1277/2018 cu privire la instituirea și funcționarea Sistemului național de monitorizare și
+raportare a emisiilor de gaze cu efect de seră și altor informații relevante pentru
+schimbările climatice.
+(3) Raportul național de inventariere este elaborat de către Agenția de Mediu în baza
+datelor și informațiilor din inventarul național, conform procedurilor și formatului comun de
+raportare privind transparența acțiunilor și a suportului oferit, aprobat prin deciziile
+adoptate în cadrul Acordului de la Paris.
+(4) Cerințele privind formatul, structura și termenele Raportului național de
+inventariere sunt stabilite în Regulamentul privind instituirea și funcționarea Sistemului
+național de monitorizare și raportare a emisiilor de gaze cu efect de seră și altor informații
+relevante pentru schimbările climatice, aprobat de Guvern.
+(5) Autoritățile și instituțiile responsabile care fac parte din Sistemul național de
+monitorizare și raportare a emisiilor de gaze cu efect de seră și altor informații relevante
+pentru schimbările climatice furnizează, în mod gratuit, informațiile, factorii de emisie și
+datele privind activitatea acestora necesare pentru a estima emisiile antropice de GES și a
+le raporta.
+(6) Autoritatea competentă elaborează inventarul național, care conține date ce sunt
+prezentate Ministerului Mediului, care, la rândul său, le transmite Secretariatului
+Comunității Energetice și Secretariatului Agenției Europene de Mediu pentru efectuarea
+evaluării tehnice a acestora, în termenele stabilite în Regulamentul privind instituirea și
+funcționarea Sistemului național de monitorizare și raportare a emisiilor de gaze cu efect de
+seră și altor informații relevante pentru schimbările climatice, aprobat de Guvern.
+### Articolul 45. Raportarea implementării documentelor
+
+
+de politici
+(1) Autoritățile și instituțiile publice responsabile de implementarea documentelor de
+politici în domeniul reducerii emisiilor antropice de GES și al adaptării la schimbările
+climatice monitorizează gradul de realizare a acestora și raportează Ministerului Mediului.
+(2) Colectarea și raportarea datelor privind schimbările climatice se efectuează în
+baza cadrului normativ și a sistemului național creat în conformitate cu prevederile actelor
+internaționale la care Republica Moldova este parte.
+### Articolul 46. Raportarea prin intermediul Sistemului
+național pentru politici, măsuri și prognoze
+(1) Sistemul național pentru politici, măsuri şi prognoze asigură cadrul instituțional,
+juridic şi procedural pentru evaluarea progresului în implementarea politicilor de atenuare
+a schimbărilor climatice, pentru asigurarea actualității informațiilor raportate, pentru
+elaborarea prognozelor privind emisiile antropice provenite din surse sau reținerile prin
+sechestrare de către absorbanți a GES.
+(2) Sistemul național pentru politici, măsuri şi prognoze și Sistemul național de
+inventariere formează Sistemul național de monitorizare și raportare a emisiilor de gaze cu
+efect de seră și altor informații relevante pentru schimbările climatice.
+(3) Sistemul național pentru politici, măsuri și prognoze este creat și funcționează în
+baza unui regulament aprobat prin hotărâre de Guvern, a CCONUSC și a Acordului de la
+Paris.
+(4) Sistemul național pentru politici, măsuri și prognoze este ținut de către Agenția de
+Mediu, astfel încât să asigure transparența, acuratețea, coerența, comparabilitatea și
+caracterul integral al informațiilor furnizate privind politicile, măsurile și prognozele
+referitoare la emisiile antropice provenite din surse sau reținerile prin sechestrare de către
+absorbanți a GES.
+### Articolul 47. Raportarea progresului înregistrat
+în realizarea obiectivelor CND
+(1) Ministerul Mediului monitorizează progresul privind realizarea obiectivelor CND
+prin aplicarea unor indicatori de monitorizare calitativi sau cantitativi.
+(2) Cerințele privind formatul, structura și termenele de raportare vizând progresul
+realizării obiectivelor CND se stabilesc în temeiul CCONUSC, al Acordului de la Paris și al
+deciziilor adoptate în temeiul acestora, precum și în conformitate cu prevederile
+Regulamentului privind instituirea și funcționarea Sistemului național de monitorizare și
+raportare a emisiilor de gaze cu efect de seră și altor informații relevante pentru
+schimbările climatice, aprobat de Guvern.
+### Articolul 48. Raportarea privind suportul recepționat
+
+
+și privind utilizarea veniturilor din prețul
+carbonului
+(1) Raportarea privind suportul recepționat și privind utilizarea veniturilor din prețul
+carbonului, prevăzut la art. 57, este efectuată de către Agenția de Mediu o dată la doi ani,
+după data lansării sistemului de raportare, conform unui regulament aprobat de Guvern.
+(2) Raportul include informațiile cu privire la planificarea și la strategiile naționale de
+adaptare la schimbările climatice, specificându-se acțiunile implementate și cele planificate
+pentru a facilita adaptarea la schimbările climatice, inclusiv informațiile ce reies din
+cerințele de raportare stabilite în temeiul CCONUSC și al Acordului de la Paris.
+Secțiunea a 3-a
+Monitorizarea, raportarea și verificarea
+### Articolul 49. Monitorizarea, raportarea și verificarea
+emisiilor de GES provenite de la instalațiile
+staționare
+(1) La aprobarea desfășurării activităților prevăzute în anexa nr. 1, în autorizația
+integrată de mediu sau în autorizația de mediu se include, în mod obligatoriu, componenta
+privind emisiile de GES, în conformitate cu prevederile Legii nr. 227/2022 privind emisiile
+industriale. Începând din 30 iunie 2026, autorizațiile integrate de mediu și autorizațiile de
+mediu se emit cu respectarea cerințelor prevăzute la pct. 7 din Regulamentul privind
+monitorizarea, raportarea și verificarea emisiilor de gaze cu efect de seră provenite de la
+instalațiile staționare și activitățile din domeniul aviației, aprobat de Guvern, iar
+autorizațiile emise anterior, valabile în temeiul art. 27 alin. (1) coroborat cu art. 15 alin. (22)
+din Legea nr. 227/2022 privind emisiile industriale, pe componenta de GES, se completează
+cu planul de monitorizare a emisiilor de gaze cu efect de seră în termen de 3 luni.
+[Art.49 al.(1) în redacția LP53 din 09.04.26, MO183-185/25.04.26 art.150; în vigoare
+25.04.26]
+(2) Operatorul instalației staționare în care desfășoară una dintre activitățile
+prevăzute în anexa nr. 1 și care deține autorizația integrată de mediu sau autorizația de
+mediu asigură monitorizarea și raportarea anuală a emisiilor de GES, începând cu 1
+ianuarie 2027, în baza planului de monitorizare a emisiilor de gaze cu efect de seră aprobat.
+[Art.49 al.(2) modificat prin LP53 din 09.04.26, MO183-185/25.04.26 art.150; în
+vigoare 25.04.26]
+(3) Măsurile de reducere a emisiilor de GES planificate, inclusiv metodologia și
+frecvența monitorizării și raportării acestora, se bazează pe principiile de monitorizare și
+raportare prevăzute în anexa nr. 2 și se realizează în conformitate cu planul de monitorizare
+a emisiilor de gaze cu efect de seră, elaborat de către operatorul instalației staționare și
+aprobat de către Agenția de Mediu.
+
+
+(4) Anual, până la data de 31 martie, operatorul instalației staționare prezintă
+Agenției de Mediu RAE-ul pentru anul precedent, verificat de către un verificator acreditat,
+împreună cu raportul de verificare a emisiilor de GES generate în anul calendaristic
+precedent, elaborat de către verificator.
+(5) În cazul în care operatorul instalației staționare nu prezintă un RAE verificat în
+termenul stabilit sau dacă raportul nu a fost verificat în conformitate cu cerințele prevăzute
+la art. 50 alin. (5), Agenția de Mediu efectuează o estimare prudentă a nivelului de emisii de
+GES al unei instalații, care va înlocui raportul respectiv.
+(6) Cerințele privind formatul, structura de raportare a RAE-ului, procedura de
+depunere și actele necesare, precum și metodologiile MRV a emisiilor de GES sunt stabilite
+în Regulamentul privind monitorizarea, raportarea și verificarea emisiilor de gaze cu efect
+de seră provenite de la instalațiile staționare și activitățile din domeniul aviației, aprobat de
+Guvern.
+### Articolul 50. Verificarea și acreditarea
+(1) Centrul Național de Acreditare acreditează verificatorii în conformitate cu
+prevederile Legii nr.235/2011 privind activitățile de acreditare și de evaluare a
+conformității.
+(2) Verificatorul verifică RAE-ul prezentat de către operatorul instalației staționare
+sau de către operatorul de aeronave, în conformitate cu procedura de verificare prevăzută
+în Regulamentul privind monitorizarea, raportarea și verificarea emisiilor de gaze cu efect
+de seră provenite de la instalații staționare și activitățile din domeniul aviației, aprobat de
+Guvern.
+(3) Procedura de verificare a RAE-ului prezentat de compania de transport maritim
+este prevăzută în Regulamentul privind monitorizarea, raportarea și verificarea emisiilor de
+dioxid de carbon generate de transportul maritim, aprobat de Guvern.
+(4) Verificatorii acreditați de un centru național de acreditare în statele membre ale
+Uniunii Europene, care au trecut cu succes evaluarea organizată de Cooperarea Europeană
+pentru Acreditare, sunt în drept să presteze servicii de verificare la nivel național, conform
+procedurii de recunoaștere și echivalare prevăzute în Legea nr. 235/2011 privind activitățile
+de acreditare și de evaluare a conformității.
+(5) Centrul Național de Acreditare, în comun cu Agenția de Mediu, stabilește
+cerințele aplicabile verificatorilor, procedura de verificare, criteriile de verificare, precum și
+conținutul raportului de verificare.
+(6) Verificatorul acționează independent de operatorul instalației staționare, de
+operatorul de aeronave sau de operatorul instalației de transport maritim și este imparțial în
+exercitarea atribuțiilor de verificare, conform cerințelor prevăzute în Regulamentul privind
+acreditarea și cerințele aplicabile verificatorilor emisiilor de gaze cu efect de seră, aprobat
+de Guvern.
+### Articolul 51. Monitorizarea, raportarea și verificarea
+
+
+emisiilor de GES provenite de la activitățile
+din domeniul aviației
+(1) În vederea decarbonizării aviației civile și a încurajării utilizării unor tehnologii
+mai puțin poluante și a surselor regenerabile prin aplicarea măsurilor economice este
+instituită schema CORSIA, în conformitate cu prevederile Regulamentului privind instituirea
+și funcționarea Schemei de compensare și de reducere a emisiilor de carbon pentru aviația
+internațională, aprobat de Guvern.
+(2) Cerințele privind MRV a emisiilor de GES, inclusiv evaluarea progresului
+înregistrat în îndeplinirea angajamentelor de reducere a acestora, generate de operatorii
+aerieni naționali, sunt stabilite în regulamentul prevăzut la alin. (1).
+(3) Operatorul de aeronave prezintă spre aprobare Autorității Aeronautice Civile
+planul de monitorizare a emisiilor de CO 2 , care conține măsurile de monitorizare și
+raportare a emisiilor de carbon în cadrul CORSIA, cu două luni înainte de atingerea pragului
+de raportare estimativ de 10000 de tone de CO2 pe an.
+(4) Operatorul de aeronave prezintă spre coordonare Agenției de Mediu planul de
+monitorizare a emisiilor de CO 2 , care conține măsurile de monitorizare și raportare a
+emisiilor de carbon, începând cu 30 iunie 2026 sau înainte de începerea activității din
+domeniul aviației.
+[Art.51 al.(4) modificat prin LP53 din 09.04.26, MO183-185/25.04.26 art.150; în
+vigoare 25.04.26]
+(5) RAE-ul operatorului de aeronave, pentru întreaga perioadă de raportare a anului
+precedent, este verificat de către un verificator acreditat în conformitate cu Regulamentul
+privind acreditarea și cerințele aplicabile verificatorilor emisiilor de gaze cu efect de seră,
+aprobat de Guvern.
+[Art.51 al.(5) în redacția LP53 din 09.04.26, MO183-185/25.04.26 art.150; în vigoare
+25.04.26]
+(6) Monitorizarea, raportarea și verificarea emisiilor de GES, prevăzute la alin. (4), se
+efectuează în conformitate cu Regulamentul privind monitorizarea, raportarea și verificarea
+emisiilor de gaze cu efect de seră provenite de la instalațiile staționare și de la activitățile
+din domeniul aviației, aprobat de Guvern.
+[Art.51 al.(6) modificat prin LP53 din 09.04.26, MO183-185/25.04.26 art.150; în
+vigoare 25.04.26]
+### Articolul 52. Monitorizarea, raportarea și verificarea
+emisiilor de GES provenite de la
+activitățile din domeniul transportului
+maritim
+
+
+(1) În scopul promovării reducerii emisiilor de GES provenite de la activitățile din
+domeniul transportului maritim, armatorii sunt obligați să monitorizeze și să raporteze
+emisiile de GES pentru fiecare navă și pentru fiecare călătorie, în conformitate cu
+Regulamentul privind monitorizarea, raportarea și verificarea emisiilor de dioxid de carbon
+generate de transportul maritim, aprobat de Guvern.
+(2) Armatorii prezintă spre înregistrare Agenției de Mediu planul de monitorizare a
+emisiilor de CO2, care conține măsurile de monitorizare și raportare a emisiilor de carbon,
+înainte de începerea activității din domeniul transportului maritim.
+(3) Anual, până la data de 31 martie, armatorii sunt obligați să transmită Agenției de
+Mediu RAE-ul pentru întreaga perioadă de raportare a anului precedent, care să fie verificat
+de către un verificator acreditat.
+(4) Navele care au ca destinație un port situat pe teritoriul Republicii Moldova sunt
+obligate să raporteze emisiile de GES Agenției de Mediu până la intrarea în port.
+### Articolul 53. Sistemul informațional integrat de mediu
+(1) Operatorii instalațiilor staționare în care desfășoară un anumit tip de activitate,
+specificate în anexa nr. 1, sunt înregistrați în Registrul național de emisii și transfer de
+poluanți, în conformitate cu prevederile Legii nr. 227/2022 privind emisiile industriale și ale
+Regulamentului privind Registrul național al emisiilor și al transferului de poluanți, aprobat
+de Guvern.
+(2) Registrul menționat la alin. (1) este parte componentă a Sistemului informațional
+integrat de mediu, instituit de Ministerul Mediului, care facilitează implementarea
+angajamentelor privind raportarea prevăzută la art. 44–50.
+Capitolul V
+TRANSPARENȚA ȘI FINANȚAREA
+Secțiunea 1
+Transparența în procesul de luare a deciziilor
+și cooperarea transfrontalieră
+### Articolul 54. Consultarea părților interesate
+(1) Ministerul Mediului, alte autorități și instituții publice responsabile de politicile
+sectoriale pun la dispoziția publicului rapoartele privind implementarea documentelor de
+politici în domeniul reducerii emisiilor antropice de GES și al adaptării la schimbările
+climatice, în conformitate cu prevederile Legii nr. 239/2008 privind transparența în procesul
+decizional.
+(2) Ministerul Mediului asigură colaborarea cu toate părțile interesate pentru a le
+oferi posibilitatea și mijloacele să contribuie activ la o tranziție justă și echitabilă din punct
+de vedere social către o societate neutră din punct de vedere climatic și cu reziliență sporită
+
+
+la schimbările climatice, de asemenea asigură ca publicul să beneficieze de posibilități
+efective de a se informa în timp util, de a participa și de a-și exprima opiniile cu privire la
+documentele elaborate și supuse consultărilor publice.
+(3) Datele privind emisiile de GES, condițiile de mediu și potențialele efecte adverse,
+precum și consecințele, rezultatele monitorizării și ale controalelor nu pot fi considerate
+secret comercial în conformitate cu prevederile Legii nr. 384/2023 privind protecția
+secretelor comerciale.
+(4) Informațiile de interes public se pun la dispoziția publicului cu titlu gratuit, prin
+intermediul unor mijloace mass-media ușor accesibile și se publică pe pagina web oficială a
+Ministerului Mediului, cu respectarea prevederilor legislației în domeniul asigurării
+accesului la informațiile de interes public.
+(5) Ministerul Mediului asigură organizarea procesului incluziv și accesibil la nivel
+național, regional și local, cu participarea mediului asociativ, a mediului academic, a
+mediului de afaceri, a cetățenilor și a societății civile, pentru schimbul de bune practici și
+pentru identificarea acțiunilor care contribuie la realizarea obiectivelor la nivel național.
+(6) Ministerul Mediului, alte autorități și instituții publice responsabile de politicile
+sectoriale utilizează toate instrumentele necesare, inclusiv Comisia națională privind
+schimbările climatice, dialogul pe mai multe niveluri, având ca subiect energia și clima,
+Pactul Climatic European, pentru a implica cetățenii, mediul asociativ și părțile interesate în
+scopul promovării dialogului și furnizării informației științifice cu privire la schimbările
+climatice și la aspectele sociale, precum și cele legate de egalitatea de gen.
+### Articolul 55. Dialogul pe niveluri și cooperarea
+(1) Ministerul Mediului poartă un dialog pe mai multe niveluri, având ca subiect
+acțiunile climatice, în cadrul căruia autoritățile administrației publice locale, societatea
+civilă, mediul academic și cel de afaceri, investitorii și alte părți interesate, precum și
+publicul larg pot participa activ și pot discuta despre obiectivele privind neutralitatea
+climatică și scenariile preconizate pentru politicile în domeniu, inclusiv cele pe termen lung,
+și pot examina progresele înregistrate.
+(2) Pentru a asigura îndeplinirea obiectivelor și a contribuțiilor stabilite la nivel
+național, Ministerul Mediului asigură cooperarea cu statele părți ale Comunității
+Energetice, cu statele membre ale Uniunii Europene, cu statele vecine și alte state prin
+schimbul de informații privind cercetarea și dezvoltarea științifică și tehnică, în vederea
+perfecționării mijloacelor care facilitează realizarea obiectivelor și atingerea țintelor
+naționale.
+Secțiunea a 2-a
+Prețul carbonului și sistemul de stabilire
+### Articolul 56. Mecanismul financiar de stabilire a prețului
+pentru emisiile de CO2
+
+
+(1) În scopul asigurării reducerii emisiilor de GES în urma desfășurării activităților
+specificate în anexa nr. 1 și a implementării principiului „poluatorul plătește” se instituie
+mecanismul financiar de stabilire a prețului pentru emisiile de CO2.
+(2) Mecanismul financiar de stabilire a prețului pentru emisiile de CO 2 se
+fundamentează pe principiul „plafonare și comercializare” și/sau „stabilirea prețului
+carbonului pentru anumite bunuri și/sau servicii” și se stabilește prin lege.
+(3) Cerințele privind calculul și raportarea emisiilor de GES, obligațiile și metodele de
+plată a prețului pentru emisiile de CO2, lista operatorilor supuși plății pentru emisiile de
+CO2, criteriile și condițiile pentru scutiri sau reduceri de plată, autoritățile și instituțiile
+responsabile, precum și procedura de percepere a plăților pentru emisiile de CO2, altele
+decât cele prevăzute de MAFC, se aprobă de către Guvern.
+### Articolul 57. Susținerea financiară a acțiunilor
+de atenuare și adaptare la schimbările
+climatice
+(1) Statul asigură susținerea financiară prin elaborarea, promovarea și
+implementarea documentelor de politici în domeniul atenuării și al adaptării la schimbările
+climatice la nivel național și sectorial, în limita mijloacelor disponibile.
+(2) Mijloacele financiare din bugetul de stat și alte mijloace financiare care nu
+contravin legislației sunt utilizate pentru:
+a) implementarea activităților de reducere a emisiilor de GES;
+b) implementarea activităților de sporire a reținerii emisiilor de GES prin
+sechestrarea acestora;
+c) creșterea ponderii energiei provenite din surse regenerabile și promovarea
+tehnologiilor inovative contribuind la tranziția către o economie sigură și durabilă cu emisii
+reduse de CO2;
+d) sporirea capacității de sechestrare a emisiilor de GES din sectorul LULUCF;
+e) combaterea defrișărilor ilicite și sporirea capacității de regenerare și împădurire;
+f) implementarea activităților de consolidare a capacității de adaptare la schimbările
+climatice;
+g) stimularea renovării parcului de vehicule antrenat la prestarea transportului rutier
+de persoane prin servicii regulate;
+h) finanțarea domeniilor de cercetare aferente promovării eficienței energetice și a
+tehnologiilor curate;
+i) promovarea eficienței energetice, inclusiv prin oferirea suportului financiar
+
+
+gospodăriilor aflate în situație de sărăcie energetică;
+j) promovarea și utilizarea tehnologiilor curate și eficiente energetic, inclusiv
+cogenerarea și trigenerarea, în scopul susținerii financiare pentru abordarea aspectelor
+sociale generate de schimbările climatice în gospodăriile cu venituri mici și medii, precum și
+pentru implementarea măsurilor de atenuare și/sau de adaptare la schimbările climatice în
+cadrul întreprinderilor;
+k) contribuirea la formarea competențelor și realocarea forței de muncă pentru o
+tranziție justă spre o economie cu emisii reduse de carbon, în special în regiunile cele mai
+vulnerabile, în coordonare cu mediul asociativ;
+l) promovarea captării și stocării geologice a carbonului în condiții de siguranță
+pentru mediul înconjurător din sectoarele și subsectoarele industriale;
+m) implementarea tehnologiilor sau investițiilor în tehnologii ce țin de captarea și
+stocarea carbonului în condiții de siguranță pentru mediul înconjurător din sectoarele și
+subsectoarele industriale;
+n) susținerea în îndeplinirea angajamentelor în cadrul Tratatului Comunității
+Energetice; susținerea autorităților administrației publice locale în implementarea
+prevederilor Convenției primarilor pentru climă și energie;
+o) monitorizarea și raportarea emisiilor de GES;
+p) acțiunile de susținere a activităților mediului asociativ (a organizațiilor societății
+civile) în domeniul reducerii emisiilor de GES și de adaptare la schimbările climatice;
+q) desfășurarea activităților Secretariatului Comisiei naționale privind schimbările
+climatice.
+(3) Asigurarea financiară a activităților de atenuare și adaptare la schimbările
+climatice se efectuează în baza unor proceduri care să asigure luarea în considerare a
+tuturor aspectelor legate de climă în procesul luării deciziilor. La prioritizarea finanțării se
+iau în considerare multiple aspecte, inclusiv sociale, economice și de mediu.
+### Articolul 58. Evidența cheltuielilor legate de
+schimbările climatice
+(1) La implementarea politicilor și măsurilor necesare pentru realizarea obiectivelor
+și atingerea țintelor naționale, Guvernul ia în considerare necesitatea atenuării efectelor
+emisiilor de GES și a adaptării la schimbările climatice, asigurând că cel puțin o parte din
+măsurile planificate sunt finanțate ca urmare a aplicării mecanismului financiar de stabilire
+a prețului pentru emisiile de CO2.
+(2) Mijloacele financiare colectate în urma aplicării mecanismului financiar de
+stabilire a prețului pentru emisiile de CO 2 sunt gestionate prin intermediul sistemului
+trezorerial de către Ministerul Finanțelor.
+
+
+(3) Mijloacele financiare colectate din plățile de carbon pentru emisiile de CO2 se
+includ în legea bugetului de stat pentru anul respectiv.
+Capitolul VI
+COMPETENȚA ÎN EFECTUAREA CONTROLULUI.
+RĂSPUNDEREA PENTRU ÎNCĂLCAREA LEGISLAȚIEI
+ÎN DOMENIUL ACȚIUNILOR CLIMATICE
+### Articolul 59. Măsuri de control
+Controlul de stat în domeniul acțiunilor climatice este exercitat de către Inspectoratul
+pentru Protecția Mediului, în vederea asigurării respectării legislației în domeniul acțiunilor
+climatice și al realizării măsurilor de protecție a mediului. Măsurile de control se exercită în
+conformitate cu prevederile Legii nr. 131/2012 privind controlul de stat asupra activității de
+întreprinzător.
+### Articolul 60. Răspunderea pentru încălcarea legislației
+în domeniul acțiunilor climatice
+Încălcarea prevederilor prezentei legi și ale actelor normative aprobate în temeiul
+acesteia atrage, după caz, răspunderea civilă, contravențională sau penală.
+Capitolul VII
+DISPOZIȚII FINALE
+### Articolul 61. Dispoziții finale
+(1) Prezenta lege intră în vigoare peste 18 luni de la data publicării în Monitorul
+Oficial al Republicii Moldova.
+(2) Guvernul:
+a) în termen de 18 luni de la data publicării prezentei legi, va asigura elaborarea și
+adoptarea actelor normative necesare pentru implementarea acesteia;
+b) în termen de 6 luni de la data intrării în vigoare a prezentei legi, va aduce actele
+sale normative în concordanță cu aceasta.
+### Articolul 62. Dispoziții tranzitorii
+Autorizațiile emise anterior, considerate valabile în temeiul art. 61 din Legea nr.
+227/2022 privind emisiile industriale, se modifică în temeiul art. 49 alin. (1) din prezenta
+lege, în termen de 3 luni de la data publicării Legii nr. 53/2026 pentru modificarea unor acte
+normative (reforma autorităților subordonate Ministerului Mediului).
+[Art.62 introdus prin LP53 din 09.04.26, MO183-185/25.04.26 art.150; în vigoare
+
+
+25.04.26]
+PREȘEDINTELE PARLAMENTULUI Igor GROSU
+Nr. 74. Chișinău, 11 aprilie 2024.
+Anexa nr. 1
+Categoriile de activități
+cărora li se aplică mecanismul financiar
+de stabilire a prețului pentru emisiile
+de dioxid de carbon
+1. Valorile pragurilor specificate în tabel se referă, în general, la capacitățile de
+producție sau la randamente. În instalația în care se desfășoară una sau mai multe dintre
+activitățile care fac parte din aceeași categorie de activitate, capacitățile acestora se
+însumează.
+2. La calcularea puterii termice nominale totale a unei instalații se însumează puterea
+termică nominală a tuturor unităților tehnice care fac parte din aceasta și în care se ard
+combustibili în cadrul instalației respective. Aceste unități pot include toate tipurile de
+cazane, arzătoare, turbine, încălzitoare, furnale, incineratoare, cuptoare de calcinare, etuve,
+cuptoare, uscătoare, motoare, pile de combustie, instalații de ardere în buclă chimică, facle
+și instalații de postcombustie termică sau catalitică. Instalațiile cu o putere termică
+nominală mai mică de 3 MW și instalațiile care utilizează exclusiv biomasă nu sunt luate în
+calcul. Instalațiile care utilizează exclusiv biomasă includ instalațiile care utilizează
+combustibili fosili doar la pornirea sau la oprirea instalației.
+3. În cazul în care o instalație deservește o activitate pentru care pragul nu este
+exprimat ca putere termică nominală totală, pragul pentru activitatea respectivă are
+prioritate la luarea deciziei privind includerea în listă.
+4. În cazul în care se constată că într-o instalație se depășește pragul de capacitate
+pentru o activitate menționată în tabelul din prezenta anexă, toate instalațiile în care se ard
+combustibili, altele decât instalațiile pentru incinerarea deșeurilor periculoase sau
+municipale, sunt incluse în autorizația integrată de mediu sau în autorizația de mediu.
+Activități
+I. Instalațiile staționare
+1
+Arderea combustibililor în instalațiile cu o putere termică nominală
+totală de peste 20 MW (cu excepția instalațiilor pentru incinerarea
+deșeurilor periculoase sau municipale)
+2
+Arderea combustibililor în instalațiile pentru incinerarea deșeurilor
+municipale cu o putere termică nominală totală de peste 20 MW
+
+Gaze cu efect
+de seră
+Dioxid de carbon
+Dioxid de carbon
+
+
+3
+4
+5
+6
+7
+
+8
+9
+
+Rafinarea uleiurilor, în cazul în care sunt exploatate instalații de ardere
+cu o putere termică nominală totală de peste 20 MW
+Producerea cocsului
+Prăjirea sau sinterizarea, inclusiv peletizarea, a minereurilor metalice
+(inclusiv a minereurilor sulfidice)
+Producerea fontei sau a oțelului (topire primară sau secundară),
+inclusiv instalațiile pentru turnare continuă, cu o capacitate de
+producție mai mare de 2,5 tone pe oră
+Producerea sau prelucrarea metalelor feroase (inclusiv a feroaliajelor),
+în cazul în care sunt exploatate instalații de ardere cu o putere termică
+nominală totală de peste 20 MW. Prelucrarea include, printre altele,
+laminoare, reîncălzitoare, cuptoare de recoacere, forje, topitorii,
+acoperire și decapare
+Producerea de aluminiu primar sau alumină
+
+20
+
+Producerea de aluminiu secundar, în cazul în care sunt exploatate
+instalații de ardere cu o putere termică nominală totală de peste 20
+MW
+Producerea sau prelucrarea metalelor neferoase, inclusiv producerea
+aliajelor, rafinarea, topirea-turnarea etc., în cazul în care sunt
+exploatate instalații de ardere cu o putere termică nominală totală
+(incluzând combustibilii folosiți ca agenți de reducere) de peste 20 MW
+Producerea clincherului de ciment în cuptoare rotative cu o capacitate
+de producție de peste 500 de tone pe zi sau în alte cuptoare, cu o
+capacitate de producție de peste 50 de tone pe zi
+Producerea de var sau calcinarea dolomitei sau a magnezitei în
+cuptoare rotative sau în alte cuptoare, cu o capacitate de producție de
+peste 50 de tone pe zi
+Fabricarea sticlei, inclusiv a fibrei de sticlă, cu o capacitate de topire
+de peste 20 de tone pe zi
+Fabricarea prin ardere de produse ceramice, în special de țigle,
+cărămizi, cărămizi refractare, plăci ceramice, gresie ceramică sau
+porțelan, cu o capacitate de producție de peste 75 de tone pe zi
+Fabricarea de material izolant din vată minerală, utilizând sticlă, rocă
+sau zgură, cu o capacitate de topire de peste 20 de tone pe zi
+Uscarea sau calcinarea ghipsului sau fabricarea plăcilor din ipsos și a
+altor produse din ghips, cu o capacitate de producție de ghips calcinat
+sau de ghips secundar uscat de peste 20 de tone pe zi
+Producerea de celuloză din lemn sau din alte materiale fibroase
+Producerea de hârtie sau carton, cu o capacitate de producție de peste
+20 de tone pe zi
+Producerea de negru de fum, implicând carbonizarea unor substanțe
+organice precum sunt uleiurile, gudronul, reziduurile de cracare și de
+distilare, cu o capacitate de producție de peste 50 de tone pe zi
+Producerea acidului azotic
+
+21
+
+Producerea acidului adipic
+
+22
+
+Producerea acidului glioxalic și glioxilic
+
+23
+24
+
+Producerea amoniacului
+Producerea substanțelor chimice organice în vrac prin cracare,
+reformare, oxidare completă sau parțială ori prin procese similare, cu o
+capacitate de producție care depășește 100 de tone pe zi
+Producerea de hidrogen (H2) și de gaze de sinteză, cu o capacitate de
+producție care depășește 5 tone pe zi
+Producerea de sodă calcinată (Na2CO3) și de bicarbonat de sodiu
+(NaHCO3)
+
+10
+
+11
+12
+13
+14
+15
+16
+17
+18
+19
+
+25
+26
+
+Dioxid de carbon
+Dioxid de carbon
+Dioxid de carbon
+Dioxid de carbon
+Dioxid de carbon
+
+Dioxid de carbon
+și
+perfluorocarburi
+Dioxid de carbon
+Dioxid de carbon
+
+Dioxid de carbon
+Dioxid de carbon
+Dioxid de carbon
+Dioxid de carbon
+Dioxid de carbon
+Dioxid de carbon
+Dioxid de carbon
+Dioxid de carbon
+Dioxid de carbon
+Dioxid de carbon
+și oxid de azot
+Dioxid de carbon
+și oxid de azot
+Dioxid de carbon
+și oxid de azot
+Dioxid de carbon
+Dioxid de carbon
+Dioxid de carbon
+Dioxid de carbon
+
+
+27
+
+Transportul de gaze cu efect de seră în vederea stocării geologice întrun sit de stocare autorizat, în conformitate cu prevederile anexei nr. 1
+la Legea nr. 86/2014 privind evaluarea impactului asupra mediului, cu
+excepția emisiilor care fac obiectul unei alte activități în temeiul
+prezentei legi
+28 Stocarea geologică a gazelor cu efect de seră într-un sit de stocare în
+conformitate cu anexa nr. 1 la Legea nr. 86/2014 privind evaluarea
+impactului asupra mediului, cu excepția emisiilor care fac obiectul unei
+alte activități în temeiul prezentei legi
+II. Aviația
+29 Zborurile între aerodromurile situate în două state diferite, efectuate
+de către operatorii de aeronave, îndeplinesc următoarele condiții:
+a) operatorii de aeronave sunt certificați sau înregistrați în Republica
+Moldova;
+b) se produc emisii anuale de CO2 mai mari de 10000 de tone din
+utilizarea aeronavelor, cu o masă maximă certificată la decolare mai
+mare de 5700 de kg, care efectuează zboruri ce sunt incluse în
+prezenta anexă, altele decât cele care pleacă și care sosesc în același
+stat membru al Uniunii Europene, inclusiv în regiunile ultraperiferice
+ale aceluiași stat membru, începând cu 1 ianuarie 2021;
+c) în sensul prezentei litere, nu se iau în considerare emisiile generate
+de următoarele tipuri de zboruri:
+- zborurile de stat;
+- zborurile umanitare;
+- zborurile medicale;
+- zborurile militare;
+- zborurile de stingere a incendiilor;
+- zborurile precedente și cele ulterioare unui zbor pentru activități
+umanitare, medicale sau de stingere a incendiilor, cu condiția că zborul
+în cauză să fi fost efectuat cu aceeași aeronavă și să fi fost necesar
+pentru desfășurarea acelor activități umanitare, medicale sau de
+stingere a incendiilor sau pentru repoziționarea aeronavei, după
+desfășurarea activităților respective, în vederea desfășurării activității
+sale ulterioare
+
+Dioxid de carbon
+
+Dioxid de carbon
+
+Dioxid de carbon
+
+
+30
+
+Zborurile care pleacă de pe un aerodrom situat pe teritoriul Republicii
+Moldova.
+Această activitate nu include:
+a) zborurile efectuate exclusiv pentru transportul unui monarh în
+funcție și al rudelor sale apropiate, al șefilor de stat, al șefilor de
+guvern și al miniștrilor din țări care nu sunt state membre, aflați în
+misiune oficială, cu condiția ca o astfel de situație să fie dovedită prin
+indicatorul corespunzător al statutului zborului din planul de zbor;
+b) zborurile militare efectuate cu aeronave militare și zborurile
+serviciilor vamale și de poliție;
+c) zborurile legate de misiunile de căutare și de salvare, zborurile
+serviciilor de pompieri, zborurile pentru activități umanitare și
+zborurile serviciilor medicale de urgență, autorizate de către
+autoritățile competente corespunzătoare;
+d) alte zboruri efectuate exclusiv în conformitate cu regulile de zbor la
+vedere definite în anexa nr. 2 la Convenția de la Chicago;
+e) zborurile care se încheie pe aerodromul de pe care a decolat
+aeronava și în timpul cărora nu au fost efectuate aterizări intermediare;
+f) zborurile de instruire, efectuate exclusiv în scopul obținerii unei
+licențe sau a unei calificări, în cazul personalului navigant de
+conducere, dacă acest lucru este dovedit printr-o indicație
+corespunzătoare din planul de zbor, cu condiția ca scopul zborului să
+nu fie transportul de pasageri și/sau de marfă sau poziționarea sau
+transportul aeronavei;
+g) zborurile efectuate exclusiv în scopul cercetărilor științifice sau în
+scopul verificării, al testării sau al certificării aeronavei ori a
+echipamentului de bord sau de sol;
+h) zborurile efectuate de aeronave cu o masă maximă certificată la
+decolare mai mică de 5700 de kg;
+i) zborurile efectuate pe rutele în care capacitatea oferită nu depășește
+50000 de locuri pe an;
+j) zborurile care, cu excepția prezentei litere, s-ar încadra în această
+activitate și sunt efectuate de un operator de transport aerian
+comercial, care efectuează fie:
+– mai puțin de 243 de zboruri pe perioadă, pe parcursul a trei perioade
+consecutive de câte patru luni; fie
+– zboruri cu emisii anuale totale mai mici de 10000 de tone pe an.
+Zborurile menționate la lit. l) și m) sau cele efectuate exclusiv pentru
+transportul în misiune oficială al monarhilor în exercițiu și al rudelor
+apropiate ale acestora, al șefilor de stat, al șefilor de guvern și al
+miniștrilor unui stat membru al Uniunii Europene nu pot fi excluse în
+temeiul prezentei litere;
+k) începând cu data intrării în vigoare a prezentei legi și până la data
+de 31 decembrie 2030, zborurile care, cu excepția prezentei litere, s-ar
+încadra în această activitate și sunt efectuate de un operator de
+aeronave necomercial, care efectuează zboruri cu emisii anuale totale
+mai mici de 1000 de tone pe an, inclusiv emisiile generate de zborurile
+menționate la lit. l) și m);
+l) zborurile dinspre aerodromurile situate în Elveția către
+aerodromurile situate în Spațiul Economic European;
+m) zborurile dinspre aerodromurile situate în Regatul Unit către
+aerodromurile situate în Spațiul Economic European
+III. Transportul maritim
+
+
+31
+
+Navele cu un tonaj brut de peste 5000 de tone, în ceea ce privește
+emisiile de CO2 generate în timpul călătoriilor acestora de la ultimul lor
+port de escală la un port de escală aflat sub jurisdicția Republicii
+Moldova și de la un port de escală aflat sub jurisdicția unui stat
+membru al Uniunii Europene spre următorul port de escală al acestora,
+precum și în interiorul porturilor de escală aflate sub jurisdicția
+Republicii Moldova.
+De la data de 1 ianuarie 2025, navele de transport general de mărfuri,
+cu un tonaj brut mai mic de 5000 de tone, dar nu mai mic de 400 de
+tone, în ceea ce privește emisiile de GES generate în timpul călătoriilor
+acestora pentru transportul de mărfuri în scopuri comerciale de la
+ultimul lor port de escală la un port de escală aflat sub jurisdicția
+Republicii Moldova și de la un port de escală aflat sub jurisdicția unui
+stat membru al Uniunii Europene spre următorul port de escală al
+acestora, precum și în interiorul porturilor de escală aflate sub
+jurisdicția Republicii Moldova, precum și navele de aprovizionare în
+larg cu un tonaj brut mai mic de 5000 de tone, dar nu mai mic de 400
+de tone în ceea ce privește emisiile de GES generate în timpul
+călătoriilor acestora de la ultimul lor port de escală la un port de escală
+aflat sub jurisdicția Republicii Moldova și de la un port de escală aflat
+sub jurisdicția unui stat membru al Uniunii Europene spre următorul
+port de escală al acestora, precum și în interiorul porturilor de escală
+aflate sub jurisdicția Republicii Moldova.
+De la data de 1 ianuarie 2025, navele de aprovizionare în larg, cu un
+tonaj brut mai mare sau egal cu 5000 de tone în ceea ce privește
+emisiile de GES generate în timpul călătoriilor acestora de la ultimul lor
+port de escală la un port de escală aflat sub jurisdicția Republicii
+Moldova și de la un port de escală aflat sub jurisdicția unui stat
+membru al Uniunii Europene spre următorul port de escală al acestora,
+precum și în interiorul porturilor de escală aflate sub jurisdicția
+Republicii Moldova
+
+Dioxid de carbon,
+începând cu data
+de 1 ianuarie
+2026, metan și
+protoxid de azot
+
+Anexa nr. 2
+PRINCIPIILE DE MONITORIZARE ȘI RAPORTARE
+I. Monitorizarea și raportarea emisiilor de GES
+provenite de la instalațiile staționare
+A. Monitorizarea emisiilor de CO2
+Emisiile se monitorizează în baza calculelor sau în baza măsurătorilor.
+B. Calculul emisiilor
+1) Calcularea emisiilor se efectuează după următoarea formulă:
+datele privind activitatea × factorii de emisie × factorii de oxidare.
+2) Datele privind activitatea (combustibilul utilizat, rata de producție etc.) se
+monitorizează în baza datelor privind aprovizionarea sau în baza măsurătorilor.
+3) Se utilizează factorii de emisie acceptați. Pentru toți combustibilii se acceptă
+factorii de emisie specifici activității. Se acceptă factorii impliciți pentru toți combustibilii,
+cu excepția celor necomerciali (combustibilii din deșeuri, precum anvelope și gaze din
+
+
+procese industriale). Pentru produsele de rafinărie sunt acceptate valorile implicite de către
+IPCC. Factorul de emisie pentru biomasă, care respectă criteriile de durabilitate și criteriile
+de reducere a emisiilor de GES pentru utilizarea biomasei (precum sunt prevăzute de Legea
+nr. 10/2016 privind promovarea utilizării energiei din surse regenerabile), astfel cum este
+stabilit în regulamentul menționat la art. 49 alin. (6), se consideră zero.
+4) În cazul în care la evaluarea factorului de emisie nu se ia în considerare faptul că o
+parte din carbon nu este oxidată, se utilizează un factor de oxidare suplimentar. În cazul în
+care au fost calculați factorii de emisie specifici activităților și se ia în considerare oxidarea,
+utilizarea unui factor suplimentar de oxidare nu este necesară.
+5) Se utilizează factorii impliciți de oxidare, elaborați în temeiul Legii nr. 227/2022
+privind emisiile industriale, cu excepția cazurilor în care operatorul poate demonstra că
+factorii specifici activității sunt mai exacți.
+6) Se efectuează calcule separate pentru fiecare activitate, instalație și pentru fiecare
+combustibil.
+C. Măsurările emisiilor
+Măsurarea emisiilor se realizează prin intermediul unor metode standardizate sau
+acceptate și se coroborează cu un calcul ajutător al emisiilor.
+D. Monitorizarea emisiilor de alte gaze cu efect de seră
+Se utilizează metode standardizate sau acceptate la nivel național, elaborate de către
+Comunitatea Energetică sau din cadrul Uniunii Europene.
+E. Raportarea emisiilor
+1) Fiecare operator trebuie să includă în raportul privind instalația următoarele
+informații:
+a) datele de identificare a instalației, inclusiv:
+– denumirea instalației;
+– adresa instalației, inclusiv codul poștal și țara;
+– tipul și numărul de activități, prevăzute în anexa nr. 1, desfășurate în instalație;
+– adresa, numărul de telefon, numărul de fax și adresa de poștă electronică ale
+persoanei de contact;
+– numele proprietarului instalației și al societății fondatoare;
+b) pentru fiecare activitate, prevăzută în anexa nr. 1, desfășurată în locul pentru care
+se calculează emisiile:
+– datele privind activitatea;
+
+
+– factorii de emisie;
+– factorii de oxidare;
+– emisiile totale;
+– gradul de incertitudine;
+c) pentru fiecare activitate, prevăzută în anexa nr. 1, desfășurată în locul pentru care
+se măsoară emisiile:
+– emisiile totale;
+– informațiile privind fiabilitatea metodelor de măsurare;
+– gradul de incertitudine;
+d) pentru emisiile din arderi, raportul trebuie să includă, de asemenea, factorul de
+oxidare, cu excepția cazurilor în care oxidarea a fost luată în considerare la elaborarea unui
+factor de emisie specific activității.
+II. Monitorizarea și raportarea emisiilor
+provenite de la activitățile din domeniul aviației
+A. Monitorizarea emisiilor de dioxid de carbon
+1) Emisiile sunt monitorizate prin calcul. Calcularea emisiilor se efectuează după
+următoarea formulă: consumul de combustibil × factori de emisie.
+2) Consumul de combustibil include combustibilul consumat de unitatea de putere
+auxiliară. Consumul real de combustibil pentru fiecare zbor este utilizat ori de câte ori este
+posibil și se calculează după următoarea formulă: cantitatea de combustibil din rezervoarele
+aeronavei după terminarea alimentării cu combustibil pentru zborul respectiv – cantitatea
+de combustibil din rezervoarele aeronavei după alimentare pentru zborul următor +
+cantitatea de combustibil alimentat pentru zborul următor.
+3) În cazul în care datele reale privind consumul de combustibil nu sunt disponibile,
+se utilizează metoda standard, pe niveluri, pentru a estima consumul de combustibil pe baza
+celor mai fiabile informații disponibile.
+4) Se utilizează factorii standard de emisie din liniile directoare ale IPCC-ului pentru
+inventariere din anul 2006 sau actualizările ulterioare ale liniilor directoare respective, cu
+excepția cazului în care factorii de emisie specifici activității, identificați de laboratoarele
+acreditate independente care utilizează metode analitice acceptate la nivel național, sunt
+mai exacți. Factorul de emisie pentru biomasă care respectă criteriile de durabilitate și
+criteriile de reducere a emisiilor de GES pentru utilizarea biomasei (prevăzute de Legea nr.
+10/2016 privind promovarea utilizării energiei din surse regenerabile, inclusiv orice ajustări
+necesare pentru aplicarea acestora în temeiul prezentei legi și orice ajustări necesare
+pentru aplicarea acestora în temeiul legii menționate), astfel cum este prevăzut în
+
+
+regulamentul menționat la art. 51 alin. (6), se consideră zero. Factorul de emisie aferent
+kerosenului de aviație (Jet A1 sau Jet A) este de 3,16 (t CO2/t combustibil).
+5) Până la intrarea în vigoare a regulamentului menționat la art. 51 alin. (6), emisiilor
+generate de combustibilii din surse regenerabile de origine nebiologică, care utilizează
+hidrogen din surse regenerabile, în conformitate cu art. 267din Legea nr. 10/2016 privind
+promovarea utilizării energiei din surse regenerabile, li se atribuie un nivel de emisii zero
+pentru operatorii de aeronave care le utilizează.
+6) Pentru fiecare zbor și combustibil se efectuează un calcul separat.
+B. Raportarea emisiilor
+1) Fiecare operator de aeronave include în raportul prezentat în conformitate cu
+prevederile art. 51 alin. (5) următoarele informații:
+a) datele de identificare ale operatorului de aeronave, inclusiv:
+1. denumirea operatorului de aeronave;
+2. statul operatorului aerian;
+3. adresa, inclusiv codul poștal și țara, în cazul în care este diferită, adresa de contact
+a statului operatorului aerian;
+4. numerele de înregistrare ale aeronavelor și tipurile de aeronave utilizate, în
+perioada vizată de raport, pentru desfășurarea activităților de aviație specificate în anexa
+nr. 1, pentru care entitatea este operatorul aeronavei;
+5. numărul și autoritatea emitentă a certificatului de operator aerian, precum și
+licența de operare în baza căreia sunt desfășurate activitățile din domeniul aviației,
+specificate în anexa nr. 1, pentru care entitatea este operatorul aeronavei;
+6. adresa, numărul de telefon, numărul de fax și adresa de poștă electronică ale
+persoanei de contact; precum și
+7. denumirea proprietarului aeronavei;
+b) pentru fiecare tip de combustibil pentru care se calculează emisiile:
+1. consumul de combustibil;
+2. factorul de emisie;
+3. emisiile cumulate totale, provenite de la toate zborurile efectuate în perioada care
+face obiectul raportului, ce se încadrează în categoria activităților din domeniul aviației,
+specificate în anexa nr. 1, pentru care este operatorul aeronavei;
+4. emisiile cumulate provenite de la:
+– toate zborurile efectuate în perioada care face obiectul raportului, ce se încadrează
+
+
+în categoria activităților din domeniul aviației, specificate în anexa nr. 1, pentru care este
+operatorul aeronavei, care au avut ca punct de plecare un aerodrom situat pe teritoriul unui
+stat membru, iar ca punct de sosire un aerodrom situat pe teritoriul aceluiași stat membru;
+– toate celelalte zboruri efectuate în perioada care face obiectul raportului, ce se
+încadrează în categoria activităților din domeniul aviației, specificate în anexa nr. 1, pentru
+care este operatorul aeronavei;
+5. emisiile cumulate provenite de la toate zborurile efectuate în perioada care face
+obiectul raportului, ce se încadrează în categoria activităților din domeniul aviației,
+specificate în anexa nr. 1, pentru care este operatorul aeronavei și care:
+– au avut ca punct de plecare fiecare stat membru;
+– au sosit în fiecare stat membru dintr-o țară terță;
+6. gradul de incertitudine.
+Anexa nr. 3
+CRITERIILE PENTRU VERIFICAREA
+EMISIILOR DE GES
+I. Verificarea emisiilor de GES provenite de la instalațiile staționare
+A. Principiile generale
+1) Se verifică emisiile de GES rezultate din fiecare dintre activitățile specificate în
+anexa nr. 1.
+2) Procesul de verificare include verificarea raportului în temeiul art. 51 și
+monitorizarea efectuată pe parcursul anului precedent. Verificarea abordează fiabilitatea,
+credibilitatea și acuratețea sistemelor de monitorizare și datele și informațiile raportate cu
+privire la emisii, în special:
+a) datele privind activitățile care sunt prevăzute în raport, precum și măsurările și
+calculele conexe;
+b) selectarea și utilizarea factorilor de emisie;
+c) calculele care au condus la determinarea emisiilor generale; și
+d) în cazul în care se utilizează măsurări, cât de adecvate sunt alegerea și modul de
+utilizare a metodelor de măsurare.
+3) Emisiile raportate pot fi validate în cazul în care există date și informații fiabile și
+credibile care permit determinarea emisiilor cu un grad ridicat de siguranță. Un grad ridicat
+de certitudine presupune demonstrarea de către operator a următoarelor aspecte:
+
+
+a) datele raportate nu conțin neconcordanțe;
+b) datele au fost colectate în conformitate cu standardele științifice aplicabile; și
+c) înregistrările relevante privind instalația sunt complete și coerente.
+4) Verificatorul are acces în toate zonele și la toate înregistrările referitoare la
+subiectul verificării.
+5) Verificatorul ține cont că instalația este sau nu înregistrată în cadrul Sistemului
+comunitar de management și audit ecologic (EMAS).
+B. Metodologia
+1) Analiza strategică
+Verificarea se bazează pe o analiză strategică a tuturor activităților desfășurate în
+instalație. În acest scop, verificatorul examinează în ansamblu toate activitățile și
+importanța acestora în ceea ce privește emisiile.
+2) Analiza procesului
+Verificarea informațiilor prezentate se realizează în locul în care se află instalația,
+după caz. Verificatorul recurge la controale prin sondaj pentru a determina fiabilitatea
+datelor și informațiilor raportate.
+3) Analiza riscului
+1. Verificatorul supune evaluării toate sursele de emisii de GES din instalație pentru a
+determina fiabilitatea datelor privind fiecare sursă care contribuie la totalul emisiilor din
+instalația respectivă.
+2. În baza analizei respective, verificatorul identifică explicit acele surse care prezintă
+un grad ridicat de risc de eroare și alte aspecte ale procedurii de monitorizare și raportare
+care este posibil să contribuie la apariția unor erori în determinarea emisiilor generale. Este
+vorba în special de alegerea factorilor de emisie de GES și de calculele necesare pentru a
+determina nivelul emisiilor provenite din surse individuale. Este acordată o atenție specială
+surselor care prezintă un risc ridicat de eroare și aspectelor din cadrul procedurii de
+monitorizare efectuate.
+3. Verificatorul ia în considerare toate metodele eficiente de control al riscului
+aplicate de operator în vederea reducerii la minimum a gradului de incertitudine.
+4) Raportul
+Verificatorul pregătește un raport privind procesul de validare în care menționează
+dacă raportul prevăzut la art. 49 alin. (4) este satisfăcător. În raport specifică toate
+aspectele relevante pentru activitatea desfășurată. Verificatorul declară că raportul
+prevăzut la art. 49 alin. (4) este satisfăcător în cazul în care declarațiile cu privire la emisiile
+totale nu prezintă erori semnificative.
+
+
+5) Cerințele minime privind competența verificatorului
+Verificatorul este independent de operator, își desfășoară activitățile cu
+profesionalism și obiectivitate și înțelege:
+– dispozițiile prevăzute de lege, precum și standardele și indicațiile relevante
+adoptate în conformitate cu art. 49 alin. (4);
+– dispozițiile actelor normative secundare și actele administrative relevante pentru
+activitățile care fac obiectul verificării; și
+– generarea tuturor informațiilor privind fiecare sursă de emisie din instalație, în
+special privind colectarea, măsurarea, calcularea și raportarea datelor.
+II. Verificarea emisiilor de GES provenite
+de la activitățile din domeniul aviației
+1) Principiile generale și metodologia, stabilite în prezenta anexă se aplică verificării
+rapoartelor de emisii provenite de la zborurile care se încadrează în categoria activităților
+din domeniul aviației, specificate în anexa nr. 1.
+În acest sens:
+a) la subcompartimentul A pct. 3) se face trimitere la operator, se interpretează ca
+trimitere la un operator de aeronave, iar la lit. c) a punctului respectiv, trimiterea la
+instalație se interpretează ca trimitere la aeronava utilizată la efectuarea activităților din
+domeniul aviației care fac obiectul raportului;
+b) la subcompartimentul A pct. 5) se face trimitere la instalație, se interpretează ca
+trimitere la operatorul de aeronave;
+c) la subcompartimentul B pct. 5) se face trimitere la activitățile desfășurate în
+instalație, se interpretează ca trimitere la activitățile din domeniul aviației care fac obiectul
+raportului, întreprinse de operatorul de aeronave;
+d) la subcompartimentul B pct. 2) se face trimitere la locul instalației, se
+interpretează ca trimitere la locurile folosite de operatorul de aeronave pentru a întreprinde
+activitățile din domeniul aviației care fac obiectul raportului;
+e) la subcompartimentul B pct. 3) subpct. 1 și 2 se face trimitere la sursele de emisii
+din instalație, se interpretează ca trimitere la aeronava pentru care răspunde operatorul de
+aeronave; precum și
+f) la subcompartimentul B pct. 3) subpct. 3 și pct. 5) se face trimitere la operator, se
+interpretează ca trimitere la un operator de aeronave.
+2) Dispoziții suplimentare privind verificarea rapoartelor de emisie din domeniul
+aviației.
+
+
+Verificatorul se asigură, în special, că:
+a) s-au luat în considerare toate zborurile care intră sub incidența unei activități din
+domeniul aviației, specificate în anexa nr. 1. În cadrul acestei responsabilități, verificatorul
+dispune de informații privind orarul și de alte informații de trafic ale operatorului de
+aeronave, inclusiv de informațiile obținute de la Eurocontrol, la cererea operatorului
+respectiv;
+b) există o coerență globală a datelor privind consumul cumulat de combustibil și a
+datelor privind combustibilul achiziționat sau furnizat prin altă metodă aeronavei care
+efectuează activitatea de aviație.
+3) Dispoziții suplimentare privind verificarea datelor tonă-kilometru prezentate în
+sensul art. 49 alin. (6).
+1. Principiile generale și metodologia de verificare a rapoartelor privind emisiile în
+temeiul art. 49 alin. (3) menționate în prezenta anexă se aplică, de asemenea, după caz, la
+verificarea datelor tonă-kilometru din aviație.
+2. Verificatorul se asigură că, în cererea operatorului în cauză, depusă în
+conformitate cu regulamentul prevăzut la art.49 alin.(6), au fost luate în considerare doar
+zborurile efectiv efectuate și care se încadrează în categoria activităților din domeniul
+aviației, specificate în anexa nr. 1, de care este responsabil operatorul de aeronave. În
+cadrul acestei responsabilități, verificatorul dispune de informații privind traficul
+operatorului de aeronave, inclusiv de informațiile obținute de la Eurocontrol, la cererea
+operatorului respectiv. De asemenea, verificatorul se asigură că sarcina utilă declarată de
+operatorul de aeronave corespunde înregistrărilor privind sarcinile utile, păstrate de
+operatorul în cauză în scopul asigurării siguranței zborului.

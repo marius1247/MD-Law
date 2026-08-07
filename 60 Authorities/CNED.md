@@ -19,6 +19,7 @@ Coordinates and organises implementation of state policy on **energy efficiency*
 - [[Legea 139-2018 — eficienta energetica (text)]] — organic frame; CNED competences (art. 11–12), FEE (art. 23¹–23³), audits (art. 19–21), obligation-scheme monitoring (art. 8)
 - [[HG 1060-2023 — organizare functionare CNED (text)|HG 1060/2023]] — statute / structure / founder
 - [[HG 620-2025 — transmitere bunuri Fond eficienta energetica CNED (text)|HG 620/2025]] — free transfer of FEE-financed assets to beneficiaries
+- [[Legea 74-2024 — actiuni climatice (text)|LP74/2024]] art. 9 — Ministry of Energy channel: CNED provides public info on low-carbon products/technologies/services
 - [[Legea 174-2017 — energetica (text)]] — energy-sector governance bridge
 - [[Legea 10-2016 — surse regenerabile (text)]] — RES policy interface (LP111/2025 blends EE/RES finance)
 - [[Legea 241-2022 — Fond reducere vulnerabilitate energetica (text)|L241/2022]] — Energy Vulnerability Reduction Fund interface

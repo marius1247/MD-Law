@@ -174,4 +174,10 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 | [[Legea 317-2025 — modificare acte permisive (text)]] | [[Legea 317-2025 — modificare acte permisive (notă)]] |
 | [[Legea 53-2026 — reforma autoritatilor Ministerul Mediului (text)]] | [[Legea 53-2026 — reforma autoritatilor Ministerul Mediului (notă)]] · peripheral |
 
-Optional next: **HG 599 annexes**, **HANRE 443 methodology annex**, **PNIEC / HG 197 methodology**, **422/537 QoS annexes**, **HANRE 23 forms**, **HG 668**, **535/355** methodology annexes, **L282/2023**.
+| [[HG 668-2022 — stocuri securitate gaze naturale (text)]] | [[HG 668-2022 — stocuri securitate gaze naturale (notă)]] · live **56.3 mcm** |
+| [[HG 852-2024 — zone protectie retele electrice (text)]] | [[HG 852-2024 — zone protectie retele electrice (notă)]] · form annexes ❌ |
+| [[Legea 74-2024 — actiuni climatice (text)]] | [[Legea 74-2024 — actiuni climatice (notă)]] |
+| [[Legea 75-2026 — cadru institutii publice (text)]] | [[Legea 75-2026 — cadru institutii publice (notă)]] · peripheral |
+| [[Legea 105-2024 — Retea date durabilitate agricola (text)]] | [[Legea 105-2024 — Retea date durabilitate agricola (notă)]] · peripheral |
+
+Optional next: **HG 299/2026**, **HG 599 annexes**, **HANRE 443 methodology annex**, **PNIEC / HG 197 methodology**, **422/537 QoS annexes**, **HG 852 forms**, **535/355** methodology annexes, **L282/2023**.

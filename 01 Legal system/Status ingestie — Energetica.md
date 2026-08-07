@@ -110,6 +110,17 @@ Other newly relevant amendment/transition acts now present:
 | [[Legea 317-2025 — modificare acte permisive (text)\|LP317/2025]] | ✅ | L164 art. 20 + LP227 patch |
 | [[Legea 53-2026 — reforma autoritatilor Ministerul Mediului (text)\|LP53/2026]] | ✅ peripheral | Environment ministry reform |
 
+## ✅ Ingested 2026-08-07i — stocks parent / protection zones / climate
+
+| Act | Status | Notes |
+|---|---|---|
+| [[HG 668-2022 — stocuri securitate gaze naturale (text)\|HG 668/2022]] | ✅ consolidated | Live stock **56.3 mcm** (HG 299/2026) |
+| [[HG 852-2024 — zone protectie retele electrice (text)\|HG 852/2024]] | ⚠️ form annexes | Regulation body + repeal list ✅ |
+| [[Legea 74-2024 — actiuni climatice (text)\|LP74/2024]] | ✅ + annexes | Climate / ETS; Energy Ministry art. 9 |
+| [[Legea 75-2026 — cadru institutii publice (text)\|LP75/2026]] | ✅ peripheral | Public institutions IF 1.01.2027 |
+| [[Legea 105-2024 — Retea date durabilitate agricola (text)\|LP105/2024]] | ✅ peripheral | Agriculture RDDA |
+| HG 346 upload `155290` | archived only | Duplicate of vault `155511` |
+
 ## ❌ Still incomplete / decision-only
 
 | Act | Problem | Priority |
@@ -127,7 +138,8 @@ Other newly relevant amendment/transition acts now present:
 | [[HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile (text)\|HG 329/2025]] | Historic — parent **abrogated** by [[HG 599-2025 — limite cote capacitate regenerabile pana 2030 (text)\|HG 599]] | Low |
 | [[HG 599-2025 — limite cote capacitate regenerabile pana 2030 (text)\|HG 599/2025]] | **annexes 1–2 missing** (quota/ceiling numbers) | **High** for RES/net-billing advice |
 | [[HANRE 443-2020 — Metodologie tarife distributie gaze (text)\|HANRE 443/2020]] | **decision ✅; methodology annex missing** · [[HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (text)\|785]] · [[HANRE 162-2026 — tarife uniforme distributie gaze (text)\|162]] rates ✅ | High for deep tariff modelling |
-| HG **668/2022** security stocks parent | not ingested; [[HG 302-2025 — modificare HG 668-2022 stocuri securitate gaze (text)\|302/2025]] ✅ (50 mcm) | Medium |
+| HG **299/2026** stocks amend | not ingested as amending act; volume **56.3 mcm** visible in consolidated [[HG 668-2022 — stocuri securitate gaze naturale (text)\|668]] | Medium |
+| [[HG 852-2024 — zone protectie retele electrice (text)\|HG 852/2024]] | form annexes (cerere/acord) missing | Medium — works in EE corridors |
 
 ## Electricity transition map — L107 to L164
 

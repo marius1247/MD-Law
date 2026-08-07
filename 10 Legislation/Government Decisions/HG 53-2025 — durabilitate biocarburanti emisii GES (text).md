@@ -534,7 +534,125 @@ gestiune, până la data de 31 martie.
 ### Punctul 37. Organul central de specialitate al administraţiei publice pentru resurse naturale și
 mediu prezintă Secretariatului Comunității Energetice informațiile prevăzute la pct. 31, în
 formă agregată.
-anexa nr. 1
-anexa nr. 2
-anexa nr. 3
-anexa nr.2
+
+---
+
+## Anexa nr. 1 la Regulament — Conținutul de energie pentru combustibili (upload 2026-08-07)
+
+Anexa nr. 1
+
+la Regulamentul cu privire  la criteriile de durabilitate
+
+ și de reducere a emisiilor de gaze cu efect de seră
+
+pentru biocarburanți, biolichide și combustibili din biomasă
+
+**Conținutul de energie pentru combustibili**
+
+|     |     |     |
+| --- | --- | --- |
+| **Combustibil** | **Conținut masic de energie (putere calorifică inferioară, MJ/kg)** | **Conținut volumic de energie (putere calorifică inferioară, MJ/l)** |
+| **COMBUSTIBILI PROVENIȚI DIN BIOMASĂ ȘI/SAU DIN OPERAȚIUNI DE PRELUCRARE A BIOMASEI** |     |     |
+| Biopropan | 46  | 24  |
+| Ulei vegetal pur (ulei produs din plante oleaginoase prin presare, extracție sau procedee comparabile, brut sau rafinat, dar nemodificat chimic) | 37  | 34  |
+| Biomotorină – ester metilic al acizilor grași (ester metilic produs din ulei produs din biomasă) | 37  | 33  |
+| Biomotorină – ester etilic al acizilor grași (ester etilic produs din ulei produs din biomasă) | 38  | 34  |
+| Biogaz care se poate purifica pentru a obține calitatea gazelor naturale | 50  | —   |
+| Ulei hidrotratat (tratat termochimic cu hidrogen) produs din biomasă, destinat a fi folosit la înlocuirea motorinei | 44  | 34  |
+| Ulei hidrotratat (tratat termochimic cu hidrogen) produs din biomasă, destinat a fi folosit la înlocuirea benzinei | 45  | 30  |
+| Ulei hidrotratat (tratat termochimic cu hidrogen) produs din biomasă, destinat a fi folosit la înlocuirea combustibilului pentru avioane | 44  | 34  |
+| Ulei hidrotratat (tratat termochimic cu hidrogen) produs din biomasă, destinat a fi folosit la înlocuirea gazului petrolier lichefiat | 46  | 24  |
+| Ulei coprelucrat (prelucrat într-o rafinărie simultan cu combustibili fosili) produs din biomasă sau biomasă supusă pirolizei, destinat a fi folosit la înlocuirea motorinei | 43  | 36  |
+| Ulei coprelucrat (prelucrat într-o rafinărie simultan cu combustibili fosili) produs din biomasă sau biomasă supusă pirolizei, destinat a fi folosit la înlocuirea benzinei | 44  | 32  |
+| Ulei coprelucrat (prelucrat într-o rafinărie simultan cu combustibili fosili) produs din biomasă sau biomasă supusă pirolizei, destinat a fi folosit la înlocuirea combustibilului pentru avioane | 43  | 33  |
+| Ulei coprelucrat (prelucrat într-o rafinărie simultan cu combustibili fosili) produs din biomasă sau biomasă supusă pirolizei, destinat a fi folosit la înlocuirea gazului petrolier lichefiat | 46  | 23  |
+| **COMBUSTIBILI DIN SURSE REGENERABILE CARE POT FI PRODUȘI DIN DIFERITE SURSE REGENERABILE, INCLUSIV BIOMASĂ** |     |     |
+| Metanol din surse regenerabile | 20  | 16  |
+| Etanol din surse regenerabile | 27  | 21  |
+| Propanol din surse regenerabile | 31  | 25  |
+| Butanol din surse regenerabile | 33  | 27  |
+| Motorină Fischer-Tropsch (hidrocarbură sintetică sau amestec de hidrocarburi sintetice destinat a fi folosit la înlocuirea motorinei) | 44  | 34  |
+| Benzină Fischer-Tropsch (hidrocarbură sintetică sau amestec de hidrocarburi sintetice produs din biomasă, destinat a fi folosit la înlocuirea benzinei) | 44  | 33  |
+| Combustibil pentru avioane Fischer-Tropsch (hidrocarbură sintetică sau amestec de hidrocarburi sintetice produs din biomasă, destinat a fi folosit la înlocuirea combustibilului pentru avioane) | 44  | 33  |
+| Gaz petrolier lichefiat Fischer-Tropsch (hidrocarbură sintetică sau amestec de hidrocarburi sintetice destinat a fi folosit la înlocuirea gazului petrolier lichefiat) | 46  | 24  |
+| DME (dimetileter) | 28  | 19  |
+| Hidrogen din surse regenerabile | 120 | —   |
+| ETBE (etil-terț-butil-eter produs pe bază de etanol) | 36 (din care 37% din surse regenerabile) | 27 (din care 37% din surse regenerabile) |
+| MTBE (metil-terț-butil-eter produs pe bază de metanol) | 35 (din care 22% din surse regenerabile) | 26 (din care 22% din surse regenerabile) |
+| TAEE (terțiar-amil-ctil-eter produs pe bază de etanol) | 38 (din care 29% din surse regenerabile) | 29 (din care 29% din surse regenerabile) |
+| TAME (terțiar-amil-metil-eter produs pe bază de metanol) | 36 (din care 18% din surse regenerabile) | 28 (din care 18% din surse regenerabile) |
+| THxEE (terțiar-hexil-etil-eter produs pe bază de etanol) | 38 (din care 25% din surse regenerabile) | 30 (din care 25% din surse regenerabile) |
+| THxME (terțiar-hexil-metil-eter produs pe bază de metanol) | 38 (din care 14% din surse regenerabile) | 30 (din care 14% din surse regenerabile) |
+| **COMBUSTIBILI FOSILI** |     |     |
+| Benzină | 43  | 32  |
+| Motorină | 43  | 36  |
+
+---
+
+## Anexa nr. 2 la Regulament — Tipurile de materii prime pentru producția de biocarburanți (upload 2026-08-07)
+
+Anexa nr. 2
+
+la Regulamentul cu privire  la criteriile de durabilitate
+
+ și de reducere a emisiilor de gaze cu efect de seră
+
+pentru biocarburanți, biolichide și combustibili din biomasă
+
+**Tipurile de materii prime pentru producția**
+
+**de biocarburanți**
+
+**Secțiunea 1**
+
+**Materia primă**
+
+**1**. Materii prime pentru producția de biogaz pentru transporturi și de biocarburanți avansați a căror contribuție la realizarea ponderilor minime, prevăzute la pct.3 din Regulamentul cu privire la criteriile de durabilitate și de reducere a emisiilor de gaze cu efect de seră pentru biocarburanți, biolichide și combustibili din biomasă, poate fi considerată a fi egală cu dublul conținutului lor energetic:
+
+1.1. alge, dacă sunt cultivate pe pământ în heleșteie sau fotobioreactoare;
+
+1.2. fracțiunea de biomasă din deșeurile municipale mixte, însă nu din deșeurile menajere triate vizate de obiectivele în privința reciclării prevăzute la art. 14 alin.(1)  
+lit. b) din Legea nr. 209/2016 privind deșeurile;
+
+1.3. biodeșeuri, astfel cum sunt definite la art.2 pct.2 din Legea nr.209/2016 privind deșeurile, provenite din gospodării private care fac obiectul colectării separate, astfel cum este definită la art.2 pct.6 din Legea nr. 209/2016 privind deșeurile;
+
+1.4. fracțiunea de biomasă din deșeurile industriale care nu poate fi folosită în lanțul alimentar sau furajer, inclusiv materiale provenite din industria cu amănuntul și cu ridicata și din industria agroalimentară, precum și din industria pescuitului și acvaculturii și excluzând materiile prime enumerate în secțiunea a 2-a din prezenta anexă;
+
+1.5. paie;
+
+1.6. gunoi de grajd și nămol de epurare;
+
+1.7. efluenți proveniți de la fabricile de ulei de palmier și grămezile de fructe de palmier goale;
+
+1.8. smoală de ulei de tal;
+
+1.9. glicerină brută;
+
+1.10. deșeuri rezultate din prelucrarea trestiei-de-zahăr (bagasă);
+
+1.11. tescovină de struguri și drojdie de vin;
+
+1.12. coji de fructe cu coajă lemnoasă;
+
+1.13. pleavă;
+
+1.14. știuleți curățați de boabe de porumb;
+
+1.15. fracțiunea de biomasă din deșeurile și reziduurile din silvicultură și din industriile forestiere, și anume scoarța, ramurile, reziduurile anterioare comercializării, frunzele, acele, coroanele arborilor, rumegușul, așchiile, leșia neagră, leșia cu sulfit, fibra de nămol, lignina și uleiul de tal;
+
+1.16. alte materiale celulozice de origine nealimentară;
+
+1.17. alte materiale ligno-celulozice, cu excepția buștenilor de gater și a buștenilor de furnir.
+
+**Secțiunea a 2-a**
+
+**Alte materii prime**
+
+**2**. Materii prime pentru producția de biocarburanți și de biogaz pentru transporturi a căror contribuție la realizarea ponderii minime stabilite la pct.3 din Regulamentul cu privire la criteriile de durabilitate și de reducere a emisiilor de gaze cu efect de seră pentru biocarburanți, biolichide și combustibili din biomasă este limitată și poate fi considerată a fi egală cu dublul conținutului lor energetic:
+
+2.1. ulei de gătit uzat;
+
+2.2. grăsimi animale clasificate în categoriile 1 și 2 în conformitate cu Legea nr.129/2019 privind subprodusele de origine animală și produsele derivate care nu sunt destinate consumului uman.
+
+> [!warning] Anexa nr. 3 la Regulament
+> Încă nedingestată (placeholder în dump-ul principal). Verificați la [legis.md](https://www.legis.md/cautare/getResults?lang=ro&doc_id=147068).

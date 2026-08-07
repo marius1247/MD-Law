@@ -1,126 +1,22 @@
----
-title: "HANRE 537-2020 — calitate servicii transport distributie EE (text)"
-type: act-text
-instrument: act-anre
-act_type: hotărâre-anre
-nr: "537"
-an: 2020
-domeniu:
-- energetică
-- electricitate
-- calitate
-domain: [energetică, electricitate, calitate]
-in_force: true
-in_vigoare: true
-mo_publicare: "MO 13-20/22.01.2021 art. 47"
-legis_id: "141300"
-legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=141300"
-version_date: 2026-08-07
-versiune_text: 2026-08-07
-continut: dispozitiv-plus-regulament
-text_complet: true
-puncte_numarate: 100
-articole_numarate: 0
-tags: [act, text, acte_normative, energetică]
-created: 2026-08-07
-updated: 2026-08-07
-source_ingest: pdf-ocr-upload
-issuer: ANRE
-legal_status: in_vigoare
-enabling_act: "[[Legea 107-2016 — energia electrica (text)|L107/2016]] art. 7(1)(i), art. 54"
-amended_by: "[[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|833/2023]]"
-status_ingestie: regulament ingest ✅ (upload 2026-08-07) — apply 833/2023 patches; L107 currency
----
-# HANRE 537-2020 — calitate servicii transport distributie EE
+Aprobat
 
-> [!info] Sursă & versiune
-> Text preluat din **legis.md** PDF (doc_id [141300](https://www.legis.md/cautare/getResults?lang=ro&doc_id=141300)), OCR + structură ușoară.
-> Analiză: [[HANRE 537-2020 — calitate servicii transport distributie EE (notă)]].
+prin Hotărârea Consiliului
 
-> [!tip] Regulament ingestat
-> Corpul **Regulamentului** (anexa la hotărâre) a fost adăugat din upload `537_regulament_1__4dd7.md` (2026-08-07). Include Capitolele I–VI + Anexele 1–4 (registre întreruperi, valori limită, act măsurări). Consolidați cu patch-urile [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)|833/2023]] înainte de citare.
+de Administrație al Agenției Naționale
 
-> [!danger] L107 currency
-> Issued under repealed [[Legea 107-2016 — energia electrica (text)|L107/2016]]. Check whether ANRE re-adopted under [[Legea 164-2025 — energia electrica (text)|L164/2025]].
+pentru Reglementare în Energetică
 
----
+nr. 537/2020 din 24 decembrie 2020
 
-Republica Moldova
-AGENȚIA NAȚIONALĂ PENTRU REGLEMENTARE ÎN ENERGETICĂ
-
-HOTĂRÂRE Nr. HANRE537/2020
-din 24.12.2020
-
-pentru aprobarea
-Regulamentului cu privire la calitatea serviciilor
-de transport și de distribuţie a energiei electrice
-
-Publicat : 22.01.2021 în MONITORUL OFICIAL Nr. 13-20 art. 47 Data intrării în vigoare
-MODIFICAT
-
-HANRE833 din 28.12.23, MO17-19/17.01.24 art. 16; în vigoare 17.01.24
-
-Înregistrat:
-Ministerul Justiţiei
-nr. 1617 din 11 ianuarie 2021
-
-Ministru Fadei Nagacevschi
-
-În temeiul art.7 alin. (1) lit. i) și art. 54 din Legea nr. 107/2016 cu privire la energia
-electrică (Monitorul Oficial al Republicii Moldova, 2016, nr.193-203, art.413), cu
-modificările ulterioare, Consiliul de Administraţie al Agenţiei Naţionale pentru
-Reglementare în Energetică
-
-HOTĂRĂȘTE:
-
-### Punctul 1. Se aprobă Regulamentul cu privire la calitatea serviciilor de transport și de
-distribuţie a energiei electrice (se anexează).
-
-### Punctul 2. La data intrării în vigoare a prezentei hotărâri se abrogă:
-
-1) Hotărârea Consiliului de Administraţie al Agenţiei Naţionale pentru Reglementare
-în Energetică nr.282 din 11 noiembrie 2016 pentru aprobarea Regulamentului cu privire la
-calitatea serviciilor de transport și de distribuţie a energiei electrice (Monitorul Oficial al
-Republicii Moldova, 2016, nr. 459-471, art. 2146), cu modificările ulterioare, înregistrată la
-Ministerul Justiţiei cu nr. 1174 din 20 decembrie 2016;
-
-2) secţiunea 5 „Repararea prejudiciului cauzat” al Capitolului II din Regulamentul
-privind racordarea la rețelele electrice și prestarea serviciilor de transport și de distribuție
-a energiei electrice, aprobat prin Hotărârea Consiliului de Administraţie al Agenţiei
-
-
-Naţionale pentru Reglementare în Energetică nr.168/2019 din 31 mai 2019 (Monitorul
-Oficial, 2019, nr.209-216, art.1093), înregistrată la Ministerul Justiţiei cu nr. 1463 din 21
-iunie 2019.
-
-### Punctul 3. Controlul asupra executării prezentei hotărâri se pune în sarcina subdiviziunilor
-Agenţiei Naţionale pentru Reglementare în Energetică.
-
-### Punctul 4. Prezenta hotărâre intră în vigoare la data publicării.
-
-DIRECTOR GENERAL Veaceslav UNTILA
-DIRECTORI Ștefan CREANGĂ
-
-Violina ȘPAC
-Nr. 537/2020. Chişinău, 24 decembrie 2020.
-regulament
-
-[Regulament modificat prin HANRE833 din 28.12.23, MO17-19/17.01.24 art. 16; în
-vigoare 17.01.24]
-
----
-
-## Anexă — Regulamentul (upload 2026-08-07)
-
-# Regulament cu privire la calitatea serviciilor de transport și de distribuție a energiei electrice
+Regulament
 
 **cu privire la calitatea serviciilor de transport**
 
 **și de distribuție a energiei electrice**
 
-## CAPITOLUL I
+**CAPITOLUL I**
 
-### Dispoziții Generale
+**DISPOZIȚII GENERALE**
 
 1.  Regulamentul cu privire la calitatea serviciilor de transport și de distribuție a energiei electrice (în continuare Regulament) stabilește indicatori de calitate, ce reflectă continuitatea livrării energiei electrice și calitatea relațiilor dintre operatorul sistemului de transport (în continuare OST), operatorii sistemelor de distribuție (în continuare OSD) și utilizatorii de sistem, precum și consecințele nerespectării de către OST și OSD, a valorilor limită stabilite ale acestor indicatori.
 2.  Prevederile prezentului Regulament se aplică în relațiile dintre OST, OSD și utilizatorii de sistem sau solicitanții care au depus cereri de racordare la sistemul de distribuție sau sistemul de transport. În cazul utilizatorilor de sistem care dispun de mai multe instalații electrice racordate distinct la rețelele electrice de transport sau de distribuție, prevederile prezentului Regulament se aplică pentru fiecare instalație electrică racordată separat.
@@ -143,17 +39,17 @@ vigoare 17.01.24]
 
 **_Rețea electrică de distribuție de medie tensiune_** – rețea electrică delimitată de izolatoarele de trecere a celulelor de plecare 6-10 kV a stațiilor electrice și bornele de joasă tensiune a transformatoarelor de putere 6-10/0,4 kV;
 
-**_Supratensiune_** – majorare a tensiunii într-un punct al rețelei electrice cu o valoare mai mare de 1,1 _Uc_ (tensiunea contractată) pe o durată mai mare de 10 ms, care apare în urma comutațiilor sau scurtcircuitelor;
+**_Supratensiune_** – majorare a tensiunii într-un punct al rețelei electrice cu o valoare mai mare de 1,1 _U<sub>c</sub>_ (tensiunea contractată) pe o durată mai mare de 10 ms, care apare în urma comutațiilor sau scurtcircuitelor;
 
-**_Tensiune nominală (Un)_** – tensiunea pentru care a fost proiectată funcționarea sistemului de distribuție sau sistemului de transport a energiei electrice;
+**_Tensiune nominală (U<sub>n</sub>)_** – tensiunea pentru care a fost proiectată funcționarea sistemului de distribuție sau sistemului de transport a energiei electrice;
 
-**_Tensiune contractată_** (**_Uc_**)- valoare a tensiunii in punctul de delimitare, stabilită de comun acord de operatorii de sistem, sau operatorii de sistem și utilizatorii de sistem conform cerințelor prezentului Regulament și stipulată în acordurile bilaterale.
+**_Tensiune contractată_** (**_U<sub>c</sub>_**)- valoare a tensiunii in punctul de delimitare, stabilită de comun acord de operatorii de sistem, sau operatorii de sistem și utilizatorii de sistem conform cerințelor prezentului Regulament și stipulată în acordurile bilaterale.
 
-## CAPITOLUL II
+**CAPITOLUL II**
 
-### Continuitatea Serviciilor De Tranport Și De
+**CONTINUITATEA SERVICIILOR DE TRANPORT ȘI DE**
 
-### Distribuție A Energiei Electrice
+**DISTRIBUȚIE A ENERGIEI ELECTRICE**
 
 **Secțiunea 1.**
 
@@ -220,9 +116,9 @@ vigoare 17.01.24]
 
 **_ENS_** _=_  \[MWh \]
 
-unde **_Pi_** – puterea electrică întreruptă (MW) la întreruperea _i_ (ultima putere măsurată înainte de întrerupere);
+unde **_P<sub>i</sub>_** – puterea electrică întreruptă (MW) la întreruperea _i_ (ultima putere măsurată înainte de întrerupere);
 
-**_Di_** – durata (timpul în minute) întreruperii (din momentul dispariției tensiunii până la restabilire) în livrarea energiei electrice la locurile de consum la întreruperea _i_;
+**_D<sub>i</sub>_** – durata (timpul în minute) întreruperii (din momentul dispariției tensiunii până la restabilire) în livrarea energiei electrice la locurile de consum la întreruperea _i_;
 
 - 1.  Timpul Mediu de Întrerupere (**AIT** - Average Interruption Time) - perioada medie echivalentă de timp, exprimată în minute, în care a fost întreruptă livrarea energiei electrice pe parcursul anului:
 
@@ -246,12 +142,78 @@ a energiei electrice
 
 1.  _CAIDI (Customer Average Interruption Duration Index) -_ durata medie а unei întreruperi pentru un consumator final;
 
-1.  _MAIFI_ (_Momentary Average Interruptions Frequency Index_) – frecvența medie a întreruperilor de scurtă durată (st_**, după cum urmează:
+1.  _MAIFI_ (_Momentary Average Interruptions Frequency Index_) – frecvența medie a întreruperilor de scurtă durată (< 3 minute) în rețeaua de distribuție;
+
+unde:
+
+**_NCi_** – numărul de locuri de consum și puncte de racordare a centralelor electrice afectate de întreruperea **_i_** în livrarea energiei electrice;
+
+**_NCSi_** – numărul de locuri de consum și puncte de racordare a centralelor electrice la rețeaua de distribuție, afectate de întreruperea de scurtă durată **_i_**;
+
+**_Ti_** – durata măsurată în minute a întreruperii **_i_** în livrarea energiei electrice;
+
+**_NCt_** – numărul total de locuri de consum și puncte de racordare a centralelor electrice, deservite pe parcursul perioadei de referință (se consideră valoarea de la începutul anului de referință). Punctele de racordare prin care are loc atât consumul cât și generarea în rețea sunt considerate ca un singur punct.
+
+1.  Indicatorii generali de continuitate _SAIDI_, _SAIFI_ și _CAIDI_ se calculează luând în considerare întreruperile de lungă durată înregistrate de OSD, separat pentru întreruperile programate și pentru cele neprogramate, iar la baza calculului indicatorului _MAIFI_ vor sta datele privind întreruperile scurte și tranzitorii.
+2.  Valorile indicatorilor generali de continuitate se calculează atât pentru OSD în ansamblu, cât și pentru fiecare raion al zonei de activitate a OSD. Indicatorii generali de continuitate se calculează în funcție de nivelul de tensiune la care s-a produs întreruperea și sunt structurați după cauza întreruperii, conform clasificării stabilite în pct. 9, 10 și 12 din prezentul Regulament.
+3.  În cazul în care numărul utilizatorilor de sistem afectați de întrerupere la nivelul de joasă tensiune nu poate fi determinat exact, la calcularea valorilor _SAIDI_, _SAIFI_ și _CAIDI_ se va ține cont de următoarele cerințe simplificatoare:
+4.  dacă o defecțiune afectează doar o parte a liniei electrice de joasă tensiune, valoarea **_NCi_** se va considera egală cu 50% din numărul total al locurilor de consum (de producere) racordate la linia respectivă;
+5.  în cazul defecțiunii a unei sau două faze, valoarea **_NCi_** se va considera egală cu 33% respectiv 66% din numărul total de locuri de consum (de producere) racordate la aceeași instalație sau linie electrică;
+6.  în cazul lipsei informației privind repartizarea utilizatorilor pe fidere de joasă tensiune, valoarea **_NCi_** se consideră egală cu numărul total al locurilor de consum (de producere) racordate la postul de transformare respectiv.
+7.  Operatorii sistemelor de distribuție sunt obligați să mențină valoarea anuală a indicatorului _SAIDI_, prezentată de către OSD Agenției în raportul anual și determinată pentru întreruperile cu originea în rețelele de medie tensiune ale OSD, clasificate ca fiind provocate din „alte cauze” conform pct. 10 sbp. 3), și cu excluderea, după caz, a timpului utilizat pentru deplasarea și executarea manevrelor sau lucrărilor necesare de către echipa de intervenție operativă a OST, la un nivel ce nu va depăși valoarea medie anuală a indicatorului _SAIDI_, calculată pe baza informațiilor despre întreruperile înregistrate pe parcursul ultimilor trei ani până la anul de raportare.
+
+Secțiunea 4
+
+Indicatori garantați de continuitate а serviciului
+
+de distribuție a energiei electrice
+
+1.  Indicatorii garantați de continuitate a serviciului de distribuție a energiei electrice sunt:
+2.  Durata unei întreruperi de lungă durată a serviciului de distribuție a energiei electrice pentru orice utilizator de sistem;
+3.  Numărul anual de întreruperi neprogramate de lungă durată a rețelei de distribuție pentru un utilizator de sistem.
+4.  Valorile limită ale indicatorilor garantați de continuitate se stabilesc în funcție de:
+5.  tensiunea rețelei de distribuție la care este racordată instalația utilizatorului de sistem, respectiv tensiune înaltă, tensiune medie și tensiune joasă;
+6.  zona în care este amplasat locul de consum sau de producere al utilizatorului de sistem, respectiv mediul urban și mediul rural;
+7.  caracterul programat sau neprogramat al întreruperilor;
+8.  originea întreruperilor, stabilită în conformitate cu prevederile pct. 9;
+9.  categoria de fiabilitate în alimentarea cu energie electrică a locului de consum;
+10. schema de racordare a locului de consum sau de producere conform documentației de proiect.
+11. Valorile limită ale indicatorilor garantați de continuitate, pentru întreruperile cu originea în rețeaua OSD conform pct. 9 sbp. 3) și 4), produse din „alte cauze” conform clasificării din pct. 10 sbp. 3), sunt stabilite în Anexa nr. 3 din prezentul Regulament.
+12. Valorile limită ale indicatorilor garantați de continuitate se stabilesc prin Hotărârea Agenției pentru perioade de 5 ani, ținând cont de situația reală din rețelele electrice de distribuție și informațiile statistice înregistrate pe parcursul ultimilor 5 ani, după consultarea părților interesate. Valorile limită ale indicatorilor garantați de continuitate sunt adoptate prin Hotărârea Agenției până la data de 31 august a anului anterior perioadei planificate. Dacă termenul respectiv este depășit, valorile limită ale indicatorilor garantați de continuitate în vigoare se aplică și pentru anul următor. Pentru perioada 2021-2025 valorile limită ale indicatorilor garantați de continuitate sunt stabilite în Anexa nr. 3.
+13. În cazul prezentării dovezilor corespunzătoare documentate, la calculul duratei întreruperilor se exclude:
+14. timpul pentru deplasarea și executarea manevrelor sau lucrărilor necesare de către echipa de intervenție operativă a OST, calculat începând cu momentul înregistrării solicitării OSD conform pct. 23 și până la momentul realizării manevrei solicitate;
+15. timpul ratat în executarea lucrărilor de înlăturare a deranjamentelor din cauza impedimentelor create de persoane terțe și de condiții externe ce nu depind de activitatea OSD (lipsa de acces către instalațiile electrice, intervenția pompierilor pentru stingerea incendiului în instalațiile electrice, drumuri impracticabile pe timp de iarnă);
+16. timpul necesar pentru executarea lucrărilor de excavare în cazul defecțiunii liniilor în cablu, cu condiția că utilizatorul sau grupul de utilizatori de sistem afectați sunt alimentați conform cerințelor Normelor de amenajare a instalațiilor electrice printr-o singură linie în cablu subteran, de exploatarea căreia este responsabil OSD sau în cazul în care ambele linii subterane de alimentare au ieșit din funcție concomitent sau succesiv, din cauza aceluiași deranjament;
+17. pentru întreruperile neprogramate care au avut loc în intervalul de timp 23:00 – 07:00, durata cuprinsă între momentul întreruperii și orele 07:00.
+18. La calculul numărului anual de întreruperi neprogramate de lungă durată pentru un utilizator de sistem se exclude, după caz și în prezența dovezilor corespunzătoare:
+19. întreruperile cauzate de persoane terțe sau de instalațiile utilizatorului de sistem;
+20. întreruperile produse în cazul impedimentului care justifică neexecutarea obligației sau condiții meteorologice speciale, cât și în următoarele 48 ore după perioada recunoscută ca impediment care justifică neexecutarea obligației sau condiții meteorologice speciale;
+21. întreruperile de scurtă durată și întreruperile tranzitorii.
+22. În cazul executării de către OSD a unor lucrări complexe de reconstrucție, renovare sau dezvoltare a rețelelor electrice, se admit întreruperi cu o durată mai mare decât cea stabilită conform pct. 36, doar cu respectarea strictă a condițiilor stabilite în pct. 44.
+23. Pentru instalațiile de utilizare alimentate cu energie electrică conform categoriei I și II de fiabilitate a alimentării receptorilor electrici, nu se admite întreruperea programată simultană a ambelor surse. Durata admisă a întreruperii neprogramate pentru acești utilizatori de sistem va fi egală cu timpul necesar pentru realizarea manevrelor de conectare la sursa alternativă, realizate prin mijloace automate (în cazul instalațiilor de categoria I) sau prin intervenția echipelor operative (în cazul instalațiilor de categoria a II-a), asigurând prezența tensiunii în punctele de delimitare cu utilizatorul de sistem, dar nu trebuie să depășească jumătate din durata admisă a întreruperii neprogramate, stabilită conform pct. 36. În cazul consumatorilor finali la care sursa de bază și sursa de rezervă sunt specificate în convenția de interacțiune semnată cu OSD, numărul anual de întreruperi neprogramate se determină ca numărul întreruperilor neprogramate a sursei de bază. Pentru consumatorii finali la care sursa de bază și sursa de rezervă nu sunt specificate în convenția de interacțiune semnată cu OSD, respectarea numărului anual admis de întreruperi neprogramate se evaluează separat pentru fiecare sursă de alimentare.
+
+Secțiunea 5
+
+Realizarea întreruperilor programate
+
+1.  O întrerupere în prestarea serviciului de distribuție se consideră programată doar dacă utilizatorii de sistem au fost informați din timp în termenele și condițiile stabilite prezentul Regulament.
+2.  Întreruperile, pentru care OSD nu poate prezenta dovada informării utilizatorilor de sistem, se consideră întreruperi neprogramate.
+3.  În cazul operării întreruperilor programate pentru executarea lucrărilor complexe de reconstrucție, renovare sau dezvoltare a rețelelor electrice, care presupun întreruperi cu o durată mai mare decât cea prevăzută conform pct. 36, programul întreruperilor, precum și modificările esențiale ale acestuia (mai mult de 10% de la programul inițial), cu indicarea zilelor și a perioadelor în care se vor produce întreruperile, a sectoarelor (străzilor) din localitate, este obligatoriu coordonat cu autoritățile administrației publice locale (în continuare АAPL) și adus la cunoștința fiecărui utilizator de sistem din zona afectată de întreruperi. Modificările esențiale ale programului coordonat sunt la fel coordonate cu APL și aduse la cunoștința utilizatorilor de sistem.
+4.  Dacă procedurile de coordonare, stabilite în pct. 44, sunt respectate de către OSD, duratele admise ale întreruperilor programate se consideră cele incluse în programul întreruperilor, coordonat cu АAPL. În caz contrar, durata admisă a întreruperii programate se consideră cea stabilită conform pct. 36.
+
+Secțiunea 6
+
+Compensații individuale pentru depășirea valorilor limită ale indicatorilor
+
+garantați de continuitate a serviciului de distribuție a energiei electrice
+
+1.  În cazul depășirii valorilor limită ale indicatorilor garantați de continuitate a serviciului de distribuție a energiei electrice, stabilite conform pct. 36, OSD este obligat să plătească utilizatorilor de sistem compensații, conform prevederilor art. 54 al Legii nr. 107/2016 și prezentului Regulament.
+2.  În scopul determinării mărimii compensațiilor individuale, OSD determină pentru fiecare utilizator de sistem valoarea standard a compensației, **_C<sub>st</sub>_**, după cum urmează:
     1.  pentru consumatorii finali, inclusiv consumatorii care dispun de instalații de producere și beneficiază de mecanismul de contorizare neta - 1% din produsul dintre cantitatea de energie electrică consumată din rețeaua electrică la locul de consum respectiv pe parcursul anului precedent și tariful de distribuție corespunzător nivelului de tensiune a rețelei la care este racordat;
     2.  pentru producătorii de energie electrică – 0,1% din produsul dintre cantitatea de energie electrică livrată în rețeaua electrică pe parcursul anului precedent și tariful de distribuție corespunzător nivelului de tensiune a rețelei la care este racordat producătorul.
 3.  În cazul depășirii duratei admisibile a întreruperii, suma compensației individuale se calculează conform relației:
 
-**_C = Cst\*K,_**
+**_C = C<sub>st</sub>\*K,_**
 
 unde: **_C_** – compensația calculată, în lei;
 
@@ -259,25 +221,29 @@ unde: **_C_** – compensația calculată, în lei;
 
 **_K –_** coeficient care indică dependența dintre compensația standard și numărul de ore întregi cu care a fost depășită durata limită admisă a întreruperii, calculat conform următoarei relații:
 
-unde: **_Ilim_** – valoarea limită stabilită a duratei admise a întreruperii, ore;
+unde: **_I<sub>lim</sub>_** – valoarea limită stabilită a duratei admise a întreruperii, ore;
 
-**_Ief_** – valoarea efectiv înregistrată a duratei întreruperii pentru utilizatorul de sistem, ore.
+**_I<sub>ef</sub>_** – valoarea efectiv înregistrată a duratei întreruperii pentru utilizatorul de sistem, ore.
 
 Pentru valori ale ≤3, K=1;
 
-Pentru valori ale 39, K=10.
+Pentru valori ale 3<≤6, K=4;
+
+Pentru valori ale 6<≤9, K=7;
+
+Pentru valori ale >9, K=10.
 
 1.  În cazul depășirii numărului anual admis de întreruperi neprogramate, suma compensației individuale se calculează după cum urmează:
 
-**_C = Cst\*(Nef\-Nlim),_**
+**_C = C<sub>st</sub>\*(N<sub>ef</sub>\-N<sub>lim</sub>),_**
 
-unde: **_Nlim_** – valoarea limită stabilită a numărului anual admis de întreruperi neprogramate, exprimată în întreruperi;
+unde: **_N<sub>lim</sub>_** – valoarea limită stabilită a numărului anual admis de întreruperi neprogramate, exprimată în întreruperi;
 
-**_Nef_** – valoarea efectiv înregistrată a numărului de întreruperi pentru utilizatorul de sistem, exprimată în întreruperi;
+**_N<sub>ef</sub>_** – valoarea efectiv înregistrată a numărului de întreruperi pentru utilizatorul de sistem, exprimată în întreruperi;
 
-**_Cst_** – valoarea standard a compensației, determinată conform pct. 47, exprimată în monedă națională.
+**_C<sub>st</sub>_** – valoarea standard a compensației, determinată conform pct. 47, exprimată în monedă națională.
 
-1.  Suma maximă a compensației, de care poate beneficia un utilizator de sistem determinată conform pct. 48 și pct. 49 nu poate depăși valoarea a 10 compensații standard (**_Cst_**).
+1.  Suma maximă a compensației, de care poate beneficia un utilizator de sistem determinată conform pct. 48 și pct. 49 nu poate depăși valoarea a 10 compensații standard (**_C<sub>st</sub>_**).
 2.  Pentru întreruperile neprogramate cu originea în rețelele de medie tensiune ale OSD, cât și pentru toate întreruperile programate, OSD este obligat să înregistreze, să calculeze și să achite automat compensațiile prevăzute în pct. 48 și 49, tuturor utilizatorilor de sistem afectați, fără a fi necesară o solicitare din partea utilizatorilor.
 3.  În cazul întreruperilor neprogramate din rețelele de joasă tensiune, OSD are obligația de a investiga orice solicitare a utilizatorilor de sistem privind plata compensațiilor pentru depășirea valorilor limită ale indicatorilor garantați de continuitate, recepționată de OSD prin intermediul serviciului 24/24, poștă, poștă electronică sau alte mijloace de comunicare disponibile. Dacă în rezultatul investigației se constată depășirea valorilor limită a indicatorilor de continuitate – OSD determină și achită solicitantului compensațiile prevăzute în pct. 48 și 49, în modul stabilit la pct. 102 fără a fi necesară depunerea unei cereri suplimentare de către utilizatorul de sistem.
 4.  OSD achită compensații conform pct. 52, dacă utilizatorii de sistem, instalațiile cărora sunt racordate la rețelele de joasă tensiune a OSD, au sesizat operatorul despre încălcarea indicatorilor de calitate până la data de 01 februarie a anului următor anului de gestiune pentru depășirea numărului de întreruperi și nu mai târziu de90 de zile de la declanșarea întreruperii cu durată depășită.
@@ -291,7 +257,7 @@ unde: **_Nlim_** – valoarea limită stabilită a numărului anual admis de în
 12. în urma unor defecțiuni ale instalației de racordare, intervenția pentru soluționarea problemei a fost realizată în termenii prevăzuți de regulament, iar consumatorul final nu a oferit acces, a solicitat intervenția pentru o altă perioadă sau lipsește de la locul de consum.
 13. OSD achită utilizatorului de sistem o compensație în mărime dublă în cazul în care, la solicitarea utilizatorului de sistem, Agenția constată faptul că OSD nu și-a onorat obligațiile prevăzute la pct. 51 și 52.
 
-## CAPITOLUL III
+**CAPITOLUL III**
 
 CARACTERISTICI ALE TENSIUNII ÎN REȚELELE ELECTRICE
 
@@ -356,7 +322,7 @@ de distribuție
 13. Consumatorul final nu poate pretinde despăgubiri pentru pagubele cauzate urmare a accidentelor produse la instalațiile electrice ce-i aparțin din cauza nerespectării de către acesta a normelor și a instrucțiunilor de exploatare.
 14. Dacă se constată că supratensiunea sau golul de tensiune, invocat de consumatorul final, care a cauzat deteriorarea receptoarelor electrice s-a produs din culpa operatorului sistemului de transport, OSD este obligat să plătească despăgubirile conform prezentei secțiuni. OST este obligat să restituie sumele respective OSD în termen de 30 zile din momentul înregistrării solicitării de la OSD în acest sens.
 
-## CAPITOLUL IV
+**CAPITOLUL IV**
 
 CALITATEA COMERCIALĂ A SERVICIILOR DE TRANSPORT
 
@@ -385,11 +351,11 @@ ale solicitanților la rețelele electrice
 4.  Termenul pentru reconectarea instalației de utilizare a consumatorului final la rețeaua electrică este de cel mult 2 zile de la data achitării tarifului pentru reconectare.
 5.  În cazul nerespectării obligațiilor prevăzute de pct. 94 și 95, OST și/sau OSD este obligat să achite utilizatorului de sistem potențial sau existent, o compensație conform prevederilor art. 54 al Legii nr. 107/2016, în mărimea stabilită în Anexa nr. 3.
 
-## CAPITOLUL V
+**CAPITOLUL V**
 
-### Procedura De Reducere A Tarifuluiui
+**PROCEDURA DE REDUCERE A TARIFULUIUI**
 
-### Și De Plată A Compensaţiilor
+**ȘI DE PLATĂ A COMPENSAŢIILOR**
 
 **Secțiunea 1**
 
@@ -415,9 +381,9 @@ Plata compensațiilor
 
 1.  Rapoartele cu privire la calitatea serviciilor de transport sau de distribuție a energiei electrice prezentate de operatorii de sistem conform prevederilor prezentului Regulament sunt supuse unei proceduri de validare a datelor.
 2.  Procedura de validare presupune verificarea de către Agenție a cel puțin 5% din datele care stau la baza calculării fiecărui indicator de calitate.
-3.  Pentru fiecare indicator general de calitate prezentat de operatorul de sistem, se determină un coeficient de corecție _Kcor_, care reprezintă raportul dintre numărul de date nevalidate _Nnevalid_ (situații înregistrate cu încălcări), constatate în urma controlului Agenției, și numărul total de situații verificate _Nverificat_, conform următoarei relații:
+3.  Pentru fiecare indicator general de calitate prezentat de operatorul de sistem, se determină un coeficient de corecție _K<sub>cor</sub>_, care reprezintă raportul dintre numărul de date nevalidate _N<sub>nevalid</sub>_ (situații înregistrate cu încălcări), constatate în urma controlului Agenției, și numărul total de situații verificate _N<sub>verificat</sub>_, conform următoarei relații:
 
-_Kcor = Nnevalid / Nverificat._
+_K<sub>cor</sub> = N<sub>nevalid</sub> / N<sub>verificat</sub>._
 
 1.  Valorile indicatorilor de calitate prezentați în raport de către operatorii de sistem, se ajustează de către Agenție utilizând coeficientul de corecție menționat mai sus, după cum urmează:
 
@@ -425,15 +391,15 @@ unde – valoarea actualizată a indicatorului de calitate;
 
 – valoarea indicatorului de calitate prezentată de către operatorul de sistem în raportul anual.
 
-**1081.** La ajustarea indicatorilor de calitate privind continuitatea livrării energiei electrice în conformitate cu pct. 108 se utilizează semnul „+” (plus), iar la ajustarea celorlalți indicatori de calitate se utilizează semnul „-” (minus).
+**108<sup>1</sup>.** La ajustarea indicatorilor de calitate privind continuitatea livrării energiei electrice în conformitate cu pct. 108 se utilizează semnul „+” (plus), iar la ajustarea celorlalți indicatori de calitate se utilizează semnul „-” (minus).
 
 1.  Hotărârile Agenției privind aplicarea reducerilor de tarif pentru nerespectarea indicatorilor generali de calitate se adoptă în baza valorilor actualizate a indicatorilor generali de calitate, determinate conform pct. 108.
 
-**1091.** Hotărârile Agenției privind aplicarea reducerilor de tarife pentru nerespectarea indicatorilor de calitate se adoptă în baza valorilor ajustate ale indicatorilor de calitate.”;
+**109<sup>1</sup>.** Hotărârile Agenției privind aplicarea reducerilor de tarife pentru nerespectarea indicatorilor de calitate se adoptă în baza valorilor ajustate ale indicatorilor de calitate.”;
 
-## CAPITOLUL VI
+**CAPITOLUL VI**
 
-### Dispoziții Speciale
+**DISPOZIȚII SPECIALE**
 
 1.  OST și OSD sunt obligați să înregistreze toate cererile, sesizările, solicitările legate de indicatorii de calitate a serviciului de transport și de distribuție a energiei electrice și să prezinte Agenției anual, până la 25 februarie, rapoarte privind calitatea serviciului de transport și distribuție a energiei electrice. Rapoartele se întocmesc conform Anexei nr. 1 și Anexei nr. 2, și se prezintă în format electronic cu semnătură electronică.
 2.  OST și OSD sunt obligați să asigure păstrarea datelor necesare calculării indicatorilor de continuitate pe o durată de cel puțin 6 ani.
@@ -473,7 +439,7 @@ nr.\_537/2020 din 24 decembrie 2020
 
 ###### Întreruperile neprogramate ale serviciului de distribuție, cu originea în rețelele de medie tensiune ale OSD
 
-Numărul consumatorilor finali/utilizatorilor de sistem deserviți în perioada de referință (NCt): ____________, inclusiv:casnici: __________________ alte categorii: ___________Filiala rețelelor electrice (raionul)DataStația, sursa de alimentareNr. fideruluiOra întreruperiiDurata întreruperii (Ti), minute, inclusiv:Numărul de utilizatori de sistem afectați de întrerupere (NCi)LocalitateaSursa de informareCauza întreruperiiInd.DetaliatOSTOSDTotalCATotal1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.....OSTATAccident rutier....CACDefect de izolator....TATFurt de instalații etc.....
+<div class="joplin-table-wrapper"><table><tbody><tr><td colspan="15"><h6>Numărul consumatorilor finali/utilizatorilor de sistem deserviți în perioada de referință (<em>NCt</em>): ____________, inclusiv:</h6><p>casnici:<strong> __________________ </strong>alte categorii: ___________</p></td></tr><tr><td rowspan="3"><p><strong>Filiala rețelelor electrice (raionul)</strong></p></td><td rowspan="3"><p><strong>Data</strong></p></td><td rowspan="3"><p><strong>Stația, sursa de alimentare</strong></p></td><td rowspan="3"><p><strong>Nr. fiderului</strong></p></td><td rowspan="3"><p><strong>Ora întreruperii</strong></p></td><td colspan="3" rowspan="2"><p><strong>Durata întreruperii (<em>Ti</em>), minute, inclusiv:</strong></p></td><td colspan="3" rowspan="2"><h5>Numărul de utilizatori de sistem afectați de întrerupere (NCi)</h5></td><td rowspan="3"><h5>Localitatea</h5></td><td rowspan="3"><h5>Sursa de informare</h5></td><td colspan="2"><h5>Cauza întreruperii</h5></td></tr><tr><td rowspan="2"><p><strong>Ind.</strong></p></td><td rowspan="2"><p><strong>Detaliat</strong></p><p></p></td></tr><tr><td><p><strong>OST</strong></p></td><td><p><strong>OSD</strong></p></td><td><p><strong>Total</strong></p></td><td><p><strong>C</strong></p></td><td><p><strong>A</strong></p></td><td><p><strong>Total</strong></p></td></tr><tr><td><p><strong>1.</strong></p></td><td><p><strong>2.</strong></p></td><td><p><strong>3.</strong></p></td><td><p><strong>4.</strong></p></td><td><p><strong>5.</strong></p></td><td><p><strong>6.</strong></p></td><td><p><strong>7.</strong></p></td><td><p><strong>8.</strong></p></td><td><p><strong>9.</strong></p></td><td><p><strong>10.</strong></p></td><td><p><strong>11.</strong></p></td><td><p><strong>12.</strong></p></td><td><p><strong>13.</strong></p></td><td><p><strong>14.</strong></p></td><td><p><strong>15.</strong></p></td></tr><tr><td><p>....</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>OST</p></td><td><p>AT</p></td><td><p>Accident rutier</p></td></tr><tr><td><p>....</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>C</p></td><td><p>AC</p></td><td><p>Defect de izolator</p></td></tr><tr><td><p>....</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>T</p></td><td><p>AT</p></td><td><p>Furt de instalații etc.</p></td></tr><tr><td><p>....</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr></tbody></table></div>
 
 **Notă:**
 
@@ -513,7 +479,7 @@ _AC - alte cauze;_
 
 **Întreruperile programate a serviciului de distribuție**
 
-Filiala rețelelor electrice (raionul)DataNivelul de tensiune (MT sau JT)Stația, sursa de alimentareNr. fideruluiOra întreruperiiDurata întreruperii, oreNumărul de utilizatori de sistem afectați de întrerupere (NCi)LocalitateaCauza întreruperiiData difuzării anunțului despre întrerupereCATotal1.2.3.4.5.6.7.8.9.10.11.12.13.................
+<div class="joplin-table-wrapper"><table><tbody><tr><td rowspan="2"><p><strong>Filiala rețelelor electrice (raionul)</strong></p></td><td rowspan="2"><p><strong>Data</strong></p></td><td rowspan="2"><p><strong>Nivelul de tensiune (MT sau JT)</strong></p></td><td rowspan="2"><p><strong>Stația, sursa de alimentare</strong></p></td><td rowspan="2"><p><strong>Nr. fiderului</strong></p></td><td rowspan="2"><p><strong>Ora întreruperii</strong></p></td><td rowspan="2"><p><strong>Durata întreruperii, ore</strong></p></td><td colspan="3"><h5>Numărul de utilizatori de sistem afectați de întrerupere (NCi)</h5></td><td rowspan="2"><h5>Localitatea</h5></td><td rowspan="2"><h5>Cauza întreruperii</h5></td><td rowspan="2"><h5>Data difuzării anunțului despre întrerupere</h5></td></tr><tr><td><p><strong>C</strong></p></td><td><p><strong>A</strong></p></td><td><p><strong>Total</strong></p></td></tr><tr><td><p><strong>1.</strong></p></td><td><p><strong>2.</strong></p></td><td><p><strong>3.</strong></p></td><td><p><strong>4.</strong></p></td><td><p><strong>5.</strong></p></td><td><p><strong>6.</strong></p></td><td><p><strong>7.</strong></p></td><td><p><strong>8.</strong></p></td><td><p><strong>9.</strong></p></td><td><p><strong>10.</strong></p></td><td><p><strong>11.</strong></p></td><td><p><strong>12.</strong></p></td><td><p><strong>13.</strong></p></td></tr><tr><td><p>....</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>....</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>....</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>....</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr></tbody></table></div>
 
 **Notă:** _1 )În tabelul 2 se r înregistrează toate întreruperile programate, inclusiv întreruperile de manevră;_
 
@@ -527,7 +493,7 @@ _3)Pentru întreruperile de manevră în coloana 12 se înscrie simbolul „M”
 
 |     |     |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **_Filiala rețelei de distribuție (raionul)_** | **_Cauza întreruperilor_** | **_Numărul de consumatori deserviți (NCt)_** | **_SAIDI_****_(minute)_** |     | **_SAIFI (MAIFI)_****_(întreruperi)_** |     |     | **_CAIDI_****_(minute)_** |     |     |
+| **_Filiala rețelei de distribuție (raionul)_** | **_Cauza întreruperilor_** | **_Numărul de consumatori deserviți (NCt)_** | **_SAIDI_**<br><br>**_(minute)_** |     | **_SAIFI (MAIFI)_**<br><br>**_(întreruperi)_** |     |     | **_CAIDI_**<br><br>**_(minute)_** |     |     |
 | **_MT_** | **_JT_** | **_MT_** | **_JT_** | **_MT_** |     | **_JT_** |
 | **_Orhei_** | FM  |     |     |     |     |     |     |     |     |
 | AT  |     |     |     |     |     |     |     |     |
@@ -554,7 +520,7 @@ _3)Pentru întreruperile de manevră în coloana 12 se înscrie simbolul „M”
 
 **Durata admisă a întreruperilor programate în livrarea energiei electrice oricărui utilizator de sistem**
 
-Nr. de întreruperiNr. de utilizatori de sistem, afectați de întreruperiCasniciNoncasniciTotalÎntreruperi programate, inclusiv:Întreruperi operate cu scopul realizării lucrărilor de reparații curente și mentenanță (cu excepția lucrărilor de reparație a sistemelor de bare a stațiilor electrice);Total&gt; 8 oreÎntreruperi pentru realizarea lucrărilor de racordare și de reconectare;Total&gt;8 oreÎntreruperi realizate la solicitarea terților;Total&gt;8 oreÎntreruperi în legătură cu scoaterea în reparație a sistemelor de bare a stațiilor electrice de transformareTotal&gt;12 oreÎntreruperi pentru realizarea lucrărilor complexe de reconstrucție/renovare a rețelelor de distribuție, coordonate prealabil cu AAPLTotalCu depășirea duratei coordonateÎntreruperi de manevrăNumărul de compensații achitateSuma compensațiilor achitate
+<div class="joplin-table-wrapper"><table><tbody><tr><td><p></p></td><td><p></p></td><td><p><strong>Nr. de întreruperi</strong></p></td><td colspan="3"><p><strong>Nr. de utilizatori de sistem, afectați de întreruperi</strong></p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p><strong>Casnici</strong></p></td><td><p><strong>Noncasnici</strong></p></td><td><p><strong>Total</strong></p></td></tr><tr><td><p><strong>Întreruperi programate, inclusiv:</strong></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td rowspan="2"><ul><li>Întreruperi operate cu scopul realizării lucrărilor de reparații curente și mentenanță (cu excepția lucrărilor de reparație a sistemelor de bare a stațiilor electrice);</li></ul></td><td><p><strong>Total</strong></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p><strong>&gt; 8 ore</strong></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td rowspan="2"><ul><li>Întreruperi pentru realizarea lucrărilor de racordare și de reconectare;</li></ul></td><td><p><strong>Total</strong></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p><strong>&gt;8 ore</strong></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td rowspan="2"><ul><li>Întreruperi realizate la solicitarea terților;</li></ul></td><td><p><strong>Total</strong></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p><strong>&gt;8 ore</strong></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td rowspan="2"><ul><li>Întreruperi în legătură cu scoaterea în reparație a sistemelor de bare a stațiilor electrice de transformare</li></ul></td><td><p><strong>Total</strong></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p><strong>&gt;12 ore</strong></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td rowspan="2"><ul><li>Întreruperi pentru realizarea lucrărilor complexe de reconstrucție/renovare a rețelelor de distribuție, coordonate prealabil cu AAPL</li></ul></td><td><p><strong>Total</strong></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p><strong>Cu depășirea duratei coordonate</strong></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td colspan="2"><ul><li>Întreruperi de manevră</li></ul></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td colspan="3"><p><strong>Numărul de compensații achitate</strong></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td colspan="3"><p><strong>Suma compensațiilor achitate</strong></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr></tbody></table></div>
 
 **Notă:** _Numărul de utilizatori de sistem, afectați de întreruperi, se calculează prin însumarea numărului de utilizatori de sistem afectați de fiecare întrerupere programată._
 
@@ -562,7 +528,7 @@ Nr. de întreruperiNr. de utilizatori de sistem, afectați de întreruperiCasnic
 
 **Durata admisă a întreruperilor neprogramate în livrarea energiei electrice oricărui utilizator de sistem, produse din motive imputabile OSD**
 
-Nr. de întreruperiNr. de utilizatori de sistem, afectați de întreruperiCasniciNoncasniciTotalMTJTMTJTÎntreruperi ale serviciului de distribuție pentru utilizatorii din mediul URBANTotal&gt; 6 oreÎntreruperi ale serviciului de distribuție pentru utilizatorii din mediul RURALTotal&gt; 12 oreNumărul de compensații achitateSuma compensațiilor achitate
+<div class="joplin-table-wrapper"><table><tbody><tr><td colspan="2" rowspan="3"><p></p></td><td colspan="2" rowspan="2"><p><strong>Nr. de întreruperi</strong></p></td><td colspan="4"><p><strong>Nr. de utilizatori de sistem, afectați de întreruperi</strong></p></td></tr><tr><td><p><strong>Casnici</strong></p></td><td colspan="2"><p><strong>Noncasnici</strong></p></td><td><p><strong>Total</strong></p></td></tr><tr><td><p><strong>MT</strong></p></td><td><p><strong>JT</strong></p></td><td><p></p></td><td><p><strong>MT</strong></p></td><td><p><strong>JT</strong></p></td><td><p></p></td></tr><tr><td rowspan="2"><ul><li>Întreruperi ale serviciului de distribuție pentru utilizatorii din mediul <strong>URBAN</strong></li></ul></td><td><p><strong>Total</strong></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p><strong>&gt; 6 ore</strong></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td rowspan="2"><ul><li>Întreruperi ale serviciului de distribuție pentru utilizatorii din mediul <strong>RURAL</strong></li></ul></td><td><p><strong>Total</strong></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p><strong>&gt; 12 ore</strong></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td colspan="2"><p><strong>Numărul de compensații achitate</strong></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td colspan="4"><p><strong>Suma compensațiilor achitate</strong></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr></tbody></table></div>
 
 **_Tabelul 6_**
 
@@ -656,11 +622,11 @@ Hotărârea ANRE nr. 537/2020 din 24 decembrie 2020
 
 **Tabelul 1 Numărul și durata anuală a întreruperilor în rețeaua electrică de transport**
 
-Numărul anual de întreruperi de lungă duratăÎntreruperi programateÎntreruperi neprogramateîn rețelele 330 kVîn rețelele 110 kVîn rețelele 35 kVDurata anuală sumară a întreruperilor de lungă duratăîn rețelele 330 kVîn rețelele 110 kVîn rețelele 35 kV
+<div class="joplin-table-wrapper"><table><tbody><tr><td colspan="3"><h6>Numărul anual de întreruperi de lungă durată</h6></td></tr><tr><td><h6></h6></td><td><h6>Întreruperi programate</h6></td><td><h6>Întreruperi neprogramate</h6></td></tr><tr><td><h6>în rețelele 330 kV</h6></td><td><h6></h6></td><td><h6></h6></td></tr><tr><td><h6>în rețelele 110 kV</h6></td><td><h6></h6></td><td><h6></h6></td></tr><tr><td><h6>în rețelele 35 kV</h6></td><td><h6></h6></td><td><h6></h6></td></tr><tr><td colspan="3"><h6>Durata anuală sumară a întreruperilor de lungă durată</h6></td></tr><tr><td><h6>în rețelele 330 kV</h6></td><td><h6></h6></td><td><h6></h6></td></tr><tr><td><h6>în rețelele 110 kV</h6></td><td><h6></h6></td><td><h6></h6></td></tr><tr><td><h6>în rețelele 35 kV</h6></td><td><h6></h6></td><td><h6></h6></td></tr></tbody></table></div>
 
 ###### Tabelul 2. Întreruperile neprogramate în funcționarea rețelelor electrice 10, 35, 110, 330 kV, inclusiv a fiderelor 10 kV ale OSD, alimentate de la stațiile OST.
 
-Nivelul de tensiuneStația, sursa de alimentareDataNr. fideruluiOra întreruperiiOra informării OSDTimpul sosirii echipei operative a OST, minuteOra restabiliriiDurata întreruperii (Di), minutePuterea electrică deconectată, (Pi), MWUtilizatorii rețelei de transport, afectați de întrerupereSursa de informareCauza întreruperiiResp.Ind.Detaliat1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.COSTFMInundațiiTOSDATAccident rutierOSTCIDefect de izolator
+<div class="joplin-table-wrapper"><table><tbody><tr><td rowspan="2"><p><strong>Nivelul de tensiune</strong></p></td><td rowspan="2"><p><strong>Stația, sursa de alimentare</strong></p></td><td rowspan="2"><p><strong>Data</strong></p></td><td rowspan="2"><p><strong>Nr. fiderului</strong></p></td><td rowspan="2"><p><strong>Ora întreruperii</strong></p></td><td rowspan="2"><p><strong>Ora informării OSD</strong></p></td><td rowspan="2"><p><strong>Timpul sosirii echipei operative a OST, minute</strong></p></td><td rowspan="2"><p><strong>Ora restabilirii</strong></p></td><td rowspan="2"><h5>Durata întreruperii (Di), minute</h5></td><td rowspan="2"><h5>Puterea electrică deconectată, (Pi), MW</h5></td><td rowspan="2"><p><em>Utilizatorii rețelei de transport, afectați de întrerupere</em></p></td><td rowspan="2"><p></p><p></p><p><strong>Sursa de informare</strong></p><p></p><p></p></td><td colspan="3"><h5>Cauza întreruperii</h5></td></tr><tr><td><p><strong>Resp.</strong></p></td><td><p><strong>Ind.</strong></p></td><td><p><strong>Detaliat</strong></p></td></tr><tr><td><p><strong>1.</strong></p></td><td><p><strong>2.</strong></p></td><td><p><strong>3.</strong></p></td><td><p><strong>4.</strong></p></td><td><p><strong>5.</strong></p></td><td><p><strong>6.</strong></p></td><td><p><strong>7.</strong></p></td><td><p><strong>8.</strong></p></td><td><p><strong>9.</strong></p></td><td><p><strong>10.</strong></p></td><td><p><strong>11.</strong></p></td><td><p><strong>12.</strong></p></td><td><p><strong>13.</strong></p></td><td><p><strong>14.</strong></p></td><td><p><strong>15.</strong></p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>C</p></td><td><p>OST</p></td><td><p>FM</p></td><td><p>Inundații</p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>T</p></td><td><p>OSD</p></td><td><p>AT</p></td><td><p>Accident rutier</p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>OST</p></td><td><p></p></td><td><p>CI</p></td><td><p>Defect de izolator</p></td></tr></tbody></table></div>
 
 **Notă:** _1)În coloana 1 se indică nivelul de tensiune la care s-a produs întreruperea (10, 35, 110, 330, 400 kV)_
 
@@ -684,7 +650,7 @@ _\- 14 (Ind.) – indică cauza generală a întreruperii: FM – forță major�
 
 ###### Tabelul 3. Întreruperile programate în funcționarea rețelelor electrice 10, 35, 110, 330 kV, inclusiv a fiderelor 10 kV ale OSD, alimentate de la stațiile OST
 
-DataNivelul de tensiuneStația, sursa de alimentareNr. fideruluiOra întreruperiiDurata întreruperii (Ti), oreOSD sau utilizatorii rețelei de transport, afectați de întrerupereCauza întreruperiiData difuzării anunțului despre întrerupere1.2.3.4.5.6.7.8.9.
+<div class="joplin-table-wrapper"><table><tbody><tr><td rowspan="2"><p><strong>Data</strong></p></td><td rowspan="2"><p><strong>Nivelul de tensiune</strong></p></td><td rowspan="2"><p><strong>Stația, sursa de alimentare</strong></p></td><td rowspan="2"><p><strong>Nr. fiderului</strong></p></td><td rowspan="2"><p><strong>Ora întreruperii</strong></p></td><td rowspan="2"><p><strong>Durata întreruperii (<em>Ti</em>), ore</strong></p></td><td rowspan="2"><h5>OSD sau utilizatorii rețelei de transport, afectați de întrerupere</h5></td><td rowspan="2"><h5>Cauza întreruperii</h5></td><td rowspan="2"><h5>Data difuzării anunțului despre întrerupere</h5></td></tr><tr></tr><tr><td><p><strong>1.</strong></p></td><td><p><strong>2.</strong></p></td><td><p><strong>3.</strong></p></td><td><p><strong>4.</strong></p></td><td><p><strong>5.</strong></p></td><td><p><strong>6.</strong></p></td><td><p><strong>7.</strong></p></td><td><p><strong>8.</strong></p></td><td><p><strong>9.</strong></p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr></tbody></table></div>
 
 **Tabelul 4**
 
@@ -715,7 +681,7 @@ DataNivelul de tensiuneStația, sursa de alimentareNr. fideruluiOra întreruperi
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-| **Utilizatorul de sistem** | **Date de identificare a punctului de delimitare****(Localitate, Adresă, Stație electrică, linie electrice, nr. pilon, etc. )** | **Data constatării abaterii** | **Data înlăturării abaterii** | **Cantitatea de energie livrată prin punctul de delimitare în perioada înregistrării abaterii (kWh)** |
+| **Utilizatorul de sistem** | **Date de identificare a punctului de delimitare**<br><br>**(Localitate, Adresă, Stație electrică, linie electrice, nr. pilon, etc. )** | **Data constatării abaterii** | **Data înlăturării abaterii** | **Cantitatea de energie livrată prin punctul de delimitare în perioada înregistrării abaterii (kWh)** |
 | **1.** | **2.** | **3.** | **4.** | **5.** |
 | **RED Nord** |     |     |     |     |
 | **….** |     |     |     |     |
@@ -750,7 +716,7 @@ Hotărârea ANRE nr. 537/2020 din 24 decembrie 2020
 
 **de tarif / compensațiilor individuale**
 
-Pct. din RegulamentDescriere, valoarea limită a indicatoruluiConsecința nerespectăriiValoarea compensației sau а reducerii de tarifpct. 23Sosirea echipelor OST într-un termen de cel mult 60 minute din momentul primirii solicitării, în cel puțin 95% din situațiile înregistrate.Reducere a tarifului pentru serviciul de transport1%, aplicată la cantitatea de energie electrică transportată pe parcursul anului de gestiunepct. 24Informarea utilizatorilor rețelei electrice de transport, inclusiv OSD, despre declanșarea avariată a întreruptoarelor 10 kV, amplasate pe teritoriul stațiilor OST, în cel mult 15 minute din momentul producerii evenimentuluiReducere a tarifului pentru serviciul de transport1%, aplicată la cantitatea de energie electrică transportată pe parcursul anului, dacă informarea corespunzătoare s-a realizat în cel puțin 95% din totalul situațiilor înregistratepct. 37Durata admisă a unei întreruperi programate:8 ore pentru lucrări de reparații curente, mentenanță, realizarea racordărilor și reconectărilor;12 ore în cazul scoaterii în reparație a sistemelor de bare a stațiilor electrice de transformare;În cazul lucrărilor complexe de reconstrucții a rețelelor – conform programului coordonat cu АAPL și adus la cunoștința fiecărui utilizator de sistem.Consumatorii finali afectați au dreptul la compensațiiCompensații individuale, calculate conform pct. 48pct. 37Durata admisă a unei întreruperi neprogramate:12 ore pentru utilizatorii sistemelor de distribuție din mediul rural;6 ore pentru utilizatorii sistemelor de distribuție din mediul urban;Consumatorii finali afectați au dreptul la compensațiiCompensații individuale, calculate conform pct. 48pct. 37Numărul anual admis de întreruperi neprogramate pentru utilizatorii de sistemdin mediul urban:– 6 întreruperi, dacă instalația utilizatorului este racordată la rețelele de medie tensiune;– 9 întreruperi, dacă instalația utilizatorului este racordată la rețelele de joasă tensiune;din mediul rural:– 9 întreruperi, dacă instalația utilizatorului este racordată la rețelele de medie tensiune;– 12 întreruperi, dacă instalația utilizatorului este racordată la rețelele de joasă tensiune;Consumatorii finali afectați au dreptul la compensațiiCompensații individuale, calculate conform pct. 49Pct. 56Nerespectarea de către OST a obligației de a menține variația tensiunii in punctele de delimitare în limitele stabilite de standarde și/sau acordurile bilateraleReducere a tarifului pentru serviciul de transport10%, aplicată la cantitatea de energie electrică livrată prin punctul/punctele de delimitare, în ziua (24 ore) în care s-a constatat abaterea respectivă. Dacă încălcarea nu este înlăturată în aceeași zi, reducerea se va calcula și pentru următoarele zile, până la înlăturarea abaterii.pct. 64 și 65Nerespectarea termenelor stabilite pentru examinare și soluționare a solicitărilor consumatorilor (altele decât cele prevăzute de pct. 63), legate de încălcarea parametrilor de calitate a energiei electrice.Consumatorii finali afectați au dreptulla compensațiiEchivalentul bănesc a 25% din consumul de energie electrică, pentru perioada de la data înregistrării solicitării la OSD și până la data înlăturării cauzelor livrării energiei necalitative. Se calculează reieșind din prețul reglementat de Agenție pentru energia electrică livrată de furnizorul serviciului universal.pct. 87Prezentarea de către OST a programului anual de retrageri din exploatare a echipamentului său, și a modificărilor ulterioare, cu respectarea termenelor stabilite la pct. 87Reducere a tarifului pentru serviciul de transport10%, aplicată la cantitatea medie zilnică de energie electrică livrată utilizatorilor sistemului de transport prin punctele de racordare, afectate de retragerile în exploatare a echipamentului OST cu încălcarea pct. 87pct. 89, 90Anunțarea întreruperilor programateReducere a tarifului pentru serviciul de distribuție sau de transport1%, se va aplica dacă operatorul de sistem a respectat prevederile pct. 89 și 90 în mai puțin de 95% din totalul cazurilor înregistrate;pct. 92Eliberarea avizelor de racordare în termenul stabilit la pct. 92Reducere a tarifului pentru serviciul de distribuție sau de transport1%, se va aplica dacă operatorul de sistem a respectat prevederile pct. 92 în mai puțin de 95% din totalul cazurilor înregistrate;pct. 94Racordarea instalației de utilizare a solicitantului consumator final potențial sau existent, la rețeaua electrică de distribuție sau de transport – se va face în termen de cel mult 2 zile lucrătoare de la data admiterii în exploatare a instalației de utilizare și achitării tarifului de punere sub tensiuneConsumatorii finali afectați au dreptulla compensații25% din valoarea tarifului de punere sub tensiune pentru fiecare zi de întârzierepct. 95Reconectarea instalației de utilizare a consumatorului final la rețeaua electrică – 2 zile lucrătoare de la data achitării taxei de reconectare.Consumatorii finali afectați au dreptulla compensații25% din valoarea tarifului de reconectare pentru fiecare zi de întârzierepct. 98Nerespectarea obligației de plată a compensațiilor pentru încălcarea indicatorilor garantați de calitate în mai mult de 5% din cazurile înregistrateReducere de tarif1% din tariful de distribuție sau de transport
+<div class="joplin-table-wrapper"><table><tbody><tr><td><p><strong>Pct. din Regulament</strong></p></td><td><p><strong>Descriere, valoarea limită a indicatorului</strong></p></td><td><p><strong>Consecința nerespectării</strong></p></td><td><p><strong>Valoarea compensației sau а reducerii de tarif</strong></p></td></tr><tr><td><p><strong>pct. 23</strong></p></td><td><p>Sosirea echipelor OST într-un termen de cel mult <strong>60 minute </strong>din momentul primirii solicitării, în cel puțin 95% din situațiile înregistrate.</p></td><td><p>Reducere a tarifului pentru serviciul de transport</p></td><td><p><strong>1%,</strong> aplicată la cantitatea de energie electrică transportată pe parcursul anului de gestiune</p></td></tr><tr><td><p><strong>pct. 24</strong></p></td><td><p>Informarea utilizatorilor rețelei electrice de transport, inclusiv OSD, despre declanșarea avariată a întreruptoarelor 10 kV, amplasate pe teritoriul stațiilor OST, în cel mult <strong>15 minute</strong> din momentul producerii evenimentului</p></td><td><p>Reducere a tarifului pentru serviciul de transport</p></td><td><p><strong>1%, </strong>aplicată la cantitatea de energie electrică transportată pe parcursul anului, dacă informarea corespunzătoare s-a realizat în cel puțin 95% din totalul situațiilor înregistrate</p></td></tr><tr><td><p><strong>pct. 37</strong></p></td><td><p><strong>Durata admisă a unei întreruperi programate</strong>:</p><ul><li><strong>8 ore </strong>pentru lucrări de reparații curente, mentenanță, realizarea racordărilor și reconectărilor;</li><li><strong>12 ore </strong>în cazul<strong> </strong>scoaterii în reparație a sistemelor de bare a stațiilor electrice de transformare;</li><li>În cazul lucrărilor complexe de reconstrucții a rețelelor – conform programului coordonat cu АAPL și adus la cunoștința fiecărui utilizator de sistem.</li></ul></td><td><p>Consumatorii finali afectați au dreptul la compensații</p></td><td><p>Compensații individuale, calculate conform pct. 48</p></td></tr><tr><td><p><strong>pct. 37</strong></p></td><td><p><strong>Durata admisă a unei întreruperi neprogramate</strong>:</p><ul><li><strong>12 ore </strong>pentru utilizatorii sistemelor de distribuție din mediul rural;</li><li><strong>6 ore </strong>pentru utilizatorii sistemelor de distribuție din mediul urban;</li></ul></td><td><p>Consumatorii finali afectați au dreptul la compensații</p></td><td><p>Compensații individuale, calculate conform pct. 48</p></td></tr><tr><td><p><strong>pct. 37</strong></p></td><td><p><strong>Numărul anual admis de întreruperi neprogramate p</strong>entru utilizatorii de sistem</p><p></p><p><strong>din mediul urban:</strong></p><p>– <strong>6 întreruperi</strong>, dacă instalația utilizatorului este racordată la rețelele de medie tensiune;</p><p>– <strong>9 întreruperi</strong>, dacă instalația utilizatorului este racordată la rețelele de joasă tensiune;</p><p></p><p><strong>din mediul rural:</strong></p><p>– <strong>9 întreruperi</strong>, dacă instalația utilizatorului este racordată la rețelele de medie tensiune;</p><p>– <strong>12 întreruperi</strong>, dacă instalația utilizatorului este racordată la rețelele de joasă tensiune;</p></td><td><p>Consumatorii finali afectați au dreptul la compensații</p></td><td><p>Compensații individuale, calculate conform pct. 49</p></td></tr><tr><td><p><strong>Pct. 56</strong></p></td><td><p>Nerespectarea de către OST a obligației de a menține variația tensiunii in punctele de delimitare în limitele stabilite de standarde și/sau acordurile bilaterale</p></td><td><p>Reducere a tarifului pentru serviciul de transport</p></td><td><p><strong>10%, </strong>aplicată la cantitatea de energie electrică livrată prin punctul/punctele de delimitare, în ziua (24 ore) în care s-a constatat abaterea respectivă. Dacă încălcarea nu este înlăturată în aceeași zi, reducerea se va calcula și pentru următoarele zile, până la înlăturarea abaterii.</p></td></tr><tr><td><p><strong>pct. 64</strong> <strong>și 65</strong></p></td><td><p>Nerespectarea termenelor stabilite pentru examinare și soluționare a solicitărilor consumatorilor (altele decât cele prevăzute de pct. 63), legate de încălcarea parametrilor de calitate a energiei electrice.</p></td><td><p>Consumatorii finali afectați au dreptul</p><p>la compensații</p><p></p></td><td><p>Echivalentul bănesc a <strong>25% din consumul de energie electrică</strong>, pentru perioada de la data înregistrării solicitării la OSD și până la data înlăturării cauzelor livrării energiei necalitative. Se calculează reieșind din prețul reglementat de Agenție pentru energia electrică livrată de furnizorul serviciului universal.</p></td></tr><tr><td><p><strong>pct. 87</strong></p></td><td><p>Prezentarea de către OST a programului anual de retrageri din exploatare a echipamentului său, și a modificărilor ulterioare, cu respectarea termenelor stabilite la pct. 87</p></td><td><p>Reducere a tarifului pentru serviciul de transport</p></td><td><p><strong>10%, </strong>aplicată la cantitatea medie zilnică de energie electrică livrată utilizatorilor sistemului de transport prin punctele de racordare, afectate de retragerile în exploatare a echipamentului OST cu încălcarea pct. 87</p></td></tr><tr><td><p><strong>pct. 89, 90</strong></p></td><td><p>Anunțarea întreruperilor programate</p></td><td><p>Reducere a tarifului pentru serviciul de distribuție sau de transport</p></td><td><p><strong>1%, </strong>se va aplica dacă<strong> </strong>operatorul de sistem a respectat prevederile pct. 89 și 90 în mai puțin de 95% din totalul cazurilor înregistrate;<strong></strong></p></td></tr><tr><td><p><strong>pct. 92</strong></p></td><td><p>Eliberarea avizelor de racordare în termenul stabilit la pct. 92</p></td><td><p>Reducere a tarifului pentru serviciul de distribuție sau de transport</p></td><td><p><strong>1%, </strong>se va aplica dacă<strong> </strong>operatorul de sistem a respectat prevederile pct. 92 în mai puțin de 95% din totalul cazurilor înregistrate;</p></td></tr><tr><td><p><strong>pct. 94</strong></p></td><td><p>Racordarea instalației de utilizare a solicitantului consumator final potențial sau existent, la rețeaua electrică de distribuție sau de transport – se va face în termen de cel mult <strong>2 zile lucrătoare</strong> de la data admiterii în exploatare a instalației de utilizare și achitării tarifului de punere sub tensiune</p></td><td><p>Consumatorii finali afectați au dreptul</p><p>la compensații</p><p></p></td><td><p><strong>25% </strong>din valoarea tarifului de punere sub tensiune pentru fiecare zi de întârziere</p></td></tr><tr><td><p><strong>pct. 95</strong></p></td><td><p>Reconectarea instalației de utilizare a consumatorului final la rețeaua electrică – <strong>2 zile lucrătoare </strong>de la data achitării taxei de reconectare.</p></td><td><p>Consumatorii finali afectați au dreptul</p><p>la compensații</p><p></p></td><td><p><strong>25% </strong>din valoarea tarifului de reconectare pentru fiecare zi de întârziere</p></td></tr><tr><td><p><strong>pct. 98</strong></p></td><td><p>Nerespectarea obligației de plată a compensațiilor pentru încălcarea indicatorilor garantați de calitate în mai mult de 5% din cazurile înregistrate</p></td><td><p>Reducere de tarif</p></td><td><p>1% din tariful de distribuție sau de transport</p></td></tr></tbody></table></div>
 
 **Notă:** La calculul duratei efective a întreruperilor se va ține cont de excepțiile stabilite în pct. 38.
 

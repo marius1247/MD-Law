@@ -1,0 +1,32 @@
+---
+title: Concept — Consum tehnologic gaze
+type: concept
+domeniu: [energetică, gaze, tarife]
+domain: [energetică, gaze, tarife]
+status: draft
+tags: [concept, energetică, gaze, tarife]
+created: 2026-08-07
+updated: 2026-08-07
+---
+# Concept — Consum tehnologic și pierderi normative (gaze)
+
+**RO:** consum tehnologic și pierderi normative (CTP) · **EN:** technological consumption & normative losses (gas TSO)
+
+## Legal home
+Annex to the gas transmission tariff methodology approved by [[HANRE 535-2019 — Metodologie tarife transport gaze (text)|HANRE 535/2019]] (CTP module now in vault). Feeds the regulated revenue / tariff update under [[Legea 108-2016 — gazele naturale (notă)|L108/2016]]. Overlay: [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]].
+
+## Definition
+**CTPₙ** is the planned technological consumption and normative losses (thousand m³) for year *n*:
+
+`CTPₙ = (Vₜ × Nₚₙ) / 100`
+
+where **Vₜ** is planned (or, on update, factual) transported volume **excluding backhaul**, and **Nₚₙ** is the normative loss percentage derived from factual CTP/V over years *n−5…n−1*.
+
+## Incentive edge
+* If factual CTP **>** normative because of repair purging, purge-gas volumes **Qₚᵣ** may be added (formulas for emptying / purge / air displacement).
+* If factual CTP **<** normative, the tariff update accepts the **factual** (lower) figure — efficiency retained by the TSO / not paid as normative pad.
+
+## Links
+* [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)]]
+* [[Concept — Tarif de transport]] · [[Concept — Baza activelor reglementate]]
+* [[MOC — Tarife și metodologii ANRE]] · [[Energetică — metodologii tarifare (notă)]]

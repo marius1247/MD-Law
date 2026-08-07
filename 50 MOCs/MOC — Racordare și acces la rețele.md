@@ -30,13 +30,20 @@ Centrul de comandă pentru normele privind accesul la rețelele electrice, de ga
 * [[HANRE 112-2019 — racordarea la retelele de gaze (notă)|HANRE 112/2019]] — *Regulamentul privind racordarea la rețelele de gaze naturale*
 * [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)|HANRE 420/2019]] — *Codul rețelelor de gaze naturale*
 
-## 3. Concepte Atomice Asociate
+## 3. Prosumers / capacity envelopes
+* [[Concept — Facturare netă]] — net billing
+* [[HG 401-2021 — cote capacitate facturare neta (notă)|HG 401/2021]] — caps to 31.12.2025
+* [[HG 599-2025 — limite capacitate regenerabile 2030 (notă)|HG 599/2025]] — RES quotas to 2030
+* Thermal supply contract interface: [[HANRE 23-2017 — furnizarea energiei termice (notă)|HANRE 23/2017]]
+
+## 4. Concepte Atomice Asociate
 * [[Concept — Loc de consum]]
 * [[Concept — Punct de delimitare]]
 * [[Concept — Aviz de racordare]]
 * [[Concept — Capacitate rezervată]]
+* [[Concept — Facturare netă]]
 
-## 4. Acte de Racordare și Acces (Dataview)
+## 5. Acte de Racordare și Acces (Dataview)
 ```dataview
 TABLE domain AS "Sector", legal_status AS "Statut"
 FROM #acte_normative

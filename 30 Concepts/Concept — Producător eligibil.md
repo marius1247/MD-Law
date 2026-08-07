@@ -35,7 +35,7 @@ The capacity threshold separating the tracks, and the quota, are set administrat
 - **Guarantees of origin**, tracking the renewable attribute separately from the energy itself
 
 ## Prosumers — a different animal
-Small self-consumers with generation are handled by **net metering / net billing** rather than the eligible-producer track: surplus injected is set off against consumption over a settlement period. Lower administrative burden, no quota competition, but no tariff support either. Secondary-act alignment after LP331/2023: [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|HANRE 833/2023]] (supply 169 + historic connection 168 patches; live connection now [[HANRE 311-2026 — racordarea la retelele electrice (notă)|311/2026]]).
+Small self-consumers with generation are handled by **net metering / [[Concept — Facturare netă|net billing]]** rather than the eligible-producer track: surplus injected is set off against consumption over a settlement period. Lower administrative burden, no quota competition, but no tariff support either. Secondary-act alignment after LP331/2023: [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|HANRE 833/2023]] (supply 169 + historic connection 168 patches; live connection now [[HANRE 311-2026 — racordarea la retelele electrice (notă)|311/2026]]).
 
 ## Governing provisions
 - [[Legea 10-2016 — surse regenerabile (notă)]] — support scheme, eligibility, quotas, net billing ✅ *(complete consolidation)*
@@ -47,3 +47,7 @@ Small self-consumers with generation are handled by **net metering / net billing
 
 ## Related
 [[Concept — Racordare la rețea]] · [[Concept — Tarif reglementat]] · [[Concept — Parte responsabilă de echilibrare]] · [[Energetică — synthesis]]
+
+## Capacity envelopes (Government)
+- Support-scheme quotas to 2030: [[HG 599-2025 — limite capacitate regenerabile 2030 (notă)|HG 599/2025]]
+- Net-billing caps to 31.12.2025: [[HG 401-2021 — cote capacitate facturare neta (notă)|HG 401/2021]] → [[Concept — Facturare netă]]

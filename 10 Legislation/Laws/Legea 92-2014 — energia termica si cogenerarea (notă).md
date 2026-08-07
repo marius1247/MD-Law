@@ -22,7 +22,7 @@ last_amended: '2026-07-26'
 
 # Legea nr. 92/2014 cu privire la energia termică și promovarea cogenerării — Analysis
 
-**Raw text:** [[Legea 92-2014 — energia termica si cogenerarea (text)]] ✅ *complete, 61 numbered articles in current consolidation* · **Hub:** [[MOC — Energetică]] · **Synthesis:** [[Energetică — synthesis]] · **Regulator:** [[ANRE]]
+**Raw text:** [[Legea 92-2014 — energia termica si cogenerarea (text)]] ✅ *complete, 61 numbered articles in current consolidation* · **Hub:** [[MOC — Energetică]] · **Synthesis:** [[Energetică — synthesis]] · **Regulator:** [[ANRE]] · **Supply regulation:** [[HANRE 23-2017 — furnizarea energiei termice (notă)|HANRE 23/2017]] *(contract annex in vault; regulation body pending)*
 
 > [!success] Full text now in the vault
 > The manual-browser download completed the consolidated text on 2026-07-26. Earlier truncation references to L92/2014 should be treated as obsolete. The complete file includes licensing, land/use rights, consumer contracts, metering, tariff regulation and the final provisions.
@@ -189,6 +189,7 @@ This is why the law emphasises affordability, public service, quality, continuit
 - [[Legea 174-2017 — energetica (notă)]]
 - [[Legea 164-2025 — energia electrica (notă)]]
 - [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)]]
+- [[HANRE 23-2017 — furnizarea energiei termice (notă)]]
 - [[Concept — Tarif reglementat]]
 - [[Concept — Licență în energetică]]
 - [[ANRE]]

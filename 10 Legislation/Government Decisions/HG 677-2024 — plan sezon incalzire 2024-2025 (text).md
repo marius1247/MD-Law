@@ -28,7 +28,7 @@ updated: 2026-08-07
 source_ingest: pdf-upload-pdftotext
 legal_status: in_vigoare
 enabling_act: "[[Legea 174-2017 — energetica (text)|L174/2017]] art. 4(1)(e) · [[Legea 108-2016 — gazele naturale (text)|L108/2016]] art. 108²(3)-(4)"
-status_ingestie: dispozitiv complet — anexele lipsesc
+status_ingestie: dispozitiv + anexa 1 (comisie) ✅ — anexa 2 (plan măsuri) încă lipsește
 ---
 # HG 677-2024 — plan sezon incalzire 2024-2025
 
@@ -37,7 +37,7 @@ status_ingestie: dispozitiv complet — anexele lipsesc
 > Analiză: [[HG 677-2024 — plan sezon incalzire 2024-2025 (notă)]].
 
 > [!warning] Anexele lipsesc
-> PDF conține dispozitivul hotărârii; anexele nr. 1–2 (componență comisie + plan măsuri) nu sunt incluse.
+> Dispozitiv + **anexa nr. 1 (componența Comisiei)** ingestate. **Anexa nr. 2 (planul de măsuri)** încă lipsește.
 
 ---
 
@@ -95,5 +95,99 @@ Contrasemnează:
 Ministrul energiei Victor Parlicov
 Ministrul finanțelor Victoria Belous
 Nr. 677. Chişinău, 2 octombrie 2024.
-anexa nr.1
-anexa nr.2
+
+---
+
+## Anexa nr. 1 — Componența Comisiei (upload 2026-08-07)
+
+Anexa nr. 1
+
+la Hotărârea Guvernului nr. 677/2024
+
+**COMPONENȚA**
+
+**Comisiei guvernamentale de coordonare a măsurilor de pregătire pentru sezonul  
+de încălzire 2024-2025 și de atenuare a impactului crizei energetice în caz de limitare**
+
+**a furnizării gazelor naturale și/sau a energiei electrice**
+
+Prim-ministru, președinte al Comisiei
+
+Ministru al energiei, vicepreședinte al Comisiei
+
+Viceprim-ministru pentru reintegrare
+
+Viceprim-ministru, ministru al dezvoltării economice și digitalizării
+
+Viceprim-ministru, ministru al agriculturii și industriei alimentare
+
+Ministru al infrastructurii și dezvoltării regionale
+
+Ministru al finanțelor
+
+Ministru al muncii și protecției sociale
+
+Ministru al afacerilor interne
+
+Ministru al mediului
+
+Ministru al educației și cercetării
+
+Ministru al sănătății
+
+Director al Agenției Proprietății Publice
+
+Director al Agenției Naționale pentru Reglementare în Energetică
+
+Director al Agenției Rezerve Materiale
+
+Director al Agenției „Moldsilva”
+
+Director al Agenției Achiziții Publice
+
+Directorl general al Agenției Naționale pentru Soluționarea Contestațiilor
+
+Șef al Inspectoratului Național pentru Supraveghere Tehnică
+
+Director al Centrului Național pentru Energie Durabilă
+
+Director al Serviciului Vamal
+
+Director al Serviciului Fiscal de Stat
+
+Șef al Inspectoratului General pentru Situații de Urgență
+
+Reprezentant al Congresului Autorităților Locale din Moldova
+
+Director al Întreprinderii de Stat „Administrația de Stat a Drumurilor”
+
+Director al Întreprinderii de Stat „Calea Ferată din Moldova”
+
+Director al Întreprinderii de Stat „Moldelectrica”
+
+Director al Societății pe Acțiuni „Moldovagaz”
+
+Director al Societății pe Acțiuni „Energocom”
+
+Director al Societății pe Acțiuni „Termoelectrica”
+
+Director al Societății pe Acțiuni „CET-Nord”
+
+Director al Societății pe Acțiuni „RED-Nord”
+
+Director al Societății pe Acțiuni „FEE-Nord”
+
+Director al Societății cu Răspundere Limitată „Moldovatransgaz”
+
+Director al Societății cu Răspundere Limitată „Vestmoldtransgaz”
+
+Director al Întreprinderii cu Capital Străin „Premier Energy Distribution” SA
+
+Director al Întreprinderii cu Capital Străin „Premier Energy” SRL
+
+Director dezvoltare în cadrul Asociației Obștești „Alianța pentru Eficientă Energetică și Regenerabile”
+
+Manager de program în cadrul Comunității pentru advocacy și politici publice „WatchDog.MD”
+
+> [!warning] Anexa nr. 2
+> Planul de măsuri pentru sezonul de încălzire 2024–2025 încă nu este în vault. Verificați [legis.md](https://www.legis.md/cautare/getResults?lang=ro&doc_id=145465).

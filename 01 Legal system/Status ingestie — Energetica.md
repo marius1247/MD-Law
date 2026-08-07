@@ -73,12 +73,12 @@ Other newly relevant amendment/transition acts now present:
 | Act | Problem | Priority |
 |---|---|---|
 | [[HANRE 423-2019 — Codul retelelor electrice (text)]] | **decision-only; clean annex consolidation missing** (partial substance via [[HANRE 656-2021 — modificare Codul retelelor electrice (text)\|656/2021]]) | High for point-perfect citations |
-| HANRE **535/2019** gas TSO tariff methodology | parent not ingested; [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)\|329/2025]] ✅ | High for full tariff opinions |
-| HANRE **537/2020** QoS EE | **decision-only** ✅; annex still missing; patched by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)\|833/2023]] | Medium — need annex for SAIDI/SAIFI |
+| HANRE **535/2019** gas TSO tariff methodology | decision + **CTP annex** ✅; methodology body still missing; [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)|329/2025]] ✅ | High for full tariff opinions |
+| ~~HANRE **537/2020** QoS EE~~ | ✅ regulation + annexes ingested 2026-08-07; patched by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)|833/2023]]; L107 currency | Done (currency watch) |
 | [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]] | likely annex/methodology completeness should be rechecked | Medium |
 | [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]] | likely annex/methodology completeness should be rechecked | Medium |
 | [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] | earlier flagged as detached-annex risk | Medium |
-| [[HANRE 535-2019 — Metodologie tarife transport gaze (text)\|HANRE 535/2019]] | **decision-only; methodology annex missing** (doc_id 149131). Amended by HANRE 329/2025 (not ingested) | High for gas TSO tariff advice |
+| [[HANRE 535-2019 — Metodologie tarife transport gaze (text)|HANRE 535/2019]] | decision + CTP annex ✅; **methodology body missing** (doc_id 149131). Amended by [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)|329/2025]] ✅ | High for gas TSO tariff advice |
 
 ## Electricity transition map — L107 to L164
 
@@ -89,6 +89,24 @@ Other newly relevant amendment/transition acts now present:
 | [[HANRE 486-2017 — Metodologie tarife transport EE (text)]] | **Abrogated** by [[HANRE 626-2023 — Metodologie tarife transport EE (text)]] |
 | [[HANRE 283-2020 — Regulile pietei energiei electrice (text)]] | Complete annex, amended 2026, but originally L107-based; check for L164 re-adoption/replacement |
 | [[HANRE 423-2019 — Codul retelelor electrice (text)]] | Decision-only parent; [[HANRE 656-2021 — modificare Codul retelelor electrice (text)\|656/2021]] ingested; originally L107-based |
+
+
+
+## ✅ Annex upload batch — 2026-08-07e
+
+| Upload | Landed as | Status |
+|---|---|---|
+| `537_regulament_1__4dd7.md` | [[HANRE 537-2020 — calitate servicii transport distributie EE (text)]] | ✅ full regulation + annexes 1–4 |
+| `an_1_535md_0728.md` | [[HANRE 535-2019 — Metodologie tarife transport gaze (text)]] | ✅ CTP annex; methodology body still ❌ |
+| `an_1_53md_ef64.md` / `an_2_53md_895d.md` | [[HG 53-2025 — durabilitate biocarburanti emisii GES (text)]] | ✅ regulation annexes 1–2; annex 3 ❌ |
+| `an_1_677_ro_3ca3.md` | [[HG 677-2024 — plan sezon incalzire 2024-2025 (text)]] | ✅ commission annex 1; action-plan annex 2 ❌ |
+| `an_1_599_ro_65a2.md` | [[HG 599-2025 — limite capacitate regenerabile 2030 (text)]] | ⚠️ annex 1 only (new act) |
+| `an_2_401_ro_b62e.md` | [[HG 401-2021 — cote capacitate facturare neta (text)]] | ⚠️ annex 2 only (new act; sunset 31.12.2025) |
+| `an_1_792_md_6e3f.md` | [[HANRE 23-2017 — furnizarea energiei termice (text)]] | ⚠️ contract annex only (new act) |
+| `an__620_ro_877e.md` / `an_1_620_ro_05ce.md` | [[HG 620-2025 — transmitere bunuri Fond eficienta energetica (text)]] | ⚠️ handover forms only (new act) |
+| `an__3_517md_8423.md` | [[HG 517 — constructia reconstructia centralelor electrice (text)]] | ⚠️ annex 3 form only (new act; confirm HG year) |
+
+Concepts added: [[Concept — Indicatori de calitate SAIDI SAIFI]] · [[Concept — Consum tehnologic gaze]] · [[Concept — Facturare netă]].
 
 ## Limitation 1 — the ~96 KB fetch ceiling
 
@@ -136,7 +154,7 @@ Procedure/civil/procurement support notes also created because they are needed f
 ## Scope decision (deliberate)
 Individual **tariff decisions and licences** were *not* ingested. ANRE issues these continuously; they date fast and would swamp the graph. Only structural acts — rules, codes, procedures, methodologies — are in scope. Current tariffs: [ANRE › Tarife în vigoare](https://anre.md/tarife-in-vigoare-3-204).
 
-**Exception (2026-08-07 PDF batch):** [[HANRE 535-2019 — Metodologie tarife transport gaze (text)|HANRE 535/2019]] approving decision was ingested as a methodology parent stub (annex still missing); companion amend [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] is in vault.
+**Exception (2026-08-07 PDF batch / annex batch):** [[HANRE 535-2019 — Metodologie tarife transport gaze (text)|HANRE 535/2019]] decision + CTP annex are in vault; methodology body still missing. Companion amend [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] is in vault.
 
 ## Newly ingested parents (2026-08-06 / 2026-08-07)
 
@@ -190,7 +208,7 @@ Individual **tariff decisions and licences** were *not* ingested. ANRE issues th
 ## Current priorities
 
 1. **Manual download** remaining annexes (legis.md Cloudflare blocks automation): clean consolidation of [[HANRE 423-2019 — Codul retelelor electrice (text)]] (656 helps but is not a consolidation), finish [[HANRE 169-2019 — furnizarea energiei electrice (text)]] past pt. 146, [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]], [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]], [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] annexes — see [[Analysis backlog — texts without notes]].
-2. Ingest still-missing parents: ~~HANRE **853/2025**~~ ✅ · ~~Laws **461/2001** & **248/2025**~~ ✅ · ~~**94/2019**–**8/2023** batch 1~~ ✅ · ~~**297/2022**, **HG 10/2024**, **L234/2022** batch 2~~ ✅ · ~~**355/2021**, **540/2024**, **HG 621/622/364/677** batch 3~~ ✅ · **535/2019**, **355/2021 methodology annexes**, **537/2020** QoS annex, **422/2019**, **443/2020**, **L282/2023**.
+2. Ingest still-missing parents: ~~HANRE **853/2025**~~ ✅ · ~~Laws **461/2001** & **248/2025**~~ ✅ · ~~**94/2019**–**8/2023** batch 1~~ ✅ · ~~**297/2022**, **HG 10/2024**, **L234/2022** batch 2~~ ✅ · ~~**355/2021**, **540/2024**, **HG 621/622/364/677** batch 3~~ ✅ · ~~**537/2020** QoS regulation~~ ✅ (2026-08-07e) · **535/2019 methodology body** (CTP annex ✅), **355/2021 methodology annexes**, **422/2019**, **443/2020**, **L282/2023**, **HG 599/620/517** bodies, **HANRE 23/2017** regulation body.
 3. Re-check electricity HANRE acts for L164-based re-adoption/replacement.
 4. Watch for a gas equivalent of [[Legea 164-2025 — energia electrica (text)|L164/2025]].
 5. Keep amendment acts (177, 261, 383, 328, 310, **656**, **833**, **329**) linked from affected notes.

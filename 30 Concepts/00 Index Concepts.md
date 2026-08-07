@@ -58,3 +58,8 @@ SORT file.name ASC
 * [[MOC — Piața de energie electrică]]
 * [[MOC — Racordare și acces la rețele]]
 * [[MOC — Tarife și metodologii ANRE]]
+
+## Added 2026-08-07 (annex batch)
+- [[Concept — Facturare netă]] — prosumer monetary netting; HG 401/2021 → HG 599/2025 envelopes
+- [[Concept — Indicatori de calitate SAIDI SAIFI]] — electricity QoS continuity indices (HANRE 537/2020)
+- [[Concept — Consum tehnologic gaze]] — gas TSO CTP / normative losses (HANRE 535/2019 annex)

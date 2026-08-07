@@ -181,3 +181,17 @@ updated: 2026-08-07
 
 ## See also
 [[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]
+
+## Annex uploads — 2026-08-07e (no legis doc_id)
+
+| Raw file | Vault location |
+|---|---|
+| [`upload-hanre-537-2020-regulament.md`](upload-hanre-537-2020-regulament.md) | `10 Legislation/Authority Acts/HANRE 537-2020 — calitate servicii transport distributie EE (text).md` |
+| [`upload-hanre-535-2019-anexa-ctp.md`](upload-hanre-535-2019-anexa-ctp.md) | `10 Legislation/Authority Acts/HANRE 535-2019 — Metodologie tarife transport gaze (text).md` |
+| [`upload-hg-53-2025-anexa1-energie.md`](upload-hg-53-2025-anexa1-energie.md) · [`upload-hg-53-2025-anexa2-materii.md`](upload-hg-53-2025-anexa2-materii.md) | `10 Legislation/Government Decisions/HG 53-2025 — durabilitate biocarburanti emisii GES (text).md` |
+| [`upload-hg-677-2024-anexa1.md`](upload-hg-677-2024-anexa1.md) | `10 Legislation/Government Decisions/HG 677-2024 — plan sezon incalzire 2024-2025 (text).md` |
+| [`upload-hg-599-2025-anexa1.md`](upload-hg-599-2025-anexa1.md) | `10 Legislation/Government Decisions/HG 599-2025 — limite capacitate regenerabile 2030 (text).md` |
+| [`upload-hg-401-2021-anexa2.md`](upload-hg-401-2021-anexa2.md) | `10 Legislation/Government Decisions/HG 401-2021 — cote capacitate facturare neta (text).md` |
+| [`upload-hanre-23-2017-anexa1-contract.md`](upload-hanre-23-2017-anexa1-contract.md) | `10 Legislation/Authority Acts/HANRE 23-2017 — furnizarea energiei termice (text).md` |
+| [`upload-hg-620-2025-anexa-act.md`](upload-hg-620-2025-anexa-act.md) · [`upload-hg-620-2025-anexa1-lista.md`](upload-hg-620-2025-anexa1-lista.md) | `10 Legislation/Government Decisions/HG 620-2025 — transmitere bunuri Fond eficienta energetica (text).md` |
+| [`upload-hg-517-anexa3-nota.md`](upload-hg-517-anexa3-nota.md) | `10 Legislation/Government Decisions/HG 517 — constructia reconstructia centralelor electrice (text).md` |

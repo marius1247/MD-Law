@@ -66,7 +66,7 @@ So gas law in Moldova is only formally about market rules. In substance it is ab
 - [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)|HANRE 420/2019]] — network code ✅ *annex complete*; conditional capacity via [[HANRE 328-2025 — modificare Codul retelelor de gaze naturale (notă)|328/2025]] + [[HANRE 310-2026 — modificare Codul retelelor de gaze naturale (notă)|310/2026]] · [[Concept — Capacitate condiționată]]
 - [[HANRE 112-2019 — racordarea la retelele de gaze (notă)|HANRE 112/2019]] — connection ✅
 - [[HANRE 113-2019 — furnizarea gazelor naturale (notă)|HANRE 113/2019]] — supply ✅; retail modernisation [[HANRE 177-2026 — modificarea unor hotarari ANRE (notă)|177/2026]] (fixed-price ≥12m, comparison tool, >50 MWh/day imbalance)
-- Gas tariff methodologies HANRE **535/2019** and **443/2020** — **not yet ingested**, a real gap
+- Gas tariff methodologies [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)|HANRE 535/2019]] ✅ and [[HANRE 443-2020 — Metodologie tarife distributie gaze (notă)|443/2020]] ✅ · market hub [[MOC — Piața gazelor naturale]]
 
 ## Legal ambiguities, vulnerabilities & risk matrix
 
@@ -87,7 +87,7 @@ So gas law in Moldova is only formally about market rules. In substance it is ab
 
 ## Open questions
 - Verify the current corporate perimeter of the incumbent before relying on any unbundling analysis; this changes.
-- Gas tariff methodologies HANRE 535/2019 and 443/2020 — not yet ingested.
+- Gas tariff methodologies HANRE 535/2019 and 443/2020 — now in vault; see [[MOC — Piața gazelor naturale]]
 - **REMIT** obligations under L108 arts. 94¹–94⁶ — see [[Energetică — licențiere cross-border și REMIT (notă)]].
 
 ## Sources

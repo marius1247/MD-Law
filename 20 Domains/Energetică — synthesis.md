@@ -5,12 +5,15 @@ domeniu: [energetică]
 tags: [domain, analysis, energetică]
 status: draft
 created: 2026-07-23
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Energy — sector synthesis
 
 The reasoning layer for the energy corpus. Raw acts: [[MOC — Energetică]]. Text completeness caveats: [[Status ingestie — Energetica]].
+
+> [!tip] Analysis architecture (2026-08-07)
+> Inter-law map + market-segmentation taxonomy: **[[Energetică — architecture map]]**. Build plan: [[Roadmap — Energy analysis architecture]]. First filled market hub: [[MOC — Piața de energie electrică]].
 
 > [!danger] Updated 2026-07-23 — the electricity law changed
 > **[[Legea 164-2025 — energia electrica (notă)|Legea nr. 164/2025]] repealed [[Legea 107-2016 — energia electrica (text)|L107/2016]] in full**, in force 19 August 2025. Moldova moved from the EU **third package to the fourth**: Dir. (EU) 2019/944, Reg. (EU) 2019/943, **REMIT** and **CACM** are all now transposed. Storage, aggregation and trading became regulated activities; active consumers, citizen energy communities, demand response, flexible connection agreements and market coupling entered the law. Sections below have been updated; anything citing an L107 article number is historical.
@@ -68,11 +71,13 @@ This is the pressure point in the current liberalisation programme: PSOs for lar
 
 ## 4. Market design
 
-**Electricity.** The market rules ([[HANRE 283-2020 — Regulile pietei energiei electrice (notă)|HANRE 283/2020]], as amended by [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (notă)|383/2026]]) define the segments — bilaterals / POCB, day-ahead and intraday, balancing, and imbalance settlement. The economic core is that every participant nominates a schedule and pays for deviating from it — [[Concept — Parte responsabilă de echilibrare|BRP]] is the pivotal role. Live statutory frame: [[Legea 164-2025 — energia electrica (notă)|L164/2025]].
+Segment-level navigation (actors, regulated activities, governing stack) lives in the architecture layer — do not expand this section into a catalogue.
+
+**Electricity.** → **[[MOC — Piața de energie electrică]]**. The market rules ([[HANRE 283-2020 — Regulile pietei energiei electrice (notă)|HANRE 283/2020]], as amended by [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (notă)|383/2026]]) define the segments — bilaterals / POCB, day-ahead and intraday, balancing, and imbalance settlement. The economic core is that every participant nominates a schedule and pays for deviating from it — [[Concept — Parte responsabilă de echilibrare|BRP]] is the pivotal role. Live statutory frame: [[Legea 164-2025 — energia electrica (notă)|L164/2025]].
 
 **A 2026 structural change:** suppliers and system operators are again required to procure electricity — **including for network losses** — through **market-based mechanisms**. During the crisis years this had been suspended in favour of directed/negotiated procurement. Its restoration is the single most consequential change to trading practice in the current period, and it interacts with [[MOC — Achiziții publice & Statul|procurement law]] via [[Legea 74-2020 — achizitii sectoriale (notă)|L74/2020]] (utilities/sectoral). Historic ANRE regulation [[HANRE 24-2017 — achizitii titulari de licenta (abrogata) (notă)|HANRE 24/2017]] was **abrogated** by [[HANRE 305-2021 — abrogare HANRE 24-2017 achizitii titulari (notă)|HANRE 305/2021]] (IF 06.08.2021) — do not cite it as live.
 
-**Gas.** [[HANRE 534-2019 — Regulile pietei gazelor naturale (text)|HANRE 534/2019]] is the one tier-3 act in the vault with **complete text** — so it is the best available specimen for seeing how ANRE actually drafts market rules. Read it as the model even when the question is about electricity.
+**Gas.** [[HANRE 534-2019 — Regulile pietei gazelor naturale (text)|HANRE 534/2019]] is the best specimen for how ANRE drafts market rules. Full gas market hub is Step 3 of [[Roadmap — Energy analysis architecture]] — until then use [[Energetică — sector gaze ANRE (notă)]] and the bridge table in [[Energetică — architecture map]].
 
 ## 5. Renewables
 
@@ -128,4 +133,4 @@ Alignment landmarks in the corpus:
 - Corporate-law overlap: unbundling is executed through **group restructuring** — see [[Societăți & guvernanță — synthesis]]
 
 ## Related
-[[MOC — Energetică]] · [[ANRE]] · [[CNED]] · [[Concept — Tarif reglementat]] · [[Concept — Unbundling]] · [[Concept — Licență în energetică]] · [[Concept — Racordare la rețea]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Producător eligibil]] · [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Audit energetic]] · [[Concept — Contract de performanță energetică]] · [[Concept — Parte obligată (eficiență energetică)]]
+[[Energetică — architecture map]] · [[MOC — Piața de energie electrică]] · [[Roadmap — Energy analysis architecture]] · [[MOC — Energetică]] · [[ANRE]] · [[CNED]] · [[Concept — Tarif reglementat]] · [[Concept — Unbundling]] · [[Concept — Licență în energetică]] · [[Concept — Racordare la rețea]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Producător eligibil]] · [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Audit energetic]] · [[Concept — Contract de performanță energetică]] · [[Concept — Parte obligată (eficiență energetică)]]

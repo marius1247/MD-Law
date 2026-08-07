@@ -16,10 +16,12 @@ Domain hub for the **energy sector**. 22 acts across three tiers. Core primary l
 > **[[Legea 164-2025 — energia electrica (text)|Legea nr. 164/2025]] repealed [[Legea 107-2016 — energia electrica (text)|L107/2016]] in full.** Moldova moved from the EU third package to the **fourth** — plus **REMIT** and **CACM**. New regulated activities: **storage, aggregation, trading**. New actors: active consumers, citizen energy communities, independent aggregators, OPEED. Every ANRE act below was issued under the repealed law and is living on transitional provisions. → [[Legea 164-2025 — energia electrica (notă)]]
 
 > [!tip] Start with the synthesis, not the acts
-> **[[Energetică — synthesis]]** is the reasoning layer: what the sector is organised around, where the risk sits, what changed in 2025–26. The act list below is the raw material.
+> **[[Energetică — synthesis]]** is the reasoning layer: what the sector is organised around, where the risk sits, what changed in 2025–26. For **how laws talk to each other** and **market segmentation**, use **[[Energetică — architecture map]]**. The act list below is the raw material.
 
 ## Analysis layer
 - **[[Energetică — synthesis]]** — the domain synthesis
+- **[[Energetică — architecture map]]** — inter-law bridges + market taxonomy · plan: [[Roadmap — Energy analysis architecture]]
+- **Market hubs:** [[MOC — Piața de energie electrică]] *(Step 1 ✅)* · gas / petroleum / thermal / biofuels / H₂ — queued
 - **Law House dossiers (cross-act):** [[Energetică — metodologii tarifare (notă)]] · [[Energetică — licențiere cross-border și REMIT (notă)]] · [[Energetică — contencios administrativ și precedente (notă)]]
 - **Sector dossiers:** [[Energetică — sector gaze ANRE (notă)]] · [[Energetică — sector electricitate ANRE (notă)]] · [[Energetică — tarife regenerabile si utilitati (notă)]]
 - **Vault audit:** [[Audit vault — Law House Knowledge Engine — 2026-07-28]] · [[Status ingestie — Uploads]]

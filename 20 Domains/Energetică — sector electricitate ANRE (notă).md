@@ -11,7 +11,7 @@ updated: 2026-07-28
 
 # Electricity sector — ANRE regulatory framework (sector dossier)
 
-Cross-act synthesis for Moldova's regulated electricity market. Hub: [[MOC — Energetică]] · Primary law: [[Legea 164-2025 — energia electrica (notă)]] *(replaces L107/2016)*
+Cross-act synthesis for Moldova's regulated electricity market. Hub: [[MOC — Energetică]] · Market map: [[MOC — Piața de energie electrică]] · Architecture: [[Energetică — architecture map]] · Primary law: [[Legea 164-2025 — energia electrica (notă)]] *(replaces L107/2016)*
 
 ## Source files
 
@@ -26,6 +26,8 @@ Cross-act synthesis for Moldova's regulated electricity market. Hub: [[MOC — E
 
 ## Market structure
 
+Full segment / actor / regulated-activity map: **[[MOC — Piața de energie electrică]]**.
+
 ```
 [ Producers / Importers ] ──► [ Wholesale Market (Bilateral / DAM / BM) ]
                                         │
@@ -33,7 +35,7 @@ Cross-act synthesis for Moldova's regulated electricity market. Hub: [[MOC — E
 [ TSO / DSO ] ──► [ Suppliers ] ──► [ End Consumers ]
 ```
 
-Segments: Bilateral Contracts Market · Day-Ahead (PZU) · Intraday (PI) · Balancing (PE) · Ancillary Services.
+Segments: Bilateral Contracts Market · Day-Ahead (PZU) · Intraday (PI) · Balancing (PE) · Ancillary Services · FCEE / FUO lanes · L164 flexibility actors.
 
 ## Key provisions & 2026 updates
 
@@ -66,8 +68,9 @@ Segments: Bilateral Contracts Market · Day-Ahead (PZU) · Intraday (PI) · Bala
 - [ ] Verify REMIT registration under [[Legea 164-2025 — energia electrica (notă)]].
 - [ ] Challenge supply-quality failures under HANRE 169/2019 compensation rules.
 
-## Cross-links
-
-- [[Energetică — sector gaze ANRE (notă)]] — parallel gas framework
-- [[Energetică — metodologii tarifare (notă)]] — transmission/distribution tariffs
-- [[Energetică — contencios administrativ și precedente (notă)]] — litigation pathways
+- Cross-links
+  - [[MOC — Piața de energie electrică]] — segment / actor / activity hub
+  - [[Energetică — architecture map]] — inter-law bridges
+  - [[Energetică — sector gaze ANRE (notă)]] — parallel gas framework
+  - [[Energetică — metodologii tarifare (notă)]] — transmission/distribution tariffs
+  - [[Energetică — contencios administrativ și precedente (notă)]] — litigation pathways

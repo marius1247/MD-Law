@@ -55,9 +55,11 @@ SORT file.name ASC
 
 ## 🔗 Legături către Hărțile de Conținut (MOCs)
 
+* [[Energetică — architecture map]] — inter-law + market taxonomy
 * [[MOC — Piața de energie electrică]]
 * [[MOC — Racordare și acces la rețele]]
 * [[MOC — Tarife și metodologii ANRE]]
+* [[Roadmap — Energy analysis architecture]]
 
 ## Added 2026-08-07 (annex batch)
 - [[Concept — Facturare netă]] — prosumer monetary netting; HG 401/2021 → HG 599/2025 envelopes

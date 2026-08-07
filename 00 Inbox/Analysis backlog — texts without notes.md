@@ -56,7 +56,7 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 | HANRE **853/2025** balancing T&Cs (PRE/BSP) | ❌ blocked — legis.md Cloudflare; moldelectrica 403 from this environment |
 | HANRE **535/2019** gas transmission tariff methodology | ❌ no usable mirror yet |
 | Law **461/2001** petroleum products market | ❌ legis.md blocked |
-| Law **248/2025** crisis management | ❌ legis.md blocked |
+| Law **248/2025** crisis management | ❌ parent still missing · HG 346/2026 + L150/2026 ingested 2026-08-07 |
 
 ## Follow-ups — annex gaps (need manual browser download)
 

@@ -1,0 +1,628 @@
+---
+title: "HANRE 94-2019 — dezvoltarea retelelor electrice de distributie (text)"
+type: act-text
+instrument: act-anre
+act_type: hotărâre-anre
+nr: "94"
+an: 2019
+domeniu:
+- energetică
+- electricitate
+- rețele
+domain: [energetică, electricitate, rețele]
+forta_juridica: 8
+in_force: true
+in_vigoare: true
+mo_publicare: "MO 171-177/24.05.2019 art. 851"
+legis_id: "124161"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=124161"
+version_date: 2026-08-07
+versiune_text: 2026-08-07
+continut: text-integral
+text_complet: true
+puncte_numarate: 36
+articole_numarate: 0
+tags: [act, text, acte_normative, energetică]
+created: 2026-08-07
+updated: 2026-08-07
+source_ingest: pdf-ocr-upload
+issuer: ANRE
+legal_status: in_vigoare
+enabling_act: "[[Legea 164-2025 — energia electrica (text)|L164/2025]] · issued under L107/2016"
+---
+# HANRE 94-2019 — dezvoltarea retelelor electrice de distributie
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md** PDF (doc_id [124161](https://www.legis.md/cautare/getResults?lang=ro&doc_id=124161)), OCR + structură ușoară.
+> Puncte normalizate ca `### Punctul N.` unde OCR permite. Analiză: [[HANRE 94-2019 — dezvoltarea retelelor electrice de distributie (notă)]].
+
+> [!danger] L107 currency
+> Issued under repealed [[Legea 107-2016 — energia electrica (text)|L107/2016]]. Check whether ANRE re-adopted under [[Legea 164-2025 — energia electrica (text)|L164/2025]].
+
+---
+
+Republica Moldova
+AGENȚIA NAȚIONALĂ PENTRU REGLEMENTARE ÎN ENERGETICĂ
+
+HOTĂRÂRE Nr. HANRE94/2019
+din 04.04.2019
+
+cu privire la aprobarea Regulamentului privind dezvoltarea
+reţelelor electrice de distribuţie
+
+Publicat : 24.05.2019 în MONITORUL OFICIAL Nr. 171-177 art. 851 Data intrării în vigoare
+
+MODIFICAT
+
+HANRE414 din 10.11.20, MO313-317 /27.11.20, art.1241; în vigoare 27.12.20
+
+Înregistrat:
+
+Ministerul Justiţiei
+
+nr. 1446 din 15 mai 2019
+Ministrul justiției
+
+Victoria IFTODI
+
+În temeiul art. 8 alin. (1) lit. g), art. 45 alin. (1) și art.96 alin. (23) din Legea cu
+privire la energia electrică nr. 107 din 27 mai 2016 (Monitorul Oficial al Republicii Moldova,
+2016, nr.193-203, art.413), cu modificările ulterioare, Consiliul de Administraţie al Agenţiei
+Naţionale pentru Reglementare în Energetică
+
+HOTĂRĂȘTE:
+
+### Punctul 1. Se aprobă Regulamentul privind dezvoltarea rețelelor electrice de distribuţie (se
+anexează).
+
+### Punctul 2. Operatorii de sistem vor prezenta planul de dezvoltare pentru perioada
+2020-2022 - până la 1 septembrie 2019, iar pentru perioadele următoare - conform
+termenului prevăzut în pct.9 al Regulamentului privind dezvoltarea reţelelor electrice de
+distribuţie.
+
+### Punctul 3. Se abrogă Regulamentul cu privire la extinderea reţelelor electrice de distribuție
+aprobat prin Hotărârea Consiliului de Administrație al Agenţiei Naţionale pentru
+Reglementare în Energetică nr. 439 din 23 noiembrie 2011 (Monitorul Oficial al Republicii
+Moldova, 2011, nr.16-18, art.59), înregistrat la Ministerul Justiţiei cu nr. 866 din 10 ianuarie
+
+
+2012.
+
+### Punctul 4. Controlul asupra executării prezentei hotărâri se pune în sarcina subdiviziunilor
+Agenţiei Naţionale pentru Reglementare în Energetică.
+
+DIRECTOR GENERAL Veaceslav UNTILA
+
+DIRECTOR Octavian CALMIC
+
+DIRECTOR Eugen CARPOV
+
+DIRECTOR Stefan CREANGA
+Nr. 94/2019. Chisinau, 4 aprilie 2019.
+
+Aprobat
+prin Hotararea Consiliului
+de Administratie al ANRE
+
+nr. 94/2019 din 4 aprilie 2019
+
+REGULAMENT
+privind dezvoltarea retelelor electrice de distributie
+### Secțiunea 1
+Dispozitii generale
+
+### Punctul 1. Regulamentul cu privire la dezvoltarea retelelor electrice de distributie (in
+continuare - Regulament) are ca scop stabilirea:
+
+1) modului de elaborare, evaluare si aprobare a planurilor de dezvoltare a retelelor
+electrice de distributie;
+
+2) etapelor si procedurii de dezvoltare a retelelor electrice de distributie;
+
+3) responsabilitatilor partilor implicate in procesul de dezvoltare a retelelor electrice
+de distributie.
+
+### Punctul 2. Prezentul Regulament se aplica de catre operatorii sistemelor de distributie (in
+continuare - OSD), autoritatile administratiei publice locale (in continuare AAPL), asociatii
+si investitori.
+
+### Punctul 3. OSD este responsabil de dezvoltarea retelei electrice de distributie, in conditii de
+
+
+eficienţă economică, asigurând fiabilitatea și continuitatea în aprovizionarea consumatorilor
+finali cu energie electrică în limitele teritoriului autorizat.
+
+### Punctul 4. În sensul prezentului Regulament, se utilizează noţiunile definite în Legea nr. 174
+din 21 septembrie 2017 cu privire la energetică și Legea nr. 107 din 27 mai 2016 cu privire
+la energia electrică, precum şi noţiunile definite după cum urmează:
+
+asociaţie - asociaţie de coproprietari în condominiu ce include terenul în hotarele
+stabilite și blocurile (blocul) de locuit, alte obiecte imobiliare amplasate pe acesta, în care o
+parte, constituind locuinţele, încăperile cu altă destinaţie decât aceea de locuinţă, se află în
+proprietate privată, de stat sau municipală, iar restul este proprietate indiviză;
+
+investitor - persoană fizică sau juridică care face o investiţie în dezvoltarea unui
+cartier sau microraion locativ;
+
+plan de dezvoltare a reţelei electrice de distribuţie - document de planificare pe
+termen lung (3 ani) a necesarului de investiţii în dezvoltarea reţelei electrice de distribuţie,
+cu scopul acoperirii cererii de energie electrică și asigurării livrării acesteia către
+consumatorii finali;
+
+solicitant - persoană fizică sau juridică care a depus cerere pentru eliberarea
+avizului de racordare;
+
+teritoriu autorizat - zonă geografică delimitată, în limitele căreia OSD este autorizat
+prin licenţă să desfăşoare activitatea de distribuţie a energiei electrice.
+
+### Secțiunea 2
+Planul de dezvoltare
+
+### Punctul 5. OSD este obligat să elaboreze şi să prezinte Agenţiei Naţionale pentru
+Reglementare în Energetică (în continuare - Agenţie) spre aprobare un plan de dezvoltare a
+reţelei electrice de distribuţie pentru o perioadă de 3 ani (în continuare - Plan de
+dezvoltare).
+
+### Punctul 6. OSD elaborează proiectul Planului de dezvoltare ţinând cont de Strategia
+energetică a Republicii Moldova, de oferta şi de cererea energiei electrice actuală şi
+prognozată, de planurile urbanistice sau planurile de amenajare a teritoriului localităţilor,
+precum și de planurile de investiții pentru reţelele adiacente, de studiile proprii și de
+proiectele de construcţie a reţelelor electrice de distribuţie cu destinaţie locală elaborate și
+prezentate de AAPL. În scopul elaborării Planului de dezvoltare, OSD colaborează cu
+operatorul sistemului de transport şi cu alţi OSD.
+
+### Punctul 7. Proiectul Planului de dezvoltare elaborat de OSD se consultă cu AAPL, utilizatorii
+de sistem și alte parti interesate prin plasarea proiectului Planului de dezvoltare pe pagina
+oficială a OSD.
+
+### Punctul 8. Planul de dezvoltare trebuie să conţină informaţiile indicate în anexa nr. 1 la
+prezentul Regulament, fără a se limita la acestea, iar proiectele de dezvoltare - informațiile
+
+
+indicate în anexa nr. 2 la prezentul Regulament.
+
+### Punctul 9. Planul de dezvoltare se elaborează și se prezintă Agenţiei pentru examinare şi
+aprobare o dată la trei ani. Termenul de prezentare a Planului de dezvoltare pentru
+următoarea perioadă de 3 ani este ziua de 30 mai a ultimului an din perioada curentă.
+
+### Punctul 10. Planul de dezvoltare elaborat și prezentat de OSD se examinează și se aprobă de
+Agenţie, în termen de 3 luni de la data prezentării.
+
+### Punctul 11. La examinarea Planului de dezvoltare, Agenţia, în caz de necesitate, solicită OSD
+să consulte autorităţile publice, întreprinderile electroenergetice şi unii utilizatori de sistem,
+existenţi sau potenţiali, în legătură cu planul de dezvoltare, prezentând ulterior Agenţiei
+informaţia cu privire la rezultatele consultărilor. Agenţia este în drept să solicite OSD
+modificarea Planului de dezvoltare, inclusiv dacă acesta nu corespunde necesităţilor de
+investiţii identificate în procesul de consultare, pentru ulterioara aprobare a lui.
+
+### Punctul 12. Planul de dezvoltare, aprobat de Agenţie, se publică pe pagina web oficială a
+OSD şi pe pagina oficială a Agenţiei.
+
+### Punctul 13. După aprobarea Planului de dezvoltare, conform prevederilor prezentului
+Regulament, OSD este obligat să întreprindă măsurile corespunzătoare pentru dezvoltarea
+reţelelor electrice de distribuţie, planificând lucrările de construcţie şi darea în exploatare a
+reţelei electrice de distribuţie noi sau a porțiunii de reţea electrică de distribuţie, incluzând
+lucrările respective în planurile anuale de investiții. Lucrările de construcţie se execută în
+baza documentaţiei de proiect şi în conformitate cu exigenţele Legii privind calitatea în
+construcții nr. 721 din 02 februarie 1996 și Legea privind autorizarea executării lucrărilor
+de construcţie nr.163 din 9 iulie 2010.
+
+### Punctul 14. În funcţie de necesitate sau la solicitarea Agenţiei, Planul de dezvoltare, elaborat
+de OSD și aprobat de Agenţie, poate fi modificat de cel mult o dată pe an. Propunerile de
+modificare se prezintă în adresa Agenţiei până la data de 30 mai. Agenţia examinează și
+aprobă, după caz, modificările propuse în termen de 30 de zile din data prezentării
+solicitării de modificare. Termenul de examinare și aprobare a modificărilor la Planul de
+dezvoltare poate fi prelungit cu cel mult 30 de zile.
+
+### Secțiunea 3
+Procedura de examinare și evaluarea proiectelor
+privind dezvoltarea reţelelor electrice de distribuţie
+
+### Punctul 15. Proiectele de dezvoltare a reţelelor electrice de distribuţie se divizează în
+următoarele categorii:
+
+Categoria I: proiecte care prevăd majorarea capacităţii reţelei electrice de
+distribuţie existente în legătură cu creşterea cererii de energie electrică a consumatorilor
+finali existenţi, necesitatea racordării la rețeaua electrică existentă a unor surse de energie
+regenerabilă cât și modernizarea reţelelor electrice de distribuţie existente cu scopul de a
+spori fiabilitatea alimentării cu energie electrică a consumatorilor finali și a asigura
+
+
+cerinţele de securitate. Aceste proiecte se includ în Planul de dezvoltare la inițiativa OSD,
+cheltuielile de proiectare și de realizare a obiectelor sunt suportate integral de către OSD și
+se includ în tariful pentru serviciul de distribuţie a energiei electrice în conformitate cu
+Metodologia de calculare, aprobare și aplicare a tarifelor pentru serviciul de distribuţie a
+energiei electrice, aprobată de Agenţie;
+
+Categoria II: proiecte care prevăd construcția unor reţele electrice de distribuție
+noi sau a unor porțiuni de rețea electrică de distribuţie, cu scopul de a asigura racordarea la
+reţeaua electrică de distribuţie a instalaţiilor electrice de utilizare ale consumatorilor finali
+potenţiali din localităţile, cartierele, microraioanele noi sau existente, care se dezvoltă în
+conformitate cu planurile urbanistice sau planurile de amenajare a teritoriului unităţii
+administrativ-teritoriale, aprobate de AAPL.
+
+### Punctul 6. Întru asigurarea unei dezvoltări continue și previzibile a reţelelor electrice de
+distribuţie, la baza planificării lucrărilor de dezvoltare a rețelelor electrice de distribuţie
+stau planurile urbanistice și/sau planurile de amenajare a teritoriului unităţilor
+administrativ-teritoriale.
+
+### Punctul 7. AAPL consultă proiectele planurilor urbanistice sau de amenajare a teritoriului
+cu OSD. La solicitarea AAPL, OSD este obligat să prezinte un aviz la proiectul planului
+urbanistic sau a planului de amenajare a teritoriului respectiv, în conformitate cu Legea nr.
+835 din 17 mai 1996 privind principiile urbanismului și amenajării teritoriului.
+
+### Punctul 8. În planul urbanistic sau în planul de amenajare a teritoriului trebuie specificaţi:
+toţi potenţialii consumatori finali (planul de amplasare), instalaţiile electrice ale cărora
+prevăd a fi racordate la reţeaua electrică de distribuţie; consumul estimativ de energie
+electrică pe termen scurt, mediu şi lung, şi termenul solicitat de dare în exploatare a reţelei
+electrice de distribuţie noi, astfel încât să fie posibilă racordarea tuturor instalaţiilor
+electrice ale potenţialilor consumatori finali. Termenul preconizat pentru darea în
+exploatare a reţelei electrice de distribuţie noi se concretizează de OSD după primirea
+proiectului privind construcţia reţelei electrice de distribuţie noi.
+
+### Punctul 19. Planul urbanistic sau planul de amenajare a teritoriului respectiv trebuie să
+prevadă şi terenuri pentru amplasarea elementelor reţelei electrice de distribuţie (piloni,
+cabluri, posturi de transformare etc.), care se construieşte în scopul satisfacerii cererii de
+energie electrică a potenţialilor consumatori finali. AAPL este obligată să atribuie și să
+transmită în folosință cu titlu gratuit terenuri necesare pentru amplasarea elementelor
+reţelei electrice de distribuţie (piloni, cabluri, transformatoare etc.) în conformitate cu
+prevederile Legii nr. 107 din 27 mai 2016 cu privire la energia electrică.
+
+### Punctul 20. Pentru dezvoltarea rețelei electrice de distribuţie într-o localitate sau într-o
+anumită zona, AAPL fiind responsabilă de elaborarea proiectelor de construcție a rețelelor
+electrice de distribuție cu destinaţie locală în baza avizelor de racordare eliberate de
+OSD,solicită de la OSD eliberarea avizului de racordare pentru elaborarea proiectului de
+construcţie a reţelei electrice de distribuţie cu destinaţie locală. Solicitarea respectivă va fi
+însoţită de copia planului urbanistic general, planului urbanistic zonal sau de amenajare a
+teritoriului unităţii administrativ-teritoriale, în vigoare la data solicitării.
+
+
+### Punctul 21. În baza condiţiilor stabilite în avizul de racordare, eliberat de OSD, AAPL
+elaborează proiectul de construcţie a reţelei electrice de distribuţie cu destinaţie locală.
+
+### Punctul 22. După elaborarea proiectului de construcţie a reţelei electrice de distribuţie cu
+destinaţie locală, AAPL depune o solicitare la OSD privind includerea proiectului de
+construcţie a rețelei electrice de distribuţie cu destinaţie locală în Planul de dezvoltare.
+
+### Punctul 23. Solicitarea de includere a proiectului de dezvoltare în Planul de dezvoltare al
+OSD urmează a fi însoțită de următoarele documente în vigoare la data solicitării:
+
+1) proiectul de construcţie a reţelei electrice de distribuţie cu destinaţie locală care
+urmează a fi realizată;
+
+2) actele ce confirmă dreptul de proprietate sau folosință asupra terenului pe care
+urmează să fie amplasate reţelele electrice de distribuţie, terenul aflat în proprietatea
+statului sau a unităţilor administrativ-teritoriale;
+
+[Pct.23 subpct.2) modificat prin HANRE414 din 10.11.20, MO313-317/27.11.20
+art.1241; în vigoare 27.12.20]
+
+3) autorizaţii de construire sau certificate de urbanism pentru construire de
+locuințe, eliberate pentru zona unde se solicita dezvoltarea reţelelor electrice de distribuţie;
+
+4) memoriu de prezentare a gradului de dezvoltare existent și de perspectivă a
+localităţii sau a zonei, care va conţine informaţii cu privire la:
+
+a) numărul de locuinţe finalizate, numărul de locuinţe aflate în construcție, care dispun de
+autorizaţii de construire în vigoare și numărul total de locuinţe prevăzute în zonă - pentru proiectele
+de construcție a caselor individuale;
+
+[Pct. 23 subpct.4) lit.a) modificată prin HANRE414 din 10.11.20, MO313-317
+/27.11.20, art.1241; în vigoare 27.12.20]
+
+b) numărul blocurilor de locuit în construcție, pentru care există autorizaţii de
+construire în vigoare, numărul de locuințe prevăzute în fiecare bloc locativ și gradul de
+finalizare a construcţiei fiecărui bloc locativ - pentru proiectele de construcție a blocurilor
+de locuit
+
+[Pct. 23 subpct.4), lit.b) modificată prin HANRE414 din 10.11.20, MO313-317
+/27.11.20, art.1241; în vigoare 27.12.20]
+
+c) numărul de utilizatori, alţii decât consumatorii casnici, cu precizarea destinaţiei
+consumului;
+
+d) eșalonarea în timp a numărului de utilizatori corespunzător etapelor de finalizare
+a locuinţelor sau construcţiilor cu altă destinaţie;
+
+e) date documentate privind puterea totală necesară pe etape de dezvoltare a zonei
+și puterea finală, atât pentru consumul casnic, cât și, daca este cazul, pentru consumul
+noncasnic, dacă AAPL deţine aceste date.
+
+
+### Punctul 24. Proiectele de construcţie a reţelelor electrice de distribuţie destinate alimentării
+cu energie electrică a consumatorilor noi, aparuti ca urmare a implementării planurilor
+urbanistice sau de amenajare a teritoriului localităţilor, elaborate și prezentate de AAPL,
+sunt incluse în planul de dezvoltare al OSD pentru următorii trei ani, dacă au fost
+prezentate operatorului până la data de 30 aprilie a ultimului an din perioada curentă. OSD
+este în drept să examineze posibilitatea modificării planului de dezvoltare aprobat pentru
+perioada curentă de 3 ani, prin includerea proiectelor de construcţie a reţelelor electrice de
+distribuţie cu destinaţie locală, dacă aceste proiecte au fost prezentate de AAPL până la
+data de 30 aprilie a anului în care se solicită modificarea planului.
+
+### Punctul 25. Proiectele din Categoria 1 cu referinţă la consumatorii existenţi și consumatorii noi,
+precum și realimentarea instalaţiilor de utilizare ale unor consumatori existenți de la reţelele
+electrice de distribuţie noi, inclusiv modul de soluționare a problemelor ce ţin de calitatea
+serviciilor, sunt evaluate și executate în baza criteriilor stabilite în Regulamentul privind
+planificarea, aprobarea și efectuarea investiţiilor aprobat prin Hotărârea Agenţiei nr. 283 din 15
+noiembrie 2016 (Monitorul Oficial al Republicii Moldova, 2017, nr. 9-18, art. 45)
+
+[Pct.25 în redacţia HANRE414 din 10.11.20, MO313-317/27.11.20 art.1241; în
+vigoare 27.12.20]
+
+25!. Valoarea anuală a investiţiilor pentru dezvoltarea reţelelor electrice de
+distribuţie din Categoria II care se includ în Planul de dezvoltare, se stabilește de OSD în
+dependenţă de solicitările privind construcţia reţelelor electrice de distribuţie cu destinaţie
+locală recepționate de la AAPL, dar nu depășește 15 % din valoarea anuală a amortizării
+mijloacelor fixe și a imobilizărilor necorporale, inclusă în tariful pentru serviciul de
+distribuţie a energiei electrice.
+
+[Pct.25' introdus prin HANRE414 din 10.11.20, MO313-317/27.11.20 art.1241; în
+vigoare 27.12.20]
+
+25°. Suma investiţiilor planificate de OSD pentru proiectele de dezvoltare din
+Categoria II, se repartizează în mod egal între proiectele de dezvoltare a reţelelor electrice
+de distribuţie (aferente Categoriei II) din localitățile urbane și proiectele respective din
+localităţile rurale. Suma investiţiilor prevăzută pentru dezvoltarea reţelelor electrice de
+distribuţie (Categoria II) în localităţile urbane va fi distribuită egal între proiectele de
+alimentare cu energie electrică a sectoarelor destinate construcției de case individuale și a
+celor destinate alimentării cu energie electrică a blocurilor locative multietajate. În cazul
+epuizării listei de proiecte de dezvoltare din localitățile rurale sau cele urbane, OSD poate
+utiliza toată suma stabilită conform pct. 251 pentru dezvoltarea reţelelor electrice de
+distribuţie din localitățile urbane, și invers.
+
+[Pct.25° introdus prin HANRE414 din 10.11.20, MO313-317/27.11.20 art.1241; în
+vigoare 27.12.20]
+
+25%. Dacă la construcția obiectivelor (blocuri de locuit, case individuale), care
+urmează a fi asigurate cu energie electrică în urma realizării proiectelor de dezvoltare a
+rețelelor electrice de distribuţie, sunt prevăzute câteva etape de valorificare a terenului
+destinat construcţiilor, OSD poate diviza proiectul de dezvoltare in mai multe parti, fiecare
+din ele fiind evaluată separat și inclusă pentru perioada din planul de dezvoltare
+
+
+corespunzătoare etapei de valorificare a terenului destinat construcţiilor.
+
+[Pct.25° introdus prin HANRE414 din 10.11.20, MO313-317/27.11.20 art.1241; in
+vigoare 27.12.20]
+
+### Punctul 26. Proiectele de dezvoltare a retelelor electrice de distributie cu destinatie locala
+prezentate de AAPL, care prevad constructia unor retele electrice de distributie noi sau a
+unor portiuni de retea electrica de distributie (Categoria II) se evalueaza in baza
+urmatoarelor criterii:
+
+1) Venitul net actualizat;
+2) Gradul de valorificare a terenului destinat construcțiilor - G,,(%).
+
+[Pct.26 în redacţia HANRE414 din 10.11.20, MO313-317/27.11.20 art.1241; în
+vigoare 27.12.20]
+
+### Punctul 27. Venitul Actualizat Net (in continuare - VAN) se determina conform relatiei:
+
+unde:
+I - valoarea proiectului de investiţii;
+
+r - rata de actualizare (se consideră egală cu rata reglementată a rentabilitatii
+mijloacelor fixe, inclusă în tariful pentru serviciul de distribuţie a energiei electrice);
+
+n - durata de utilizare a rețelei electrice de distribuţie (determinată ca media
+ponderată, ţinând cont de duratele de utilizare pentru fiecare activ din proiectul respectiv
+conform Catalogului mijloacelor fixe și activelor nemateriale, aprobat prin Hotărârea
+Guvernului nr. 338 din 21 martie 2003 (Monitorul Oficial al Republicii Moldova, 2003, nr.
+62-66 art. 379) și valoarea planificată a acestor active);
+
+CF, - încasările la sfârșitul anului i, care rezultă din realizarea proiectului de
+investiţii analizat, care se determină conform relaţiei:
+
+unde:
+
+Enea - consumul mediu lunar de energie electrică a unui consumator casnic din
+teritoriul autorizat al OSD;
+
+T, - tariful pentru serviciul de distribuție a energiei electrice pentru operatorul
+sistemului de distribuţie din teritoriul autorizat;
+
+N, - numărul prognozat de consumatori în anul i instalaţiile de utilizare ale cărora
+sunt racordate la reţeaua electrică de distribuţie. Pentru primul an de calcul al VAN,
+numărul de potenţiali consumatori finali se consideră egal cu suma dintre numărul de
+locuinţe finalizate și a celor aflate în construcţie, care dispun de autorizații de construire
+
+
+valabile, conform datelor AAPL și OSD, iar pentru următorii ani, se consideră că numărul de
+consumatori crește liniar în intervalul de timp egal cu 0,5 din perioada de utilizare a
+obiectului. În cazul dezvoltării reţelelor electrice de distribuţie cu scopul racordării
+blocurilor locative multietajate, indicatorul VAN se calculează considerând, că instalaţiile de
+utilizare a 20 % din numărul de consumatori sunt conectate începând cu anul dării în
+exploatare a blocului de locuit, iar pentru următorii ani, se consideră că numărul de
+consumatori ale căror instalaţii de utilizare vor fi conectate la rețeaua electrică crește liniar
+în intervalul de timp egal cu 0,5 din perioada de utilizare a obiectului.
+
+### Punctul 28. Gradul de valorificare a terenului destinat construcţiilor G,,(%) reprezintă
+valoarea procentuală de realizare a construcţiilor ce urmează a fi conectate în cadrul
+proiectului de dezvoltare a reţelei electrice de distribuție determinată după cum urmează:
+
+1) Pentru proiectele cu indicatori similari, ce includ ansambluri de blocuri locative,
+AAPL în scopul confirmării gradului de valorificare a terenului destinat construcțiilor G,,(%),
+echivalent al gradului de finalizare a construcţiei fiecărui bloc în parte, este în drept să
+prezinte OSD avizul tehnic ce atestă gradul de executare a construcţiei obținut conform
+documentului normativ CP C.04.06-2013 „Regulament privind emiterea avizului tehnic, ce
+atestă gradul de executare a construcţiei și corespunderea lucrărilor de construcții cu
+documentația de proiect” aprobat prin Ordinul ministrului dezvoltării regionale și
+construcţii nr. 46/2013 din 10 aprilie 2013;
+
+2) În cazul caselor individuale, gradul de valorificare a terenului - G,,(%) se
+determină raportând numărul de locuinţe finalizate și aflate în construcţie la numărul total
+de locuinţe ce se vor construi pe terenul respectiv.
+
+[Pct.28 în redacţia HANRE414 din 10.11.20, MO313-317/27.11.20 art.1241; în
+vigoare 27.12.20]
+
+28!. În cazul proiectelor de dezvoltare a reţelelor electrice de distribuţie, realizarea
+cărora se efectuează pe etape, evaluarea se efectuează separat pentru fiecare etapă, iar
+numărul total de locuinţe din zonă se consideră numărul de locuinţe corespunzător etapei
+de proiect evaluate.
+
+[Pct.28' introdus prin HANRE414 din 10.11.20, MO313-317/27.11.20 art.1241; in
+vigoare 27.12.20]
+
+28°. Proiectele de dezvoltare, pentru care din calcule rezultă o valoare pozitivă a
+VAN, sunt incluse în planul de dezvoltare elaborat de OSD în ordine descrescătoare a valorii
+indicatorului obţinut prin produsul dintre gradul de valorificare a terenului Gvt(%) și VAN.
+
+[Pct.28? introdus prin HANRE414 din 10.11.20, MO313-317/27.11.20 art.1241; in
+vigoare 27.12.20]
+
+28°. În cazul unei valori negative a VAN, proiectele de dezvoltare sunt incluse în
+planul de dezvoltare elaborat de OSD, în baza valorilor indicatorului obținut prin împărțirea
+VAN la gradul de finalizare a construcției Gvt(%), aranjate în ordine descrescătoare.
+
+[Pct.28° introdus prin HANRE414 din 10.11.20, MO313-317/27.11.20 art.1241; în
+
+
+vigoare 27.12.20]
+
+### Punctul 28. În planul de dezvoltare elaborat de OSD se includ proiectele de dezvoltare in
+baza indicatorului calculat conform condiţiei pct. 282, aranjate în ordine descrescătoare, iar
+ulterior proiectele de dezvoltare având indicatorul calculat conform pct. 283 aranjate în
+ordine descrescătoare.Suma investiţiilor planificate de OSD pentru proiectele de dezvoltare
+din Categoria II, se repartizează în mod egal între proiectele de dezvoltare a reţelelor
+electrice de distribuţie (aferente Categoriei II) din oraşe și proiectele respective din sate
+(comune). La rândul lor, sumele prevăzute pentru dezvoltarea rețelelor electrice de
+distribuţie (Categoria II) în orașe vor fi distribuite egal între proiectele de electrificare a
+sectoarelor destinate construcţiei de case individuale și a celor destinate alimentării cu
+energie electrică a blocurilor locative multietajate. În cazul epuizării listei de proiecte de
+dezvoltare în așteptare din sate/comune, sau din orașe, OSD poate utiliza toată suma
+stabilită conform pct. 27 pentru dezvoltarea rețelelor electrice de distribuţie din orașe, și
+invers.
+
+[Pct.28* introdus prin HANRE414 din 10.11.20, MO313-317/27.11.20 art.1241; in
+vigoare 27.12.20]
+
+[Pct. 29 abrogat prin HANRE414 din 10.11.20,M0313-317/27.11.20, art.1241; în
+vigoare 27.12.20]
+
+### Punctul 30. Proiectele de construcție a rețelelor electrice de distribuție cu destinaţie locală,
+prezentate de AAPL și înregistrate la OSD după aprobarea Planului de dezvoltare, sunt
+evaluate de OSD în termen de 30 zile calendaristice de la înregistrarea solicitării AAPL.
+După evaluare, OSD prezintă un răspuns care conţine rezultatul evaluării proiectului de
+
+construcţie a reţelei e
+estimat de includere a
+evaluării și situația la
+proiectul dat în Planu
+Agenţiei aprobarea mod
+
+ectrice de distribuție cu destinație locală și, după caz - termenul
+proiectului în Planul de dezvoltare. În dependenţă de rezultatul
+zi privind realizarea planului de dezvoltare, OSD poate include
+1 de dezvoltare pentru o perioadă ulterioară, sau poate solicita
+ificării Planului de dezvoltare.
+
+31.Cheltuielile justificate ale OSD pentru investiţii în dezvoltarea reţelelor electrice
+de distribuţie sunt incluse în tariful pentru serviciul de distribuţie a energiei electrice, prin
+cheltuieli de amortizare şi rentabilitate a investiţiilor, după ce reţelele electrice de
+distribuţie noi sau porțiunile de reţea electrică de distribuţie sunt date în exploatare de
+către operatorul sistemului de distribuţie, iar raportul privind realizarea planului anual de
+investiţii este aprobat de Agenţie conform art. 45 din Legea cu privire la energia electrică.
+
+### Punctul 32. Dacă pentru dezvoltarea reţelei electrice de distribuţie noi sau a porțiunii de
+reţea electrică de distribuţie de Categoria I , este necesar de obţinut dreptul de folosință
+asupra terenului, proprietate a altei persoane, OSD trebuie să obţină acest drept direct de la
+proprietarul terenului în cauză, în conformitate cu legislaţia. În cazul, dezvoltării reţelei
+electrice de Categoria 2, dreptul de folosință asupra terenului,proprietate a altei personae
+se obţine de către AAPL în conformitate cu prevederile art.57 si art. 58 din Legea nr. 107
+din 27 mai 2016 cu privire la energia electrică.
+
+[Pct.32 în redacția HANRE414 din 10.11.20,M0313-317/27.11.20 art.1241; în
+
+
+vigoare 27.12.20]
+
+### Punctul 33. Dacă AAPL, asociaţia sau investitorul solicită OSD dezvoltarea reţelei electrice
+de distribuţie, în termen mai restrâns decât cel stabilit de către OSD în Planul de dezvoltare
+aprobat de Agenţie, atunci OSD este în drept să propună AAPL, asociaţiei sau investitorului
+să finanţeze dezvoltarea preconizată a reţelei electrice de distribuţie. În acest scop AAPL,
+asociaţia sau investitorul va încheia cu OSD un contract, în care stipulează în mod
+obligatoriu, suma resurselor financiare alocate, determinată în baza devizului de cheltuieli
+conform proiectului, termenele şi condiţiile de rambursare de către OSD a resurselor
+financiare alocate.
+
+### Secțiunea 4
+Raportul privind realizarea Planului de dezvoltare
+### Punctul 34. Agenţia monitorizează realizarea de către OSD a Planului de dezvoltare aprobat.
+
+### Punctul 35. Anual, până la 30 aprilie, operatorul sistemului de distribuţie prezintă Agenţiei
+un raport privind realizarea planului de dezvoltare şi a planului de investiţii pentru anul
+precedent, care se examinează şi se aprobă de Agenţie în conformitate cu cerinţele stabilite
+în Regulamentul privind investiţiile. Raportul va include datele privind realizarea Planului
+de dezvoltare, prezentate conform Anexei nr.3 la prezentul Regulament.
+
+### Punctul 36. În Raportul privind realizarea Planului de dezvoltare se reflectă obiectele de
+investiţii date în exploatare, prevăzute în Planul de dezvoltare aprobat de Agenţie.
+
+### Punctul 37. Pentru fiecare obiect de investiţii, inclus în Raportul privind realizarea Planului
+de dezvoltare, titularul de licenţă prezintă următoarele informaţii şi date:
+
+1) descrierea proiectului de dezvoltare: (categoria de investiții, denumirea
+proiectului, amplasarea, unitatea de măsură);
+
+2) cantitatea, valoarea și termenul de realizare a proiectului de dezvoltare, total
+pentru anul/anii de referinţă;
+
+3) cantitatea, valoarea și termenul de realizare a proiectului de dezvoltare pentru
+anii 1-3;
+
+4) notă în care vor fi indicate efectele economice planificate și obținute efectiv în
+anul de referinţă;
+
+5) obiectivele, efectele financiare obţinute în urma realizării proiectului de
+dezvoltare, inclusiv informaţii despre numărul de consumatori racordati la reţeaua electrică,
+impactului proiectului de dezvoltare asupra fiabilitatii şi continuității distribuţiei energiei
+electrice (micşorarea duratei întreruperilor, majorarea indicatorilor de calitate a energiei
+electrice în reţelele electrice de distribuţie, reducerea consumului tehnologic şi a pierderilor
+de energie electrică în reţelele electrice de distribuţie).
+
+### Punctul 38. Raportul privind realizarea Planului de dezvoltare este însoţit de o notă
+informativă care va conţine informaţie despre:
+
+
+1) sursa de finanţare;
+
+2) partea proiectului de dezvoltare nefinalizată, efectuată până la 31 decembrie a
+anului precedent anului raportării;
+
+3) argumentarea privind diferența dintre valoarea proiectului și a obiectului de
+dezvoltare, în caz că valoarea obiectului realizat depășește valoarea proiectului;
+
+4) calculele impactului investiţiilor realizate asupra tarifelor pentru serviciul de
+distribuţie a energiei electrice. Impactul investiţiilor realizate se calculează ca suma totală a
+amortizării și a rentabilitatii la investiţii, raportată la volumele/cantitatile efective.
+
+### Secțiunea 5
+Alte dispoziţii
+
+### Punctul 39. În cazul în care solicitantii, potenţialii consumatori finali, se adresează la OSD
+pentru eliberarea avizelor de racordare şi OSD stabileşte că în scopul racordării instalaţiilor
+electrice ale solicitantilor este necesar de extins reţeaua electrică de distribuţie, prin
+construcţia reţelei electrice de distribuţie noi sau a porțiunii de reţea electrică de distribuţie
+ori prin majorarea capacităţii reţelei electrice de distribuţie existente, OSD este obligat să
+informeze solicitantii, potenţialii consumatori finali, despre măsurile ce trebuie întreprinse
+în scopul dezvoltării reţelei electrice de distribuţie.
+
+### Punctul 40. Procedura de dezvoltare a reţelelor electrice de distribuţie nu se aplică:
+
+a) în cazul întovărăşirilor pomicole, cooperativelor de construcţie a garajelor, a altor
+asociaţii de coproprietari de acest tip din intravilanul sau extravilanul municipiilor, orașelor,
+satelor, comunelor;
+
+b) în cazul în care în autorizaţia de construire, eliberată de AAPL asociaţiei sau
+investitorului, se prevede dezvoltarea reţelei electrice din contul beneficiarului construcţiei.
+
+### Punctul 41. În situaţiile prevăzute la punctul 40, proiectarea, construcţia, recepţia,
+admiterea în exploatare a rețelei electrice noi sau a porțiunii de reţea electrică nu se
+efectuează din contul OSD.
+
+anexa nr.1
+
+anexa nr.2
+
+anexa nr.3

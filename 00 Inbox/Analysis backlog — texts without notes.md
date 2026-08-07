@@ -92,4 +92,14 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 | [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)]] / [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)\|notă]] | ✅ renewables omnibus (168/169/537) |
 | [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)]] / [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)\|notă]] | ✅ conditional-capacity tariffs; parent [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)\|535]] decision ✅ · annex ❌ |
 
-Optional next: recover HANRE **535/2019 methodology annex** + **537/2020** QoS; water/utilities MOC if the water corpus grows.
+## Batch 7 — energy PDF OCR (2026-08-07) ✅
+
+| Act | Note |
+|---|---|
+| [[HANRE 94-2019 — dezvoltarea retelelor electrice de distributie (text)]] | [[HANRE 94-2019 — dezvoltarea retelelor electrice de distributie (notă)]] |
+| [[HANRE 414-2020 — modificare HANRE 94-2019 dezvoltare retele distributie EE (text)]] | [[HANRE 414-2020 — modificare HANRE 94-2019 dezvoltare retele distributie EE (notă)]] |
+| [[HANRE 316-2018 — dirijare dispecerat sistem electroenergetic (text)]] | [[HANRE 316-2018 — dirijare dispecerat sistem electroenergetic (notă)]] |
+| [[HANRE 138-2018 — dezvoltarea retelelor de distributie gaze (text)]] | [[HANRE 138-2018 — dezvoltarea retelelor de distributie gaze (notă)]] |
+| [[HANRE 8-2023 — modificare racordare gaze si masurare gaze (text)]] | [[HANRE 8-2023 — modificare racordare gaze si masurare gaze (notă)]] ⚠️ annex OCR |
+
+Optional next: recover HANRE **535/2019 methodology annex** + **537/2020** QoS + **297/2022** metering parent; water/utilities MOC if the water corpus grows.

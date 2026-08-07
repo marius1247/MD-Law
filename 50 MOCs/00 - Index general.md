@@ -13,7 +13,7 @@ Navigation hubs for the vault. Each domain map links the raw acts, analysis note
 ## Domains
 | Hub | Synthesis | State |
 |---|---|---|
-| [[MOC — Energetică]] | [[Energetică — synthesis]] | **Built** — core laws complete; ANRE layer largely complete; L164 transition ongoing; 2026-08-07: 656/833/329 + 24/305 currency fix |
+| [[MOC — Energetică]] | [[Energetică — synthesis]] | **Built** — core laws complete; ANRE layer largely complete; L164 transition ongoing; 2026-08-07: 656/833/329 + 24/305 + OCR batch 94/316/138/414/8 |
 | [[MOC — Societăți & Guvernanță corporativă]] | [[Societăți & guvernanță — synthesis]] | **Built** — L135/2007, L1134/1997, L220/2007, L149/2012 + Civil Code Cartea I ingested |
 | [[MOC — Fiscalitate & Contabilitate]] | [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] · [[Fiscalitate & Contabilitate — horizon and gaps]] | **Built** — CF Titluri I–X, L287/L86, Customs; **L77 IT Park + OMF 118 SNC gateway** (2026-08-07); horizon tracks 2026 live + 2027 draft |
 | [[MOC — Drept comercial]] | [[Drept comercial — synthesis]] | **Built** — L183/2012, L235/2006, L160/2011 + uploads batch (banking, trade, transport codes) ingested |

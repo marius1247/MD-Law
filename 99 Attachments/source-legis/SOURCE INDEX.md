@@ -81,6 +81,11 @@ updated: 2026-08-07
 | `143443` | [`143443-Legea-77-2016.pdf`](143443-Legea-77-2016.pdf) | `10 Legislation/Laws/Legea 77-2016 — parcuri tehnologia informatiei (text).md` |
 | `145617` | [`145617-OMF-128-2024.pdf`](145617-OMF-128-2024.pdf) | `10 Legislation/Authority Acts/OMF 128-2024 — modificare formular IPC21 (text).md` |
 | `149100` | [`149100-HANRE-329-2025.pdf`](149100-HANRE-329-2025.pdf) | `10 Legislation/Authority Acts/HANRE 329-2025 — modificare Metodologie tarife transport gaze (text).md` |
+| `124161` | [`124161-124161_4d55.pdf`](124161-124161_4d55.pdf) · [`124161.ocr.txt`](124161.ocr.txt) | `10 Legislation/Authority Acts/HANRE 94-2019 — dezvoltarea retelelor electrice de distributie (text).md` |
+| `124090` | [`124090-124090_c3b8.pdf`](124090-124090_c3b8.pdf) · [`124090.ocr.txt`](124090.ocr.txt) | `10 Legislation/Authority Acts/HANRE 414-2020 — modificare HANRE 94-2019 dezvoltare retele distributie EE (text).md` |
+| `112162` | [`112162-112162_6888.pdf`](112162-112162_6888.pdf) · [`112162.ocr.txt`](112162.ocr.txt) | `10 Legislation/Authority Acts/HANRE 316-2018 — dirijare dispecerat sistem electroenergetic (text).md` |
+| `110790` | [`110790-110790_901d.pdf`](110790-110790_901d.pdf) · [`110790.ocr.txt`](110790.ocr.txt) | `10 Legislation/Authority Acts/HANRE 138-2018 — dezvoltarea retelelor de distributie gaze (text).md` |
+| `135421` | [`135421-135421_18e5.pdf`](135421-135421_18e5.pdf) · [`135421.ocr.txt`](135421.ocr.txt) | `10 Legislation/Authority Acts/HANRE 8-2023 — modificare racordare gaze si masurare gaze (text).md` *(OCR partial — annex tables)* |
 
 ## Intentionally unused duplicates
 

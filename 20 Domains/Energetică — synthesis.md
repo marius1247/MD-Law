@@ -122,7 +122,7 @@ Alignment landmarks in the corpus:
 - Watch for a **gas equivalent of L164/2025** — gas is now a package behind electricity
 - Ingest **HG 820 Annexes 1–2**; parents for L101 (L461/2001, L248/2025, L131/2015) still thin/absent
 - Analysis backlog Batches 2–4: [[Analysis backlog — texts without notes]]
-- Not yet ingested: gas tariff methodologies (HANRE 535/2019, 443/2020), quality of service (422/2019, 537/2020), network development (94/2019), dispatch (316/2018), gas metering (297/2022)
+- Gas transmission methodology [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)|HANRE 535/2019]] — decision in vault, **annex still missing**; also not ingested: HANRE 443/2020, quality of service (422/2019, 537/2020), network development (94/2019), dispatch (316/2018), gas metering (297/2022)
 - **HANRE 24/2017** — procurement by licence-holders → bridges to [[MOC — Achiziții publice & Statul]]
 - Corporate-law overlap: unbundling is executed through **group restructuring** — see [[Societăți & guvernanță — synthesis]]
 

@@ -32,7 +32,7 @@ Indexul tuturor metodologiilor de calcul, aprobărilor de tarife reglementate ș
 ## 2. Sectorul Gaze Naturale
 * HANRE **535/2019** gas TSO transport methodology — parent ❌ · amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] ✅ (conditional-capacity Section 7²)
 * [[Concept — Capacitate condiționată]] · [[HANRE 310-2026 — modificare Codul retelelor de gaze naturale (notă)|310/2026]] product rules
-* HANRE **443/2020** gas DSO distribution methodology — parent ❌ · amending [[HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (notă)|785/2025]] ✅ (**uniform tariff + equalization**, IF 1.01.2026)
+* [[HANRE 443-2020 — Metodologie tarife distributie gaze (notă)|HANRE 443/2020]] gas DSO methodology — decision ✅ · **annex still missing** · amending [[HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (notă)|785/2025]] ✅ (uniform + equalization overlay, IF 1.01.2026) · applied rates [[HANRE 162-2026 — tarife uniforme distributie gaze (notă)|162/2026]] ✅ (IF 1.04.2026)
 
 ## 3. Concepte Atomice Asociate
 * [[Concept — Tarif de transport]]

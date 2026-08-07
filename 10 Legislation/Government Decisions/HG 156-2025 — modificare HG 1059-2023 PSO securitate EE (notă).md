@@ -16,14 +16,14 @@ legis_id: "147714"
 
 # HG nr. 156/2025 — extend PSO for electricity security of supply — Analysis
 
-**Raw text:** [[HG 156-2025 — modificare HG 1059-2023 PSO securitate EE (text)]] ✅ · **Parent:** HG 1059/2023 *(not yet in vault)* · **Hub:** [[MOC — Energetică]]
+**Raw text:** [[HG 156-2025 — modificare HG 1059-2023 PSO securitate EE (text)]] ✅ · **Parent:** [[HG 1059-2023 — PSO securitate aprovizionare energie electrica (notă)|HG 1059/2023]] ✅ · **Later extend:** [[HG 801-2025 — modificare HG 1059-2023 PSO securitate EE (notă)|HG 801/2025]] → **31.12.2026** · **Hub:** [[MOC — Energetică]]
 
 > [!abstract] Executive summary
 > **Core purpose:** One-word amendment — extends the end date of the **public-service obligation** under HG 1059/2023 (security of electricity supply) from **31 March 2025** to **31 December 2025**.
-> **Primary business risk:** Advising that the HG 1059 PSO expired at end-Q1 2025. It remained live through **31.12.2025** (this HG IF 1 April 2025). Confirm any later 2026 extension separately — parent HG 1059 still missing from the vault.
+> **Primary business risk:** Treating this HG as the current sunset. **[[HG 801-2025 — modificare HG 1059-2023 PSO securitate EE (notă)|HG 801/2025]]** further extends to **31.12.2026** and remaps enabling law to L164.
 
-> [!danger] L107 currency + parent gap
-> Enabling cite is L107/2016 (repealed). Parent **HG 1059/2023** (who is obligated, what volumes/prices) is **not ingested** — this note only proves the calendar extension.
+> [!warning] Superseded calendar
+> This note remains useful as the mid-2025 extend step. For live advice use consolidated [[HG 1059-2023 — PSO securitate aprovizionare energie electrica (text)|HG 1059]] (period through **31.12.2026** via 801).
 
 ---
 
@@ -40,8 +40,7 @@ legis_id: "147714"
 
 | Provision | Flaw / ambiguity | Practical risk | Mitigation |
 | :--- | :--- | :--- | :--- |
-| **Parent missing** | Unknown PSO scope | Incomplete security-of-supply advice | Ingest HG 1059/2023 |
-| **Sunset 31.12.2025** | May have been re-extended in 2026 | Stale reliance | Check post-2025 amending HGs |
+| **Sunset 31.12.2025** | Superseded by HG 801 → 31.12.2026 | Stale reliance on this note alone | Cite consolidated 1059 + 801 |
 
 ---
 

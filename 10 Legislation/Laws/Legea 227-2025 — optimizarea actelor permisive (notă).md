@@ -37,7 +37,7 @@ legis_id: "150581"
 | **XXX** | [[Legea 108-2016 — gazele naturale (notă)\|L108/2016]] art. 14 | Licence registration prongs (2)/(2¹)/(3) lit. a) → interoperability check, no paper extract |
 | **XX** | [[Legea 160-2011 — reglementarea prin autorizare (notă)\|L160]] | Broader authorisation reform (portal, notifications, tacit approval) — applies across energy permits that remain under L160 |
 
-**IF:** Art. XLII — default **30.12.2025** (LP317 tweak); transitional preservation of converted permits until expiry; some L160 portal rules phased.
+**IF:** Art. XLII — default **30.12.2025** ([[Legea 317-2025 — modificare acte permisive (notă)|LP317/2025]] Art. XIX tweak); transitional preservation of converted permits until expiry; some L160 portal rules phased.
 
 ---
 
@@ -62,4 +62,5 @@ legis_id: "150581"
 
 ## Sources
 
-[[Legea 227-2025 — optimizarea actelor permisive (text)]] — legis.md doc_id `150581` · PDF ingest 2026-08-07.
+[[Legea 227-2025 — optimizarea actelor permisive (text)]] — legis.md doc_id `150581` · PDF ingest 2026-08-07.  
+Amending patch: [[Legea 317-2025 — modificare acte permisive (notă)|LP317/2025]] (doc_id `152374`).

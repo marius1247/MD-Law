@@ -228,5 +228,16 @@ updated: 2026-08-07
 | `150858` | [`150858-150858_cc59.pdf`](150858-150858_cc59.pdf) · [`150858.txt`](150858.txt) | `10 Legislation/Government Decisions/HG 517-2024 — Regulament constructie reconstructie centrale electrice (text).md` |
 | `150977` | [`150977-150977_a64d.pdf`](150977-150977_a64d.pdf) · [`150977.txt`](150977.txt) | `10 Legislation/Government Decisions/HG 620-2025 — transmitere bunuri Fond eficienta energetica CNED (text).md` *(form annexes missing)* |
 
+## PDF batch 2026-08-07h — energy (batch 8)
+
+| doc_id | Raw file | Vault location |
+|---|---|---|
+| `152235` | [`152235-152235_287a.pdf`](152235-152235_287a.pdf) · [`152235.txt`](152235.txt) | `10 Legislation/Government Decisions/HG 1059-2023 — PSO securitate aprovizionare energie electrica (text).md` |
+| `152217` | [`152217-152217_ceec.pdf`](152217-152217_ceec.pdf) · [`152217.txt`](152217.txt) | `10 Legislation/Government Decisions/HG 801-2025 — modificare HG 1059-2023 PSO securitate EE (text).md` |
+| `152185` | [`152185-152185_eca9.pdf`](152185-152185_eca9.pdf) · [`152185.txt`](152185.txt) | `10 Legislation/Authority Acts/HANRE 443-2020 — Metodologie tarife distributie gaze (text).md` *(decision-only)* |
+| `153388` | [`153388-153388_a941.pdf`](153388-153388_a941.pdf) · [`153388.txt`](153388.txt) | `10 Legislation/Authority Acts/HANRE 162-2026 — tarife uniforme distributie gaze (text).md` |
+| `152374` | [`152374-152374_e3f4.pdf`](152374-152374_e3f4.pdf) · [`152374.txt`](152374.txt) | `10 Legislation/Laws/Legea 317-2025 — modificare acte permisive (text).md` |
+| `154098` | [`154098-154098_09a4.pdf`](154098-154098_09a4.pdf) · [`154098.txt`](154098.txt) | `10 Legislation/Laws/Legea 53-2026 — reforma autoritatilor Ministerul Mediului (text).md` *(peripheral)* |
+
 ## See also
-[[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — PDF batch 2026-08-07 (4)]] · [[Status ingestie — PDF batch 2026-08-07 (5)]] · [[Status ingestie — PDF batch 2026-08-07 (6)]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]
+[[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — PDF batch 2026-08-07 (4)]] · [[Status ingestie — PDF batch 2026-08-07 (5)]] · [[Status ingestie — PDF batch 2026-08-07 (6)]] · [[Status ingestie — PDF batch 2026-08-07 (7)]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]

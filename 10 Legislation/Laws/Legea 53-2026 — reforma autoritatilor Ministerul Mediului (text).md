@@ -1,0 +1,1114 @@
+---
+title: "Legea 53-2026 — reforma autoritatilor Ministerul Mediului (text)"
+type: act-text
+act_type: lege-organică
+nr: "53"
+an: 2026
+domeniu:
+- mediu
+- instituții
+- climă
+domain: [mediu, instituții, climă]
+forta_juridica: 3
+issuer: Parlament
+in_force: true
+in_vigoare: true
+mo_publicare: "MO 183-185/25.04.2026 art. 150"
+legis_id: "154098"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=154098"
+version_date: 2026-08-07
+versiune_text: 2026-08-07
+continut: text-integral
+text_complet: true
+articole_numarate: 28
+puncte_numarate: 0
+tags: [act, text, acte_normative, energetică]
+created: 2026-08-07
+updated: 2026-08-07
+source_ingest: pdf-upload-pdftotext
+legal_status: in_vigoare
+enabling_act: "Organic reform of Environment Ministry subordinate authorities; EMAS / environmental accounts (EU)"
+---
+# Legea 53-2026 — reforma autoritatilor Ministerul Mediului
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md** PDF (doc_id [154098](https://www.legis.md/cautare/getResults?lang=ro&doc_id=154098)), pdftotext + structură ușoară.
+> Analiză: [[Legea 53-2026 — reforma autoritatilor Ministerul Mediului (notă)]].
+
+> [!warning] Completeness
+> Peripheral to energy cascade — environment/climate institutional reform (GHG inventory, environmental accounts incl. energy-flow module). Ingested for completeness of upload batch.
+
+---
+
+Republica Moldova
+
+PARLAMENTUL
+LEGE Nr. LP53/2026
+din 09.04.2026
+
+pentru modificarea unor acte normative
+(reforma autorităților subordonate
+Ministerului Mediului)
+Publicat : 25.04.2026 în MONITORUL OFICIAL Nr. 183-185 art. 150 Data intrării în vigoare
+
+UE
+
+Parlamentul adoptă prezenta lege organică.
+Prezenta lege:
+– creează cadrul juridic necesar pentru implementarea Regulamentului (CE) nr.
+1221/2009 al Parlamentului European și al Consiliului din 25 noiembrie 2009 privind
+participarea voluntară a organizațiilor la un sistem comunitar de management de mediu și
+audit (EMAS) și de abrogare a Regulamentului (CE) nr. 761/2001 și a Deciziilor
+2001/681/CE și 2006/193/CE ale Comisiei, publicat în Jurnalul Oficial al Uniunii Europene L
+342 din 22 decembrie 2009, CELEX: 32009R1221, astfel cum a fost modificat ultima dată
+prin Regulamentul (UE) 2023/1199 al Comisiei din 21 iunie 2023;
+– transpune art. 1 și 3 din Regulamentul (UE) nr. 691/2011 al Parlamentului
+European și al Consiliului din 6 iulie 2011 privind conturile economice de mediu europene
+(text cu relevanță pentru SEE), publicat în Jurnalul Oficial al Uniunii Europene L 192 din 22
+iulie 2011, CELEX: 32011R0691, astfel cum a fost modificat ultima dată prin Regulamentul
+delegat (UE) 2025/1131 al Comisiei din 26 martie 2025.
+### Art. I. Legea nr. 1515/1993 privind protecția mediului înconjurător (Monitorul
+Parlamentului Republicii Moldova, 1993, nr. 10, art. 283), cu modificările ulterioare, se
+modifică după cum urmează:
+1. Se completează cu clauza de armonizare cu următorul cuprins:
+„Prezenta lege:
+– creează cadrul juridic necesar pentru implementarea Regulamentului (CE) nr.
+1221/2009 al Parlamentului European și al Consiliului din 25 noiembrie 2009 privind
+participarea voluntară a organizațiilor la un sistem comunitar de management de mediu și
+audit (EMAS) și de abrogare a Regulamentului (CE) nr. 761/2001 și a Deciziilor
+2001/681/CE și 2006/193/CE ale Comisiei, publicat în Jurnalul Oficial al Uniunii Europene L
+
+
+342 din 22 decembrie 2009, CELEX: 32009R1221, astfel cum a fost modificat ultima dată
+prin Regulamentul (UE) 2023/1199 al Comisiei din 21 iunie 2023;
+– transpune art. 1 și 3 din Regulamentul (UE) nr. 691/2011 al Parlamentului
+European și al Consiliului din 6 iulie 2011 privind conturile economice de mediu europene
+(text cu relevanță pentru SEE), publicat în Jurnalul Oficial al Uniunii Europene L 192 din 22
+iulie 2011, CELEX: 32011R0691, astfel cum a fost modificat ultima dată prin Regulamentul
+delegat (UE) 2025/1131 al Comisiei din 26 martie 2025.”
+2. Legea se completează cu articolele 281 și 282 cu următorul cuprins:
+„Art. 28 1 . – (1) În cadrul Inspectoratului pentru Protecția Mediului activează
+inspectori ai subdiviziunii care asigură funcționalitatea mecanismului de reacție imediată la
+incidentele de mediu.
+(2) Durata normală a timpului de muncă în cazul inspectorului subdiviziunii care
+asigură reacția imediată la incidentele de mediu nu poate depăși 40 de ore pe săptămână.
+(3) Printr-un act administrativ al șefului Inspectoratului pentru Protecția Mediului și
+în conformitate cu prevederile legislației muncii, inspectorul subdiviziunii care asigură
+reacția imediată la incidentele de mediu poate fi antrenat să presteze ore de muncă
+suplimentară, muncă în schimburi, muncă în tură continuă, muncă în zilele de repaus și în
+cele de sărbătoare nelucrătoare în interes de serviciu, astfel încât să se asigure și
+continuitatea serviciului și restabilirea capacității de muncă. Modul de organizare a muncii
+în schimburi și în tură continuă se stabilește printr-un regulament aprobat de Inspectoratul
+pentru Protecția Mediului, în funcție de necesitățile inspectoratului și în limita duratei
+normale a timpului de muncă de 40 de ore pe săptămână.
+(4) Retribuirea muncii suplimentare și a muncii prestate în zilele de repaus și în cele
+de sărbătoare nelucrătoare se efectuează în conformitate cu legislația.
+### Articolul 282. Inspectorii subdiviziunii care asigură reacția imediată la incidentele de
+mediu, în realizarea intervențiilor urgente, au dreptul:
+a) să controleze orice subiect de pe teritoriul țării, indiferent de forma de proprietate,
+în cazul unei activități sau situații ce pot influența negativ mediul sau componenții lui;
+b) să oprească și să inspecteze orice mijloc de transport, orice alte mijloace tehnice în
+caz de încălcare a legislației cu privire la protecția mediului sau de acțiuni susceptibile de a
+aduce prejudicii mediului și resurselor naturale;
+c) să ceară persoanelor fizice și juridice prezentarea documentelor prevăzute de
+legislație ce atestă dreptul lor de folosință a resurselor naturale;
+d) să verifice respectarea condițiilor și a cerințelor prevăzute în actele permisive de
+mediu deținute de persoanele fizice și juridice;
+e) să întocmească procese-verbale și alte documente cu privire la încălcări ale
+legislației privind protecția mediului, neexecutarea de către persoanele fizice și juridice a
+
+
+deciziilor organelor de resort în probleme de protecție a mediului, nerespectarea condițiilor
+prevăzute de autorizația integrată de mediu și de autorizația de mediu;
+f) să ceară persoanelor fizice și juridice explicații în scris pentru fiecare caz de
+încălcare de către acestea a legislației privind protecția mediului;
+g) să obțină gratuit de la toate persoanele fizice și juridice informația și explicațiile
+necesare pentru exercitarea funcțiilor de control;
+h) să constate contravențiile în domeniul protecției mediului;
+i) să înainteze propuneri de instituire a măsurilor cu caracter provizoriu de
+suspendare a activităților ce provoacă sau pot provoca prejudicii mediului, până la
+eliminarea riscului sau până la intervenția autorităților competente;
+j) să interzică acțiunile de utilizare a mijloacelor tehnice și a echipamentelor folosite
+în activități de exploatare, transport, depozitare și/sau de prelucrare a resurselor naturale
+desfășurate ilegal;
+k) să efectueze prelevări de probe, să ridice materialele și obiectele relevante ca
+dovezi tehnice ale poluării, în modul stabilit de lege, inclusiv cu implicarea organelor
+competente în cazul indiciilor de comitere a unor infracțiuni;
+l) să solicite intervenția altor autorități, inclusiv a Poliției, în cazurile în care situația
+depășește competența Inspectoratului pentru Protecția Mediului sau atunci când se impune
+întreprinderea unor măsuri de asigurare a ordinii publice;
+m) să solicite operațiuni de oprire a instalațiilor reglementate prin Legea nr.
+227/2022 privind emisiile industriale în cazul accidentelor/incidentelor industriale sau al
+activităților desfășurate ilegal;
+n) să pătrundă în orice încăpere utilizată de întreprinzător în activitatea sa, în măsura
+în care aceasta este parte a obiectului incidentului de mediu, cu excepția domiciliului
+acestuia, în cazul în care lipsește permisiunea posesorului legal. În caz de necesitate,
+inspectorul va putea intra în domiciliul sau în încăperea asimilată domiciliului
+întreprinzătorului doar cu asistența poliției, în condițiile legii;
+o) să efectueze alte acțiuni, în limita competenței lor, în domeniul protecției mediului
+și folosirii raționale a resurselor naturale.”
+3. Legea se completează cu capitolele VIII1 și VIII2 cu următorul cuprins:
+„Capitolul VIII1
+CONTURILE ECONOMICE DE MEDIU
+### Articolul 865. (1) Conturile economice de mediu constituie un sistem statistic oficial,
+integrat în contabilitatea națională, destinat evidențierii și cuantificării relațiilor dintre
+economie și mediu prin colectarea, organizarea și raportarea unitară a datelor privind
+utilizarea resurselor naturale, privind fluxurile de materiale și de energie, privind emisiile și
+
+
+alte presiuni asupra mediului, precum și a valorilor economice asociate acestora.
+(2) Conturile economice de mediu se elaborează și se actualizează în conformitate cu
+standardele internaționale aplicabile, respectiv cu Sistemul de Contabilitate
+Economie–Mediu (SEEA), precum și cu cele mai bune practici în materie ale Uniunii
+Europene, fiind asigurată compatibilitatea și comparabilitatea acestora cu indicatorii
+utilizați în conturile naționale.
+(3) Conturile economice de mediu au caracter obligatoriu pentru autoritățile și
+instituțiile publice responsabile de colectarea și furnizarea datelor statistice de mediu și
+economice și constituie un fundament pentru elaborarea, monitorizarea și evaluarea
+politicilor publice în domeniile protecției mediului, dezvoltării durabile, economiei circulare
+și adaptării la schimbările climatice.
+(4) Instituțiile prevăzute la alin. (3) au obligația de a asigura acuratețea,
+completitudinea, coerența și transmiterea la termen a datelor necesare întocmirii conturilor
+economice de mediu, în conformitate cu metodologiile stabilite de Biroul Național de
+Statistică în colaborare cu autoritatea centrală pentru resursele naturale și mediu.
+### Articolul 866. (1) Conturile economice de mediu se elaborează în cadrul următoarelor
+module:
+a) modulul pentru conturile referitoare la emisiile atmosferice, care înregistrează
+fluxurile de materiale gazoase și granulate reziduale provenite din economia națională și
+emise în atmosferă. Datele sunt prezentate într-un format compatibil cu sistemul de conturi
+naționale și sunt defalcate pe activități economice, incluzând atât producția, cât și
+consumul;
+b) modulul pentru taxele referitoare la mediu, în funcție de activitatea economică,
+care înregistrează veniturile din taxele referitoare la mediu ale economiei naționale în
+funcție de activitatea economică, incluzând atât producția, cât și consumul;
+c) modulul pentru conturile referitoare la fluxul de materiale la scară economică, care
+acoperă toate materialele solide, gazoase și lichide, cu excepția fluxurilor de aer și de apă,
+măsurate în unități de masă pe an;
+d) modulul pentru conturile de cheltuieli pentru protecția mediului, care înregistrează
+datele privind cheltuielile legate de protecția mediului, și anume resursele economice
+alocate protecției mediului de către unitățile rezidente;
+e) modulul pentru conturile sectorului bunurilor și serviciilor de mediu, care
+înregistrează datele privind activitățile de producție ale economiei naționale care generează
+produse de mediu;
+f) modulul pentru conturile referitoare la fluxurile fizice de energie, care
+înregistrează datele privind energia în legătură cu activitățile economice ale unităților
+rezidente ale economiei naționale, sub formă de defalcări pe activități economice;
+g) modulul pentru conturile pentru păduri, care înregistrează datele privind resursele
+
+
+forestiere și activitatea economică din sectorul silviculturii și al exploatării forestiere într-un
+mod pe deplin compatibil cu datele raportate în cadrul Sistemului european de conturi
+2010;
+h) modulul pentru conturile referitoare la subvențiile de mediu și transferurile
+similare, care înregistrează datele privind transferurile curente și de capital destinate
+sprijinirii activităților prin care se protejează mediul și resursele naturale, inclusiv producția
+și utilizarea produselor de mediu, într-un mod compatibil cu conceptele și definițiile
+Sistemului european de conturi 2010;
+i) modulul pentru conturile referitoare la ecosisteme, care înregistrează datele
+privind amploarea și starea activelor ecosistemice și privind serviciile furnizate de acestea
+societății și economiei.
+(2) Cerințele privind colectarea, compilarea, transmiterea și evaluarea conturilor
+economice de mediu sub formă de conturi satelit la Sistemul european de conturi 2010 se
+stabilesc prin ordinul ministrului mediului.
+2
+
+Capitolul VIII
+
+SISTEMUL COMUNITAR DE MANAGEMENT DE MEDIU
+ȘI AUDIT (EMAS)
+### Articolul 867. (1) Sistemul Comunitar de Management de Mediu și Audit (EMAS) este un
+instrument european voluntar, care are drept scop promovarea îmbunătățirii continue a
+performanțelor de mediu ale organizațiilor prin instituirea și punerea în aplicare de către
+acestea a unor sisteme de management de mediu, a evaluării sistematice, obiective și
+periodice a performanței acestor sisteme, a furnizării de informații privind performanța de
+mediu, a dialogului deschis cu publicul și cu alte părți interesate, a implicării active a
+angajaților în organizații, precum și a activităților de formare adecvate.
+(2) Recunoașterea la nivel național a persoanelor juridice care dețin o înregistrare
+valabilă în EMAS, efectuată într-un stat membru al UE în conformitate cu cerințele Uniunii
+Europene privind participarea voluntară a organizațiilor la EMAS, se realizează de către
+Agenția de Mediu prin înregistrarea acestora în Lista persoanelor juridice înregistrate în
+EMAS. Lista persoanelor juridice înregistrate în EMAS se aprobă prin ordinul ministrului
+mediului și se publică pe site-ul web oficial al Agenției de Mediu la compartimentul dedicat
+EMAS.
+(3) Pentru înregistrarea prevăzută la alin. (2), persoana juridică depune o cerere de
+recunoaștere a statutului EMAS însoțită de informațiile și documentele justificative în limba
+română sau, după caz, însoțită de copiile documentelor originale depuse la autoritatea de
+înregistrare în EMAS a statului membru al UE. În situația în care, ca urmare a verificării
+autenticității și valabilității acestora de către Agenția de Mediu, documentele corespund
+cerințelor legale, persoana juridică este înscrisă în Lista persoanelor juridice înregistrate în
+EMAS, în termen de 15 zile lucrătoare de la data depunerii cererii, fiindu-i asigurată
+actualizarea permanentă a informațiilor relevante.”
+
+
+4. Legea se completează cu articolul 901 cu următorul cuprins:
+„Art. 901. – Încălcarea, neexecutarea sau executarea necorespunzătoare a prezentei
+legi atrage răspunderea persoanei juridice în conformitate cu prevederile Legii nr. 107/2025
+privind răspunderea de mediu în legătură cu prevenirea și repararea daunelor aduse
+mediului.”
+### Art. II. La articolul 10, la articolul 13 alineatele (1) și (2), la articolul 19 alineatele
+(3) și (20), la articolul 26 alineatul (6) și la articolul 27 alineatul (3) din Legea regnului
+animal nr. 439/1995 (Monitorul Oficial al Republicii Moldova, 1995, nr. 62–63, art. 688), cu
+modificările ulterioare, cuvintele „autoritatea centrală abilitată cu gestiunea resurselor
+naturale și cu protecția mediului înconjurător” și cuvintele „autoritatea centrală abilitată cu
+gestiunea resurselor naturale și cu protecția mediului”, la orice formă gramaticală, se
+substituie cu sintagma „Agenția de Mediu” la forma gramaticală corespunzătoare.
+### Art. III. Legea nr. 1538/1998 privind fondul ariilor naturale protejate de stat
+(Monitorul Oficial al Republicii Moldova, 1998, nr. 66–68, art. 442), cu modificările
+ulterioare, se modifică după cum urmează:
+1. La articolul 11 alineatul (2), cuvintele „autorității centrale pentru mediu” se
+substituie cu sintagma „Agenției de Mediu”.
+2. Articolul 14:
+la litera n), sintagma „Agenția Relații Funciare şi Cadastru” se substituie cu sintagma
+„Agenția Geodezie, Cartografie și Cadastru”;
+la litera o), sintagma „Institutului de Ecologie şi Geografie al Academiei de Științe a
+Moldovei” se substituie cu sintagma „Agenției de Mediu”.
+3. Articolul 19 va avea următorul cuprins:
+„Art. 19. – (1) Guvernul instituie entitatea responsabilă de administrarea și
+gestionarea ariilor naturale protejate, a peisajelor, a siturilor Emerald și siturilor Natura
+2000, de asigurarea conservării speciilor de floră și faună sălbatică, a habitatelor și
+coridoarelor ecologice, precum și de monitorizarea, managementul și protecția acestora.
+Modul de instituire, de organizare și de funcționare a acestei entități se aprobă de Guvern.
+(2) Entitatea instituită conform alin. (1) va avea următoarele funcții de bază:
+a) administrarea, gestionarea, monitorizarea și protecția fondului ariilor naturale
+protejate, a peisajelor, a coridoarelor ecologice, a siturilor Emerald și siturilor Natura 2000,
+precum și a altor habitate naturale;
+b) asigurarea conservării și a protecției habitatelor și a speciilor de interes național,
+comunitar și internațional;
+c) asigurarea conservării, protecției și a prevenirii degradării ecosistemelor;
+d) monitorizarea și raportarea națională și internațională a stării habitatelor și a
+
+
+speciilor protejate;
+e) elaborarea și implementarea programelor și a planurilor de management al ariilor
+naturale protejate, a siturilor Emerald și siturilor Natura 2000;
+f) administrarea, dezvoltarea și operarea sistemelor informaționale, a bazelor de date,
+a platformelor digitale și a infrastructurii geospațiale pentru ariile naturale protejate,
+habitate, speciile de floră și faună sălbatică, peisaje, zonele biogeografice, siturile Emerald
+și siturile Natura 2000, precum și furnizarea de date pentru integrarea acestora în
+infrastructura națională de date spațiale;
+g) promovarea turismului ecologic;
+h) informarea și educația ecologică, cooperarea cu autoritățile publice locale;
+i) cooperarea internațională și implementarea convențiilor internaționale la care
+Republica Moldova este parte.”
+4. La articolul 84, sintagma „Inspectoratului Ecologic de Stat” se substituie cu
+sintagma „Inspectoratului pentru Protecția Mediului”.
+5. La articolul 93, cuvintele „autorității centrale pentru mediu” se substituie cu
+sintagma „Agenției de Mediu”.
+6. La articolul 96 alineatul (3) partea introductivă, sintagma „Inspectoratului Ecologic
+de Stat” se substituie cu sintagma „Inspectoratului pentru Protecția Mediului”.
+7. Articolul 98 se completează cu alineatul (3) cu următorul cuprins:
+„(3) Pentru tragerea la răspunderea de mediu se aplică prevederile Legii nr. 107/2025
+privind răspunderea de mediu în legătură cu prevenirea și repararea daunelor aduse
+mediului.”
+### Art. IV. Legea nr. 591/1999 cu privire la spațiile verzi ale localităților urbane și
+rurale (Monitorul Oficial al Republicii Moldova, 1999, nr. 133–134, art. 649), cu modificările
+ulterioare, se modifică după cum urmează:
+1. La articolul 9, litera g) se abrogă.
+2. Legea se completează cu articolul 91 cu următorul cuprins:
+„Articolul 91. Competența Agenției de Mediu
+Agenția de Mediu:
+a) ține Registrul național al spațiilor verzi;
+b) participă la activitatea comisiilor pentru amplasarea în spațiile verzi proprietate
+publică a obiectivelor compatibile cu destinația acestora;
+c) elaborează și aprobă metodologia de monitoring al spațiilor verzi;
+
+
+d) publică anual, până în data de 15 iunie, informația privind starea spațiilor verzi
+pentru anul precedent, în baza Hotărârii Guvernului nr. 676/2000 cu privire la procedura
+unică de ținere a evidenței spațiilor verzi ale localităților urbane și rurale;
+e) solicită, în temeiul pct. 2 din Hotărârea Guvernului nr. 676/2000 cu privire la
+procedura unică de ținere a evidenței spațiilor verzi ale localităților urbane și rurale,
+informația cuprinsă în anexele nr. 1–3 la hotărârea menționată.”
+3. La articolul 10 litera a), la articolul 31 alineatul (3) și la articolul 33 alineatul (2),
+cuvintele „autoritatea centrală pentru mediu” se substituie cu sintagma „Agenția de Mediu”.
+4. La articolul 13 litera d), la articolul 22 alineatul (2), la articolul 25 alineatul (1), la
+articolul 30 alineatul (3) și la articolul 32 alineatul (2), cuvintele „organele teritoriale ale
+autorității centrale pentru mediu” se substituie cu sintagma „Agenția de Mediu”.
+5. La articolul 28, cuvintele „organele teritoriale ale autorității centrale pentru
+mediu” se substituie cu sintagma „Inspectoratul pentru Protecția Mediului”.
+6. La articolul 29 punctul 1) partea introductivă, cuvintele „și organele teritoriale ale
+autorității centrale pentru mediu” se substituie cu textul „ , Agenția de Mediu și
+Inspectoratul pentru Protecția Mediului”.
+### Art. V. Legea nr. 149/2006 privind fondul piscicol, pescuitul și piscicultura
+(Monitorul Oficial al Republicii Moldova, 2006, nr. 126–130, art. 597), cu modificările
+ulterioare, se modifică după cum urmează:
+1. La articolul 7, literele b) și d) se abrogă.
+2. Articolul 8 se completează cu alineatul (3) cu următorul cuprins:
+„(3) Agenția de Mediu:
+a) asigură elaborarea și aprobarea programului de monitoring în domeniul pescuitului
+și al conservării resurselor biologice acvatice în obiectivele acvatice piscicole naturale;
+b) reglementează și autorizează activitățile de pescuit științific, de control, comercial,
+sportiv, amator și de agrement;
+c) participă la activitatea Consiliului ihtiologic, asigurând secretariatul acestuia;
+d) implementează măsurile necesare pentru creșterea potențialului biologic al
+resurselor piscicole și pentru popularea bazinelor acvatice piscicole cu specii de pești;
+e) stabilește, cu concursul instituțiilor din domeniul cercetării și inovării, procedura și
+modalitatea de studiere a resurselor biologice acvatice.”
+### Art. VI. Legea nr. 94/2007 cu privire la rețeaua ecologică (Monitorul Oficial al
+Republicii Moldova, 2007, nr. 90–93, art. 395), cu modificările ulterioare, se modifică după
+cum urmează:
+
+
+1. La articolul 18 alineatul (2) litera b), cuvintele „perimetrelor miniere” se substituie
+cu cuvintele „perimetrelor miniere sau a perimetrelor de exploatare”.
+2. La articolul 19:
+alineatul unic devine alineatul (1);
+articolul se completează cu alineatul (2) cu următorul cuprins:
+„(2) Răspunderea de mediu survine în conformitate cu prevederile Legii nr. 107/2025
+privind răspunderea de mediu în legătură cu prevenirea și repararea daunelor aduse
+mediului.”
+### Art. VII. Legea regnului vegetal nr. 239/2007 (Monitorul Oficial al Republicii
+Moldova, 2008, nr. 40–41, art. 114), cu modificările ulterioare, se modifică după cum
+urmează:
+1. La articolul 8, literele b)–e), g1) și g2) se abrogă.
+2. Legea se completează cu articolul 81 cu următorul cuprins:
+„Articolul 81. Competența Agenției de Mediu
+Sunt de competența Agenției de Mediu:
+a) participarea la procesul de elaborare a actelor normative în domeniul folosinței și
+protecției obiectelor regnului vegetal, inclusiv a celor ce derivă din angajamentele asumate
+prin Acordul de Asociere Republica Moldova – Uniunea Europeană în acest domeniu;
+b) participarea la implementarea actelor normative în domeniul folosinței și protecției
+obiectelor regnului vegetal;
+c) participarea la implementarea prevederilor documentelor de politici naționale și
+ale tratatelor internaționale de mediu la care Republica Moldova este parte în domeniul
+folosinței și protecției obiectelor regnului vegetal;
+d) înregistrarea colecțiilor de plante din flora sălbatică și ținerea registrului de stat al
+acestor colecții;
+e) reglementarea activităților din domeniul folosinței și protecției obiectelor regnului
+vegetal;
+f) eliberarea către persoanele fizice și juridice a autorizației pentru colectarea
+obiectelor regnului vegetal, a autorizației pentru tăieri ale vegetației forestiere, a
+acordurilor pentru importul și exportul de plante sălbatice, a permisului/certificatului
+CITES, a autorizației pentru folosința specială a plantelor incluse în Cartea Roșie a
+Republicii Moldova;
+g) ținerea registrelor actelor permisive emise;
+
+
+h) ținerea evidenței obiectelor regnului vegetal prin intermediul Cadastrului
+obiectelor regnului vegetal;
+i) îndeplinirea rolului de organ de gestiune CITES;
+j) instruirea personalului autorităților publice locale, al organelor de control vamal,
+precum și a beneficiarilor de folosință a obiectelor regnului vegetal privind reglementarea
+operațiunilor de import, export, reexport și de tranzit al obiectelor regnului vegetal;
+k) consultarea instituțiilor relevante cu privire la oportunitatea reintroducerii
+deliberate în natură a speciilor indigene, dacă această măsură este susceptibilă să
+contribuie la restabilirea acestor specii la un stadiu de conservare favorabil;
+l) consultarea instituțiilor relevante cu privire la oportunitatea reintroducerii
+deliberate în natură sau interzicerea, în caz de necesitate, a unor specii alogene în vederea
+excluderii unui prejudiciu cauzat habitatelor naturale în zona lor de răspândire naturală și
+florei sălbatice indigene.”
+3. La articolul 15 alineatul (3), cuvintele „autoritatea centrală abilitată cu gestiunea
+resurselor naturale și cu protecția mediului” se substituie cu sintagma „Agenția de Mediu”.
+4. La articolul 20 alineatul (1), cuvintele „autorității centrale abilitate cu gestiunea
+resurselor naturale și cu protecția mediului” se substituie cu sintagma „Agenției de Mediu”.
+5. La articolul 29 alineatul (1) și la articolul 30 alineatul (1), cuvintele „organelor
+teritoriale ale autorității centrale abilitate cu gestiunea resurselor naturale și cu protecția
+mediului” se substituie cu sintagma „Agenției de Mediu”.
+6. La articolul 31 alineatul (3), cuvintele „autorității publice centrale pentru protecția
+mediului” se substituie cu sintagma „Agenției de Mediu”.
+### Art. VIII. Codul contravențional al Republicii Moldova nr. 218/2008 (republicat în
+Monitorul Oficial al Republicii Moldova, 2017, nr. 78–84, art. 100), cu modificările
+ulterioare, se completează cu articolele 1431 și 1471 cu următorul cuprins:
+„Articolul 1431. Încălcarea procedurii de prevenire
+sau reparare a daunei aduse mediului
+(1) Neîndeplinirea obligației de prezentare sau neprezentarea la termenul stabilit a
+informației despre apariția unei amenințări iminente de producere a unei daune aduse
+mediului, precum și despre măsurile de prevenire sau măsurile de reparare întreprinse,
+se sancționează cu amendă de la 200 la 300 de unități convenționale aplicată
+persoanei juridice.
+(2) Neîndeplinirea sau îndeplinirea necorespunzătoare a măsurilor de reparare a
+daunei aduse mediului, prevăzute de art. 11–13 din Legea nr. 107/2025 privind răspunderea
+de mediu în legătură cu prevenirea și repararea daunelor aduse mediului,
+
+
+se sancționează cu amendă de la 200 la 300 de unități convenționale aplicată
+persoanei juridice.
+(3) Neconformarea contravenientului cu cerințele legale în termen de 30 de zile de la
+data aplicării sancțiunilor în temeiul alin. (1) sau alin. (2)
+se sancționează cu privarea de dreptul de a desfășura o anumită activitate pe un
+termen de la 3 luni la un an.”
+„Articolul 1471. Încălcarea procedurii de prezentare
+a informației privind monitorizarea, raportarea
+și verificarea emisiilor de gaze cu efect de seră
+(1) Neîndeplinirea obligației de a prezenta sau neprezentarea la termenul stabilit a
+planului de monitorizare a emisiilor de gaze cu efect de seră
+se sancționează cu amendă de la 200 la 300 de unități convenționale aplicată
+persoanei juridice.
+(2) Neprezentarea sau prezentarea cu întârziere a raportului anual al emisiilor de
+gaze cu efect de seră, verificat de un verificator acreditat, precum și a raportului de
+verificare a emisiilor de gaze cu efect de seră de către operatorul instalației staționare sau
+operatorul de aeronave
+se sancționează cu amendă de la 200 la 300 de unități convenționale aplicată
+persoanei juridice.”
+### Art. IX. În cuprinsul Codului subsolului nr. 3/2009 (Monitorul Oficial al Republicii
+Moldova, 2009, nr. 75–77, art. 197), cu modificările ulterioare, sintagma „Agenția pentru
+Geologie și Resurse Minerale”, la orice formă gramaticală, se substituie cu sintagma
+„Agenția de Mediu” la forma gramaticală corespunzătoare.
+### Art. X. Anexa nr. 1 la Legea nr. 160/2011 privind reglementarea prin autorizare a
+activității de întreprinzător (Monitorul Oficial al Republicii Moldova, 2011, nr. 170–175, art.
+494), cu modificările ulterioare, se modifică după cum urmează:
+compartimentul „II. Actele permisive care se încadrează în categoria autorizațiilor” se
+completează cu poziția 601 cu următorul cuprins:
+1
+
+60
+
+Autorizație de folosință a subsolului
+
+Gratuit
+
+Pentru cercetarea geologică a subsolului, colectarea
+materialelor mineralogice, paleontologice, a altor
+materiale de colecție și exploatarea instalației de
+gestionare a deșeurilor extractive – 5 ani;
+pentru exploatarea substanțelor minerale utile,
+extragerea apelor subterane pentru îmbuteliere sau în
+scopuri curative, pentru folosirea golurilor miniere –
+conform proiectului tehnologic pentru exploatarea și
+recultivarea acestuia, dar nu mai mult de 20 de ani, cu
+posibilitatea prelungirii
+pe perioade consecutive care să nu depășească 5 ani;
+pentru depozitarea deșeurilor periculoase și a
+deșeurilor în subsol, pentru organizarea obiectivelor
+geologice protejate de stat – pe termen nelimitat
+
+
+la compartimentul „III. Actele permisive care se încadrează în categoria
+certificatelor”, pozițiile 25 și 26 se exclud.
+### Art. XI. Legea apelor nr. 272/2011 (republicată în Monitorul Oficial al Republicii
+Moldova, 2024, nr. 46–49, art. 70), cu modificările ulterioare, se modifică după cum
+urmează:
+1. La articolul 2, la noțiunea „corp de apă de suprafață”, cuvintele „râu sau canal” se
+substituie, în ambele cazuri, cu textul „râu, pârâu sau canal”.
+2. La articolul 42 alineatul (1), primul enunț va avea următorul cuprins: „Terenurile
+fondului apelor și construcțiile hidrotehnice proprietate a statului sau a unităților
+administrativ-teritoriale se transmit exclusiv în locațiune, prin organizare de licitații publice,
+sau, după caz, în comodat.”
+3. La articolul 91, literele i), k) și l) se abrogă.
+4. Legea se completează cu articolul 92 cu următorul cuprins:
+„Articolul 92. Atribuțiile Instituției Publice
+Autoritatea de Meteorologie
+și Monitoring de Mediu
+În domeniul monitoringului și protecției resurselor de apă, Instituția Publică
+Autoritatea de Meteorologie și Monitoring de Mediu are următoarele atribuții:
+a) administrează rețeaua națională de monitoring al calității apelor de suprafață și
+subterane;
+b) asigură funcționarea Laboratorului privind calitatea apei din cadrul Laboratorului
+de Referință de Mediu și efectuează măsurări, analize și investigații privind calitatea apelor
+de suprafață și subterane în conformitate cu programele de monitoring al calității apelor de
+suprafață și subterane și/sau la solicitarea persoanelor fizice și juridice interesate;
+c) realizează monitoringul și evidența sistematică a cantității și a calității apelor de
+suprafață, inclusiv a cursurilor de apă transfrontaliere, în cadrul rețelei naționale de
+monitoring și furnizează informațiile hidrologice necesare pentru evaluarea stării resurselor
+de apă de suprafață;
+d) efectuează monitoringul și evidența sistematică a apelor subterane în cadrul rețelei
+naționale de monitoring în vederea evaluării stării corpurilor de apă subterană și a
+identificării tendințelor semnificative și susținute de creștere a concentrațiilor de poluanți,
+în scopul atingerii obiectivelor de mediu.”
+5. La articolul 192 alineatul (2), cuvintele „Înregistrarea şi evidența” se substituie cu
+cuvintele „Înregistrarea şi evidența caracteristicilor și a parametrilor tehnici ai”.
+6. La articolul 23, alineatul (2) se completează cu litera i) cu următorul cuprins:
+
+
+„i) producerea și furnizarea de ape recuperate destinate irigațiilor în agricultură.”
+7. Articolul 24 se completează cu alineatul (3) cu următorul cuprins:
+„(3) În cazul apariției unui deficit cantitativ de resurse de apă, determinat de seceta
+hidrologică sau hidrogeologică, de diminuarea semnificativă a nivelurilor ori a debitelor de
+apă în corpurile de apă, Ministerul Mediului, la propunerea Instituției Publice Administrația
+Națională „Apele Moldovei”, poate dispune (impune), pentru o perioadă determinată, măsuri
+temporare de restricționare a folosinței generale și/sau speciale a apei.”
+8. Articolul 25:
+se completează cu alineatul (33) cu următorul cuprins:
+„(3 3 ) Pentru activitatea specificată la art. 23 alin. (2) lit. i), adițional la actele
+prevăzute la alin. (2) lit. a), b), d), e) și g) din prezentul articol, solicitantul anexează:
+a) descrierea procesului de epurare și deversare a apei în emisar;
+b) descrierea cantității și a compoziției poluanților din apele deversate în emisar;
+c) certificatul de acreditare a laboratorului de măsurare și monitorizare a volumului și
+a calității apelor deversate în emisar, pe care îl deține, sau contractul de prestări servicii cu
+un laborator acreditat în acest sens, în conformitate cu Legea nr. 235/2011 privind
+activitățile de acreditare și de evaluare a conformității;
+d) planul de management al riscului legat de reutilizarea apei;
+e) date privind clasa de calitate a apelor recuperate, tipurile de culturi irigate,
+metodele de irigare, locațiile intenționate pentru utilizarea apelor recuperate;
+f) informații privind proiecte-pilot.”
+la alineatul (5), litera b) se completează cu textul „ , asigurând, după caz, schimbul de
+informații cu punctul de contact din statul în care apele recuperate sunt destinate utilizării”.
+9. La articolul 27, alineatul (2) se completează cu litera g) cu următorul cuprins:
+„g) planul de management al riscului legat de reutilizarea apei.”
+10. Articolul 28 se completează cu alineatul (4) cu următorul cuprins:
+„(4) În cazul emiterii autorizației de mediu pentru folosința specială a apei în scopul
+producerii și furnizării apelor recuperate destinate irigațiilor în agricultură, aceasta,
+suplimentar condițiilor prevăzute la alin. (1)–(3), cuprinde următoarele informații:
+a) clasa sau clasele de calitate a apelor recuperate și utilizarea în agricultură pentru
+care sunt permise apele recuperate, în conformitate cu regulamentul privind cerințele
+minime pentru reutilizarea apei, aprobat de Guvern;
+b) locul în care este autorizată utilizarea apei;
+
+
+c) instalațiile de recuperare, inclusiv amplasarea instalației, datele de contact ale
+operatorului și volumul anual estimat al apelor recuperate ce urmează să fie produse;
+d) condițiile referitoare la cerințele minime de calitate aplicabile apelor recuperate
+destinate irigațiilor în agricultură;
+e) orice condiții referitoare la cerințele suplimentare impuse operatorului instalației
+de recuperare, prevăzute în planul de management al riscului legat de reutilizarea apei;
+f) orice alte condiții necesare pentru a limita riscurile inacceptabile la adresa
+mediului, a sănătății umane și a celei animale, astfel încât orice risc să fie menținut la un
+nivel acceptabil;
+g) punctul de conformitate în care se vor efectua verificări pentru a se constata
+îndeplinirea de către operator a obligațiilor privind calitatea apelor recuperate.”
+11. La articolul 30, alineatul (1) se completează cu literele d)–g) cu următorul cuprins:
+„d) dacă a avut loc o modificare substanțială a capacității stației;
+e) dacă s-au modernizat echipamentele;
+f) dacă s-au adăugat noi echipamente sau procese;
+g) dacă au avut loc modificări ale condițiilor climatice sau de altă natură care
+afectează în mod semnificativ starea ecologică a corpurilor de apă de suprafață.”
+12. Articolul 32 se completează cu alineatul (6) cu următorul cuprins:
+„(6) Autorizația de mediu pentru folosința specială a apei poate fi modificată de către
+Agenția de Mediu la solicitarea deținătorului, cu menținerea termenului de valabilitate al
+acesteia, în cazul în care este necesară majorarea volumului de apă subterană autorizat
+pentru desfășurarea oricărei activități economice, în limitele debitului exploatabil al sondei
+de apă subterană, cu respectarea condițiilor de exploatare durabilă a acviferului.”
+13. Articolul 43 se completează cu alineatul (6) cu următorul cuprins:
+„(6) În conformitate cu obligațiile asumate de Republica Moldova, începând cu data
+aderării la Uniunea Europeană, Ministerul Mediului asigură elaborarea și transmiterea
+către Comisia Europeană a unui raport privind implementarea măsurilor de protecție a
+apelor împotriva poluării cu nitrați proveniți din surse agricole, în condițiile și în termenele
+stabilite de cerințele Uniunii Europene și de regulamentul prevăzut la alin. (1).”
+14. Articolul 49 se completează cu alineatele (5) și (6) cu următorul cuprins:
+„(5) În conformitate cu obligațiile asumate de Republica Moldova, Ministerul Mediului
+asigură transmiterea către Comisia Europeană a evaluărilor preliminare ale riscului de
+inundații, a hărților de hazard și a hărților de risc de inundații, precum și a planurilor de
+gestionare a riscului de inundații, inclusiv a revizuirilor și, după caz, a actualizărilor
+acestora, în termen de cel mult 3 luni de la data aprobării sau a finalizării acestora, potrivit
+
+
+prezentei legi.
+(6) Ministerul Mediului informează Comisia Europeană cu privire la orice alte decizii
+relevante legate de implementarea prevederilor prezentului articol și îi pune la dispoziție
+informațiile necesare referitoare la aceste decizii în termenul prevăzut la alin. (5).”
+15. La articolul 58:
+alineatul unic devine alineatul (1);
+articolul se completează cu alineatul (2) cu următorul cuprins:
+„(2) Răspunderea de mediu survine în conformitate cu prevederile Legii nr. 107/2025
+privind răspunderea de mediu în legătură cu prevenirea și repararea daunelor aduse
+mediului.”
+16. Articolul 60 se completează cu alineatele (3) și (4) cu următorul cuprins:
+„(3) În situația în care se identifică o problemă cu impact asupra gestionării apelor, în
+special una care vizează poluarea transfrontalieră și care depășește capacitatea de
+soluționare a Republicii Moldova, Ministerul Mediului asigură raportarea acesteia către
+Comisia Europeană, statele vecine interesate, precum și către organizațiile internaționale
+relevante, formulând recomandări de soluționare în cadrul mecanismelor de cooperare
+internațională.
+(4) În vederea asigurării coordonării administrative eficiente a districtelor bazinelor
+hidrografice, inclusiv a celor internaționale, Ministerul Mediului transmite către Comisia
+Europeană informațiile privind autoritățile competente cu atribuții în gestionarea resurselor
+de apă, ce includ: denumirea și adresa oficială, datele de contact, zona geografică a
+districtului bazinului hidrografic, cu descrierea precisă a granițelor și cu hărți în format GIS
+(Geographic Information System); statutul juridic al autorității competente și, dacă este
+necesar, un rezumat sau o copie a statutului acesteia, a actului de constituire sau a unui
+document legal echivalent, responsabilitățile juridice și administrative, inclusiv rolul
+autorității competente în cadrul fiecărui district al bazinului hidrografic; lista autorităților
+coordonate (dacă acționează ca organ de coordonare), cu un rezumat al relațiilor
+instituționale; un rezumat al relațiilor instituționale internaționale pentru asigurarea
+coordonării districtului bazinului hidrografic care se întinde pe teritoriul mai multor state
+sau pe teritoriul unei țări terțe. Ministerul Mediului informează Comisia Europeană cu
+privire la orice modificare a acestor informații.”
+17. Articolul 62 se completează cu alineatul (21) cu următorul cuprins:
+„(2 1 ) În conformitate cu obligațiile asumate de Republica Moldova, Ministerul
+Mediului asigură informarea Comisiei Europene cu privire la actele normative adoptate în
+domeniul reglementat de prezenta lege.”
+### Art. XII. Articolul 16 din Legea nr. 132/2012 privind desfășurarea în siguranță a
+activităților nucleare și radiologice (Monitorul Oficial al Republicii Moldova, 2012, nr.
+229–233, art. 739), cu modificările ulterioare, se modifică după cum urmează:
+
+
+denumirea articolului și partea introductivă vor avea următorul cuprins:
+„Articolul 16. Competența Instituției Publice
+Autoritatea de Meteorologie
+și Monitoring de Mediu
+Instituția Publică Autoritatea de Meteorologie și Monitoring de Mediu efectuează:”;
+articolul se completează cu litera e) cu următorul cuprins:
+„e) prezentarea către Agenția de Mediu a datelor și a informațiilor privind
+radioactivitatea mediului, obținute ca urmare a implementării programelor de monitorizare
+a radioactivității mediului.”
+### Art. XIII. Legea nr. 86/2014 privind evaluarea impactului asupra mediului
+(republicată în Monitorul Oficial al Republicii Moldova, 2023, nr. 414–417, art. 716), cu
+modificările ulterioare, se modifică după cum urmează:
+1. În cuprinsul legii, cuvintele „siturile Emerald”, la orice formă gramaticală, se
+substituie cu textul „siturile Emerald și siturile Natura 2000” la forma gramaticală
+corespunzătoare.
+2. La noțiunea „impact asupra mediului” și în anexa nr. 8 punctul 2) litera f),
+cuvintele ,,rețelei Emerald” se substituie cu textul ,,rețelei Emerald și rețelei Natura 2000”.
+3. Articolul 41 se completează cu alineatul (5) cu următorul cuprins:
+„(5) După aderarea Republicii Moldova la Uniunea Europeană, Ministerul Mediului
+asigură transmiterea către Comisia Europeană, o dată la doi ani, a unui raport privind
+deciziile de derogare adoptate.”
+4. Legea se completează cu articolul 30 cu următorul cuprins:
+„Articolul 30. Raportarea
+(1) În conformitate cu obligațiile asumate de Republica Moldova, o dată la 6 ani,
+Ministerul Mediului asigură elaborarea și transmiterea către Comisia Europeană a unui
+raport, în măsura în care sunt disponibile datele necesare, cu privire la următoarele
+aspecte:
+a) numărul activităților planificate, stabilite în anexele nr. 1 și nr. 2, care au fost
+supuse procedurii de evaluare a impactului asupra mediului, în conformitate cu prevederile
+art. 4 alin. (3), art. 53, art. 101–1012, art. 11–17 și art. 25;
+b) repartizarea evaluărilor impactului asupra mediului în funcție de categoriile de
+activități planificate stabilite în anexele nr. 1 și nr. 2;
+c) numărul activităților planificate, stabilite în anexa nr. 2, care au făcut obiectul
+
+
+procedurii de evaluare prealabilă în conformitate cu art. 9 alin. (2);
+d) durata medie a procedurii de evaluare a impactului asupra mediului;
+e) estimări generale privind costul mediu direct al procedurii de evaluare a
+impactului asupra mediului, inclusiv impactul financiar rezultat din aplicarea prezentei legi
+asupra întreprinderilor mici și mijlocii.
+(2) Primul raport prevăzut la alin. (1) se întocmește pentru o perioadă de 6 ani de la
+data aderării Republicii Moldova la Uniunea Europeană, iar rapoartele ulterioare se
+transmit din 6 în 6 ani.
+(3) Republica Moldova și Comisia Europeană fac schimb de informații pe baza
+experienței dobândite prin aplicarea prezentei legi.”
+### Art. XIV. La articolul 7 alineatul (6) din Legea nr. 209/2016 privind deșeurile
+(republicată în Monitorul Oficial al Republicii Moldova, 2024, nr. 260–263, art. 373), cu
+modificările ulterioare, textul „Laboratorul de referință, stabilit de către Agenția de Mediu,”
+se substituie cu cuvintele „Laboratorul de Referință de Mediu din cadrul Instituției Publice
+Autoritatea de Meteorologie și Monitoring de Mediu”.
+### Art. XV. Legea nr. 11/2017 privind evaluarea strategică de mediu (Monitorul Oficial
+al Republicii Moldova, 2017, nr. 109–118, art. 155), cu modificările ulterioare, se modifică
+după cum urmează:
+1. În cuprinsul legii, cuvintele „siturilor Emerald” se substituie cu textul „siturilor
+Emerald și siturilor Natura 2000”, iar cuvintele ,,rețelei Emerald” se substituie cu textul
+,,rețelei Emerald și rețelei Natura 2000”.
+2. Articolul 18:
+denumirea articolului va avea următorul cuprins:
+„Articolul 18. Legătura cu alte prevederi legislative
+ale Uniunii Europene”;
+alineatul unic devine alineatul (1);
+articolul se completează cu alineatele (2)–(5) cu următorul cuprins:
+,,(2) Efectuarea evaluării strategice de mediu pentru documentele de politici publice
+și planificare nu exclude aplicarea procedurii de evaluare a impactului asupra mediului,
+prevăzută pentru activitățile planificate, conform legislației în vigoare.
+(3) Pentru documentele de politici publice și planificare cofinanțate de Uniunea
+Europeană, evaluarea strategică de mediu se efectuează în conformitate cu prevederile
+prezentei legi, precum şi cu prevederile specifice relevante ale acquis-ului UE.
+(4) Evaluarea strategică de mediu se aplică şi documentelor de politici publice și
+
+
+planificare pentru care obligația de efectuare a acestei proceduri derivă simultan din
+prezenta lege, din alte acte normative care transpun legislația Uniunii Europene, precum şi
+din alte reglementări ale acquis-ului UE.
+(5) După aderarea Republicii Moldova la Uniunea Europeană, Ministerul Mediului
+comunică Comisiei Europene orice măsură luată privind calitatea rapoartelor de mediu.”
+### Art. XVI. În cuprinsul Legii nr. 277/2018 privind substanțele chimice (Monitorul
+Oficial al Republicii Moldova, 2019, nr. 49–58, art. 109), cu modificările ulterioare, sintagma
+„Agenția Națională de Reglementare a Activităților Nucleare, Radiologice și Chimice” și
+sintagma ,,Agenția Națională”, la orice formă gramaticală, se substituie cu sintagma
+„Agenția de Mediu” și, respectiv, cu cuvântul ,,Agenția” la forma gramaticală
+corespunzătoare.
+### Art. XVII. Legea nr. 98/2022 privind calitatea aerului atmosferic (Monitorul Oficial
+al Republicii Moldova, 2022, nr. 141–150, art. 252), cu modificările ulterioare, se modifică
+după cum urmează:
+1. La articolul 5, alineatul (2) va avea următorul cuprins:
+„(2) Identificarea și delimitarea zonelor și a aglomerărilor se efectuează de către
+Agenția de Mediu în baza datelor evaluării preliminare a calității aerului atmosferic,
+colectate de Instituția Publică Autoritatea de Meteorologie și Monitoring de Mediu în
+conformitate cu Regulamentul privind monitorizarea și gestionarea calității aerului
+atmosferic, aprobat de Guvern.”
+2. La articolul 8 litera l), sintagma „Agenției de Mediu” se substituie cu sintagma
+„Instituției Publice Autoritatea de Meteorologie și Monitoring de Mediu”.
+3. La articolul 10, alineatul (2) va avea următorul cuprins:
+„(2) În cazul în care este informat de către Instituția Publică Autoritatea de
+Meteorologie și Monitoring de Mediu cu privire la existența riscului de depășire a pragului
+de alertă și/sau a pragului de informare prevăzute în anexa nr. 2, Ministerul Sănătății, prin
+intermediul Agenției Naționale pentru Sănătate Publică, evaluează în regim de urgență
+riscurile pentru sănătatea umană și propune măsuri imediate și preventive ce trebuie luate
+în vederea protecției sănătății umane.”
+4. Articolele 13 și 15 vor avea următorul cuprins:
+„Articolul 13. Atribuțiile Agenției de Mediu
+Agenția de Mediu întreprinde măsuri de implementare a actelor normative în
+domeniul gestionării durabile a calității aerului atmosferic și:
+a) asigură implementarea cadrului normativ privind calitatea aerului atmosferic,
+monitorizează și raportează periodic către Ministerul Mediului despre gradul de
+implementare a acestuia, prezintă propuneri de modificare a actelor normative în domeniu;
+b) acordă suport Ministerului Mediului la elaborarea actelor normative privind
+
+
+evaluarea și gestionarea calității aerului atmosferic;
+c) până în data de 1 decembrie a fiecărui an, elaborează și transmite spre avizare
+Ministerului Mediului raportul privind calitatea aerului atmosferic la nivel național pe anul
+anterior, cu referire la poluanții ce intră sub incidența prezentei legi;
+d) elaborează inventarul național al emisiilor de gaze cu efect de seră, în conformitate
+cu prevederile Regulamentului privind instituirea și funcționarea Sistemului național de
+monitorizare și raportare a emisiilor de gaze cu efect de seră și altor informații relevante
+pentru schimbările climatice, aprobat de Guvern, și îl prezintă spre avizare Ministerului
+Mediului;
+e) asigură funcționarea SNMGICA și SNIEPA;
+f) împreună cu Instituția Publică Autoritatea de Meteorologie și Monitoring de Mediu,
+realizează clasificarea în regimuri de evaluare și regimuri de gestionare a ariilor din zone și
+aglomerări, pe baza rezultatelor măsurărilor și a studiilor de modelare, conform
+prevederilor art. 21 și 29, și o prezintă spre avizare Ministerului Mediului;
+g) elaborează metodologia privind evaluarea și validarea datelor de calitate a aerului
+atmosferic obținute în urma monitorizării calității aerului atmosferic;
+h) ține Registrul național al emisiilor și al transferului de poluanți, în conformitate cu
+prevederile Hotărârii Guvernului nr. 373/2018 cu privire la Registrul național al emisiilor și
+al transferului de poluanți;
+i) acordă suport autorităților administrației publice locale la elaborarea planurilor
+privind calitatea aerului la nivel local, le supune procedurii de evaluare strategică de mediu
+și monitorizează, împreună cu Inspectoratul pentru Protecția Mediului, implementarea
+acestora;
+j) autorizează emisiile de poluanți atmosferici în conformitate cu legislația în
+domeniul protecției mediului;
+k) împreună cu Instituția Publică Autoritatea de Meteorologie și Monitoring de
+Mediu, elaborează informații și rapoarte în formatele stabilite de Agenția Europeană de
+Mediu, de Oficiul Statistic al Uniunii Europene (Eurostat), de secretariatele convențiilor și
+protocoalele în domeniul protecției aerului atmosferic la care Republica Moldova este parte
+și le prezintă Ministerului Mediului;
+l) coordonează amplasarea punctelor fixe de monitorizare stabilite de Instituția
+Publică Autoritatea de Meteorologie și Monitoring de Mediu și lista poluanților atmosferici
+evaluați în cadrul RNMCA;
+m) stabilește lista unităților administrativ-teritoriale întocmită în urma clasificării în
+regimuri de gestionare a ariilor din zone și aglomerări;
+n) solicită și primește gratuit, în condițiile legii, date și informații generalizate cu
+privire la calitatea aerului atmosferic;
+
+
+o) organizează, împreună cu alte autorități publice și cu organizații
+neguvernamentale, ateliere de instruire asupra implementării cerințelor de calitate a
+aerului atmosferic, acțiuni de educație și conștientizare ecologică a populației în domeniul
+protecției aerului atmosferic.”
+„Articolul 15. Instituția Publică Autoritatea
+de Meteorologie și Monitoring
+de Mediu
+Instituția Publică Autoritatea de Meteorologie și Monitoring de Mediu are
+următoarele atribuții și responsabilități:
+a) asigură administrarea RNMCA, inclusiv a stației de monitorizare în context
+transfrontalier, conform Programului de cooperare pentru supravegherea și evaluarea
+transportului pe distanțe lungi al poluanților atmosferici în Europa (EMEP);
+b) asigură funcționarea și dezvoltarea Laboratorului privind calitatea aerului din
+cadrul Laboratorului de Referință de Mediu;
+c) prestează servicii de laborator privind calitatea aerului, servicii de monitoring al
+emisiilor de poluanți atmosferici la instalațiile aflate în gestiunea operatorilor economici
+(automonitorizare);
+d) realizează, prin intermediul Laboratorului privind calitatea aerului din cadrul
+Laboratorului de Referință de Mediu, programele anuale de monitoring al calității aerului
+atmosferic;
+e) stabilește amplasarea punctelor fixe de monitorizare și lista poluanților atmosferici
+evaluați în cadrul RNMCA și le consultă cu Agenția de Mediu;
+f) stabilește și delimitează zonele de protecție ale punctelor fixe de măsurare a
+calității aerului atmosferic și informează în acest sens autoritățile administrației publice
+locale și alte autorități competente pentru a fi incluse în documentele de amenajare a
+teritoriului și pentru a asigura respectarea regimului de protecție și funcționarea corectă a
+punctelor fixe de măsurare;
+g) transmite Agenției de Mediu, la solicitare, date și informații privind calitatea
+aerului atmosferic, obținute în urma realizării programelor de monitoring al calității aerului
+atmosferic, în scopul întocmirii rapoartelor privind calitatea aerului atmosferic la nivel
+național și a inventarului național de emisii;
+h) elaborează prognoze privind nivelul de poluare a aerului atmosferic;
+i) informează Ministerul Sănătății privind existența riscului de depășire a pragului de
+alertă și/sau a pragului de informare în scopul identificării și evaluării riscurilor pentru
+sănătatea umană;
+j) asigură informarea publicului și a autorităților publice interesate cu privire la
+
+
+calitatea aerului atmosferic și nivelul de depășire a pragurilor de emisie, inclusiv în cazurile
+excepționale, elaborează avertizări și asigură difuzarea acestora către operatorii economici,
+conform cadrului normativ, în cazul manifestării unor niveluri înalte de poluare, inclusiv în
+situațiile în care este prognozată o creștere a concentrațiilor de poluanți cauzată de condiții
+meteorologice nefavorabile;
+k) asigură acuratețea, corectitudinea și caracterul complet al datelor colectate și al
+informațiilor furnizate, precum și validarea primară a datelor obținute în urma
+implementării programelor de monitoring;
+l) transmite Agenției de Mediu, cu titlu gratuit, informații cu privire la climatul
+zonelor și al aglomerărilor;
+m) realizează prognoze meteorologice și le transmite, cu titlu gratuit, Agenției de
+Mediu în scopul aplicării planurilor privind calitatea aerului și al monitorizării efectelor
+măsurilor luate.”
+5. La articolul 19, alineatul (2) va avea următorul cuprins:
+„(2) Instituția Publică Autoritatea de Meteorologie și Monitoring de Mediu evaluează
+calitatea aerului atmosferic prin estimarea concentrațiilor de poluanți în comparație cu
+standardele și obiectivele calității aerului atmosferic stabilite în anexa nr. 2.”
+6. La articolul 24, alineatul (1) va avea următorul cuprins:
+„(1) Prin intermediul SNMGICA și în baza datelor furnizate de Instituția Publică
+Autoritatea de Meteorologie și Monitoring de Mediu, Agenția de Mediu evaluează nivelul de
+poluare a aerului atmosferic, asigurând supravegherea sistematică a concentrațiilor de
+poluanți atmosferici prevăzuți în anexa nr. 1 partea I.”
+7. La articolul 25, alineatul (1) va avea următorul cuprins:
+„(1) Monitoringul calității aerului atmosferic în baza măsurărilor efectuate prin
+RNMCA este realizat de către Instituția Publică Autoritatea de Meteorologie și Monitoring
+de Mediu conform obiectivelor de calitate a datelor, criteriilor de agregare a datelor și
+parametrilor statistici, de asemenea conform metodelor de referință prevăzute în anexa nr.
+4, aprobate la nivel național.”
+8. La articolul 26, alineatul (1) va avea următorul cuprins:
+„(1) Măsurările concentrațiilor de poluanți atmosferici în zone și aglomerări se
+efectuează de către Instituția Publică Autoritatea de Meteorologie și Monitoring de Mediu în
+puncte fixe, fie continuu, fie prin prelevări aleatorii, și numărul acestor măsurări trebuie să
+fie suficient pentru a permite determinarea nivelului concentrațiilor de poluanți.”
+9. La articolul 32, alineatul (1) va avea următorul cuprins:
+„(1) Agenția de Mediu, Instituția Publică Autoritatea de Meteorologie și Monitoring
+de Mediu și Agenția Națională pentru Sănătate Publică asigură monitorizarea privind
+respectarea nivelurilor concentrațiilor de poluanți atmosferici sub valorile-limită și valorile-
+
+
+țintă prevăzute în anexa nr. 2, cu excepția ozonului, în scopul evitării, al prevenirii sau al
+reducerii efectelor dăunătoare asupra sănătății umane în ariile din zone și aglomerări.”
+10. La articolul 33 alineatul (3), sintagma „Agenția de Mediu” se substituie cu textul
+„Agenția de Mediu, în baza datelor furnizate de Instituția Publică Autoritatea de
+Meteorologie și Monitoring de Mediu,”.
+11. Articolul 38 va avea următorul cuprins:
+„Articolul 38. Informarea publicului
+(1) Instituția Publică Autoritatea de Meteorologie și Monitoring de Mediu asigură
+informarea publicului și a instituțiilor interesate cu privire la calitatea aerului atmosferic, în
+conformitate cu anexa nr. 8, iar Agenția de Mediu, în baza datelor furnizate de Instituția
+Publică Autoritatea de Meteorologie și Monitoring de Mediu, asigură informarea publicului
+și a instituțiilor interesate cu privire la:
+a) programul național de control al poluării atmosferice, prevăzut la art. 33 alin. (2);
+b) planurile privind calitatea aerului și planurile de menținere a calității aerului,
+prevăzute la art. 36 și 37;
+c) măsurile de protecție a aerului atmosferic, prevăzute la cap. V.
+(2) Informațiile prevăzute la alin. (1) se pun la dispoziția publicului cu titlu gratuit,
+prin intermediul oricăror mijloace media ușor accesibile și se plasează pe site-ul web oficial
+al Agenției de Mediu și pe cel al Instituției Publice Autoritatea de Meteorologie și
+Monitoring de Mediu.
+(3) În cazul în care se depășește valoarea-limită și/sau pragul de alertă prevăzute în
+anexa nr. 2 sau în cazul în care are loc o poluare semnificativă transfrontalieră, Instituția
+Publică Autoritatea de Meteorologie și Monitoring de Mediu asigură neîntârziat informarea
+autorităților centrale pentru resursele naturale și mediu, precum și a publicului larg.”
+12. La articolul 41, alineatul (1) va avea următorul cuprins:
+„(1) În situația în care se depășește oricare dintre pragurile de alertă, valorile-limită
+sau valorile-țintă plus marja de toleranță corespunzătoare ori obiectivul pe termen lung
+prevăzute în anexa nr. 2, din cauza transportului transfrontalier de poluanți atmosferici sau
+de precursori ai acestora, Instituția Publică Autoritatea de Meteorologie și Monitoring de
+Mediu identifică depășirile, stabilește cauza transfrontalieră a poluării și furnizează datele
+și analizele tehnice necesare. Agenția de Mediu coordonează, unde este cazul, elaborarea
+planurilor comune sau corelate privind calitatea aerului, asigură integrarea datelor în
+documentele oficiale, facilitează cooperarea cu statele vecine și monitorizează aplicarea
+măsurilor potrivite pentru eliminarea acestor depășiri, dacă acestea nu presupun costuri
+disproporționate.”
+### Art. XVIII. Legea nr. 368/2023 cu privire la activitatea meteorologică și hidrologică
+(Monitorul Oficial al Republicii Moldova, 2023, nr. 510–513, art. 911) se modifică după cum
+
+
+urmează:
+1. În cuprinsul legii, cuvintele „instituția publică competentă în domeniul
+meteorologiei și hidrologiei”, la orice formă gramaticală, se substituie cu sintagma
+„Instituția Publică Autoritatea de Meteorologie și Monitoring de Mediu” la forma
+gramaticală corespunzătoare.
+2. La articolul 1 alineatul (1), textul „pentru activitatea meteorologică şi hidrologică,”
+se substituie cu textul „pentru activitatea meteorologică şi hidrologică, precum și pentru
+monitoringul factorilor de mediu, inclusiv al biodiversității, în limita competențelor stabilite
+de Guvern,”.
+3. La articolul 2, textul „activități meteorologice, hidrologice și activități conexe” se
+substituie cu textul „activități meteorologice, hidrologice, precum și monitoringul factorilor
+de mediu, inclusiv al biodiversității, în limita competențelor stabilite de Guvern”.
+4. Articolul 4 se completează, în ordine alfabetică, cu următoarele noțiuni:
+„date de monitoring al factorilor de mediu – valori ale parametrilor care descriu
+starea și dinamica factorilor și componentelor de mediu într-un anumit loc și timp, obținute
+în cadrul monitoringului în modul stabilit de Guvern;”
+„monitoring al biodiversității – activitate sistematică de observare, evaluare și
+raportare a stării și dinamicii ecosistemelor, habitatelor și speciilor, inclusiv prin indicatori
+și serii de date pe termen lung, în modul stabilit de Guvern;
+monitoring al factorilor de mediu – sistem de observații, de măsurări, de colectare,
+evaluare și raportare privind calitatea aerului atmosferic, a apelor de suprafață și
+subterane, a solului, a biodiversității, precum și a radioactivității mediului, în modul stabilit
+de Guvern;”
+„rețea națională de monitoring al factorilor de mediu – totalitatea rețelelor, punctelor
+de observație și măsurare, stațiilor, posturilor, forajelor, laboratoarelor, sistemelor
+informaționale și a altor elemente de infrastructură utilizate pentru colectarea, validarea,
+prelucrarea, stocarea și diseminarea datelor de monitoring al factorilor de mediu, în modul
+stabilit de Guvern;”.
+5. Articolul 7:
+denumirea articolului va avea următorul cuprins:
+„Articolul 7. Atribuțiile Instituției Publice Autoritatea
+de Meteorologie și Monitoring de Mediu”;
+articolul se completează cu literele s) și t) cu următorul cuprins:
+„s) organizează și realizează monitoringul factorilor de mediu și asigură colectarea,
+prelucrarea, analiza, validarea, stocarea și diseminarea datelor aferente în modul stabilit de
+Guvern;
+
+
+t) administrează și dezvoltă rețeaua națională de monitoring al factorilor de mediu și
+infrastructura aferentă acesteia, în condițiile legii.”
+6. Legea se completează cu articolul 181 cu următorul cuprins:
+„Articolul 181. Sistemul național și rețeaua națională
+de monitoring al factorilor de mediu
+(1) În vederea monitorizării factorilor de mediu, inclusiv a biodiversității, se instituie
+Sistemul național de monitoring al factorilor de mediu.
+(2) Sistemul național de monitoring al factorilor de mediu cuprinde rețeaua națională
+de monitoring al factorilor de mediu, punctele de observație și măsurare, stațiile, posturile,
+forajele, infrastructura de laborator, sistemele informaționale, fondurile de date și alte
+componente tehnice și organizatorice gestionate potrivit legii.
+(3) Rețeaua națională de monitoring al factorilor de mediu include, după caz, rețelele
+și subsistemele de monitoring al calității aerului atmosferic, al apelor de suprafață și
+subterane, al solului, al biodiversității, al radioactivității mediului și alte rețele specializate
+prevăzute de lege.
+(4) Modul de organizare, funcționare, dezvoltare, finanțare, colectare, validare,
+prelucrare, stocare, integrare și de furnizare a datelor în cadrul Sistemului național de
+monitoring al factorilor de mediu se stabilește de Guvern.”
+7. La articolul 24:
+denumirea articolului va avea următorul cuprins:
+„Articolul 24. Accesul la datele și informațiile meteorologice
+și hidrologice, precum și la datele
+de monitoring al factorilor de mediu,
+inclusiv al biodiversității”;
+alineatele (2) și (3) vor avea următorul cuprins:
+„(2) Publicul are acces liber și gratuit la datele și informațiile meteorologice,
+hidrologice și de monitoring al factorilor de mediu disponibile, inclusiv la cele în format
+electronic și cele obținute în trecut, aflate în posesia Instituției Publice Autoritatea de
+Meteorologie și Monitoring de Mediu.
+(3) Prin derogare de la alin. (2), datele și informațiile meteorologice, hidrologice și
+cele de monitoring al factorilor de mediu pot fi furnizate contra unei plăți ce nu depășește
+cheltuielile suportate de furnizor pentru selectarea și colectarea informației, perfectarea
+copiilor, expedierea acestora solicitantului și/sau pentru traducerea informației la cererea
+solicitantului, în conformitate cu legislația privind accesul la informațiile de interes public și
+
+
+în modul stabilit de Guvern.”
+articolul se completează cu alineatul (7) cu următorul cuprins:
+„(7) Datele și informațiile provenite din rețeaua națională de monitoring al factorilor
+de mediu fac parte din fondurile de date gestionate de Instituția Publică Autoritatea de
+Meteorologie și Monitoring de Mediu și se utilizează în scopul exercitării atribuțiilor
+prevăzute de lege, al informării publicului și al îndeplinirii obligațiilor internaționale ale
+Republicii Moldova, în condițiile legii.”
+### Art. XIX. La articolul 150 alineatul (1) litera v) din Codul urbanismului și
+construcțiilor nr. 434/2023 (Monitorul Oficial al Republicii Moldova, 2024, nr. 41–44, art.
+61), cu modificările ulterioare, cuvintele „perimetrului minier” se substituie cu cuvintele
+„perimetrului minier sau ale perimetrului de exploatare”.
+### Art. XX. Articolul 58 din Codul funciar nr. 22/2024 (Monitorul Oficial al Republicii
+Moldova, 2024, nr. 93–95, art. 137), cu modificările ulterioare, se modifică după cum
+urmează:
+la alineatul (3), textul „în limitele perimetrului minier, în baza proiectului
+perimetrului minier” se substituie cu textul „în limitele perimetrului minier sau ale
+perimetrului de exploatare, în baza proiectului perimetrului minier sau al perimetrului de
+exploatare”;
+la alineatul (6) litera d) și la alineatul (7), cuvintele „în limitele perimetrelor miniere”
+se substituie cu cuvintele „în limitele perimetrelor miniere sau ale perimetrelor de
+exploatare”.
+### Art. XXI. Legea nr. 74/2024 privind acțiunile climatice (Monitorul Oficial al
+Republicii Moldova, 2024, nr. 209–212, art. 293), cu modificările ulterioare, se modifică
+după cum urmează:
+1. La articolul 16 litera e), la articolul 19 litera b), la articolul 20 litera b), precum și
+în denumirea și în partea introductivă a articolului 23, cuvintele „instituția de monitorizare
+a mediului”, la orice formă gramaticală, se substituie cu sintagma „Instituția Publică
+Autoritatea de Meteorologie și Monitoring de Mediu” la forma gramaticală corespunzătoare.
+2. La articolul 49:
+alineatul (1) va avea următorul cuprins:
+,,(1) La aprobarea desfășurării activităților prevăzute în anexa nr. 1, în autorizația
+integrată de mediu sau în autorizația de mediu se include, în mod obligatoriu, componenta
+privind emisiile de GES, în conformitate cu prevederile Legii nr. 227/2022 privind emisiile
+industriale. Începând din 30 iunie 2026, autorizațiile integrate de mediu și autorizațiile de
+mediu se emit cu respectarea cerințelor prevăzute la pct. 7 din Regulamentul privind
+monitorizarea, raportarea și verificarea emisiilor de gaze cu efect de seră provenite de la
+instalațiile staționare și activitățile din domeniul aviației, aprobat de Guvern, iar
+autorizațiile emise anterior, valabile în temeiul art. 27 alin. (1) coroborat cu art. 15 alin. (22)
+
+
+din Legea nr. 227/2022 privind emisiile industriale, pe componenta de GES, se completează
+cu planul de monitorizare a emisiilor de gaze cu efect de seră în termen de 3 luni.”
+la alineatul (2), cuvintele „raportarea emisiilor de GES în baza planului de
+monitorizare a emisiilor de gaze cu efect de seră” se substituie cu textul „raportarea anuală
+a emisiilor de GES, începând cu 1 ianuarie 2027, în baza planului de monitorizare a
+emisiilor de gaze cu efect de seră aprobat”.
+3. Articolul 51:
+la alineatul (4), după textul „emisiilor de carbon,” se introduce textul „începând cu 30
+iunie 2026 sau”;
+alineatul (5) va avea următorul cuprins:
+„(5) RAE-ul operatorului de aeronave, pentru întreaga perioadă de raportare a anului
+precedent, este verificat de către un verificator acreditat în conformitate cu Regulamentul
+privind acreditarea și cerințele aplicabile verificatorilor emisiilor de gaze cu efect de seră,
+aprobat de Guvern.”
+la alineatul (6), textul „Cerințele privind MRV a emisiilor de GES, prevăzute la alin.
+(4), se elaborează anual,” se substituie cu textul „Monitorizarea, raportarea și verificarea
+emisiilor de GES, prevăzute la alin. (4), se efectuează”.
+4. Legea se completează cu articolul 62 cu următorul cuprins:
+„Articolul 62. Dispoziții tranzitorii
+Autorizațiile emise anterior, considerate valabile în temeiul art. 61 din Legea nr.
+227/2022 privind emisiile industriale, se modifică în temeiul art. 49 alin. (1) din prezenta
+lege, în termen de 3 luni de la data publicării Legii nr. 53/2026 pentru modificarea unor acte
+normative (reforma autorităților subordonate Ministerului Mediului).”
+### Art. XXII. Codul subsolului nr. 246/2024 (Monitorul Oficial al Republicii Moldova,
+2024, nr. 498–500, art. 678), cu modificările ulterioare, se modifică după cum urmează:
+1. Articolul 4:
+la noțiunea „autoritate competentă în domeniul folosirii și protecției subsolului”,
+sintagma „Agenția pentru Geologie și Resurse Minerale” se substituie cu sintagma „Agenția
+de Mediu”;
+noțiunea „garanție financiară pentru refacerea mediului” va avea următorul cuprins:
+„garanție financiară pentru refacerea mediului – obligația și răspunderea titularilor
+autorizațiilor de folosință a subsolului privind asigurarea mijloacelor financiare necesare
+pentru refacerea mediului;”.
+2. La articolul 11, litera d) se abrogă.
+
+
+3. Articolul 14:
+la litera s), textul „ , coordonare și aprobare” se substituie cu cuvintele „și
+coordonare”;
+la litera v), cuvintele „coordonarea și aprobarea” se substituie cu cuvântul
+„coordonarea”;
+articolul se completează cu literele x) și y) cu următorul cuprins:
+„x) asigurarea implementării procedurii de evaluare a impactului asupra mediului al
+activităților planificate privind construcția de obiecte noi, extinderea, reconstrucția,
+modernizarea, reprofilarea, planificarea construcțiilor și/sau al unor genuri de activitate noi
+privind dobândirea sau utilizarea resurselor naturale, conform prevederilor Legii nr.
+86/2014 privind evaluarea impactului asupra mediului;
+y) eliberarea acordului de mediu, suspendarea, retragerea sau prelungirea
+valabilității acestuia, inclusiv în privința activităților de înhumare (depozitare) a deșeurilor
+periculoase și a deșeurilor, conform prevederilor Legii nr. 86/2014 privind evaluarea
+impactului asupra mediului.”
+4. Articolul 15 se abrogă.
+5. La articolul 39 alineatul (4) litera d) și la articolul 57 alineatul (1) litera e),
+cuvintele „de către Agenția de Mediu” se exclud.
+6. La articolul 54 alineatul (8) și la articolul 59 alineatul (6) litera a), textul „Agenția
+de Mediu,” se exclude.
+7. La articolul 67:
+punctul 25) va avea următorul cuprins:
+„25) să mențină, pe toată perioada exploatării, garanția financiară pentru refacerea
+mediului și să o actualizeze anual;”
+articolul se completează cu punctul 251) cu următorul cuprins:
+„251) să efectueze anual debursări în contul special trezorerial „mijloace temporar
+intrate în posesia instituției”, deschis de autoritatea competentă în domeniul folosirii și
+protecției subsolului, în cuantum de 0,25% din valoarea garanției financiare pentru
+refacerea mediului, în scopul constituirii mijloacelor financiare destinate finanțării lucrărilor
+de refacere a mediului, în cazul în care titularii autorizațiilor de folosință a subsolului nu își
+îndeplinesc obligațiile de refacere a mediului;”.
+8. La articolul 81:
+alineatul (6) se abrogă;
+alineatul (10) va avea următorul curpins:
+
+
+„(10) Garanția financiară pentru refacerea mediului se constituie și se menține de
+către titularul autorizației de folosință a subsolului, pe toată perioada de valabilitate a
+autorizației, sub una dintre următoarele forme:
+a) garanție bancară emisă de o instituție financiară licențiată;
+b) poliță de asigurare emisă de o societate de asigurare licențiată;
+c) cont contabil special.”
+articolul se completează cu alineatul (11) cu următorul cuprins:
+„(11) În scopul asigurării mijloacelor financiare necesare executării lucrărilor de
+refacere a mediului, în cazul în care titularii autorizațiilor de folosință a subsolului sau
+beneficiarii care dețin dreptul de exploatare a resurselor minerale nu își îndeplinesc
+obligațiile de refacere a mediului, aceștia sunt obligați să achite anual o contribuție în
+cuantum de 0,25% din valoarea garanției financiare pentru refacerea mediului în contul
+trezorerial „mijloace temporar intrate în posesia instituției” deschis de autoritatea
+competentă în domeniul folosirii și protecției subsolului.”
+### Art. XXIII. Legea nr. 107/2025 privind răspunderea de mediu în legătură cu
+prevenirea și repararea daunelor aduse mediului (Monitorul Oficial al Republicii Moldova,
+2025, nr. 328, art. 372) se modifică după cum urmează:
+1. La articolul 2 alineatul (5), cuvintele „Metodologia de calculare” se substituie cu
+cuvintele „Metodologia de evaluare”.
+2. La articolul 27:
+alineatul (1) va avea următorul cuprins:
+„(1) Prezenta lege intră în vigoare la data de 30 mai 2026.”
+alineatul (2):
+partea introductivă va avea următorul cuprins:
+„Guvernul, până la data intrării în vigoare a prezentei legi:”;
+la litera b), cuvintele „Metodologia de calculare” se substituie cu cuvintele
+„Metodologia de evaluare”.
+### Art. XXIV. (1) Prezenta lege intră în vigoare la data publicării în Monitorul Oficial
+al Republicii Moldova, cu excepția art. IX, X și XXII, care intră în vigoare la data de 29 mai
+2026.
+(2) Guvernul, în termen de 6 luni de la data intrării în vigoare a prezentei legi:
+a) va întreprinde măsurile necesare în contextul creării și/sau al reorganizării
+autorităților administrative și a instituțiilor publice vizate de reforma instituțională în
+domeniul mediului;
+
+
+b) va aduce actele sale normative în concordanță cu prezenta lege.
+PREȘEDINTELE PARLAMENTULUI Igor GROSU
+Nr. 53. Chișinău, 9 aprilie 2026.

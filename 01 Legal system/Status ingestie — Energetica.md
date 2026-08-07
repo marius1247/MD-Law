@@ -99,6 +99,17 @@ Other newly relevant amendment/transition acts now present:
 | [[HANRE 23-2017 — furnizarea energiei termice (text)\|HANRE 23/2017]] | ⚠️ form annexes | Thermal supply body ✅ |
 | [[HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (text)\|HANRE 785/2025]] | ✅ | Uniform DSO tariff IF 1.01.2026 |
 
+## ✅ Ingested 2026-08-07h — PSO parent / gas DSO rates / permissive patch
+
+| Act | Status | Notes |
+|---|---|---|
+| [[HG 1059-2023 — PSO securitate aprovizionare energie electrica (text)\|HG 1059/2023]] | ✅ consolidated | Energocom PSO · to **31.12.2026** via 801 |
+| [[HG 801-2025 — modificare HG 1059-2023 PSO securitate EE (text)\|HG 801/2025]] | ✅ | L164 remap + extend |
+| [[HANRE 443-2020 — Metodologie tarife distributie gaze (text)\|HANRE 443/2020]] | ⚠️ decision-only | Methodology annex still missing |
+| [[HANRE 162-2026 — tarife uniforme distributie gaze (text)\|HANRE 162/2026]] | ✅ + annexes 1–2 | Uniform rates IF **1.04.2026** |
+| [[Legea 317-2025 — modificare acte permisive (text)\|LP317/2025]] | ✅ | L164 art. 20 + LP227 patch |
+| [[Legea 53-2026 — reforma autoritatilor Ministerul Mediului (text)\|LP53/2026]] | ✅ peripheral | Environment ministry reform |
+
 ## ❌ Still incomplete / decision-only
 
 | Act | Problem | Priority |
@@ -112,11 +123,10 @@ Other newly relevant amendment/transition acts now present:
 | [[HANRE 535-2019 — Metodologie tarife transport gaze (text)\|HANRE 535/2019]] | **decision-only; methodology annex missing** (doc_id 149131). Amended by HANRE 329/2025 (not ingested) | High for gas TSO tariff advice |
 | [[HG 86-2025 — Plan national integrat energie clima 2025-2030 (text)\|HG 86/2025]] | **PNIEC 2025–2030 annex missing** | High for strategy / RES quota opinions |
 | [[HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (text)\|HG 197/2025]] | **methodology annex missing** (HG 297 tables OK) | High for HE-CHP GO certification |
-| HG **1059/2023** security PSO | parent not ingested; [[HG 156-2025 — modificare HG 1059-2023 PSO securitate EE (text)\|156/2025]] ✅ | Medium |
 | [[HANRE 422-2019 — calitate servicii transport distributie gaze (text)\|HANRE 422/2019]] | **decision-only; QoS annex missing** | Medium — gas compensation |
 | [[HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile (text)\|HG 329/2025]] | Historic — parent **abrogated** by [[HG 599-2025 — limite cote capacitate regenerabile pana 2030 (text)\|HG 599]] | Low |
 | [[HG 599-2025 — limite cote capacitate regenerabile pana 2030 (text)\|HG 599/2025]] | **annexes 1–2 missing** (quota/ceiling numbers) | **High** for RES/net-billing advice |
-| HANRE **443/2020** gas DSO methodology | parent not ingested; [[HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (text)\|785/2025]] ✅ | High for 2026 DSO tariffs |
+| [[HANRE 443-2020 — Metodologie tarife distributie gaze (text)\|HANRE 443/2020]] | **decision ✅; methodology annex missing** · [[HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (text)\|785]] · [[HANRE 162-2026 — tarife uniforme distributie gaze (text)\|162]] rates ✅ | High for deep tariff modelling |
 | HG **668/2022** security stocks parent | not ingested; [[HG 302-2025 — modificare HG 668-2022 stocuri securitate gaze (text)\|302/2025]] ✅ (50 mcm) | Medium |
 
 ## Electricity transition map — L107 to L164

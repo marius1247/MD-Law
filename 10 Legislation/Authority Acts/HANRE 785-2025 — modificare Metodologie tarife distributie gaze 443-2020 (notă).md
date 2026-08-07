@@ -16,14 +16,14 @@ legis_id: "152152"
 
 # HANRE nr. 785/2025 — uniform gas DSO tariff / equalization — Analysis
 
-**Raw text:** [[HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (text)]] ✅ · **Parent methodology:** HANRE **443/2020** *(not in vault)* · **Hub:** [[MOC — Tarife și metodologii ANRE]] · [[MOC — Energetică]]
+**Raw text:** [[HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (text)]] ✅ · **Parent decision:** [[HANRE 443-2020 — Metodologie tarife distributie gaze (notă)|HANRE 443/2020]] ⚠️ annex still missing · **Applied rates:** [[HANRE 162-2026 — tarife uniforme distributie gaze (notă)|HANRE 162/2026]] · **Hub:** [[MOC — Tarife și metodologii ANRE]] · [[MOC — Energetică]]
 
 > [!abstract] Executive summary
 > **Core purpose:** Rewires HANRE 443/2020 for a **uniform distribution tariff** across OSDs by pressure level, with a **reconciliation entity**, **equalization compensatory payments**, late-payment recovery, and per-OSD regulated-revenue determination.
-> **Primary business risk:** Advising DSO tariffs from pre-785 443 methodology; or ignoring equalization cash-flow between OSDs after **IF 1 January 2026**.
+> **Primary business risk:** Advising DSO tariffs from pre-785 443 methodology; or ignoring equalization cash-flow between OSDs after **IF 1 January 2026** (applied numbers in **162** from **1.04.2026**).
 
-> [!warning] Parent gap
-> Full 443/2020 methodology still not ingested — this amend is usable for the uniform-tariff / equalization overlay, not as a standalone methodology.
+> [!warning] Methodology annex still missing
+> Parent **decision** is now in the vault; the methodology annex is still a placeholder. Use this amend for the uniform-tariff / equalization overlay; use **162** for lei/1000 m³ and OSD equalization table.
 
 ---
 
@@ -41,9 +41,9 @@ legis_id: "152152"
 
 ## 2. Checklist
 
-- [ ] Ingest parent HANRE 443/2020 before full tariff opinions
+- [ ] Fetch 443 methodology annex before full tariff opinions
 - [ ] Map which entity is designated as reconciler
-- [ ] Model equalization receivables/payables in DSO cash-flow for 2026
+- [ ] Apply [[HANRE 162-2026 — tarife uniforme distributie gaze (notă)|162/2026]] rates + Annex 1 equalization from 1.04.2026
 
 ---
 

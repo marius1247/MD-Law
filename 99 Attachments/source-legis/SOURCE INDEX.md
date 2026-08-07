@@ -3,7 +3,7 @@ title: "SOURCE INDEX — legis.md dumps"
 type: reference
 tags: [reference, meta, ingestion]
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-08-07
 ---
 
 # Source index — raw legis.md dumps
@@ -57,6 +57,11 @@ updated: 2026-07-26
 | `155279` | [`155279.md`](155279.md) | `10 Legislation/Laws/Legea 74-2020 — achizitii sectoriale (text).md` |
 | `155438` | [`155438.md`](155438.md) | `10 Legislation/Laws/Legea 220-2007 — inregistrarea de stat (text).md` |
 | `95607` | [`95607.md`](95607.md) | `10 Legislation/Laws/Legea 23-2008 — arbitraj (text).md` |
+| `127246` | [`127246-HANRE-305-2021.pdf`](127246-HANRE-305-2021.pdf) | `10 Legislation/Authority Acts/HANRE 305-2021 — abrogare HANRE 24-2017 achizitii titulari (text).md` |
+| `127268` | [`127268-HANRE-24-2017.pdf`](127268-HANRE-24-2017.pdf) | `10 Legislation/Authority Acts/HANRE 24-2017 — achizitii titulari de licenta (abrogata) (text).md` *(abrogated; annexes named only)* |
+| `129504` | [`129504-HANRE-656-2021.pdf`](129504-HANRE-656-2021.pdf) | `10 Legislation/Authority Acts/HANRE 656-2021 — modificare Codul retelelor electrice (text).md` |
+| `141264` | [`141264-HANRE-833-2023.pdf`](141264-HANRE-833-2023.pdf) | `10 Legislation/Authority Acts/HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text).md` |
+| `149100` | [`149100-HANRE-329-2025.pdf`](149100-HANRE-329-2025.pdf) | `10 Legislation/Authority Acts/HANRE 329-2025 — modificare Metodologie tarife transport gaze (text).md` |
 
 ## Intentionally unused duplicates
 
@@ -69,11 +74,11 @@ updated: 2026-07-26
 
 ## Still incomplete in vault (no adequate source dump yet)
 
-- `HANRE 423/2019` — electricity network code **annex** (source 151929 is decision-only)
+- `HANRE 423/2019` — clean **annex consolidation** still missing (151929 decision-only; partial substance via `129504` / HANRE 656/2021 ✅)
 - `HANRE 169/2019` — electricity supply regulation (still truncated; source 148195 is a *different* act: HANRE 169/**2025** water/sewerage)
 - `HANRE 64/2018`, `HANRE 375/2017` — tariff methodology annexes
 - `HG 820/2024` — risk-preparedness annex
-- `HANRE 853/2025`, `HANRE 535/2019`, Law `461/2001`, Law `248/2025` — parents not yet dumped (legis.md Cloudflare / no mirror)
+- `HANRE 853/2025`, parent `HANRE 535/2019` (329/2025 amend ✅), `HANRE 537/2020`, Law `461/2001`, Law `248/2025` — still missing / incomplete
 
 ## See also
 [[Conventions]] · [[Status ingestie — Energetica]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]

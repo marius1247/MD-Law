@@ -90,5 +90,5 @@ Moldova has **no commercial code**; the Civil Code governs civil and commercial 
 - **Legea nr. 845/1992** — legacy entrepreneurship; track its replacement (project 345/MDED/2025)
 - Consumer protection, e-commerce and electronic signature
 - Intellectual property (AGEPI)
-- **HANRE 24/2017** — procurement by energy licence-holders
+- Energy licence-holder procurement: [[HANRE 24-2017 — achizitii titulari de licenta (abrogata) (notă)|HANRE 24/2017]] **abrogated** → [[Legea 74-2020 — achizitii sectoriale (notă)|L74/2020]] / [[HANRE 305-2021 — abrogare HANRE 24-2017 achizitii titulari (notă)|305/2021]]
 - Where a provision is transposed from EU law — **EU case law is the working interpretive guide**

@@ -26,7 +26,7 @@ See [[Conventions]] for the full skeleton, naming, frontmatter, and ingestion wo
 ## Domain maps (your focus areas)
 | Hub | Read the synthesis first |
 |---|---|
-| [[MOC — Energetică]] | [[Energetică — synthesis]] · [[Energetică — architecture map]] · [[MOC — Piața de energie electrică]] · [[Energetică — segmente piață electricitate (notă)]] |
+| [[MOC — Energetică]] | [[Energetică — synthesis]] · [[Energetică — architecture map]] · [[MOC — Piața de energie electrică]] · [[Energetică — segmente piață electricitate (notă)]] · [[Energetică — prosumer vs consumator activ (notă)]] |
 | [[MOC — Societăți & Guvernanță corporativă]] | [[Societăți & guvernanță — synthesis]] |
 | [[MOC — Fiscalitate & Contabilitate]] | [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] |
 | [[MOC — Drept comercial]] | [[Drept comercial — synthesis]] |

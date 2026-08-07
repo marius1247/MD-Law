@@ -102,11 +102,11 @@ Step 2 deep fill for [[MOC — Piața de energie electrică]]. Spine: [[Energeti
 | | |
 |---|---|
 | **What** | Government-designated **central electricity supplier** buys from eligible RES (and, for a defined period, urban CHP) at regulated prices and resells into the market |
-| **Who trades** | FCEE ↔ eligible producers ([[Concept — Producător eligibil]]) ↔ organised / bilateral markets |
+| **Who trades** | [[Concept — Furnizor central de energie electrică\|FCEE]] ↔ eligible producers ([[Concept — Producător eligibil]]) ↔ organised / bilateral markets |
 | **Operator** | Designated FCEE entity · ANRE price approval |
 | **Settlement logic** | Support price in; market sale out; differences are a regulated / PSO economics problem, not free retail margin |
-| **Key sources** | L164 art. 2 (furnizor central) · [[Legea 10-2016 — surse regenerabile (notă)\|L10]] · HANRE 283 FCEE lane · [[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (notă)\|HG 26/2025]] |
-| **Practice** | Bankability of eligible-producer PPAs is FCEE credit + BRP allocation + connection queue — not the support tariff alone. |
+| **Key sources** | L164 art. 2 pt. 55 · [[Legea 10-2016 — surse regenerabile (notă)\|L10]] · HANRE 283 FCEE lane · [[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (notă)\|HG 26/2025]] |
+| **Practice** | Bankability of eligible-producer PPAs is FCEE credit + BRP allocation + connection queue — not the support tariff alone. Watch CfD transition ending FCEE RES offtake. |
 
 ### 9. Universal service & last-resort (retail PSO lanes)
 
@@ -114,7 +114,7 @@ Step 2 deep fill for [[MOC — Piața de energie electrică]]. Spine: [[Energeti
 |---|---|
 | **What** | Regulated retail continuity: **universal service** (standing) vs **FUO** (supplier failure contingency) — now separated on the face of L164 |
 | **Who** | Designated suppliers · household + micro/small company perimeter for US |
-| **Key sources** | L164 arts. 17, 114–115 · [[Concept — Furnizor de ultimă opțiune]] · [[HANRE 169-2019 — furnizarea energiei electrice (notă)\|HANRE 169]] *(currency conflicts — prefer L164 timings)* |
+| **Key sources** | L164 arts. 17, 114–115 · [[Concept — Furnizor de ultimă opțiune]] · [[HANRE 169-2019 — furnizarea energiei electrice (notă)\|HANRE 169]] *(currency conflicts — prefer L164 timings)* · [[Concept — Contract la prețuri dinamice]] (competitive retail products alongside PSO) |
 | **Practice** | Not wholesale segments, but they shape residual demand and procurement (incl. market-based purchase of volumes/losses). |
 
 ### 10. Flexibility stack (aggregation / storage / active consumers)
@@ -124,9 +124,12 @@ Not a single organised venue — a **participation mode** across the segments ab
 | Actor | Concept | Licence / gate |
 |---|---|---|
 | Active consumer | [[Concept — Consumator activ]] | Usually no supply licence; BRP duty; ANRE capacity cap by technology |
+| Prosumer (net billing) | [[Concept — Facturare netă]] | L10 overlay — see boundary note |
 | Independent aggregator | [[Concept — Agregator independent]] | Aggregation licence (10y); ANRE aggregation regulation still expected |
 | Storage operator | [[Concept — Stocare a energiei]] | Storage licence if ≥ 1 MW autonomous injection |
 | CEC | [[Concept — Comunitate de energie a cetățenilor]] | ANRE register + licences when thresholds hit |
+
+**Boundary:** [[Energetică — prosumer vs consumator activ (notă)]]
 
 ---
 
@@ -170,11 +173,15 @@ Not a single organised venue — a **participation mode** across the segments ab
 
 | Deliverable | Status |
 |---|---|
-| Segment briefs 1–10 | ✅ this note |
+| Segment briefs 1–10 | ✅ |
 | Concepts: OPEED, consumator activ, agregator independent, stocare, CEC | ✅ |
 | Licensing inventory vs true secondary acts | ✅ (286 trap documented) |
-| Dynamic-price contract concept | ⏳ optional later |
-| Per-segment deep annexes (offer types, guarantee formulas) | ⏳ only if client work demands |
+| [[Concept — Contract la prețuri dinamice]] | ✅ |
+| [[Concept — Furnizor central de energie electrică]] | ✅ |
+| [[Energetică — prosumer vs consumator activ (notă)\|Prosumer ↔ active-consumer boundary]] | ✅ |
+| Per-segment deep annexes (offer types, guarantee formulas) | Deferred — only if client work demands |
+
+**Step 2 closed.** Next structuring work: Step 3 gas hub.
 
 ## Related
-[[MOC — Piața de energie electrică]] · [[Energetică — architecture map]] · [[Roadmap — Energy analysis architecture]] · [[Energetică — sector electricitate ANRE (notă)]] · [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)]] · [[Legea 164-2025 — energia electrica (notă)]] · [[ANRE]]
+[[MOC — Piața de energie electrică]] · [[Energetică — prosumer vs consumator activ (notă)]] · [[Energetică — architecture map]] · [[Roadmap — Energy analysis architecture]] · [[Energetică — sector electricitate ANRE (notă)]] · [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)]] · [[Legea 164-2025 — energia electrica (notă)]] · [[ANRE]]

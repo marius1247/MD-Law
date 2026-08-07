@@ -35,7 +35,7 @@ A final customer (or jointly acting group) that **consumes or stores** self-gene
 - Net-billing annex: [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|HANRE 833 Anexa 5]]
 
 ## Related
-[[Concept — Facturare netă]] · [[Concept — Comunitate de energie a cetățenilor]] · [[Concept — Agregator independent]] · [[Concept — Stocare a energiei]] · [[Concept — Parte responsabilă de echilibrare]] · [[MOC — Piața de energie electrică]]
+[[Concept — Facturare netă]] · [[Concept — Comunitate de energie a cetățenilor]] · [[Concept — Agregator independent]] · [[Concept — Stocare a energiei]] · [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Contract la prețuri dinamice]] · [[Energetică — prosumer vs consumator activ (notă)]] · [[MOC — Piața de energie electrică]]
 
 ## Notes / conclusions
 > Do not collapse **consumator activ** into **prosumer**. Active consumer is the L164 market-participation status; prosumer/net billing is the L10 support overlay. A client can be one, both (if L10 conditions met), or move between them — the licence and balancing consequences differ.

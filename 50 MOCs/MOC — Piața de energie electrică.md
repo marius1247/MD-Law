@@ -50,9 +50,9 @@ Horizontal logic: **L164 creates the market; HANRE 283 runs it; L10 changes who 
 | Balancing | Piața de echilibrare | **OST** (Moldelectrica) | HANRE 283 Titlul VI · HANRE 853 | Brief ✅ · [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Furnizor de servicii de echilibrare]] |
 | System services | Servicii de sistem | OST | HANRE 283 Titlul VII | Brief ✅ |
 | Capacity / adequacy | Adequacy / capacity mechanisms | Policy + ANRE / OST (L164 arts. 49–51) | Legal toolbox only — no live capacity market | Brief ✅ *(stub verdict)* |
-| Regulated central offtake | **FCEE** purchases (RES + urban CHP) | Designated central supplier | L164 · L10 · HANRE 283 special lane | Brief ✅ · [[Concept — Producător eligibil]] |
+| Regulated central offtake | **[[Concept — Furnizor central de energie electrică\|FCEE]]** purchases (RES + urban CHP) | Designated central supplier | L164 · L10 · HANRE 283 special lane | Brief ✅ · Concept ✅ · [[Concept — Producător eligibil]] |
 | Universal / last-resort supply | Serviciu universal · **FUO** | Designated suppliers | L164 arts. 17, 114–115 · HANRE 169 | Brief ✅ · [[Concept — Furnizor de ultimă opțiune]] |
-| Flexibility / aggregation / storage | New L164 activities | Licensed aggregators, storage operators, active consumers, CECs | L164 primary; HANRE lag | Brief ✅ · concepts ✅ below |
+| Flexibility / aggregation / storage | New L164 activities | Licensed aggregators, storage operators, active consumers, CECs | L164 primary; HANRE lag | Brief ✅ · concepts ✅ · boundary [[Energetică — prosumer vs consumator activ (notă)]] |
 
 Economic spine: nominate a schedule → deviate → pay imbalance. BRP is the hinge ([[Concept — Parte responsabilă de echilibrare]]). Cross-vault economics: [[FP — Marginal Pricing in Electricity Markets]] (GeoMacro).
 
@@ -68,7 +68,7 @@ Economic spine: nominate a schedule → deviate → pay imbalance. BRP is the hi
 | **Producers** | Injection; may need eligible-producer status for support | L164 · L10 |
 | **Suppliers** | Wholesale + retail; often BRP for customers / prosumers | L164 · HANRE 169 |
 | **Traders** | Licensed trading (L164 new catalogue) | L164 |
-| **FCEE** | Central offtake of eligible RES / urban CHP at regulated prices | L164 · L10 |
+| **FCEE** | Central offtake of eligible RES / urban CHP at regulated prices | L164 · L10 · [[Concept — Furnizor central de energie electrică]] |
 | **FUO / universal service supplier** | PSO retail | L164 · [[Concept — Furnizor de ultimă opțiune]] |
 | **PRE / BRP** | Financial responsibility for imbalances | HANRE 283 · 853 · [[Concept — Parte responsabilă de echilibrare]] |
 | **FSE** | Balancing energy / capacity provider | HANRE 853 · [[Concept — Furnizor de servicii de echilibrare]] |
@@ -128,20 +128,21 @@ Separate gate from licensing: **connection** ([[Concept — Racordare la rețea]
 
 ## 7. Concepts (electricity market)
 
-**Live:** [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Furnizor de servicii de echilibrare]] · [[Concept — Piața organizată a contractelor bilaterale]] · [[Concept — OPEED]] · [[Concept — Consumator activ]] · [[Concept — Agregator independent]] · [[Concept — Stocare a energiei]] · [[Concept — Comunitate de energie a cetățenilor]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Producător eligibil]] · [[Concept — Facturare netă]] · [[Concept — Licență în energetică]] · [[Concept — Unbundling]] · [[Concept — Racordare la rețea]] · [[Concept — Situație excepțională electroenergetică]]
+**Live:** [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Furnizor de servicii de echilibrare]] · [[Concept — Piața organizată a contractelor bilaterale]] · [[Concept — OPEED]] · [[Concept — Consumator activ]] · [[Concept — Agregator independent]] · [[Concept — Stocare a energiei]] · [[Concept — Comunitate de energie a cetățenilor]] · [[Concept — Contract la prețuri dinamice]] · [[Concept — Furnizor central de energie electrică]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Producător eligibil]] · [[Concept — Facturare netă]] · [[Concept — Licență în energetică]] · [[Concept — Unbundling]] · [[Concept — Racordare la rețea]] · [[Concept — Situație excepțională electroenergetică]]
 
-**Optional later:** contracte la prețuri dinamice (L164 art. 119 area)
+**Boundary note:** [[Energetică — prosumer vs consumator activ (notă)]]
 
 ---
 
 ## 8. Open threads for this hub
 
 1. ✅ Segment briefs + licensing inventory — [[Energetică — segmente piață electricitate (notă)]]
-2. Currency: HANRE 283 *temei* still L107; track ANRE re-adoption
-3. ✅ Capacity: legal toolbox (arts. 49–51), **no live capacity market** until HG
-4. Watch for dedicated L164 licensing secondary act (do not use HANRE 286)
-5. ANRE regulations still expected: aggregation (art. 120(9)), CEC register (art. 125), energy sharing (art. 123)
-6. Prosumer vs active-consumer boundary — feeds Step 7 cross-cutting layer
+2. ✅ Dynamic-price / FCEE concepts + prosumer↔active-consumer boundary
+3. Currency: HANRE 283 *temei* still L107; track ANRE re-adoption
+4. ✅ Capacity: legal toolbox (arts. 49–51), **no live capacity market** until HG
+5. Watch for dedicated L164 licensing secondary act (do not use HANRE 286)
+6. ANRE regulations still expected: aggregation (art. 120(9)), CEC register (art. 125), energy sharing (art. 123), supply-reg update for art. 119
+7. Step 7: expand prosumer/active-consumer layer from the boundary note
 
 ## Related
-[[Energetică — segmente piață electricitate (notă)]] · [[Energetică — architecture map]] · [[Roadmap — Energy analysis architecture]] · [[MOC — Energetică]] · [[MOC — Racordare și acces la rețele]] · [[MOC — Tarife și metodologii ANRE]] · [[Energetică — sector electricitate ANRE (notă)]] · [[ANRE]]
+[[Energetică — segmente piață electricitate (notă)]] · [[Energetică — prosumer vs consumator activ (notă)]] · [[Energetică — architecture map]] · [[Roadmap — Energy analysis architecture]] · [[MOC — Energetică]] · [[MOC — Racordare și acces la rețele]] · [[MOC — Tarife și metodologii ANRE]] · [[Energetică — sector electricitate ANRE (notă)]] · [[ANRE]]

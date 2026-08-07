@@ -72,4 +72,7 @@ SORT file.name ASC
 - [[Concept — Agregator independent]] — licensed aggregator not affiliated to customer’s supplier
 - [[Concept — Stocare a energiei]] — storage as regulated activity (≥ 1 MW licence gate)
 - [[Concept — Comunitate de energie a cetățenilor]] — CEC register + non-profit-primary filter
+- [[Concept — Contract la prețuri dinamice]] — dynamic + fixed-term fixed-price retail products (art. 119)
+- [[Concept — Furnizor central de energie electrică]] — FCEE central buyer / offtake hinge
 - Segment briefs hub: [[Energetică — segmente piață electricitate (notă)]]
+- Boundary: [[Energetică — prosumer vs consumator activ (notă)]]

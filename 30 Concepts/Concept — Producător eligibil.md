@@ -46,7 +46,7 @@ Small self-consumers with generation are handled by **net metering / [[Concept �
 - [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)]] · [[HANRE 383-2026 — modificare Regulile pietei energiei electrice (notă)|383/2026 POCB]]
 
 ## Related
-[[Concept — Racordare la rețea]] · [[Concept — Tarif reglementat]] · [[Concept — Parte responsabilă de echilibrare]] · [[Energetică — synthesis]]
+[[Concept — Racordare la rețea]] · [[Concept — Tarif reglementat]] · [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Furnizor central de energie electrică]] · [[Concept — Facturare netă]] · [[Energetică — prosumer vs consumator activ (notă)]] · [[Energetică — synthesis]]
 
 ## Capacity envelopes (Government)
 - Support-scheme quotas to 2030: [[HG 599-2025 — limite capacitate regenerabile 2030 (notă)|HG 599/2025]]

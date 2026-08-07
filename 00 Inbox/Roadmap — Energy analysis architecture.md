@@ -56,8 +56,10 @@ Keep [[Energetică — synthesis]] as the short practitioner narrative. Do **not
 
 ### Step 2 — Electricity deep fill ✅ *(2026-08-07)*
 - Segment briefs + licensing inventory: [[Energetică — segmente piață electricitate (notă)]]
-- Concepts: [[Concept — OPEED]] · [[Concept — Consumator activ]] · [[Concept — Agregator independent]] · [[Concept — Stocare a energiei]] · [[Concept — Comunitate de energie a cetățenilor]]
-- Verdict recorded: **no live capacity market** (L164 arts. 49–51 toolbox only); HANRE 286 is **not** the licensing regulation
+- Concepts (batch A): [[Concept — OPEED]] · [[Concept — Consumator activ]] · [[Concept — Agregator independent]] · [[Concept — Stocare a energiei]] · [[Concept — Comunitate de energie a cetățenilor]]
+- Concepts (batch B): [[Concept — Contract la prețuri dinamice]] · [[Concept — Furnizor central de energie electrică]]
+- Boundary: [[Energetică — prosumer vs consumator activ (notă)]]
+- Verdicts: **no live capacity market** (L164 arts. 49–51 toolbox only); HANRE 286 is **not** the licensing regulation
 
 ### Step 3 — Gas market hub *(next)*
 Mirror Step 1–2 pattern under a new `MOC — Piața gazelor naturale`:

@@ -51,6 +51,7 @@ Key watch: Government **politica fiscală 2027** draft proposes Estonian-style d
 | [[HG 93-2013 — restituirea TVA (text)\|HG nr. 93/2013]] (VAT refund regulation) | ✅ complete · consol. HG829 | [[HG 93-2013 — restituirea TVA (notă)]] |
 | [[HG 829-2025 — modificare acte fiscale vamale audit (text)\|HG nr. 829/2025]] | ✅ complete · **IF 1 Jan 2026** | [[HG 829-2025 — modificare acte fiscale vamale audit (notă)]] |
 | [[Legea 327-2025 — managementul finantelor publice (text)\|Legea nr. 327/2025]] (public-finance management) | ✅ complete · staged IF → 2027 | [[Legea 327-2025 — managementul finantelor publice (notă)]] |
+| [[Legea 187-2025 — modificare BNM (text)\|Legea nr. 187/2025]] (NBM + fiscal/customs omnibus) | ✅ complete · staged IF → 2027 | [[Legea 187-2025 — modificare BNM (notă)]] |
 
 ### Fiscal Code by Titlu
 

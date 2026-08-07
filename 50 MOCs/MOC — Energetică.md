@@ -100,7 +100,8 @@ Moldova is an **Energy Community** contracting party by [[Legea 117-2009 — ade
 6. Remaining tier-3 downloads: gas tariff methodologies, QoS, dispatch, metering, HANRE 24/2017.
 
 ## Open threads
-- Not yet ingested: gas tariff methodologies (HANRE 535/2019, 443/2020), quality-of-service (422/2019, 537/2020), network development (94/2019), dispatch (316/2018), gas metering (297/2022), **licence-holder procurement (HANRE 24/2017)** → [[MOC — Achiziții publice & Statul]]
+- [[HANRE 535-2019 — Metodologie tarife transport gaze (text)\|HANRE 535/2019]] gas transmission tariff methodology — ⚠️ **decision-only** ([[HANRE 535-2019 — Metodologie tarife transport gaze (notă)\|notă]]); annex + HANRE 329/2025 still needed
+- Not yet ingested: gas tariff methodology **443/2020**, quality-of-service (422/2019, 537/2020), network development (94/2019), dispatch (316/2018), gas metering (297/2022), **licence-holder procurement (HANRE 24/2017)** → [[MOC — Achiziții publice & Statul]]
 - **Live transitions:** L164/2025 changeover; gas PSO withdrawal for large industrials; market-based procurement of electricity including network losses.
 - Unbundling is executed through company law → [[Societăți & guvernanță — synthesis]] · [[Legea 135-2007 — SRL (notă)]] / [[Legea 1134-1997 — societati pe actiuni (notă)]]
 - Cross-vault: [[FP — Marginal Pricing in Electricity Markets]] (GeoMacro) for market economics

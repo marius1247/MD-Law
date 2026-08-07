@@ -78,7 +78,9 @@ Moldova has **no commercial code**; the Civil Code governs civil and commercial 
 | [[Legea 171-2012 — piata de capital (notă)\|L171/2012]] capital markets | ✅ | ✅ |
 | [[Legea 92-2022 — activitatea de asigurare (notă)\|L92/2022]] insurance | ✅ | ✅ |
 | [[Legea 114-2012 — servicii de plata (notă)\|L114/2012]] payment services | ✅ | ✅ |
-| [[Legea 308-2017 — prevenirea spalarii banilor (notă)\|L308/2017]] AML | ✅ | ✅ |
+| [[Legea 308-2017 — prevenirea spalarii banilor (notă)\|L308/2017]] AML | ✅ deepened | ✅ |
+| [[Legea 144-2025 — economia digitala si servicii electronice (notă)\|L144/2025]] digital economy | ✅ | ✅ |
+| [[Legea 187-2025 — modificare BNM (notă)\|L187/2025]] NBM + fiscal omnibus | ✅ deepened | ✅ |
 | [[Legea 231-2010 — comertul interior (notă)\|L231/2010]] domestic trade | ✅ | ✅ |
 | [[Legea 213-2024 — controlul comertului (notă)\|L213/2024]] trade control | ✅ | ✅ |
 | [[Legea 81-2004 — investitii in activitatea de intreprinzator (notă)\|L81/2004]] investment | ✅ | ✅ |

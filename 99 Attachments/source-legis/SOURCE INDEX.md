@@ -25,8 +25,11 @@ updated: 2026-08-07
 | `146678` | [`146678.md`](146678.md) | *not ingested — Older Codul vamal dump — superseded by 149774* |
 | `148195` | [`148195.md`](148195.md) | `10 Legislation/Authority Acts/HANRE 169-2025 — investitii apa si canalizare (text).md` |
 | `149099` | [`149099.md`](149099.md) | `10 Legislation/Authority Acts/HANRE 328-2025 — modificare Codul retelelor de gaze naturale (text).md` |
+| `149085` | [`149085.md`](149085.md) · [`149085.pdf`](149085.pdf) | `10 Legislation/Laws/Legea 144-2025 — economia digitala si servicii electronice (text).md` |
 | `149126` | [`149126.md`](149126.md) | `10 Legislation/Authority Acts/HANRE 112-2019 — racordarea la retelele de gaze (text).md` |
-| `149719` | [`149719.md`](149719.md) | `10 Legislation/Codes/Codul civil 1107-2002 (text) — Index.md`<br>`10 Legislation/Codes/Codul civil 1107-2002 — text — Cartea I.md`<br>`10 Legislation/Codes/Codul civil 1107-2002 — text — Cartea II.md`<br>`10 Legislation/Codes/Codul civil 1107-2002 — text — Cartea III.md`<br>`10 Legislation/Codes/Codul civil 1107-2002 — text — Cartea IV.md`<br>`10 Legislation/Codes/Codul civil 1107-2002 — text — Cartea V.md` |
+| `149131` | [`149131.md`](149131.md) · [`149131.pdf`](149131.pdf) | `10 Legislation/Authority Acts/HANRE 535-2019 — Metodologie tarife transport gaze (text).md` *(decision-only — methodology annex missing)* |
+| `149593` | [`149593.md`](149593.md) · [`149593.pdf`](149593.pdf) | `10 Legislation/Laws/Legea 187-2025 — modificare BNM (text).md` *(PDF mirror; working text from uploads)* |
+| `149719` | [`149719.md`](149719.md) · [`149719.pdf`](149719.pdf) | `10 Legislation/Codes/Codul civil 1107-2002 (text) — Index.md`<br>`10 Legislation/Codes/Codul civil 1107-2002 — text — Cartea I.md`<br>`10 Legislation/Codes/Codul civil 1107-2002 — text — Cartea II.md`<br>`10 Legislation/Codes/Codul civil 1107-2002 — text — Cartea III.md`<br>`10 Legislation/Codes/Codul civil 1107-2002 — text — Cartea IV.md`<br>`10 Legislation/Codes/Codul civil 1107-2002 — text — Cartea V.md` |
 | `149721` | [`149721.md`](149721.md) | `10 Legislation/Codes/Codul de executare 443-2004 (text).md` |
 | `149723` | [`149723.md`](149723.md) | `10 Legislation/Codes/Codul administrativ 116-2018 (text).md` |
 | `149774` | [`149774.md`](149774.md) | `10 Legislation/Codes/Codul vamal 95-2021 (text).md` |
@@ -34,6 +37,7 @@ updated: 2026-08-07
 | `150766` | [`150766.md`](150766.md) | `10 Legislation/Codes/Codul de procedura civila 225-2003 (text).md` |
 | `151210` | [`151210.md`](151210.md) | `10 Legislation/Authority Acts/Rectificare ANRE 05-03-5694-2025 (text).md` |
 | `151415` | [`151415.md`](151415.md) | `10 Legislation/Laws/Legea 92-2014 — energia termica si cogenerarea (text).md` |
+| `151444` | [`151444.md`](151444.md) · [`151444.pdf`](151444.pdf) | `10 Legislation/Laws/Legea 308-2017 — prevenirea spalarii banilor (text).md` *(PDF mirror; working text from uploads)* |
 | `151929` | [`151929.md`](151929.md) | `10 Legislation/Authority Acts/HANRE 423-2019 — Codul retelelor electrice (text).md` |
 | `152300` | [`152300.md`](152300.md) · [`152300.pdf`](152300.pdf) | `10 Legislation/Government Decisions/HG 829-2025 — modificare acte fiscale vamale audit (text).md` |
 | `152350` | [`152350.md`](152350.md) · [`152350.pdf`](152350.pdf) | `10 Legislation/Laws/Legea 330-2025 — modificare secret comercial (text).md` |
@@ -78,12 +82,15 @@ updated: 2026-08-07
 - `HANRE 169/2019` — electricity supply regulation (still truncated; source 148195 is a *different* act: HANRE 169/**2025** water/sewerage)
 - `HANRE 64/2018`, `HANRE 375/2017` — tariff methodology annexes
 - `HG 820/2024` — risk-preparedness annex
-- `HANRE 853/2025`, `HANRE 535/2019`, Law `461/2001`, Law `248/2025` — parents not yet dumped (legis.md Cloudflare / no mirror)
+- `HANRE 853/2025`, Law `461/2001`, Law `248/2025` — parents not yet dumped (legis.md Cloudflare / no mirror)
+- **HANRE 535/2019** — decision ingested (`149131`); **methodology annex still missing** (same class as HANRE 423)
+- **HANRE 329/2025** — amends HANRE 535; not yet dumped
 - **Legea nr. 384/2023** privind protecția secretelor comerciale — pivot for [[Legea 330-2025 — modificare secret comercial (notă)]]; not yet dumped
 
-## PDF batch 2026-08-07
+## PDF batches 2026-08-07
 
-Five legis.md mPDF exports (doc_ids above) ingested from Cursor uploads. PDFs had a short PostScript prefix before `%PDF`; stripped on archive. Working `(text)` built from extracted text with article/Art. anchors; companion `(notă)` written the same day.
+1. doc_ids `152300`, `152350`, `152360`, `152472`, `152587` — full `(text)` + `(notă)`
+2. doc_ids `149085`, `149131`, `149593`, `149719`, `151444` — L144 + HANRE 535 (decision-only) new; L187/L308 notes deepened + PDF mirrors; Civil Code PDF mirror only (books already split)
 
 ## See also
 [[Conventions]] · [[Status ingestie — Energetica]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]

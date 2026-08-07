@@ -101,7 +101,7 @@ Milestone: transformation from distance-volumetric model (MDL/1000 m³/100 km) t
 
 $$P_{\text{gas}} = \text{WAPP}_{\text{gas}} + T_{\text{trans}} + T_{\text{dist}} + M_{\text{gas\_supp}} \pm \text{FD}$$
 
-**Legal basis:** HANRE 355/2021 (as amended by 540/2024). Gas tariff methodologies HANRE 535/2019 and 443/2020 — **not yet ingested**.
+**Legal basis:** HANRE 355/2021 (as amended by 540/2024). Gas transmission methodology [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)|HANRE 535/2019]] — ⚠️ **decision-only in vault** (annex missing); HANRE 443/2020 — **not yet ingested**.
 
 ### 3.3 Uniform distribution tariff
 

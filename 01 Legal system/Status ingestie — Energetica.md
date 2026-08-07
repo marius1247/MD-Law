@@ -66,6 +66,7 @@ Other newly relevant amendment/transition acts now present:
 | [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]] | likely annex/methodology completeness should be rechecked | Medium |
 | [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]] | likely annex/methodology completeness should be rechecked | Medium |
 | [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] | earlier flagged as detached-annex risk | Medium |
+| [[HANRE 535-2019 — Metodologie tarife transport gaze (text)\|HANRE 535/2019]] | **decision-only; methodology annex missing** (doc_id 149131). Amended by HANRE 329/2025 (not ingested) | High for gas TSO tariff advice |
 
 ## Electricity transition map — L107 to L164
 

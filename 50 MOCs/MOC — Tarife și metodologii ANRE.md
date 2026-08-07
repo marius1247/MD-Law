@@ -27,6 +27,7 @@ Indexul tuturor metodologiilor de calcul, aprobărilor de tarife reglementate ș
 * [[HANRE 64-2018 — Metodologie tarife distributie EE (notă)|64/2018]] — distribution *(annex gap)*
 * [[HANRE 375-2017 — Metodologie tarife regenerabile (notă)|375/2017]] — renewables fixed tariffs *(annex gap)*
 * [[HANRE 286-2018 — licentiere energie (notă)|286/2018]] — tariff/price **application** procedure *(not licensing)*
+* [[Legea 45-2025 — garantiile avizelor de racordare si tolerante dezechilibre (notă)|LP45/2025]] Art. I §2 — early recognition of **national-interest TSO CAPEX** (project value) in the transport tariff (historical L107 art. 88(2); remap under L164)
 
 ## 2. Sectorul Gaze Naturale
 * HANRE **535/2019** gas TSO transport methodology — parent ❌ · amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] ✅ (conditional-capacity Section 7²)

@@ -19,6 +19,11 @@ updated: 2026-08-07
 
 | doc_id | Raw file | Vault location |
 |---|---|---|
+| `147685` | [`147685-147685_943f.pdf`](147685-147685_943f.pdf) · [`147685.txt`](147685.txt) | `10 Legislation/Government Decisions/HG 86-2025 — Plan national integrat energie clima 2025-2030 (text).md` *(dispositif only)* |
+| `147714` | [`147714-147714_dab3.pdf`](147714-147714_dab3.pdf) · [`147714.txt`](147714.txt) | `10 Legislation/Government Decisions/HG 156-2025 — modificare HG 1059-2023 PSO securitate EE (text).md` |
+| `147716` | [`147716-147716_966a.pdf`](147716-147716_966a.pdf) · [`147716.txt`](147716.txt) | `10 Legislation/Government Decisions/HG 158-2025 — modificare norme cheltuieli institutii sociale (text).md` *(peripheral)* |
+| `147843` | [`147843-147843_3f1e.pdf`](147843-147843_3f1e.pdf) · [`147843.txt`](147843.txt) | `10 Legislation/Laws/Legea 45-2025 — garantiile avizelor de racordare si tolerante dezechilibre (text).md` |
+| `148066` | [`148066-148066_6246.pdf`](148066-148066_6246.pdf) · [`148066.txt`](148066.txt) | `10 Legislation/Government Decisions/HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (text).md` *(methodology annex missing)* |
 | `121240` | [`121240.md`](121240.md) | `10 Legislation/Laws/Legea 183-2012 — concurenta (text).md` |
 | `140021` | [`140021.md`](140021.md) | `10 Legislation/Authority Acts/HANRE 486-2017 — Metodologie tarife transport EE (text).md` |
 | `142654` | [`142654.md`](142654.md) | `10 Legislation/Laws/Legea 235-2006 — principii reglementare intreprinzator (text).md` |
@@ -179,5 +184,15 @@ updated: 2026-08-07
 | `147296` | [`147296-147296_a54f.pdf`](147296-147296_a54f.pdf) · [`147296.txt`](147296.txt) | `10 Legislation/Government Decisions/HG 74-2025 — calcul consum energie regenerabila (text).md` *(dispositif only)* |
 | `147150` | [`147150-147150_341b.pdf`](147150-147150_341b.pdf) · [`147150.txt`](147150.txt) | `10 Legislation/Government Decisions/HG 76-2025 — cotizatii organizatii internationale 2025 (text).md` *(peripheral)* |
 
+## PDF batch 2026-08-07e — energy (batch 5)
+
+| doc_id | Raw file | Vault location |
+|---|---|---|
+| `147685` | [`147685-147685_943f.pdf`](147685-147685_943f.pdf) · [`147685.txt`](147685.txt) | `10 Legislation/Government Decisions/HG 86-2025 — Plan national integrat energie clima 2025-2030 (text).md` *(dispositif only — PNIEC annex missing)* |
+| `147714` | [`147714-147714_dab3.pdf`](147714-147714_dab3.pdf) · [`147714.txt`](147714.txt) | `10 Legislation/Government Decisions/HG 156-2025 — modificare HG 1059-2023 PSO securitate EE (text).md` |
+| `147716` | [`147716-147716_966a.pdf`](147716-147716_966a.pdf) · [`147716.txt`](147716.txt) | `10 Legislation/Government Decisions/HG 158-2025 — modificare norme cheltuieli institutii sociale (text).md` *(peripheral; annex missing)* |
+| `147843` | [`147843-147843_3f1e.pdf`](147843-147843_3f1e.pdf) · [`147843.txt`](147843.txt) | `10 Legislation/Laws/Legea 45-2025 — garantiile avizelor de racordare si tolerante dezechilibre (text).md` |
+| `148066` | [`148066-148066_6246.pdf`](148066-148066_6246.pdf) · [`148066.txt`](148066.txt) | `10 Legislation/Government Decisions/HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (text).md` *(methodology annex missing)* |
+
 ## See also
-[[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]
+[[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — PDF batch 2026-08-07 (4)]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]

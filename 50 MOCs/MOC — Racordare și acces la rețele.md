@@ -15,7 +15,7 @@ created: '2026-07-28'
 updated: '2026-08-07'
 ---
 
-# 🔌 Map of Content: Racordare și Acces la Rețele
+# Map of Content: Racordare și Acces la Rețele
 
 Centrul de comandă pentru normele privind accesul la rețelele electrice, de gaze naturale și termice (avize, contracte de racordare, delimitare de proprietate).
 
@@ -23,6 +23,8 @@ Centrul de comandă pentru normele privind accesul la rețelele electrice, de ga
 
 ## 1. Reglementări Sector Electrice
 * [[HANRE 311-2026 — racordarea la retelele electrice (notă)|HANRE 311/2026]] — **current** connection regulation (L164)
+* [[Legea 45-2025 — garantiile avizelor de racordare si tolerante dezechilibre (notă)|LP45/2025]] — statutory **>200 kW guarantees**, nevalorificare tax, imbalance deadbands (L10)
+* [[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (notă)|HG 26/2025]] — 6-year PSO grid access for fixed-price eligible producers
 * ~~[[HANRE 168-2019 — racordarea la retelele electrice (notă)|HANRE 168/2019]]~~ — abrogated; patched while live by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|833/2023]]
 * [[HANRE 423-2019 — Codul retelelor electrice (notă)|HANRE 423/2019]] — *Codul rețelei electrice* · substance via [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|656/2021]] (Parts I–V)
 
@@ -35,6 +37,8 @@ Centrul de comandă pentru normele privind accesul la rețelele electrice, de ga
 * [[Concept — Punct de delimitare]]
 * [[Concept — Aviz de racordare]]
 * [[Concept — Capacitate rezervată]]
+* [[Concept — Garanție de bună execuție a avizului de racordare]]
+* [[Concept — Producător eligibil]]
 
 ## 4. Acte de Racordare și Acces (Dataview)
 ```dataview

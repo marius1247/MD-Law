@@ -136,4 +136,14 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 | [[HG 74-2025 — calcul consum energie regenerabila (text)]] | [[HG 74-2025 — calcul consum energie regenerabila (notă)]] ⚠️ annex missing |
 | [[HG 76-2025 — cotizatii organizatii internationale 2025 (text)]] | [[HG 76-2025 — cotizatii organizatii internationale 2025 (notă)]] ⚠️ peripheral |
 
-Optional next: **535/355/537** methodology annexes, **422/2019**, **HG 74/2025** annex, **L282/2023** parent.
+## Batch 11 — energy PDF (2026-08-07e) ✅
+
+| Act | Note |
+|---|---|
+| [[Legea 45-2025 — garantiile avizelor de racordare si tolerante dezechilibre (text)]] | [[Legea 45-2025 — garantiile avizelor de racordare si tolerante dezechilibre (notă)]] · [[Concept — Garanție de bună execuție a avizului de racordare]] |
+| [[HG 86-2025 — Plan national integrat energie clima 2025-2030 (text)]] | [[HG 86-2025 — Plan national integrat energie clima 2025-2030 (notă)]] ⚠️ PNIEC annex missing |
+| [[HG 156-2025 — modificare HG 1059-2023 PSO securitate EE (text)]] | [[HG 156-2025 — modificare HG 1059-2023 PSO securitate EE (notă)]] · parent 1059 ❌ |
+| [[HG 158-2025 — modificare norme cheltuieli institutii sociale (text)]] | [[HG 158-2025 — modificare norme cheltuieli institutii sociale (notă)]] ⚠️ peripheral |
+| [[HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (text)]] | [[HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (notă)]] ⚠️ methodology annex missing · [[Concept — Garanții de origine (cogenerare HE)]] |
+
+Optional next: **PNIEC annex**, **HG 197 methodology annex**, **HG 1059/2023**, **535/355/537** methodology annexes, **422/2019**, **HG 74/2025** annex, **L282/2023** parent.

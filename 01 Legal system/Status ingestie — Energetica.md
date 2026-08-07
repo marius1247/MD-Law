@@ -68,6 +68,15 @@ Other newly relevant amendment/transition acts now present:
 | [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)]] | ✅ complete | Patches 168/169/537; connection patches superseded by 311/2026 |
 | [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)]] | ✅ complete | Conditional-capacity tariffs; parent 535 still missing |
 
+## ✅ Ingested 2026-08-07e — connection / PNIEC / CHP GO PDFs
+
+| Act | Status | Notes |
+|---|---|---|
+| [[Legea 45-2025 — garantiile avizelor de racordare si tolerante dezechilibre (text)\|LP45/2025]] | ✅ complete | Guarantees >200 kW + imbalance deadbands · [[Legea 45-2025 — garantiile avizelor de racordare si tolerante dezechilibre (notă)\|notă]] |
+| [[HG 86-2025 — Plan national integrat energie clima 2025-2030 (text)\|HG 86/2025]] | ⚠️ dispositif only | **PNIEC annex missing** |
+| [[HG 156-2025 — modificare HG 1059-2023 PSO securitate EE (text)\|HG 156/2025]] | ✅ complete amend | Extends PSO to 31.12.2025; parent 1059 ❌ |
+| [[HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (text)\|HG 197/2025]] | ⚠️ methodology annex missing | HG 297 reference tables present · [[Concept — Garanții de origine (cogenerare HE)]] |
+
 ## ❌ Still incomplete / decision-only
 
 | Act | Problem | Priority |
@@ -79,6 +88,9 @@ Other newly relevant amendment/transition acts now present:
 | [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]] | likely annex/methodology completeness should be rechecked | Medium |
 | [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] | earlier flagged as detached-annex risk | Medium |
 | [[HANRE 535-2019 — Metodologie tarife transport gaze (text)\|HANRE 535/2019]] | **decision-only; methodology annex missing** (doc_id 149131). Amended by HANRE 329/2025 (not ingested) | High for gas TSO tariff advice |
+| [[HG 86-2025 — Plan national integrat energie clima 2025-2030 (text)\|HG 86/2025]] | **PNIEC 2025–2030 annex missing** | High for strategy / RES quota opinions |
+| [[HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (text)\|HG 197/2025]] | **methodology annex missing** (HG 297 tables OK) | High for HE-CHP GO certification |
+| HG **1059/2023** security PSO | parent not ingested; [[HG 156-2025 — modificare HG 1059-2023 PSO securitate EE (text)\|156/2025]] ✅ | Medium |
 
 ## Electricity transition map — L107 to L164
 

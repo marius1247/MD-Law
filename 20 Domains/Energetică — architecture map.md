@@ -55,6 +55,7 @@ Sectoral laws do not sit in silos. They **call**, **defer**, **amend**, or **ove
 | [[Legea 92-2014 — energia termica si cogenerarea (notă)\|L92/2014]] | L164 (electricity from CHP) · L10 (if RES heat) · FCEE | CHP straddles heat regulation and electricity market | Urban CHP → FCEE lane under L164 vocabulary |
 | [[Legea 461-2001 — piata produselor petroliere (notă)\|L461/2001]] | [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)\|L101/2026]] · [[Legea 248-2025 — managementul situatiilor de criza (notă)\|L248]] | Petroleum market + crisis price / procurement tools | Do not conflate petroleum crisis with electricity risk-preparedness ([[HG 820-2024 — situatii exceptionale electroenergetic (notă)\|HG 820]]) |
 | L10 | [[HG 599-2025 — limite capacitate regenerabile 2030 (notă)\|HG 599]] · [[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (notă)\|HG 26]] · [[HANRE 375-2017 — Metodologie tarife regenerabile (notă)\|375]] | Quotas / PSO / fixed-tariff methodology | Support is a three-tier stack |
+| L10 · [[HG 53-2025 — durabilitate biocarburanti emisii GES (notă)\|HG 53]] | [[Legea 461-2001 — piata produselor petroliere (notă)\|L461]] importers · ANRE ceiling prices / mins | Transport RES blending duty rides on petroleum licences; sustainability gates what *counts* | Counting ≠ selling; see [[MOC — Biocarburanți și combustibili din biomasă]] |
 | L139 | [[CNED]] · [[HG 829-2024 — audit energetic intreprinderi mari (notă)\|HG 829/2024]] · FEE | Obligation scheme, audits, EPC finance | Efficiency is compliance, not soft policy |
 | Climate governance | [[HG 10-2024 — guvernanta energetica si actiuni climatice (notă)\|HG 10/2024]] · [[HG 86-2025 — PNIEC 2025-2030 (notă)\|PNIEC]] | Planning / reporting layer above markets | ESG narrative anchors here + accounting non-financial statements |
 | Sectoral procurement | [[Legea 74-2020 — achizitii sectoriale (notă)\|L74/2020]] | Utilities buy energy / works under sectoral procurement after HANRE 24 repeal | Market-based procurement of losses intersects here |
@@ -92,7 +93,7 @@ These recur across vectors. Each hub applies them; this section names the doctri
 | RES support | L10/2016 | RED lineage (EnC-adapted) | Live: net billing, quotas to 2030 |
 | Efficiency | L139/2018 | EED lineage | Hardened by LP111/2025 |
 | Petroleum | L461/2001 | Sectoral / SoS | Crisis tools via L101/L248 |
-| Hydrogen / coal / geothermal as standalone markets | — | Acquis pressure uneven | **Stubs** — see §6 |
+| Hydrogen / coal / geothermal as standalone markets | — | Acquis pressure uneven (H₂ package + RFNBO) | **Stubs** — coal · geothermal · [[Energetică — hidrogen gap stub (notă)\|hydrogen]] |
 
 Electricity being a package ahead of gas is the best predictor of what changes next ([[Energetică — synthesis]] §6).
 

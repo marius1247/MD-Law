@@ -9,7 +9,7 @@ updated: 2026-08-07
 
 # Ingestion status — Energy corpus
 
-**Read this before citing any energy text in this vault.** The core energy corpus has moved from "mostly partial" to **mostly complete** after manual browser downloads on 2026-07-23 and 2026-07-26. **2026-08-07 upload batch** added HANRE 24/305 (procurement repeal), 656 (423 restructuring), 833 (renewables omnibus), 329 (gas TSO tariff amend). The remaining high-value hole is a **clean consolidation of HANRE 423/2019** (656 now supplies Parts I–V substance).
+**Read this before citing any energy text in this vault.** The core energy corpus has moved from "mostly partial" to **mostly complete** after manual browser downloads on 2026-07-23 and 2026-07-26. **Integration verified 2026-08-07** (batches e–h on `main`). **2026-08-07 upload batch** added HANRE 24/305 (procurement repeal), 656 (423 restructuring), 833 (renewables omnibus), 329 (gas TSO tariff amend). The remaining high-value hole is a **clean consolidation of HANRE 423/2019** (656 now supplies Parts I–V substance).
 
 > [!danger] Legal-currency warning, not just a completeness warning
 > [[Legea 107-2016 — energia electrica (text)|L107/2016]] was **repealed** on 19 August 2025 by [[Legea 164-2025 — energia electrica (text)|L164/2025]]. Many pre-2025 electricity HANRE acts were issued under L107 and now need currency checking against L164. Completeness is the *second* thing to check; **currency is the first**.
@@ -97,14 +97,14 @@ Other newly relevant amendment/transition acts now present:
 | Upload | Landed as | Status |
 |---|---|---|
 | `537_regulament_1__4dd7.md` | [[HANRE 537-2020 — calitate servicii transport distributie EE (text)]] | ✅ full regulation + annexes 1–4 |
-| `an_1_535md_0728.md` | [[HANRE 535-2019 — Metodologie tarife transport gaze (text)]] | ✅ CTP annex; methodology body still ❌ |
-| `an_1_53md_ef64.md` / `an_2_53md_895d.md` | [[HG 53-2025 — durabilitate biocarburanti emisii GES (text)]] | ✅ regulation annexes 1–2; annex 3 ❌ |
-| `an_1_677_ro_3ca3.md` | [[HG 677-2024 — plan sezon incalzire 2024-2025 (text)]] | ✅ commission annex 1; action-plan annex 2 ❌ |
-| `an_1_599_ro_65a2.md` | [[HG 599-2025 — limite capacitate regenerabile 2030 (text)]] | ⚠️ annex 1 only (new act) |
+| `an_1_535md_0728.md` | [[HANRE 535-2019 — Metodologie tarife transport gaze (text)]] | ✅ CTP annex; methodology body ✅ (2026-08-07f) |
+| `an_1_53md_ef64.md` / `an_2_53md_895d.md` | [[HG 53-2025 — durabilitate biocarburanti emisii GES (text)]] | ✅ annexes 1–2; annex 3 ✅ (2026-08-07h) |
+| `an_1_677_ro_3ca3.md` | [[HG 677-2024 — plan sezon incalzire 2024-2025 (text)]] | ✅ annex 1; annex 2 plan ✅ (2026-08-07h) — act complete |
+| `an_1_599_ro_65a2.md` | [[HG 599-2025 — limite capacitate regenerabile 2030 (text)]] | ✅ annexes 1–2 (2026-08-07h); dispositif still missing |
 | `an_2_401_ro_b62e.md` | [[HG 401-2021 — cote capacitate facturare neta (text)]] | ⚠️ annex 2 only (new act; sunset 31.12.2025) |
 | `an_1_792_md_6e3f.md` | [[HANRE 23-2017 — furnizarea energiei termice (text)]] | ⚠️ contract annex only (new act) |
-| `an__620_ro_877e.md` / `an_1_620_ro_05ce.md` | [[HG 620-2025 — transmitere bunuri Fond eficienta energetica (text)]] | ⚠️ handover forms only (new act) |
-| `an__3_517md_8423.md` | [[HG 517 — constructia reconstructia centralelor electrice (text)]] | ⚠️ annex 3 form only (new act; confirm HG year) |
+| `an__620_ro_877e.md` / `an_1_620_ro_05ce.md` | [[HG 620-2025 — transmitere bunuri Fond eficienta energetica (text)]] | ✅ Act + annexes 1–2 forms (2026-08-07h); body still missing |
+| `an__3_517md_8423.md` | [[HG 517 — constructia reconstructia centralelor electrice (text)]] | ✅ annexes 2–3 (2026-08-07h); body + annex 1 still missing; confirm HG year |
 
 Concepts added: [[Concept — Indicatori de calitate SAIDI SAIFI]] · [[Concept — Consum tehnologic gaze]] · [[Concept — Facturare netă]].
 
@@ -179,18 +179,18 @@ Individual **tariff decisions and licences** were *not* ingested. ANRE issues th
 | [[Legea 20-2024 — modificare Legea 234-2022 Energocom (text)]] | `141890` | ✅ OCR full | Amends L234 agreement references |
 | [[HG 10-2024 — guvernanta energetica si actiuni climatice (text)]] | `142366` | ✅ OCR full (~112 pts) | PNIEC / EnC governance; Reg. 2018/1999 |
 | [[HANRE 297-2022 — masurare gaze naturale comerciale (text)]] | `135452` | ✅ OCR full (~136 pts) | Gas commercial metering; amended by [[HANRE 8-2023 — modificare racordare gaze si masurare gaze (text)|8/2023]] |
-| [[HANRE 537-2020 — calitate servicii transport distributie EE (text)]] | `141300` | ⚠️ decision-only | QoS EE; annex missing · patched by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)|833/2023]] · L107 currency |
+| [[HANRE 537-2020 — calitate servicii transport distributie EE (text)]] | `141300` | ✅ full regulation | QoS EE; patched by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)|833/2023]] · L107 currency |
 
 ## ✅ Ingested 2026-08-07c — energy PDF batch 3 (pdftotext)
 
 | Act | legis doc_id | Status | Notes |
 |---|---|---|---|
-| [[HANRE 355-2021 — preturi reglementate furnizare gaze (text)]] | `145047` | ⚠️ decision-only | Gas supply / FUO price methodology parent |
+| [[HANRE 355-2021 — preturi reglementate furnizare gaze (text)]] | `145047` | ✅ methodology | Gas supply / FUO prices (2026-08-07f); apply [[HANRE 540-2024 — modificare Metodologie preturi furnizare gaze (text)|540/2024]] |
 | [[HANRE 540-2024 — modificare Metodologie preturi furnizare gaze (text)]] | `145000` | ✅ full amend | Patches 355/2021 scope + price categories |
 | [[HG 621-2024 — certificare performanta energetica cladiri (text)]] | `145173` | ✅ full (~76 pts) | Building EPC; L282/2023 parent not in vault |
 | [[HG 622-2024 — calificare evaluatori energetici (text)]] | `145229` | ✅ full (~59 pts) | Energy assessor register |
 | [[HG 364-2024 — modificare stocuri securitate gaze (text)]] | `143426` | ✅ full amend | Patches HG 668/2022 — 47.1 mcm stocks |
-| [[HG 677-2024 — plan sezon incalzire 2024-2025 (text)]] | `145465` | ⚠️ dispositif only | Annexes 1–2 missing; patches [[HG 365-2024 — obligatie stocare gaze naturale (text)|365/2024]] pt. 4 |
+| [[HG 677-2024 — plan sezon incalzire 2024-2025 (text)]] | `145465` | ✅ complete | Dispositif + annexes 1–2 (2026-08-07h); patches [[HG 365-2024 — obligatie stocare gaze naturale (text)|365/2024]] pt. 4 |
 
 ## ✅ Ingested 2026-08-07d — energy PDF batch 4
 

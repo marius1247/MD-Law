@@ -64,7 +64,7 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 | [[HANRE 363-2020 — schimbarea furnizorului de gaze (text)]] / [[HANRE 363-2020 — schimbarea furnizorului de gaze (notă)]] | ✅ ingested from mirror PDF (transautogaz / weblex tipar); 177/2026 amendments reflected |
 | Finance/transport Law House deepen (L202, L548, L171, L92, L1194, HG 854, Cod aerian, Cod feroviar) | ✅ notes deepened from existing vault texts |
 | HANRE **853/2025** balancing T&Cs (PRE/BSP) | ❌ blocked — legis.md Cloudflare; moldelectrica 403 from this environment |
-| HANRE **535/2019** gas transmission tariff methodology | 🟡 decision ✅ ([[HANRE 535-2019 — Metodologie tarife transport gaze (notă)\|notă]]) · **annex still ❌** — amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)\|329/2025]] ✅ |
+| HANRE **535/2019** gas transmission tariff methodology | ✅ methodology + CTP (2026-08-07f) · amend [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] ✅ |
 | Law **461/2001** petroleum products market | ❌ legis.md blocked |
 | Law **248/2025** crisis management | ❌ parent still missing · HG 346/2026 + L150/2026 ingested 2026-08-07 |
 
@@ -79,8 +79,8 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 | [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]] | `103739` | Methodology annex missing |
 | [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]] | `103972` | Methodology annex missing |
 | [[HANRE 169-2019 — furnizarea energiei electrice (text)]] | `114962` | Truncates mid-pt. 146 |
-| [[HANRE 423-2019 — Codul retelelor electrice (text)]] | `151929` | Clean annex consolidation still missing — **partial substance** via [[HANRE 656-2021 — modificare Codul retelelor electrice (text)\|656/2021]] (`129504`) ✅ |
-| [[HANRE 535-2019 — Metodologie tarife transport gaze (text)]] | `149131` | Approving decision ✅ · **methodology annex missing** · amend [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)\|329/2025]] ✅ |
+| [[HANRE 423-2019 — Codul retelelor electrice (text)]] | `151929` | Connection code Titluri I–IV ✅ (2026-08-07g); still consolidate with [[HANRE 656-2021 — modificare Codul retelelor electrice (text)\|656/2021]] + later amends |
+| ~~[[HANRE 535-2019 — Metodologie tarife transport gaze (text)]]~~ | `149131` | ✅ methodology + CTP (2026-08-07f) · amend [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)\|329/2025]] ✅ |
 
 ## Batch 6 — user PDF upload (2026-08-07) ✅
 
@@ -90,7 +90,7 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 | [[HANRE 305-2021 — abrogare HANRE 24-2017 achizitii titulari (text)]] / [[HANRE 305-2021 — abrogare HANRE 24-2017 achizitii titulari (notă)\|notă]] | ✅ repeal → L74/2020 |
 | [[HANRE 656-2021 — modificare Codul retelelor electrice (text)]] / [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)\|notă]] | ✅ Parts I–V restructuring of 423 |
 | [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)]] / [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)\|notă]] | ✅ renewables omnibus (168/169/537) |
-| [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)]] / [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)\|notă]] | ✅ conditional-capacity tariffs; parent [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)\|535]] decision ✅ · annex ❌ |
+| [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)]] / [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)\|notă]] | ✅ conditional-capacity tariffs; parent [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)\|535]] methodology ✅ |
 
 ## Batch 7 — energy PDF OCR (2026-08-07) ✅
 
@@ -110,18 +110,18 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 | [[Legea 20-2024 — modificare Legea 234-2022 Energocom (text)]] | [[Legea 20-2024 — modificare Legea 234-2022 Energocom (notă)]] |
 | [[HG 10-2024 — guvernanta energetica si actiuni climatice (text)]] | [[HG 10-2024 — guvernanta energetica si actiuni climatice (notă)]] |
 | [[HANRE 297-2022 — masurare gaze naturale comerciale (text)]] | [[HANRE 297-2022 — masurare gaze naturale comerciale (notă)]] |
-| [[HANRE 537-2020 — calitate servicii transport distributie EE (text)]] | [[HANRE 537-2020 — calitate servicii transport distributie EE (notă)]] ⚠️ decision-only |
+| [[HANRE 537-2020 — calitate servicii transport distributie EE (text)]] | [[HANRE 537-2020 — calitate servicii transport distributie EE (notă)]] ✅ full regulation · L107 currency |
 
 ## Batch 9 — energy PDF (2026-08-07c) ✅
 
 | Act | Note |
 |---|---|
-| [[HANRE 355-2021 — preturi reglementate furnizare gaze (text)]] | [[HANRE 355-2021 — preturi reglementate furnizare gaze (notă)]] ⚠️ decision-only |
+| [[HANRE 355-2021 — preturi reglementate furnizare gaze (text)]] | [[HANRE 355-2021 — preturi reglementate furnizare gaze (notă)]] ✅ methodology (2026-08-07f) · apply 540/2024 |
 | [[HANRE 540-2024 — modificare Metodologie preturi furnizare gaze (text)]] | [[HANRE 540-2024 — modificare Metodologie preturi furnizare gaze (notă)]] |
 | [[HG 621-2024 — certificare performanta energetica cladiri (text)]] | [[HG 621-2024 — certificare performanta energetica cladiri (notă)]] |
 | [[HG 622-2024 — calificare evaluatori energetici (text)]] | [[HG 622-2024 — calificare evaluatori energetici (notă)]] |
 | [[HG 364-2024 — modificare stocuri securitate gaze (text)]] | [[HG 364-2024 — modificare stocuri securitate gaze (notă)]] |
-| [[HG 677-2024 — plan sezon incalzire 2024-2025 (text)]] | [[HG 677-2024 — plan sezon incalzire 2024-2025 (notă)]] ⚠️ annexes missing |
+| [[HG 677-2024 — plan sezon incalzire 2024-2025 (text)]] | [[HG 677-2024 — plan sezon incalzire 2024-2025 (notă)]] ✅ complete (2026-08-07h) |
 
 ## Batch 10 — energy PDF (2026-08-07d) ✅
 
@@ -133,7 +133,11 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 | [[HG 829-2024 — audit energetic intreprinderi mari (text)]] | [[HG 829-2024 — audit energetic intreprinderi mari (notă)]] |
 | [[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (text)]] | [[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (notă)]] |
 | [[HG 53-2025 — durabilitate biocarburanti emisii GES (text)]] | [[HG 53-2025 — durabilitate biocarburanti emisii GES (notă)]] |
-| [[HG 74-2025 — calcul consum energie regenerabila (text)]] | [[HG 74-2025 — calcul consum energie regenerabila (notă)]] ⚠️ annex missing |
-| [[HG 76-2025 — cotizatii organizatii internationale 2025 (text)]] | [[HG 76-2025 — cotizatii organizatii internationale 2025 (notă)]] ⚠️ peripheral |
+| [[HG 74-2025 — calcul consum energie regenerabila (text)]] | [[HG 74-2025 — calcul consum energie regenerabila (notă)]] ✅ regulation (2026-08-07g) |
+| [[HG 76-2025 — cotizatii organizatii internationale 2025 (text)]] | [[HG 76-2025 — cotizatii organizatii internationale 2025 (notă)]] ✅ list (2026-08-07g) |
 
-Optional next: **535/355/537** methodology annexes, **422/2019**, **HG 74/2025** annex, **L282/2023** parent.
+## Batches e–h — annex/methodology fill (2026-08-07) ✅
+
+Major gaps closed: HANRE **423** connection code · **422** gas QoS · **443** gas DSO tariffs · **535/355/537** full · HG **74/86** · annex fill for HG **53/599/620/517/677** · HANRE **112** Anexe 5²/5³ · **169/833** Anexa 5. Details: [[Status ingestie — Energetica]] · [[Status ingestie — Annex batch 2026-08-07h]].
+
+Optional next texts: finish **HANRE 169** past pt. 146 · **HG 599/620/517** dispositifs · **HANRE 23** body · **L282/2023** · **HANRE 201/2017** GOs · consolidate **423↔656** · **64/2018** & **375/2017** annex recheck · **HG 820** annexes.

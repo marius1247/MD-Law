@@ -164,8 +164,8 @@ Lifted from [[Legea 164-2025 — energia electrica (notă)|L164 act-note]] §8 a
 5. ✅ Capacity: legal toolbox (arts. 49–51), **no live capacity market** until HG
 6. Watch for dedicated L164 licensing secondary act (do not use HANRE 286)
 7. ANRE regulations still expected: aggregation (art. 120(9)), CEC register (art. 125), energy sharing (art. 123), supply-reg update for art. 119
-8. Step 7: expand prosumer/active-consumer layer from the boundary note
-9. Incomplete sources: HANRE 169 truncates past ~pt. 146; 423 parent annex incomplete (656 supplies Parts I–V); HG 820 annexes 1–2 missing
+8. ✅ Step 7: [[Energetică — prosumatori și consumatori activi (notă)]] · incentives · ESG layers
+9. Incomplete sources: HANRE 169 truncation; 423 parent annex incomplete (656 supplies Parts I–V); HG 820 annexes 1–2 missing
 
 ## Related
 [[Energetică — segmente piață electricitate (notă)]] · [[Energetică — prosumer vs consumator activ (notă)]] · [[Energetică — architecture map]] · [[Roadmap — Energy analysis architecture]] · [[MOC — Energetică]] · [[MOC — Racordare și acces la rețele]] · [[MOC — Tarife și metodologii ANRE]] · [[Energetică — sector electricitate ANRE (notă)]] · [[Energetică — licențiere cross-border și REMIT (notă)]] · [[ANRE]]

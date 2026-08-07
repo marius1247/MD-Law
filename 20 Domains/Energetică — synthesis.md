@@ -5,7 +5,7 @@ domeniu: [energetică]
 tags: [domain, analysis, energetică]
 status: draft
 created: 2026-07-23
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Energy — sector synthesis
@@ -118,6 +118,7 @@ Alignment landmarks in the corpus:
 
 ## 8. Open threads
 - ✅ L164/L108 core texts are complete in vault (see [[Status ingestie — Energetica]]); keep currency checks live
+- **Deep-analysis topic catalogue (Stage 1):** [[Energetică — topics for deep analysis (Stage 1)]] — markets, operators, petroleum, segment doctrine
 - **Re-check every HANRE** against the new enabling articles; expect wholesale re-adoption
 - Watch for a **gas equivalent of L164/2025** — gas is now a package behind electricity
 - Ingest **HG 820 Annexes 1–2**; L101 parents [[Legea 461-2001 — piata produselor petroliere (notă)|L461]] + [[Legea 248-2025 — managementul situatiilor de criza (notă)|L248]] now ✅; L131/2015 still absent; balancing T&Cs [[HANRE 853-2025 — clauze echilibrare FSE si PRE (notă)|HANRE 853]] ✅ (**IF 1 Jul 2026**)
@@ -128,4 +129,4 @@ Alignment landmarks in the corpus:
 - Corporate-law overlap: unbundling is executed through **group restructuring** — see [[Societăți & guvernanță — synthesis]]
 
 ## Related
-[[MOC — Energetică]] · [[ANRE]] · [[CNED]] · [[Concept — Tarif reglementat]] · [[Concept — Unbundling]] · [[Concept — Licență în energetică]] · [[Concept — Racordare la rețea]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Producător eligibil]] · [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Audit energetic]] · [[Concept — Contract de performanță energetică]] · [[Concept — Parte obligată (eficiență energetică)]]
+[[MOC — Energetică]] · [[Energetică — topics for deep analysis (Stage 1)]] · [[ANRE]] · [[CNED]] · [[Concept — Tarif reglementat]] · [[Concept — Unbundling]] · [[Concept — Licență în energetică]] · [[Concept — Racordare la rețea]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Producător eligibil]] · [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Audit energetic]] · [[Concept — Contract de performanță energetică]] · [[Concept — Parte obligată (eficiență energetică)]]

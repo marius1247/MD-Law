@@ -4,7 +4,7 @@ type: moc
 domeniu: energetică
 tags: [moc, index, energetică]
 created: 2026-07-22
-updated: 2026-08-06
+updated: 2026-08-07
 status: draft
 ---
 
@@ -20,6 +20,7 @@ Domain hub for the **energy sector**. 22 acts across three tiers. Core primary l
 
 ## Analysis layer
 - **[[Energetică — synthesis]]** — the domain synthesis
+- **[[Energetică — topics for deep analysis (Stage 1)]]** — topic catalogue + coverage audit for deep Law House analyses (markets, operators, petroleum, segments)
 - **Law House dossiers (cross-act):** [[Energetică — metodologii tarifare (notă)]] · [[Energetică — licențiere cross-border și REMIT (notă)]] · [[Energetică — contencios administrativ și precedente (notă)]]
 - **Sector dossiers:** [[Energetică — sector gaze ANRE (notă)]] · [[Energetică — sector electricitate ANRE (notă)]] · [[Energetică — tarife regenerabile si utilitati (notă)]]
 - **Vault audit:** [[Audit vault — Law House Knowledge Engine — 2026-07-28]] · [[Status ingestie — Uploads]]

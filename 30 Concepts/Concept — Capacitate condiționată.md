@@ -24,6 +24,6 @@ A special gas transmission capacity product enabling use of Moldova’s network 
 - Priority: firm > interruptible > conditional. OST may reduce mismatched nominations to the lower quantity and interrupt for breach.
 
 ## Related
-- [[Legea 108-2016 — gazele naturale (notă)]] · [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)]] · [[Concept — Tarif de transport]]
-- [[Concept — Parte responsabilă de echilibrare]] (electricity analogue — different sector mechanics)
+- [[Concept — Capacitate condiționată]] · [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)]] · [[Concept — Tarif de transport]]
+- [[Concept — Punct virtual de tranzacționare]] · [[MOC — Piața gazelor naturale]] · [[Energetică — segmente piață gaze (notă)]]
 - [[MOC — Energetică]] · [[MOC — Tarife și metodologii ANRE]] · [[ANRE]]

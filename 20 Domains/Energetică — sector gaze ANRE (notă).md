@@ -11,7 +11,7 @@ updated: 2026-07-28
 
 # Natural gas sector — ANRE regulatory framework (sector dossier)
 
-Cross-act synthesis for Moldova's regulated natural gas market. Hub: [[MOC — Energetică]] · Primary law: [[Legea 108-2016 — gazele naturale (notă)]]
+Cross-act synthesis for Moldova's regulated natural gas market. Hub: [[MOC — Energetică]] · Market map: [[MOC — Piața gazelor naturale]] · Segment briefs: [[Energetică — segmente piață gaze (notă)]] · Architecture: [[Energetică — architecture map]] · Primary law: [[Legea 108-2016 — gazele naturale (notă)]]
 
 ## Source files
 
@@ -73,6 +73,10 @@ Cross-act synthesis for Moldova's regulated natural gas market. Hub: [[MOC — E
 
 ## Cross-links
 
+- [[MOC — Piața gazelor naturale]] — segment / actor / activity hub
+- [[Energetică — segmente piață gaze (notă)]] — segment briefs + licensing inventory
+- [[Concept — Punct virtual de tranzacționare]] — PVT
 - [[Energetică — metodologii tarifare (notă)]] — gas transmission entry-exit tariffs
 - [[Energetică — licențiere cross-border și REMIT (notă)]] — REMIT for gas wholesale
 - [[Energetică — contencios administrativ și precedente (notă)]] — challenging ANRE/operator acts
+- [[MOC — Piața de energie electrică]] — electricity parallel (fourth package)

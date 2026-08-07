@@ -101,10 +101,11 @@ last_amended: '2026-07-28'
 ## 6. Connections in the vault
 
 * **Parent law:** [[Legea 108-2016 — gazele naturale (notă)]]
+* **Market hub:** [[MOC — Piața gazelor naturale]] · [[Energetică — segmente piață gaze (notă)]]
 * **Tariffs:** [[Energetică — metodologii tarifare (notă)]] §3 (gas transmission entry-exit)
 * **REMIT:** [[Energetică — licențiere cross-border și REMIT (notă)]] — wholesale market integrity obligations under L108 art. 94¹–94⁶
 * **Litigation:** [[Energetică — contencios administrativ și precedente (notă)]] — challenging TSO imbalance bills
-* **Concepts:** [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă opțiune]]
+* **Concepts:** [[Concept — Punct virtual de tranzacționare]] · [[Concept — Capacitate condiționată]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Consum tehnologic gaze]]
 
 ---
 

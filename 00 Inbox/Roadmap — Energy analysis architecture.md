@@ -14,7 +14,7 @@ Reorganise the energy **analysis layer** so a practitioner can navigate by **(A)
 Corpus status and ingestion remain tracked in [[Status ingestie — Energetica]] and [[00 Inbox/Roadmap|the main vault roadmap]]. This note is the **structuring** track only.
 
 > [!tip] Entry point for the new layer
-> **[[Energetică — architecture map]]** — inter-law map + market taxonomy. Electricity hub: **[[MOC — Piața de energie electrică]]** · segment briefs: **[[Energetică — segmente piață electricitate (notă)]]**.
+> **[[Energetică — architecture map]]** — inter-law map + market taxonomy. Electricity: [[MOC — Piața de energie electrică]] · [[Energetică — segmente piață electricitate (notă)]]. Gas: [[MOC — Piața gazelor naturale]] · [[Energetică — segmente piață gaze (notă)]].
 
 ---
 
@@ -61,12 +61,10 @@ Keep [[Energetică — synthesis]] as the short practitioner narrative. Do **not
 - Boundary: [[Energetică — prosumer vs consumator activ (notă)]]
 - Verdicts: **no live capacity market** (L164 arts. 49–51 toolbox only); HANRE 286 is **not** the licensing regulation
 
-### Step 3 — Gas market hub *(next)*
-Mirror Step 1–2 pattern under a new `MOC — Piața gazelor naturale`:
-- segments from [[HANRE 534-2019 — Regulile pietei gazelor naturale (notă)|HANRE 534/2019]]
-- actors (TSO / DSO / storage / suppliers / FUO / traders)
-- PSO withdrawal timeline; unbundling live issues
-- bridge to L108 (still third package) and expected L164-equivalent rewrite
+### Step 3 — Gas market hub ✅ *(2026-08-07)*
+- [[MOC — Piața gazelor naturale]] · [[Energetică — segmente piață gaze (notă)]]
+- Concept: [[Concept — Punct virtual de tranzacționare]]
+- Live flags: third-package lag vs L164; industrial PSO withdrawal → **1 Apr 2026**; unbundling/TSO certification currency
 
 ### Step 4 — Petroleum products (+ coal gap note)
 - Hub from [[Legea 461-2001 — piata produselor petroliere (notă)|L461/2001]]: licensing, max prices, crisis hooks via [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)|L101/2026]]
@@ -110,4 +108,4 @@ A market hub is “filled” when it has:
 **Do not open Step N+1 until Step N has a navigable stub.** Prefer one complete hub over seven empty folders. Electricity first because the corpus and concepts are densest; gas second because the package lag is the live legislative story.
 
 ## Related
-[[Energetică — architecture map]] · [[MOC — Piața de energie electrică]] · [[Energetică — segmente piață electricitate (notă)]] · [[Energetică — synthesis]] · [[MOC — Energetică]] · [[00 Inbox/Roadmap]]
+[[Energetică — architecture map]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[Energetică — segmente piață electricitate (notă)]] · [[Energetică — segmente piață gaze (notă)]] · [[Energetică — synthesis]] · [[MOC — Energetică]] · [[00 Inbox/Roadmap]]

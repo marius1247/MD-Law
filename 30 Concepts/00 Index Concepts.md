@@ -57,6 +57,7 @@ SORT file.name ASC
 
 * [[Energetică — architecture map]] — inter-law + market taxonomy
 * [[MOC — Piața de energie electrică]]
+* [[MOC — Piața gazelor naturale]]
 * [[MOC — Racordare și acces la rețele]]
 * [[MOC — Tarife și metodologii ANRE]]
 * [[Roadmap — Energy analysis architecture]]
@@ -66,13 +67,6 @@ SORT file.name ASC
 - [[Concept — Indicatori de calitate SAIDI SAIFI]] — electricity QoS continuity indices (HANRE 537/2020)
 - [[Concept — Consum tehnologic gaze]] — gas TSO CTP / normative losses (HANRE 535/2019 annex)
 
-## Added 2026-08-07 (analysis architecture Step 2)
-- [[Concept — OPEED]] — designated NEMO for DA/ID coupling (L164 arts. 94–95)
-- [[Concept — Consumator activ]] — active consumer + energy sharing (L164 arts. 122–123)
-- [[Concept — Agregator independent]] — licensed aggregator not affiliated to customer’s supplier
-- [[Concept — Stocare a energiei]] — storage as regulated activity (≥ 1 MW licence gate)
-- [[Concept — Comunitate de energie a cetățenilor]] — CEC register + non-profit-primary filter
-- [[Concept — Contract la prețuri dinamice]] — dynamic + fixed-term fixed-price retail products (art. 119)
-- [[Concept — Furnizor central de energie electrică]] — FCEE central buyer / offtake hinge
-- Segment briefs hub: [[Energetică — segmente piață electricitate (notă)]]
-- Boundary: [[Energetică — prosumer vs consumator activ (notă)]]
+## Added 2026-08-07 (analysis architecture Step 3 — gas)
+- [[Concept — Punct virtual de tranzacționare]] — gas VTP / wholesale delivery point (HANRE 534)
+- Gas hub: [[MOC — Piața gazelor naturale]] · [[Energetică — segmente piață gaze (notă)]]

@@ -38,5 +38,7 @@ Often the same undertaking holds both designations; the obligations remain disti
 ## Gas note
 PSO withdrawal for large industrials (target **1 Apr 2026**) narrows public-service protection; mid/large non-households are pushed to competitive supply under [[HANRE 177-2026 — modificarea unor hotarari ANRE (notă)|177/2026]].
 
+Regulated **FUO / PSO supply prices**: [[HANRE 355-2021 — preturi reglementate furnizare gaze (notă)|HANRE 355/2021]] (+ [[HANRE 540-2024 — modificare Metodologie preturi furnizare gaze (notă)|540/2024]]). FUO prices approved monthly (by the 25th; IF on the 1st).
+
 ## Related
 [[Concept — Tarif reglementat]] · [[Concept — Licență în energetică]] · [[Legea 164-2025 — energia electrica (notă)]] · [[HANRE 169-2019 — furnizarea energiei electrice (notă)]] · [[ANRE]] · [[Energetică — synthesis]]

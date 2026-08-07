@@ -34,7 +34,7 @@ Unde:
 
 ## Aplicare
 * **Electricitate:** Achitat de furnizori, traderi sau consumatori eligibili racordați direct la rețeaua de transport (OTS *Moldelectrica*). Methodology stack: [[HANRE 626-2023 — Metodologie tarife transport EE (notă)]] (+ [[HANRE 261-2026 — modificare Metodologie tarife transport EE (notă)|261/2026]]).
-* **Gaze Naturale:** Aplicat pe principiul **Entry/Exit** (Intrare/Ieșire) din sistemul național de transport (*Vestmoldtransgaz*). Parent methodology: [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)|HANRE 535/2019]] *(decision ✅ · CTP annex ✅ · methodology body ❌)* → [[Concept — Consum tehnologic gaze]]; conditional-capacity overlay: [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|HANRE 329/2025]] → [[Concept — Capacitate condiționată]].
+* **Gaze Naturale:** Aplicat pe principiul **Entry/Exit** (Intrare/Ieșire) din sistemul național de transport (*Vestmoldtransgaz*). Parent methodology: [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)|HANRE 535/2019]] ✅ → [[Concept — Consum tehnologic gaze]]; conditional-capacity overlay: [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|HANRE 329/2025]] → [[Concept — Capacitate condiționată]].
 
 ---
 

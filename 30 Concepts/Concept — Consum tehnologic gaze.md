@@ -13,7 +13,9 @@ updated: 2026-08-07
 **RO:** consum tehnologic și pierderi normative (CTP) · **EN:** technological consumption & normative losses (gas TSO)
 
 ## Legal home
-Annex to the gas transmission tariff methodology approved by [[HANRE 535-2019 — Metodologie tarife transport gaze (text)|HANRE 535/2019]] (CTP module now in vault). Feeds the regulated revenue / tariff update under [[Legea 108-2016 — gazele naturale (notă)|L108/2016]]. Overlay: [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]].
+* **TSO:** annex to [[HANRE 535-2019 — Metodologie tarife transport gaze (text)|HANRE 535/2019]] (full methodology now in vault). Overlay: [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]].
+* **DSO:** annex to [[HANRE 443-2020 — Metodologie tarife distributie gaze (text)|HANRE 443/2020]] — CTP split by HP/MP/LP using network-length and station weights.
+Feeds regulated revenue under [[Legea 108-2016 — gazele naturale (notă)|L108/2016]].
 
 ## Definition
 **CTPₙ** is the planned technological consumption and normative losses (thousand m³) for year *n*:

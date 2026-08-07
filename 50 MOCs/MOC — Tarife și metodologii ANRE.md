@@ -29,7 +29,9 @@ Indexul tuturor metodologiilor de calcul, aprobărilor de tarife reglementate ș
 * [[HANRE 286-2018 — licentiere energie (notă)|286/2018]] — tariff/price **application** procedure *(not licensing)*
 
 ## 2. Sectorul Gaze Naturale
-* [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)|HANRE 535/2019]] gas TSO transport methodology — decision + CTP annex ✅ · methodology body ❌ · [[Concept — Consum tehnologic gaze]] · amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] ✅ (conditional-capacity Section 7²)
+* [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)|HANRE 535/2019]] gas TSO transport methodology ✅ · [[Concept — Consum tehnologic gaze]] · amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] ✅ (conditional-capacity Section 7²)
+* [[HANRE 443-2020 — Metodologie tarife distributie gaze (notă)|HANRE 443/2020]] gas DSO distribution methodology ✅ · [[Concept — Tarif de distribuție]]
+* [[HANRE 355-2021 — preturi reglementate furnizare gaze (notă)|HANRE 355/2021]] regulated supply / FUO prices ✅ · amend [[HANRE 540-2024 — modificare Metodologie preturi furnizare gaze (notă)|540/2024]]
 * [[Concept — Capacitate condiționată]] · [[HANRE 310-2026 — modificare Codul retelelor de gaze naturale (notă)|310/2026]] product rules
 * HANRE 443/2020 — still not ingested
 

@@ -195,3 +195,12 @@ updated: 2026-08-07
 | [`upload-hanre-23-2017-anexa1-contract.md`](upload-hanre-23-2017-anexa1-contract.md) | `10 Legislation/Authority Acts/HANRE 23-2017 — furnizarea energiei termice (text).md` |
 | [`upload-hg-620-2025-anexa-act.md`](upload-hg-620-2025-anexa-act.md) · [`upload-hg-620-2025-anexa1-lista.md`](upload-hg-620-2025-anexa1-lista.md) | `10 Legislation/Government Decisions/HG 620-2025 — transmitere bunuri Fond eficienta energetica (text).md` |
 | [`upload-hg-517-anexa3-nota.md`](upload-hg-517-anexa3-nota.md) | `10 Legislation/Government Decisions/HG 517 — constructia reconstructia centralelor electrice (text).md` |
+
+## Methodology uploads — 2026-08-07f
+
+| Raw file | Vault location |
+|---|---|
+| [`upload-hanre-535-2019-metodologie.md`](upload-hanre-535-2019-metodologie.md) | `10 Legislation/Authority Acts/HANRE 535-2019 — Metodologie tarife transport gaze (text).md` |
+| [`upload-hanre-355-2021-metodologie.md`](upload-hanre-355-2021-metodologie.md) | `10 Legislation/Authority Acts/HANRE 355-2021 — preturi reglementate furnizare gaze (text).md` |
+| [`upload-hanre-443-2020-metodologie.md`](upload-hanre-443-2020-metodologie.md) | `10 Legislation/Authority Acts/HANRE 443-2020 — Metodologie tarife distributie gaze (text).md` |
+| [`upload-hg-197-2025-metodologie.md`](upload-hg-197-2025-metodologie.md) | `10 Legislation/Government Decisions/HG 197-2025 — metodologie cogenerare inalta eficienta (text).md` |

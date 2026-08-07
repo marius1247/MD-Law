@@ -190,6 +190,7 @@ This is why the law emphasises affordability, public service, quality, continuit
 - [[Legea 164-2025 — energia electrica (notă)]]
 - [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)]]
 - [[HANRE 23-2017 — furnizarea energiei termice (notă)]]
+- [[HG 197-2025 — metodologie cogenerare inalta eficienta (notă)]] — high-efficiency CHP quantities / GOs
 - [[Concept — Tarif reglementat]]
 - [[Concept — Licență în energetică]]
 - [[ANRE]]

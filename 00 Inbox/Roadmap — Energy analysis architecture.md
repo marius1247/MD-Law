@@ -83,14 +83,13 @@ Keep [[Energetică — synthesis]] as the short practitioner narrative. Do **not
 - Verdict: **compliance + importer blending obligation** on L461 channel — not PZU/PVT; HG 53 IF ≈11.02.2026; counting ≠ selling
 - Hydrogen: [[Energetică — hidrogen gap stub (notă)]] — **no** dedicated market; RFNBO ≥70% GHG from 1 Jan 2026; PNIEC/GO watch
 
-### Step 7 — Cross-cutting layers
-Three thin synthesis notes (or MOCs if they grow):
-1. **Prosumers & active consumers** — seed already: [[Energetică — prosumer vs consumator activ (notă)]] · L10 net billing · L164 consumator activ / CEC · HANRE 311 / 169 / 833 · [[Concept — Facturare netă]]
-2. **Incentives & support** — eligible producers, fixed tariff / auctions, [[Concept — Furnizor central de energie electrică|FCEE]], FEE/CNED, vulnerability fund L241
-3. **ESG / climate governance** — HG 10/2024 · PNIEC HG 86/2025 · L139 efficiency · non-financial reporting bridge in accounting law · biofuel GHG
+### Step 7 — Cross-cutting layers ✅ *(2026-08-07)*
+1. [[Energetică — prosumatori și consumatori activi (notă)]] — procedures on top of [[Energetică — prosumer vs consumator activ (notă)|boundary note]]
+2. [[Energetică — incentives și scheme de sprijin (notă)]] — eligible producer · FCEE · FEE/CNED · L241 · biofuel ceilings
+3. [[Energetică — ESG și guvernanță climatică (notă)]] — HG 10 · PNIEC · L139 · biofuel GHG · disclosure bridge
 
 ### Step 8 — Synthesis rewrite
-Retune [[Energetică — synthesis]] so §1–2 point at the architecture map, § market design expands by vector, and open threads map to Steps 2–7 rather than only ingestion gaps.
+Retune [[Energetică — synthesis]] so §1–2 point at the architecture map, § market design expands by vector, and open threads map to Steps 2–7 rather than only ingestion gaps. *(Partial retune already done in deepening + Steps 5–7 pointers in §4.)*
 
 > [!note] Professional deepening pass *(2026-08-07)*
 > Steps 1–5 hubs received a **professional legal analysis** pass: architecture map §1.3 conflict themes; per-vector risk matrices on electricity / gas / petroleum / thermal MOCs; FCEE art. 150(3)–(4) hardened; FUO ≥6m vs HANRE 169 90d conflict surfaced; gas unbundling/PSO/reconciliation/servitude lifted from L108 note; petroleum crisis decision tree; thermal Cap. VI + dual-statute CHP checklist. Synthesis §4 updated. Incomplete sources remain flagged (HANRE 23 body, 201/2017, 535 annex, L461 Annex 2 OCR, HG 197 placeholders).
@@ -116,4 +115,4 @@ A market hub is “filled” when it has:
 **Do not open Step N+1 until Step N has a navigable stub.** Prefer one complete hub over seven empty folders. Electricity first because the corpus and concepts are densest; gas second because the package lag is the live legislative story.
 
 ## Related
-[[Energetică — architecture map]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[MOC — Piața produselor petroliere]] · [[MOC — Piața energiei termice]] · [[MOC — Biocarburanți și combustibili din biomasă]] · [[Energetică — segmente piață electricitate (notă)]] · [[Energetică — segmente piață gaze (notă)]] · [[Energetică — segmente piață petrol (notă)]] · [[Energetică — segmente piață termică (notă)]] · [[Energetică — segmente piață biocarburanți (notă)]] · [[Energetică — cărbune gap stub (notă)]] · [[Energetică — geotermal gap stub (notă)]] · [[Energetică — hidrogen gap stub (notă)]] · [[Energetică — synthesis]] · [[MOC — Energetică]] · [[00 Inbox/Roadmap]]
+[[Energetică — architecture map]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[MOC — Piața produselor petroliere]] · [[MOC — Piața energiei termice]] · [[MOC — Biocarburanți și combustibili din biomasă]] · [[Energetică — prosumatori și consumatori activi (notă)]] · [[Energetică — incentives și scheme de sprijin (notă)]] · [[Energetică — ESG și guvernanță climatică (notă)]] · [[Energetică — segmente piață electricitate (notă)]] · [[Energetică — segmente piață gaze (notă)]] · [[Energetică — segmente piață petrol (notă)]] · [[Energetică — segmente piață termică (notă)]] · [[Energetică — segmente piață biocarburanți (notă)]] · [[Energetică — cărbune gap stub (notă)]] · [[Energetică — geotermal gap stub (notă)]] · [[Energetică — hidrogen gap stub (notă)]] · [[Energetică — synthesis]] · [[MOC — Energetică]] · [[00 Inbox/Roadmap]]

@@ -73,9 +73,9 @@ Is the client seeking L10 net-billing credit against its bill?
 
 ---
 
-## 5. Status & Step 7 handoff
+## 5. Status & Step 7
 
-This note closes the Step 2 **boundary** question. Step 7 should expand into a full **Prosumers & active consumers** layer (procedures, annex walkthroughs, worked examples) without re-deriving the taxonomy.
+Boundary question closed in Step 2. **Full operational layer:** [[Energetică — prosumatori și consumatori activi (notă)]] (Step 7). Incentives: [[Energetică — incentives și scheme de sprijin (notă)]]. ESG: [[Energetică — ESG și guvernanță climatică (notă)]].
 
 ## Related
-[[Concept — Consumator activ]] · [[Concept — Facturare netă]] · [[Concept — Producător eligibil]] · [[Concept — Furnizor central de energie electrică]] · [[Concept — Comunitate de energie a cetățenilor]] · [[Concept — Contract la prețuri dinamice]] · [[Energetică — segmente piață electricitate (notă)]] · [[Roadmap — Energy analysis architecture]] · [[MOC — Piața de energie electrică]]
+[[Energetică — prosumatori și consumatori activi (notă)]] · [[MOC — Piața de energie electrică]] · [[Concept — Consumator activ]] · [[Concept — Facturare netă]] · [[Concept — Comunitate de energie a cetățenilor]] · [[Concept — Producător eligibil]] · [[Concept — Furnizor central de energie electrică]] · [[Concept — Contract la prețuri dinamice]] · [[Energetică — segmente piață electricitate (notă)]] · [[Energetică — incentives și scheme de sprijin (notă)]] · [[Energetică — ESG și guvernanță climatică (notă)]] · [[Roadmap — Energy analysis architecture]]

@@ -177,9 +177,10 @@ Every energy vector is analysed with the **same columns**. Cells may be empty �
 
 | Layer | Why separate | Seed material already in vault |
 |---|---|---|
-| **Prosumers / active consumers** | Spans L10 support + L164 consumer rights + connection/supply HANRE | [[Concept — Facturare netă]] · HANRE 833 Anexa 5 · L164 *consumator activ* |
-| **Incentives** | Support schemes change revenue stacks without changing market segments | Eligible producer · HG 26 PSO · HG 599 quotas · L241 vulnerability fund · CNED/FEE |
-| **ESG / climate** | Governance and disclosure sit above trading rules | HG 10 · PNIEC · L139 · biofuel GHG · accounting non-financial statements |
+| **Prosumers / active consumers** | Spans L10 support + L164 consumer rights + connection/supply HANRE | [[Energetică — prosumatori și consumatori activi (notă)]] · [[Energetică — prosumer vs consumator activ (notă)]] · [[Concept — Facturare netă]] |
+| **Incentives** | Support schemes change revenue stacks without changing market segments | [[Energetică — incentives și scheme de sprijin (notă)]] · eligible producer · FCEE · L241 · CNED/FEE |
+| **ESG / climate** | Governance and disclosure sit above trading rules | [[Energetică — ESG și guvernanță climatică (notă)]] · HG 10 · PNIEC · L139 · biofuel GHG |
+
 
 ---
 
@@ -226,11 +227,11 @@ Every energy vector is analysed with the **same columns**. Cells may be empty �
 | 5 | Thermal / CHP + geothermal stub | **Done (2026-08-07)** — [[MOC — Piața energiei termice]] · [[Energetică — segmente piață termică (notă)]] · [[Concept — Cogenerare de înaltă eficiență]] · [[Energetică — geotermal gap stub (notă)]] |
 | — | **Professional deepening pass** (Steps 1–5) | **Done (2026-08-07)** — §1.3 conflict themes · per-vector risk matrices · FCEE/FUO/PSO hardened |
 | 6 | Biofuels / hydrogen | **Done (2026-08-07)** — [[MOC — Biocarburanți și combustibili din biomasă]] · [[Energetică — segmente piață biocarburanți (notă)]] · [[Concept — Criterii de durabilitate biocarburanți]] · [[Energetică — hidrogen gap stub (notă)]] |
-| 7 | Prosumers · incentives · ESG notes | **Next: Step 7** |
-| 8 | Synthesis retune to this spine | After Step 7 has substance |
+| 7 | Prosumers · incentives · ESG notes | **Done (2026-08-07)** — [[Energetică — prosumatori și consumatori activi (notă)]] · [[Energetică — incentives și scheme de sprijin (notă)]] · [[Energetică — ESG și guvernanță climatică (notă)]] |
+| 8 | Synthesis retune to this spine | **Next / partial** — §4 already carries vector traps; full rewrite optional |
 
-**Immediate next work (Step 7):** prosumers / incentives / ESG cross-cutting layers.
+**Immediate next work (Step 8 optional):** fuller synthesis rewrite; otherwise corpus is navigable end-to-end on the new spine.
 
 
 ## Related
-[[Roadmap — Energy analysis architecture]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[MOC — Piața produselor petroliere]] · [[MOC — Piața energiei termice]] · [[MOC — Biocarburanți și combustibili din biomasă]] · [[Energetică — cărbune gap stub (notă)]] · [[Energetică — geotermal gap stub (notă)]] · [[Energetică — hidrogen gap stub (notă)]] · [[Energetică — synthesis]] · [[MOC — Energetică]] · [[ANRE]] · [[Legea 164-2025 — energia electrica (notă)]] · [[Legea 174-2017 — energetica (notă)]] · [[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (notă)]]
+[[Roadmap — Energy analysis architecture]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[MOC — Piața produselor petroliere]] · [[MOC — Piața energiei termice]] · [[MOC — Biocarburanți și combustibili din biomasă]] · [[Energetică — prosumatori și consumatori activi (notă)]] · [[Energetică — incentives și scheme de sprijin (notă)]] · [[Energetică — ESG și guvernanță climatică (notă)]] · [[Energetică — cărbune gap stub (notă)]] · [[Energetică — geotermal gap stub (notă)]] · [[Energetică — hidrogen gap stub (notă)]] · [[Energetică — synthesis]] · [[MOC — Energetică]] · [[ANRE]] · [[Legea 164-2025 — energia electrica (notă)]] · [[Legea 174-2017 — energetica (notă)]] · [[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (notă)]]

@@ -57,4 +57,4 @@ All hubs: [[00 - Index general]]. Concept index: [[00 Index Concepts]].
 > **Completeness:** automated ingestion stops at ~96–102 KB. Manual browser downloads (now in `99 Attachments/source-legis/`) bypass that. [[HANRE 423-2019 — Codul retelelor electrice (text)|HANRE 423/2019]] connection code Titluri I–IV now ingested (still cross-check [[HANRE 656-2021 — modificare Codul retelelor electrice (text)|656/2021]]). Details: [[Status ingestie — Energetica]] · [[Conventions]].
 
 ## Status *(2026-08-07)*
-Structuring Steps 1–6 ✅ (thru biofuels + [[Energetică — hidrogen gap stub (notă)|hydrogen stub]]) + professional deepening on Steps 1–5 ([[Roadmap — Energy analysis architecture]] · [[Energetică — architecture map]]). **Next: Step 7** cross-cutting layers. Corpus — [[Status ingestie — Energetica]].
+Structuring Steps 1–7 ✅ (market hubs + cross-cutting prosumers / incentives / ESG). Spine: [[Energetică — architecture map]] · plan [[Roadmap — Energy analysis architecture]]. Optional Step 8: fuller synthesis rewrite. Corpus — [[Status ingestie — Energetica]].

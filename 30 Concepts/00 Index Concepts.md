@@ -64,6 +64,9 @@ SORT file.name ASC
 * [[Energetică — cărbune gap stub (notă)]]
 * [[Energetică — geotermal gap stub (notă)]]
 * [[Energetică — hidrogen gap stub (notă)]]
+* [[Energetică — prosumatori și consumatori activi (notă)]]
+* [[Energetică — incentives și scheme de sprijin (notă)]]
+* [[Energetică — ESG și guvernanță climatică (notă)]]
 * [[MOC — Racordare și acces la rețele]]
 * [[MOC — Tarife și metodologii ANRE]]
 * [[Roadmap — Energy analysis architecture]]
@@ -91,3 +94,8 @@ SORT file.name ASC
 - [[Concept — Criterii de durabilitate biocarburanți]] — sustainability/GHG counting gate (L10 art. 26¹ · HG 53)
 - Biofuels hub: [[MOC — Biocarburanți și combustibili din biomasă]] · [[Energetică — segmente piață biocarburanți (notă)]]
 - Hydrogen: [[Energetică — hidrogen gap stub (notă)]] — no market statute; RFNBO ≥70% from 1 Jan 2026
+
+## Added 2026-08-07 (analysis architecture Step 7 — cross-cutting)
+- [[Energetică — prosumatori și consumatori activi (notă)]] — prosumer / active-consumer procedures
+- [[Energetică — incentives și scheme de sprijin (notă)]] — RES support · FCEE · FEE/CNED · L241
+- [[Energetică — ESG și guvernanță climatică (notă)]] — HG 10 · PNIEC · L139 · disclosure bridge

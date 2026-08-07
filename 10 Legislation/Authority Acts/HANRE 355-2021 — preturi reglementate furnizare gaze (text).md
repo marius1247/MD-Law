@@ -1,0 +1,96 @@
+---
+title: "HANRE 355-2021 — preturi reglementate furnizare gaze (text)"
+type: act-text
+instrument: act-anre
+act_type: hotărâre-anre
+nr: "355"
+an: 2021
+domeniu:
+- energetică
+- gaze
+- tarife
+domain: [energetică, gaze, tarife]
+forta_juridica: 8
+issuer: ANRE
+in_force: true
+in_vigoare: true
+mo_publicare: "MO 249-253/15.10.2021 art. 1214"
+legis_id: "145047"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=145047"
+version_date: 2026-08-07
+versiune_text: 2026-08-07
+continut: doar-dispozitiv
+text_complet: false
+puncte_numarate: 4
+articole_numarate: 0
+tags: [act, text, acte_normative, energetică]
+created: 2026-08-07
+updated: 2026-08-07
+source_ingest: pdf-upload-pdftotext
+legal_status: in_vigoare
+enabling_act: "[[Legea 108-2016 — gazele naturale (text)|L108/2016]] art. 7(2)(a), art. 99(2)"
+amended_by: "[[HANRE 540-2024 — modificare Metodologie preturi furnizare gaze (notă)|540/2024]]"
+status_ingestie: DECIZIE ONLY — metodologia/anexa absentă din PDF
+---
+# HANRE 355-2021 — preturi reglementate furnizare gaze
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md** PDF (doc_id [145047](https://www.legis.md/cautare/getResults?lang=ro&doc_id=145047)), pdftotext + structură ușoară.
+> Analiză: [[HANRE 355-2021 — preturi reglementate furnizare gaze (notă)]].
+
+> [!danger] Anexa / metodologia lipsește
+> PDF conține **doar dispozitivul** hotărârii. Metodologia (anexă) nu este inclusă.
+
+---
+
+Republica Moldova
+
+AGENȚIA NAȚIONALĂ PENTRU REGLEMENTARE ÎN ENERGETICĂ
+HOTĂRÂRE Nr. HANRE355/2021
+din 13.08.2021
+
+cu privire la aprobarea Metodologiei de calculare, aprobare
+și aplicare a prețurilor reglementate pentru furnizarea gazelor
+naturale anumitor categorii de consumatori finali şi a preţurilor
+reglementate pentru furnizarea de ultimă opţiune, în contextul
+obligațiilor de serviciu public
+Publicat : 15.10.2021 în MONITORUL OFICIAL Nr. 249-253 art. 1214 Data intrării în vigoare
+
+MODIFICAT
+HANRE540 din 10.09.24, MO392-394/12.09.24 art.715; în vigoare 12.09.24
+Denumirea în redacția HANRE540 din 10.09.24, MO392-394/12.09.24 art.715; în
+vigoare 12.09.24
+ÎNREGISTRAT:
+Ministerul Justiţiei
+al Republicii Moldova
+nr. 1663 din 5 octombrie 2021
+Ministru _____Sergiu LITVINENCO
+În temeiul art. 7 alin. (2) lit. a), art. 99 alin. (2) din Legea nr. 108/2016, cu privire la
+gazele naturale (Monitorul Oficial al Republicii Moldova, 2016, nr. 193-203, art. 415),
+Consiliul de administrație al Agenţiei Naţionale pentru Reglementare în Energetică
+HOTĂRĂŞTE:
+### Punctul 1. Se aprobă Metodologia de calculare, aprobare și aplicare a prețurilor
+reglementate pentru furnizarea gazelor naturale anumitor categorii de consumatori finali și
+a prețurilor reglementate pentru furnizarea de ultimă opţiune, în contextul obligațiilor de
+serviciu public.
+[Pct.1 în redacția HANRE540 din 10.09.24, MO392-394/12.09.24 art.715; în vigoare
+12.09.24]
+### Punctul 2. Se abrogă Hotărârea Consiliului de administraţie al Agenţiei Naţionale pentru
+Reglementare în Energetică nr. 678 din 22 august 2014 cu privire la aprobarea
+Metodologiei de calculare și aplicare a tarifelor și prețurilor reglementate la gazele naturale
+(Monitorul Oficial al Republicii Moldova, 2014, nr. 345-351, art. 1603), înregistrată la
+Ministerul Justiţiei cu nr. 996 din 7 octombrie 2014.
+### Punctul 3. Prezenta Hotărâre intră în vigoare la data publicării în Monitorul Oficial al
+Republicii Moldova.
+### Punctul 4. Controlul asupra executării prezentei Hotărâri se pune în sarcina subdiviziunilor
+Agenției Naționale pentru Reglementare în Energetică.
+DIRECTOR GENERAL Veaceslav UNTILA
+Directori Octavian CALMÎC
+
+
+Ștefan CREANGĂ
+Violina ȘPAC
+Nr. 355. Chişinău, 13 august 2021.
+metedologie
+[Metodologia modificată prin HANRE540 din 10.09.24, MO392-394/12.09.24
+art.715; în vigoare 12.09.24]

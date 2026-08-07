@@ -112,4 +112,15 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 | [[HANRE 297-2022 — masurare gaze naturale comerciale (text)]] | [[HANRE 297-2022 — masurare gaze naturale comerciale (notă)]] |
 | [[HANRE 537-2020 — calitate servicii transport distributie EE (text)]] | [[HANRE 537-2020 — calitate servicii transport distributie EE (notă)]] ⚠️ decision-only |
 
-Optional next: recover HANRE **535/2019 methodology annex** + **537/2020 QoS annex** + **422/2019**; water/utilities MOC if the water corpus grows.
+## Batch 9 — energy PDF (2026-08-07c) ✅
+
+| Act | Note |
+|---|---|
+| [[HANRE 355-2021 — preturi reglementate furnizare gaze (text)]] | [[HANRE 355-2021 — preturi reglementate furnizare gaze (notă)]] ⚠️ decision-only |
+| [[HANRE 540-2024 — modificare Metodologie preturi furnizare gaze (text)]] | [[HANRE 540-2024 — modificare Metodologie preturi furnizare gaze (notă)]] |
+| [[HG 621-2024 — certificare performanta energetica cladiri (text)]] | [[HG 621-2024 — certificare performanta energetica cladiri (notă)]] |
+| [[HG 622-2024 — calificare evaluatori energetici (text)]] | [[HG 622-2024 — calificare evaluatori energetici (notă)]] |
+| [[HG 364-2024 — modificare stocuri securitate gaze (text)]] | [[HG 364-2024 — modificare stocuri securitate gaze (notă)]] |
+| [[HG 677-2024 — plan sezon incalzire 2024-2025 (text)]] | [[HG 677-2024 — plan sezon incalzire 2024-2025 (notă)]] ⚠️ annexes missing |
+
+Optional next: recover **535/2019** + **355/2021** methodology annexes, **537/2020** QoS annex, **422/2019**, **L282/2023** parent.

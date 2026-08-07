@@ -1,0 +1,610 @@
+---
+title: "HG 621-2024 — certificare performanta energetica cladiri (text)"
+type: act-text
+act_type: hotărâre-guvern
+nr: "621"
+an: 2024
+domeniu:
+- energetică
+- eficiență
+- clădiri
+domain: [energetică, eficiență, clădiri]
+issuer: Guvern
+in_force: true
+in_vigoare: true
+mo_publicare: "MO 408-410/26.09.2024 art. 772"
+legis_id: "145173"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=145173"
+version_date: 2026-08-07
+versiune_text: 2026-08-07
+continut: text-integral
+text_complet: true
+puncte_numarate: 76
+articole_numarate: 0
+tags: [act, text, acte_normative, energetică]
+created: 2026-08-07
+updated: 2026-08-07
+source_ingest: pdf-upload-pdftotext
+legal_status: in_vigoare
+enabling_act: "Legea nr. 282/2023 privind performanța energetică a clădirilor art. 5(1)(4)"
+---
+# HG 621-2024 — certificare performanta energetica cladiri
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md** PDF (doc_id [145173](https://www.legis.md/cautare/getResults?lang=ro&doc_id=145173)), pdftotext + structură ușoară.
+> Analiză: [[HG 621-2024 — certificare performanta energetica cladiri (notă)]].
+
+---
+
+Republica Moldova
+
+GUVERNUL
+HOTĂRÂRE Nr. HG621/2024
+din 11.09.2024
+
+pentru aprobarea Regulamentului
+privind procedura de certificare a performanței
+energetice a clădirilor și a unităților de clădire
+Publicat : 26.09.2024 în MONITORUL OFICIAL Nr. 408-410 art. 772 Data intrării în vigoare
+
+În temeiul art. 5 alin. (1) pct. 4) din Legea nr. 282/2023 privind performanța
+energetică a clădirilor (Monitorul Oficial al Republicii Moldova, 2023, nr.401-403, art.695),
+Guvernul HOTĂRĂȘTE:
+### Punctul 1. Se aprobă Regulamentul privind procedura de certificare a performanței
+energetice a clădirilor și a unităților de clădire (se anexează).
+### Punctul 2. Controlul asupra executării prezentei hotărâri se pune în sarcina Ministerului
+Energiei și a Ministerului Infrastructurii și Dezvoltării Regionale.
+### Punctul 3. Se abrogă Hotărârea Guvernului nr. 896/2016 pentru aprobarea Regulamentului
+privind procedura de certificare a performanței energetice a clădirilor și a unităților de
+clădiri (Monitorul Oficial al Republicii Moldova, 2016, nr. 232-244, art. 975), cu modificările
+ulterioare.
+### Punctul 4. În termen de 3 luni, organul central de specialitate al administrației publice în
+domeniul energeticii va asigura efectuarea analizei impactului asupra sectorului public și a
+reformei structurale preconizate, prin prisma funcțiilor și competențelor atribuite autorității
+administrative cu funcții de supraveghere tehnică și control prin Legea nr. 282/2023 privind
+performanța energetică a clădirilor, în conformitate cu metodologia aprobată de Guvern.
+### Punctul 5. După efectuarea analizei impactului în conformitate cu punctul 4, organul central
+de specialitate al administrației publice în domeniul construcțiilor va asigura modificarea
+Regulamentului cu privire la organizarea și funcționarea Inspectoratului Național pentru
+Supraveghere Tehnică, aprobat prin Hotărârea Guvernului nr. 391/2023, în conformitate cu
+prevederile Legii nr. 282/2023 privind performanța energetică a clădirilor.
+### Punctul 6. Prezenta hotărâre intră în vigoare la data publicării în Monitorul Oficial al
+Republicii Moldova, cu excepția prevederilor capitolului VI, care vor intra în vigoare la
+expirarea termenului de 6 luni de la data publicării acesteia.
+PRIM-MINISTRU Dorin RECEAN
+
+
+Contrasemnează:
+Ministrul energiei Victor Parlicov
+Ministrul infrastructurii
+și dezvoltării regionale Andrei Spînu
+Nr. 621. Chişinău, 11 septembrie 2024.
+Aprobat
+prin Hotărârea Guvernului nr. 621/2024
+REGULAMENT
+privind procedura de certificare a performanței energetice
+a clădirilor și a unităților de clădire
+## Capitolul I
+DISPOZIȚII GENERALE
+### Punctul 1. Regulamentul privind procedura de certificare a performanței energetice a
+clădirilor și a unităților de clădire (în continuare – Regulament) stabilește cerințele specifice
+și procedura de certificare a performanței energetice a clădirilor și a unităților de clădire,
+inclusiv modul de întocmire a certificatelor de performanță energetică, cerințele specifice
+privind ținerea Registrului electronic al certificatelor de performanță energetică, modul de
+înregistrare a certificatelor de performanță energetică, precum și cerințele specifice privind
+informarea potențialilor cumpărători sau locatari ai clădirii sau ai unității de clădire.
+### Punctul 2. În sensul prezentului Regulament se aplică noțiunile definite în Legea nr.
+282/2023 privind performanța energetică a clădirilor (în continuare – Legea nr. 282/2023),
+precum și noțiunile definite după cum urmează:
+2.1. certificarea performanței energetice a clădirii sau a unității de clădire (în
+continuare – certificarea performanței energetice a clădirii) – proces de evaluare a nivelului
+de performanță energetică a clădirii sau a unității de clădire în condițiile standard de
+utilizare a acesteia, care se efectuează în conformitate cu prevederile metodologiei de calcul
+al performanței energetice a clădirilor;
+2.2. clădire sau unitate de clădire expusă la vânzare sau care se transmite în
+locațiune – clădire sau unitate de clădire pentru care proprietarul clădirii sau al unității de
+clădire, pentru prima dată, a anunțat sau a comunicat în alt mod (sub orice formă și prin
+orice mijloc) publicului sau unei părți a publicului faptul că aceasta este sau poate deveni
+disponibilă pentru vânzare sau pentru locațiune;
+
+
+2.3. potenţial cumpărător sau locatar – persoană fizică sau juridică care:
+2.3.1. solicită de la proprietarul clădirii sau unității de clădire informaţii despre
+clădire sau despre o unitate de clădire în scopul luării deciziei privind procurarea sau
+închirierea clădirii sau a unei unităţi de clădire; sau
+2.3.2. solicită vizitarea clădirii sau a unei unităţi de clădire în scopul luării deciziei
+privind procurarea sau închirierea acesteia; sau
+2.3.3. face o ofertă în scris sau verbal de a procura sau de a închiria clădirea sau
+unitatea de clădire.
+### Punctul 3. În sensul prezentului Regulament, noţiunea „clădire” include unităţile de clădire
+și înseamnă și clădire viitoare, noțiunea „unitate de clădire” înseamnă și „unitate de clădire
+nouă”, noțiunea „proprietarul clădirii” înseamnă și orice reprezentant legal al acestuia, iar
+noțiunea „certificat de performanță energetică” include și „certificatul preliminar de
+performanță energetică”, în afară de cazurile în care Regulamentul prevede expres altceva.
+### Punctul 4. Certificarea performanței energetice a clădirilor este obligatorie pentru:
+4.1. clădirile viitoare și unitățile de clădire noi;
+4.2. clădirile existente și unitățile de clădire care sunt supuse renovării majore;
+4.3. clădirile existente și unitățile de clădire care se expun la vânzare sau se
+transmit în locațiune;
+4.4. clădirile publice existente cu o suprafață utilă totală de peste 250 m2;
+4.5. clădirile publice existente și unitățile de clădire care dispun de un certificat de
+performanță energetică și la care au fost efectuate modificări (reconstrucții, extinderi,
+modernizări) ce au influențat în mod semnificativ performanța energetică a acestora.
+### Punctul 5. Tranzacțiile care, în sensul subpunctului 4.3, se consideră vânzare sau
+transmitere în locațiune a clădirii sunt:
+5.1. vânzarea sau transmiterea în locațiune a unei cote-părți din clădire, atunci când
+cota-parte corespunde unei suprafețe totale utile mai mare sau egale cu 50 m2;
+5.2. transmiterea clădirii în sublocațiune.
+### Punctul 6. Tranzacțiile care, în sensul subpunctului 4.3, nu se consideră vânzare sau
+transmitere în locațiune a clădirii sunt:
+6.1. vânzarea sau transmiterea în locațiune silită;
+6.2. reînnoirea sau prelungirea contractului de locațiune existent, în cazul în care nu
+se schimbă locatarul;
+6.3. transmiterea în locațiune a locuinței de serviciu, a locuinței de manevră, a
+
+
+locuinței cu statut special (de protocol) și a locuinței sociale.
+### Punctul 7. Nu se supun certificării performanței energetice:
+7.1. clădirile protejate în conformitate cu Legea nr.1530/1993 privind ocrotirea
+monumentelor și incluse în registrul monumentelor locale sau naționale, în măsura în care
+respectarea anumitor cerințe de performanță energetică ar modifica în mod inacceptabil
+valoarea istorică, caracterul sau aspectul exterior al acestora, imposibilitatea respectării
+anumitor cerințe de performanță energetică fiind argumentată și confirmată de către
+proprietarii clădirii în baza documentelor normative în construcții;
+7.2. clădirile utilizate ca lăcașuri de cult sau pentru alte activități cu caracter
+religios;
+7.3. construcțiile cu caracter provizoriu, platformele industriale, atelierele, clădirile
+din domeniul agricol cu altă destinație decât cea de locuit, cu cerere redusă de energie;
+7.4. clădirile de locuit care sunt utilizate sau care sunt destinate a fi utilizate mai
+puțin de 4 luni pe parcursul unui an, sau care sunt destinate a fi utilizate pentru o perioadă
+limitată de timp pe parcursul unui an și au un consum preconizat de energie mai mic de
+25% din valoarea care ar rezulta din utilizarea acestora pe tot parcursul anului;
+7.5. clădirile separate cu o suprafață utilă totală mai mică de 50 m2;
+7.6. clădirile destinate apărării naționale, cu excepția caselor individuale sau a
+clădirilor de birouri ale organului central de specialitate al administrației publice în
+domeniul apărării ori ale autorităților administrative sau ale instituțiilor publice din
+subordinea acestuia;
+7.7. alte categorii de clădiri cu regim special, care sunt reglementate de acte
+normative speciale și pentru care respectarea prevederilor prezentului Regulament nu este
+posibilă din motive întemeiate prevăzute de legislație;
+7.8. clădirile existente ai căror proprietari confirmă documentar că acestea sunt
+susceptibile de a fi reconstruite, extinse, modernizate sau demolate, parțial sau total, iar
+potențialul cumpărător sau locatar intenționează să le reconstruiască, extindă, modernizeze
+sau să le demoleze, parțial sau total.
+### Punctul 8. Confirmarea documentară menționată în subpunctul 7.8 poate fi efectuată prin
+unul din următoarele acte eliberate pentru clădirea respectivă:
+8.1. certificatul de urbanism pentru proiectarea lucrărilor de reconstrucție,
+extindere sau modernizare;
+8.2. autorizația de construire pentru realizarea lucrărilor de reconstrucție, extindere
+sau modernizare;
+8.3. autorizația de desființare pentru realizarea lucrărilor de demolare parțială sau
+totală.
+
+
+### Punctul 9. Obligația stabilită la punctul 4 se aplică următoarelor categorii de clădiri de locuit
+și nerezidențiale, publice și private, viitoare și existente, precum și unităților de clădire,
+după cum urmează:
+9.1. case individuale (clădiri unifamiliale de diferite tipuri: case individuale,
+townhouse, duplex);
+9.2. blocuri locative;
+9.3. clădiri de birouri;
+9.4. clădiri ale instituțiilor de învățământ;
+9.5. clădiri ale instituțiilor medicale;
+9.6. hoteluri;
+9.7. restaurante și cafenele;
+9.8. clădiri cu destinație sportivă;
+9.9. clădiri pentru servicii de comerț cu ridicata și cu amănuntul;
+9.10. alte tipuri de clădiri cu consum energetic, inclusiv cu destinație mixtă, cu
+excepția celor menționate la punctul 7.
+## Capitolul II
+PROCESUL DE CERTIFICARE A PERFORMANŢEI
+ENERGETICE A CLĂDIRILOR
+### Secțiunea 1
+Generalităţi
+### Punctul 10. Certificarea performanței energetice a clădirii se efectuează în baza contractului
+de prestări servicii încheiat între proprietarul clădirii și o companie care a angajat unul sau
+mai mulți evaluatori energetici, iar prețul ce urmează a fi achitat de către proprietarul
+clădirii se determină în mod liber, prin negocierea părților, în funcție de complexitatea
+serviciului prestat.
+### Punctul 11. Certificarea performanței energetice a clădirilor se efectuează de către
+evaluatorii energetici calificați și înregistrați în Registrul electronic al evaluatorilor
+energetici, în conformitate cu Regulamentul cu privire la calificarea și înregistrarea
+evaluatorilor energetici, a inspectorilor sistemelor de încălzire și a inspectorilor sistemelor
+de ventilare și condiționare, aprobat prin Hotărârea Guvernului nr. 622/2024.
+### Punctul 12. Procesul de certificare a performanței energetice a clădirii trebuie să fie:
+12.1. complet, pentru a defini corect clădirea supusă certificării performanţei
+
+
+energetice;
+12.2. reprezentativ, pentru a colecta date fiabile şi relevante;
+12.3. trasabil, pentru a urmări originea şi prelucrarea datelor.
+### Punctul 13. Procesul de certificare a performanței energetice a clădirii cuprinde
+următoarele etape:
+13.1. contactul preliminar;
+13.2. ședința de inițiere;
+13.3. colectarea datelor;
+13.4. inspectarea clădirii;
+13.5. analiza datelor;
+13.6. întocmirea certificatului de performanță energetică;
+13.7. ședința finală.
+### Punctul 14. Procesul de certificare a performanței energetice viitoare cuprinde etapele
+menționate la punctul 13, cu excepția etapei subpunctului 13.4, care nu se aplică în cazul
+clădirilor viitoare.
+### Punctul 15. La certificarea performanței energetice viitoare, activitățile din cadrul etapelor
+menționate la punctul 13 se ajustează de către evaluatorul energetic în comun cu
+proprietarul clădirii, corespunzător specificului procesului de certificare a performanței
+energetice a clădirilor viitoare, și se reduc doar la acele activități ce pot fi realizate în raport
+cu clădirea viitoare.
+Secţiunea a 2-a
+Contactul preliminar
+### Punctul 16. În cadrul contactului preliminar, evaluatorul energetic convine cu proprietarul
+clădirii următoarele:
+16.1. clădirea supusă certificării performanţei energetice;
+16.2. scopul certificării performanţei energetice a clădirii;
+16.3. datele ce urmează a fi colectate de către proprietarul clădirii înainte de
+începerea certificării performanței energetice a clădirii, inclusiv disponibilitatea, validitatea
+și formatul acestor date;
+16.4. măsurările, estimările şi/sau inspecţiile preconizate care urmează să fie
+efectuate în timpul certificării performanţei energetice a clădirii (în cazul clădirii existente);
+
+
+16.5. intervalul de timp necesar pentru a finaliza certificarea performanţei
+energetice a clădirii;
+16.6. angajamentele de timp și alte resurse din partea proprietarului clădirii;
+16.7. costul serviciului și alte condiții contractuale de prestare a serviciului privind
+certificarea performanței energetice a clădirii.
+### Punctul 17. În cadrul contactului preliminar, evaluatorul energetic solicită de la proprietarul
+clădirii informații despre:
+17.1. contextul certificării performanței energetice a clădirii – existența planurilor
+sau a proiectelor privind modificarea, renovarea majoră sau demolarea clădirii, precum și a
+altor planuri ce pot influența certificarea performanței energetice a clădirii;
+17.2. orice opinii, idei și restricții existente referitoare la potențialele recomandări
+de îmbunătățire a performanței energetice a clădirii;
+17.3. în cazul clădirii existente – modificările făcute clădirii în comparație cu
+caracteristicile ei inițiale, prevăzute în documentația de proiect, și care ar putea influența
+performanța energetică a acesteia;
+17.4. în cazul clădirii viitoare – actele permisive (certificatul de urbanism,
+autorizația de construire) care au fost eliberate pentru aceasta.
+### Punctul 18. În cadrul contactului preliminar, evaluatorul energetic informează proprietarul
+clădirii despre orice conflict de interese sau orice situaţie de altă natură care ar putea
+influenţa imparţialitatea evaluatorului energetic, aşa cum este definită în art. 33 din Legea
+nr. 282/2023.
+### Punctul 19. Evaluatorul energetic întocmește și semnează declarația de imparțialitate, în
+conformitate cu prevederile art. 36 alin. (1) din Legea nr. 282/2023.
+### Punctul 20. În rezultatul contactului preliminar, proprietarul clădirii încheie cu compania
+care a angajat unul sau mai mulți evaluatori energetici contractul de prestare a serviciului
+privind certificarea performanței energetice a clădirii.
+### Punctul 21. Compania care a angajat unul sau mai mulți evaluatori energetici refuză
+încheierea contractului de prestare a serviciului privind certificarea performanței
+energetice viitoare în cazul în care datele despre clădirea viitoare, prezentate de către
+proprietarul acesteia, contravin datelor indicate în actele permisive (certificatul de
+urbanism, autorizația de construire) care au fost eliberate pentru această clădire sau
+clădirea a fost construită cu abateri de la prevederile actelor permisive.
+Secțiunea a 3-a
+Ședința de inițiere
+### Punctul 22. Scopul ședinței de inițiere este de a informa proprietarul clădirii şi alte părţi
+interesate cu privire la scopul certificării performanţei energetice a clădirii şi de a conveni
+
+
+asupra măsurilor practice necesare pentru efectuarea acestui proces.
+### Punctul 23. Ședința de inițiere poate fi organizată și în formatul apelurilor telefonice,
+webinarelor și altor discuții interactive la distanță.
+### Punctul 24. În cadrul ședinței de inițiere, evaluatorul energetic solicită proprietarului
+clădirii:
+24.1. să numească o persoană responsabilă care să ţină legătura cu evaluatorul
+energetic, fiind, susţinută și de alţi specialişti în domeniu, dacă este necesar;
+24.2. să informeze părţile implicate în privinţa certificării performanţei energetice a
+clădirii şi a oricăror cerinţe care apar în legătură cu aceasta;
+24.3. să asigure cooperarea dintre părţile implicate;
+24.4. să facă cunoscute orice condiţii neobişnuite, lucrări tehnice sau alte activităţi
+care vor avea loc pe parcursul certificării performanţei energetice a clădirii (în cazul clădirii
+existente).
+### Punctul 25. În timpul ședinței de inițiere, evaluatorul energetic stabilește, în comun cu
+proprietarul clădirii, următoarele:
+25.1. modalităţile de acces al evaluatorului energetic şi al personalului său în clădire
+şi, după caz, în încăperile acesteia;
+25.2. normele de siguranţă şi de securitate, inclusiv zonele de acces restricţionat şi
+potenţialele pericole şi riscuri pentru sănătate;
+25.3. datele ce urmează să fie furnizate de către proprietarul clădirii;
+25.4. acordurile de confidenţialitate;
+25.5. programul vizitelor la faţa locului, inclusiv dacă acestea vor avea loc în cadrul
+programului normal de lucru sau în afara acestuia;
+25.6. nivelul de implicare al utilizatorilor clădirii, după caz.
+### Punctul 26. Evaluatorul energetic descrie proprietarului clădirii procesele, mijloacele şi
+programul certificării performanţei energetice a clădirii.
+Secţiunea a 4-a
+Colectarea datelor
+### Punctul 27. Evaluatorul energetic, în comun cu proprietarul clădirii, colectează, dacă sunt
+disponibile, următoarele date necesare pentru certificarea performanţei energetice a
+clădirii:
+27.1. informaţiile necesare pentru identificarea clădirii:
+
+
+27.1.1. adresa poștală;
+27.1.2. destinaţia clădirii;
+27.1.3. numărul cadastral;
+27.1.4. imaginile foto/video ale clădirii;
+27.1.5. alte informații prevăzute în metodologia de calcul al performanței energetice
+a clădirilor;
+27.2. caracteristicile tehnice detaliate ale clădirii, inclusiv:
+27.2.1. forma fizică a clădirii;
+27.2.2. spaţiile (zonele) condiţionate;
+27.2.3. datele despre materialele de construcţie din care este construită clădirea;
+27.2.4. datele despre elementele de închidere ale anvelopei clădirii;
+27.2.5. datele despre sistemele tehnice ale clădirii şi zonele pe care le deservesc;
+27.2.6. alte informaţii necesare pentru certificarea performanţei energetice a
+clădirii, care rezultă din metodologia de calcul al performanţei energetice a clădirilor;
+27.3. documentația de proiect, de exploatare şi de mentenanţă existentă, precum:
+27.3.1. planurile clădirii, cu indicarea încăperilor sau zonelor care sunt încălzite,
+răcite, ventilate;
+27.3.2. schemele sistemelor tehnice ale clădirii, indicând zonele sistemelor de
+încălzire, răcire, ventilare, dacă sunt disponibile;
+27.3.3. cartea tehnică a construcției și altă informație și documentaţie tehnică care
+sunt necesare pentru certificarea performanţei energetice a clădirii şi care rezultă din
+metodologia de calcul al performanţei energetice a clădirilor;
+27.4. certificatele de performanță energetică și/sau auditurile energetice anterioare,
+dacă există;
+27.5. tarifele energetice actuale și alte date economice relevante, ce urmează a fi
+utilizate la estimarea fezabilității economice a recomandărilor privind îmbunătățirea
+performanței energetice a clădirii.
+### Punctul 28. Evaluatorul energetic decide dacă volumul și calitatea datelor furnizate de către
+proprietarul clădirii îi permit sau nu continuarea procesului de certificare a performanţei
+energetice a clădirii.
+### Punctul 29. În cazul în care lipsesc anumite date, proprietarul clădirii furnizează
+suplimentar datele lipsă sau poate accepta ca evaluatorul energetic să facă ipoteze de lucru
+
+
+care trebuie detaliate şi fundamentate în mod clar și coordonate cu proprietarul clădirii.
+### Punctul 30. Evaluatorul energetic alege elementele clădirii care trebuie verificate în cadrul
+inspectării clădirii, în funcție de categoria şi de starea tehnică a clădirii.
+### Punctul 31. Evaluatorul energetic examinează informațiile colectate din punctul de vedere al
+consecvenței și al relevanței.
+### Punctul 32. Dacă datele solicitate nu sunt disponibile sau dacă, după procesul de revizuire,
+acestea sunt considerate incomplete sau inexacte, evaluatorul energetic definește metoda
+de obținere a informațiilor necesare (prin măsurări, estimări și inspecții).
+### Punctul 33. Dacă sunt necesare mai multe informații, evaluatorul energetic planifică
+colectarea ulterioară a datelor și efectuarea măsurărilor în timpul inspectării clădirii.
+### Punctul 34. Proprietarul clădirii este responsabil de veridicitatea datelor despre clădire
+furnizate evaluatorului energetic în scopul certificării performanţei energetice a clădirii.
+Secţiunea a 5-a
+Inspectarea clădirii
+### Punctul 35. Evaluatorul energetic inspectează clădirea supusă certificării performanței
+energetice, cu excepția cazului de certificare a performanței energetice viitoare a unei
+clădiri viitoare.
+### Punctul 36. În timpul inspectării clădirii, evaluatorul energetic:
+36.1. inspectează clădirea supusă certificării performanţei energetice, inclusiv
+raportându-se la informațiile furnizate de proprietarul clădirii;
+36.2. identifică şi specifică zonele şi elementele clădirii pentru care este nevoie de
+date suplimentare pentru efectuarea analizelor ulterioare;
+36.3. generează idei preliminare pentru măsurile de îmbunătăţire a performanţei
+energetice a clădirii şi constrângerile şi restricţiile existente cu privire la măsurile
+potențiale de îmbunătățire a performanței energetice;
+36.4. se asigură că măsurările şi observaţiile sunt realizate cu un înalt factor de
+siguranţă şi în situaţii care sunt reprezentative pentru funcţionarea clădirii în condiții
+standard;
+36.5. informează prompt proprietarul clădirii despre orice dificultăţi imprevizibile
+întâlnite în timpul inspectării clădirii;
+36.6. documentează detaliat (prin înscrisuri, înregistrări foto/video, întocmirea de
+scheme și alte metode relevante) rezultatele inspectării clădirii, astfel încât să fie asigurată
+trasabilitatea datelor, posibilitatea controlului datelor inițiale și a certificatului de
+performanță energetică a clădirii, precum și posibilitatea restabilirii ulterioare, în caz de
+necesitate, a rezultatelor evaluării performanței energetice a clădirii.
+
+
+### Punctul 37. În timpul inspectării clădirii, evaluatorul energetic solicită proprietarului
+clădirii:
+37.1. să-i asigure accesul în clădirea supusă certificării performanței energetice;
+37.2. să numească una sau mai multe persoane, după caz, care vor acţiona în
+calitate de ghid şi de însoţitor pentru evaluatorul energetic şi, după caz, pentru personalul
+acestuia în timpul inspectării clădirii; aceste persoane trebuie să aibă competenţele şi
+autoritatea necesare pentru a efectua operaţiuni directe asupra proceselor şi
+echipamentelor, dacă este necesar;
+37.3. să permită evaluatorului energetic accesul la schiţe, manuale şi alte
+documente tehnice relevante pentru instalarea sistemelor şi echipamentelor tehnice,
+precum şi la rezultatele încercărilor de punere în funcţiune care au fost efectuate.
+### Punctul 38. În cazul în care accesul la inspectarea părților clădirii nu este posibil sau este
+asociat cu un nivel sporit de risc pentru sănătate sau viață, evaluatorul energetic poate face
+estimări cu privire la caracteristicile acestora, în funcție de termenul de exploatare și de
+tipul clădirii. Evaluatorul energetic nu este obligat să își asume riscuri inutile atunci când
+inspectează clădirea.
+Secţiunea a 6-a
+Întocmirea certificatului de performanță energetică
+### Punctul 39. La această etapă, evaluatorul energetic:
+39.1. evaluează credibilitatea datelor furnizate de către proprietarul clădirii şi
+evidenţiază lipsurile sau abaterile;
+39.2. evaluează performanţa energetică a clădirii supuse certificării utilizând
+metodologia de calcul al performanţei energetice a clădirilor, aprobată de organul central
+de specialitate al administraţiei publice în domeniul construcţiilor;
+39.3. întocmește certificatul de performanță energetică a clădirii.
+### Punctul 40. În urma evaluării performanţei energetice a clădirii, evaluatorul energetic
+identifică măsuri de îmbunătăţire a performanţei energetice a clădirii, pe baza:
+40.1. termenului de exploatare a clădirii şi a sistemelor tehnice şi a stării lor, modul
+în care acestea sunt exploatate şi întreţinute;
+40.2. tehnologiei sistemelor şi echipamentelor existente în clădire în comparaţie cu
+cele mai bune tehnologii disponibile;
+40.3. stadiului actual al tehnicii;
+40.4. fezabilității tehnice și economice a măsurilor de îmbunătățire a performanței
+energetice a clădirii.
+
+
+### Punctul 41. Evaluatorul energetic ia în considerare orice limitări impuse de actele normative
+sau de altă natură privind potențialele recomandări de îmbunătățire a performanței
+energetice a clădirii.
+Secţiunea a 7-a
+Ședință finală
+### Punctul 42. La finalizarea procesului de certificare a performanţei energetice a clădirii,
+evaluatorul energetic:
+42.1. prezintă rezultatele certificării performanţei energetice a clădirii într-un mod
+accesibil, inclusiv care să faciliteze luarea deciziilor de către proprietarul clădirii în ceea ce
+priveşte implementarea măsurilor de îmbunătăţire a performanţei energetice a clădirii;
+42.2. susţine şi interpretează rezultatele certificării performanţei energetice a
+clădirii;
+42.3. predă certificatul de performanţă energetică a clădirii proprietarului clădirii.
+### Punctul 43. La prezentarea rezultatelor certificării performanţei energetice a clădirii
+proprietarului, evaluatorul energetic:
+43.1. se asigură că cerinţele pentru certificarea performanţei energetice a clădirii
+convenite cu proprietarul clădirii au fost îndeplinite;
+43.2. se asigură că certificatul de performanţă energetică a clădirii este întocmit în
+conformitate cu cerințele stabilite, înainte de a-l prezenta proprietarului clădirii;
+43.3. prezintă succint măsurările, estimările și inspecțiile relevante efectuate în
+timpul certificării performanţei energetice a clădirii, comentând asupra:
+43.3.1. consistenţei şi calităţii datelor;
+43.3.2. justificării necesităţii de a efectua măsurări, estimări și inspecții şi a modului
+în care acestea au contribuit la certificarea performanţei energetice a clădirii;
+43.3.3. dificultăţilor întâmpinate la colectarea datelor şi la inspectarea clădirii;
+43.3.4. rezultatelor certificării performanţei energetice a clădirii, inclusiv măsurile
+propuse de îmbunătăţire a performanţei energetice a clădirii.
+## Capitolul III
+MODUL DE ÎNTOCMIRE, DE ÎNREGISTRARE
+ȘI DE PĂSTRARE A CERTIFICATELOR DE
+PERFORMANȚĂ ENERGETICĂ A CLĂDIRILOR
+Secțiunea 1
+
+
+Întocmirea certificatului de performanță energetică
+### Punctul 44. Certificatul de performanță energetică a clădirii se întocmește utilizând
+subsistemul informațional național în domeniul eficienței energetice a clădirilor din cadrul
+Sistemului informațional național în domeniul eficienței energetice, conform art.8 alin.(4)
+din Legea nr.282/2023.
+### Punctul 45. Forma și conţinutul certificatului de performanţă energetică a clădirii, precum şi
+ale raportului privind evaluarea performanţei energetice a clădirii se stabilesc de către
+organul central de specialitate al administraţiei publice în domeniul construcţiilor în cadrul
+metodologiei de calcul al performanței energetice a clădirilor, conform art. 7 alin. (1) lit. a)
+din Legea nr.282/2023.
+Secțiunea a 2-a
+Înregistrarea certificatelor de performanță energetică
+### Punctul 46. La finalizarea întocmirii certificatului de performanță energetică a clădirii,
+inclusiv a raportului privind evaluarea performanței energetice a clădirii, acestea se
+semnează electronic de către evaluatorul energetic în numele companiei care a prestat
+serviciul de certificare a performanței energetice a clădirii, se salvează, se înregistrează
+automat și se păstrează în Registrul electronic al certificatelor de performanță energetică.
+### Punctul 47. În cazul evaluării performanței energetice viitoare a unei clădiri viitoare, la
+înregistrarea certificatului de performanță energetică se adaugă mențiunea „certificat
+preliminar”.
+### Punctul 48. Certificatul preliminar de performanță energetică existent se înlocuiește
+automat cu noul certificat de performanță energetică al clădirii.
+### Punctul 49. La salvarea certificatului de performanță energetică, acestuia i se atribuie un
+număr de înregistrare unic, care poate fi generat doar după ce certificatul a fost salvat și
+înregistrat în Registrul electronic al certificatelor de performanță energetică.
+### Punctul 50. Certificatul de performanță energetică este valabil numai după înregistrarea în
+Registrul electronic al certificatelor de performanță energetică.
+### Punctul 51. Odată ce certificatul de performanță energetică a fost înregistrat în Registrul
+electronic al certificatelor de performanță energetică, acesta nu poate fi modificat sau șters.
+### Punctul 52. În cazul depistării greșelilor într-un certificat de performanță energetică
+înregistrat în Registrul electronic al certificatelor de performanță energetică, poate fi
+întocmit un nou certificat de performanță energetică, care îl va înlocui pe cel greșit.
+### Punctul 53. După înregistrarea certificatului de performanţă energetică a clădirii, acesta se
+imprimă pe suport de hârtie.
+### Punctul 54. Evaluatorul energetic transmite proprietarului clădirii un exemplar imprimat și
+versiunea electronică a certificatului de performanță energetică a clădirii.
+
+
+Secțiunea a 3-a
+Păstrarea certificatelor de performanță energetică
+### Punctul 55. Certificatul de performanță energetică se eliberează și este valabil pentru o
+perioadă de 10 ani, dacă în decursul acestei perioade nu este înlocuit cu un alt certificat de
+performanță energetică, în cazurile prevăzute de prezentul Regulament.
+### Punctul 56. Certificatele de performanță energetică și datele aferente acestora incluse în
+Registrul electronic al certificatelor de performanță energetică se păstrează timp de 20 de
+ani.
+### Punctul 57. Câte un exemplar imprimat pe hârtie al certificatului de performanță energetică
+se păstrează de către evaluatorul energetic care l-a întocmit, de către compania care a
+efectuat certificarea performanței energetice a clădirii și de către proprietarul clădirii pe
+toată durata de valabilitate a acestuia.
+### Punctul 58. Dacă în Registrul electronic al certificatelor de performanță energetică sunt
+înregistrate mai multe certificate de performanță energetică pentru aceeași clădire, valabil
+este cel mai recent.
+### Punctul 59. În cazul în care proprietarul clădirii a pierdut certificatul de performanţă
+energetică a clădirii sau acesta a devenit inutilizabil, proprietarul clădirii depune o cerere
+privind eliberarea repetată a unui exemplar de certificat de performanță energetică la
+compania care a efectuat certificarea performanței energetice a clădirii sau la Instituția
+Publică Centrul Național pentru Energie Durabilă.
+### Punctul 60. Compania care a efectuat certificarea performanței energetice a clădirii sau
+Centrul Național pentru Energie Durabilă transmite proprietarului clădirii versiunea
+electronică a certificatului de performanță energetică din Registrul electronic al
+certificatelor de performanță energetică.
+## Capitolul IV
+MODUL DE INFORMARE A POTENȚIALILOR
+CUMPĂRĂTORI SAU LOCATARI PRIVIND
+PERFORMANȚA ENERGETICĂ A CLĂDIRILOR
+### Punctul 61. În cazul în care clădirea sau unitatea de clădire este vândută sau transmisă în
+locațiune înainte de a fi construită, vânzătorul sau locatorul este obligat să prezinte
+cumpărătorului sau locatarului certificatul preliminar de performanță energetică a clădirii
+sau a unității de clădire, inclusiv prin publicarea acestuia în anunțurile privind vânzarea sau
+transmiterea în locațiune.
+### Punctul 62. După darea în exploatare a clădirii sau a unității de clădire, vânzătorul este
+obligat să înmâneze, nu mai târziu de momentul întocmirii actelor de înstrăinare a clădirii
+sau a unității de clădire, cumpărătorului certificatul de performanță energetică imprimat și
+
+
+în format electronic.
+### Punctul 63. După darea în exploatare a clădirii sau a unității de clădire, locatorul este
+obligat să înmâneze locatarului, nu mai târziu de momentul întocmirii actelor de transmitere
+în folosință a clădirii sau a unității de clădire, o copie a certificatului de performanță
+energetică.
+### Punctul 64. În cazul vânzării clădirii sau a unității de clădire, proprietarul este obligat să
+prezinte certificatul de performanță energetică potențialului cumpărător, inclusiv prin
+publicarea acestuia în anunțurile privind vânzarea.
+### Punctul 65. După încheierea contractului de vânzare-cumpărare, proprietarul este obligat să
+înmâneze cumpărătorului certificatul de performanță energetică imprimat și în format
+electronic.
+### Punctul 66. În cazul în care clădirea sau unitatea de clădire se transmite în locațiune,
+locatorul este obligat să prezinte potențialului locatar certificatul de performanță
+energetică, inclusiv prin publicarea acestuia în anunțurile privind transmiterea în locațiune.
+### Punctul 67. După încheierea contractului de locațiune, locatorul este obligat să înmâneze
+locatarului o copie a certificatului de performanță energetică respectiv.
+## Capitolul V
+PUBLICAREA CERTIFICATELOR
+DE PERFORMANȚĂ ENERGETICĂ
+### Punctul 68. La vânzarea sau la transmiterea în locațiune a unei clădiri sau a unei unități de
+clădire, vânzătorul sau locatorul este obligat să indice, în toate tipurile de publicitate
+plasate în acest scop, informația privind indicatorii de performanță energetică specificați în
+certificatul de performanță energetică eliberat sau, în cazul vânzării ori locațiunii clădirii
+sau a unității de clădire care nu a fost construită, informația privind indicatorii de
+performanță energetică determinați în urma evaluării performanței energetice viitoare.
+### Punctul 69. În funcție de posibilitățile tehnice ale mediului în care este plasată publicitatea
+privind vânzarea sau transmiterea în locațiune a clădirii, informația privind indicatorii de
+performanță energetică a clădirii se publică în modul următor:
+69.1. imaginea întregului certificat de performanță energetică (cu excepția
+raportului privind evaluarea performanței energetice); sau
+69.2. imaginea scalei de performanță energetică din cadrul certificatului de
+performanță energetică, cu indicarea clasei de performanță energetică a clădirii și a valorii
+numerice a indicatorului de performanță energetică a clădirii; sau
+69.3. informația textuală despre performanța energetică a clădirii în următoarea
+formă: „CPE – X – Z”, unde „CPE” semnifică clasa de performanță energetică, X – indică
+clasa de performanță energetică (de la A la G), Z – indică valoarea numerică a indicatorului
+
+
+de performanță energetică a clădirii (în kWh/(m2·an)).
+### Punctul 70. Certificatele de performanță energetică emise pentru clădirile publice existente,
+cu o suprafață utilă totală de peste 250 m 2, se plasează într-un loc vizibil publicului în
+termen de 10 zile de la data eliberării.
+### Punctul 71. Obligația stabilită în punctul 70 nu se extinde asupra rapoartelor privind
+evaluarea performanței energetice.
+### Punctul 72. Se consideră loc vizibil publicului locul de pe cel mai vizibil perete de la intrarea
+centrală (holul central) a clădirii sau de pe ușa de intrare centrală a clădirii.
+### Punctul 73. În cazul în care clădirea are mai multe intrări care se utilizează, o copie colorată
+de pe certificatul de performanță energetică se plasează la fiecare intrare în clădire.
+### Punctul 74. Proprietarul clădirii asigură ca certificatul de performanță energetică să rămână
+vizibil publicului pe toată perioadă de valabilitate a acestuia.
+## Capitolul VI
+CONTROLUL CERTIFICATELOR
+DE PERFORMANȚĂ ENERGETICĂ
+### Punctul 75. Autoritatea administrativă cu funcții de supraveghere tehnică și control, stabilită
+la art. 9 din Legea nr. 282/2023, creează şi implementează, în coordonare cu Centrul
+Național pentru Energie Durabilă, sistemul de control independent al certificatelor de
+performanță energetică, care prevede selectarea aleatorie cel puţin a unui procent
+semnificativ din punct de vedere statistic din totalul certificatelor de performanţă
+energetică întocmite anual, precum şi supunerea acestora unei verificări.
+### Punctul 76. Controlul se bazează pe opţiunile indicate mai jos sau pe măsuri echivalente
+acestora:
+76.1. verificarea validităţii datelor de intrare ale clădirii sau ale unităţii acesteia pe
+baza cărora s-a întocmit certificatul de performanţă energetică şi a rezultatelor indicate în
+acesta;
+76.2. verificarea datelor de intrare ale clădirii şi a rezultatelor din certificatul de
+performanţă energetică, inclusiv a recomandărilor formulate în acesta;
+76.3. verificarea completă a datelor de intrare ale clădirii pe baza cărora s-a
+întocmit certificatul de performanţă energetică, verificarea completă a rezultatelor indicate
+în acesta, inclusiv a recomandărilor formulate, şi inspecţia la faţa locului a clădirii, dacă
+este posibil, pentru a se verifica concordanţa dintre informaţiile furnizate în certificatul de
+performanţă energetică şi clădirea certificată.

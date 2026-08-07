@@ -55,6 +55,10 @@ Each ANRE act below names the exact article of the parent law it is issued under
 
 ## Tier 2 — Government acts (`10 Legislation/Government Decisions`)
 - [[HG 10-2024 — guvernanta energetica si actiuni climatice (text)]] — energy & climate governance / PNIEC ✅ *OCR full* · [[HG 10-2024 — guvernanta energetica si actiuni climatice (notă)|notă]] · transposes Reg. (EU) 2018/1999 (EnC-adapted)
+- [[HG 621-2024 — certificare performanta energetica cladiri (text)]] — building EPC procedure ✅ · [[HG 621-2024 — certificare performanta energetica cladiri (notă)|notă]] · L282/2023 *(parent not in vault)*
+- [[HG 622-2024 — calificare evaluatori energetici (text)]] — energy assessor qualification ✅ · [[HG 622-2024 — calificare evaluatori energetici (notă)|notă]]
+- [[HG 364-2024 — modificare stocuri securitate gaze (text)]] — patches HG 668/2022 security stocks (47.1 mcm) ✅ · [[HG 364-2024 — modificare stocuri securitate gaze (notă)|notă]]
+- [[HG 677-2024 — plan sezon incalzire 2024-2025 (text)]] — heating-season coordination + Energocom 50 mcm EU storage ⚠️ *annexes missing* · [[HG 677-2024 — plan sezon incalzire 2024-2025 (notă)|notă]]
 - [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] — risk-preparedness; **transposes Regulation (EU) 2019/941** via Energy Community Decision 2021/13/MC-EnC · [[HG 820-2024 — situatii exceptionale electroenergetic (notă)|notă]] ⚠️ *annex missing*
 - [[HG 346-2026 — Comisia Nationala Management Crize (text)\|HG 346/2026]] — CNMC · [[HG 346-2026 — Comisia Nationala Management Crize (notă)\|notă]] · patched by [[HG 379-2026 — modificare HG 346-2026 crize (notă)\|HG 379/2026]]
 
@@ -95,7 +99,8 @@ Each ANRE act below names the exact article of the parent law it is issued under
 - ~~[[HANRE 486-2017 — Metodologie tarife transport EE (text)]]~~ — **abrogated** · [[HANRE 486-2017 — Metodologie tarife transport EE (notă)|historic notă]]
 - [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]] — electricity distribution · [[HANRE 64-2018 — Metodologie tarife distributie EE (notă)|notă]] ⚠️ *annex missing*
 - [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]] — fixed tariffs for renewables · [[HANRE 375-2017 — Metodologie tarife regenerabile (notă)|notă]] ⚠️ *annex missing*
-- Gas TSO transport methodology HANRE **535/2019** — parent ❌ not ingested · amending act [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)|329/2025]] ✅ · [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|notă]] (conditional-capacity tariffs)
+- Gas TSO transport methodology HANRE **535/2019** — parent ❌ not ingested · amending act [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)|329/2025]] ✅ · [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|notă]]
+- Gas supply / FUO prices [[HANRE 355-2021 — preturi reglementate furnizare gaze (text)|355/2021]] ⚠️ *decision-only* · [[HANRE 540-2024 — modificare Metodologie preturi furnizare gaze (text)|540/2024]] ✅ amend · [[HANRE 355-2021 — preturi reglementate furnizare gaze (notă)|355 notă]]
 
 **Procurement (licence-holders) — currency fix**
 - ~~[[HANRE 24-2017 — achizitii titulari de licenta (abrogata) (text)|HANRE 24/2017]]~~ — **abrogated** 06.08.2021 · [[HANRE 24-2017 — achizitii titulari de licenta (abrogata) (notă)|historic notă]]
@@ -118,7 +123,7 @@ Moldova is an **Energy Community** contracting party by [[Legea 117-2009 — ade
 3. **Still missing clean consolidation:** [[HANRE 423-2019 — Codul retelelor electrice (text)|HANRE 423/2019]] parent annex — partial substance now via [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|656/2021]].
 4. **Currency-check** remaining L107-based HANRE acts (esp. market rules 283/2020 even after 383/2026 amend).
 5. Watch for the **gas equivalent of L164/2025**.
-6. Remaining tier-3 downloads: parent gas tariff methodology **535/2019** annex (329/2025 amend ✅), **443/2020**, QoS **537/2020** annex (decision ✅ · 833 patches ✅), **422/2019**. ✅ **2026-08-07b:** **297/2022** metering, **537/2020** stub, **HG 10/2024**, **L234/2022** + **LP20/2024**.
+6. Remaining tier-3 downloads: **535/2019** methodology annex, **355/2019** methodology annex, **443/2020**, **537/2020** QoS annex, **422/2019**. ✅ **2026-08-07c:** **355/2021**+**540/2024**, **HG 621/622/364/677**.
 
 ## Open threads
 - [[HANRE 535-2019 — Metodologie tarife transport gaze (text)\|HANRE 535/2019]] gas transmission tariff methodology — ⚠️ **decision-only** ([[HANRE 535-2019 — Metodologie tarife transport gaze (notă)\|notă]]); amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)\|329/2025]] ✅; **annex still missing**

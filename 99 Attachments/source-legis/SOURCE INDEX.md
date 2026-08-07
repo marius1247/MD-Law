@@ -155,5 +155,16 @@ updated: 2026-08-07
 | `135452` | [`135452-135452_c62c.pdf`](135452-135452_c62c.pdf) · [`135452.ocr.txt`](135452.ocr.txt) | `10 Legislation/Authority Acts/HANRE 297-2022 — masurare gaze naturale comerciale (text).md` |
 | `141300` | [`141300-141300_eb1d.pdf`](141300-141300_eb1d.pdf) · [`141300.ocr.txt`](141300.ocr.txt) | `10 Legislation/Authority Acts/HANRE 537-2020 — calitate servicii transport distributie EE (text).md` *(decision-only)* |
 
+## PDF batch 2026-08-07c — energy (batch 3, pdftotext)
+
+| doc_id | Raw file | Vault location |
+|---|---|---|
+| `145047` | [`145047-145047_2db0.pdf`](145047-145047_2db0.pdf) · [`145047.txt`](145047.txt) | `10 Legislation/Authority Acts/HANRE 355-2021 — preturi reglementate furnizare gaze (text).md` *(decision-only)* |
+| `145000` | [`145000-145000_2231.pdf`](145000-145000_2231.pdf) · [`145000.txt`](145000.txt) | `10 Legislation/Authority Acts/HANRE 540-2024 — modificare Metodologie preturi furnizare gaze (text).md` |
+| `145173` | [`145173-145173_1ee0.pdf`](145173-145173_1ee0.pdf) · [`145173.txt`](145173.txt) | `10 Legislation/Government Decisions/HG 621-2024 — certificare performanta energetica cladiri (text).md` |
+| `145229` | [`145229-145229_4d0e.pdf`](145229-145229_4d0e.pdf) · [`145229.txt`](145229.txt) | `10 Legislation/Government Decisions/HG 622-2024 — calificare evaluatori energetici (text).md` |
+| `143426` | [`143426-143426_d0f6.pdf`](143426-143426_d0f6.pdf) · [`143426.txt`](143426.txt) | `10 Legislation/Government Decisions/HG 364-2024 — modificare stocuri securitate gaze (text).md` |
+| `145465` | [`145465-145465_fdd5.pdf`](145465-145465_fdd5.pdf) · [`145465.txt`](145465.txt) | `10 Legislation/Government Decisions/HG 677-2024 — plan sezon incalzire 2024-2025 (text).md` *(dispositif only)* |
+
 ## See also
 [[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]

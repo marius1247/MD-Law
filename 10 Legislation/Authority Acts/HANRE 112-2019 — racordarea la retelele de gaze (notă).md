@@ -7,7 +7,7 @@ tags: [act-note, analysis, energetică, gaze, racordare, ANRE]
 analysis_tier: law-house
 status: reviewed
 created: 2026-07-26
-updated: 2026-08-06
+updated: 2026-08-07
 domain: racordare_acces
 issuer: ANRE
 legal_status: in_vigoare
@@ -16,7 +16,7 @@ last_amended: '2026-08-06'
 
 # HANRE nr. 112/2019 — racordarea la rețelele de gaze naturale — Analysis
 
-**Raw text:** [[HANRE 112-2019 — racordarea la retelele de gaze (text)]] ✅ *complete* · **Gas law:** [[Legea 108-2016 — gazele naturale (notă)]] · **Network code:** [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)]] · **Supply:** [[HANRE 113-2019 — furnizarea gazelor naturale (notă)]] · **Concept:** [[Concept — Racordare la rețea]] · **Regulator:** [[ANRE]]
+**Raw text:** [[HANRE 112-2019 — racordarea la retelele de gaze (text)]] ✅ *complete + Anexe 5² (transport) & 5³ (distribuție) CTP noncasnic* · **Gas law:** [[Legea 108-2016 — gazele naturale (notă)]] · **Network code:** [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)]] · **Supply:** [[HANRE 113-2019 — furnizarea gazelor naturale (notă)]] · **QoS:** [[HANRE 422-2019 — calitate servicii transport distributie gaze (notă)|422/2019]] · **Concept:** [[Concept — Racordare la rețea]] · [[Concept — Consum tehnologic gaze]] · **Regulator:** [[ANRE]]
 
 > [!note] Current gas connection layer
 > Unlike [[HANRE 168-2019 — racordarea la retelele electrice (notă)]] (abrogated by 311/2026), this regulation remains live under L108. Consolidation records [[HANRE 328-2025 — modificare Codul retelelor de gaze naturale (notă)|HANRE 328/2025]] amendments (e.g. permit deadline **15 calendar → 10 working days**; OSD advance-payment tools vs risky suppliers).
@@ -78,3 +78,10 @@ Ordinary operator deadlines: **45 calendar days** household / **60 calendar days
 
 ## Sources
 [[HANRE 112-2019 — racordarea la retelele de gaze (text)]] — legis.md doc_id `149126`; consolidated with HANRE 328/2025.
+
+## Anexe 5² / 5³ — CTP pe instalații noncasnice (2026-08-07h)
+
+- **5²** — technological consumption & losses on non-household installations **directly connected to the transmission network** (OST).
+- **5³** — same methodology for installations connected to the **distribution** network (OSD); body now actually appended to `(text)`.
+
+Bridge: [[Concept — Consum tehnologic gaze]].

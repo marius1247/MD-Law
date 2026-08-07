@@ -37,3 +37,8 @@ Coordinates and organises implementation of state policy on **energy efficiency*
 > After LP111/2025, CNED is the operational centre of gravity for EE *and* a finance bridge into RES / energy-poverty programmes. Policy remains with the Ministry; binding market rules and tariffs remain with [[ANRE]].
 >
 > Analysis: [[Legea 139-2018 — eficienta energetica (notă)]] · Concepts: [[Concept — Audit energetic]] · [[Concept — Contract de performanță energetică]] · [[Concept — Parte obligată (eficiență energetică)]]
+
+## Asset handover (FEE)
+- [[HG 620-2025 — transmitere bunuri Fond eficienta energetica (notă)|HG 620/2025]] — gratuitous transfer of FEE-funded goods/works/services to beneficiaries (handover-act forms in vault).
+
+- [[HG 620-2025 — transmitere bunuri Fond eficienta energetica (notă)|HG 620/2025]] transfer forms now include annexes 1–2.

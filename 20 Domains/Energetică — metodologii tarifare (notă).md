@@ -101,7 +101,7 @@ Milestone: transformation from distance-volumetric model (MDL/1000 m³/100 km) t
 
 $$P_{\text{gas}} = \text{WAPP}_{\text{gas}} + T_{\text{trans}} + T_{\text{dist}} + M_{\text{gas\_supp}} \pm \text{FD}$$
 
-**Legal basis:** HANRE 355/2021 (as amended by 540/2024). Gas TSO transport methodology [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)|HANRE 535/2019]] — ⚠️ **decision-only** (methodology annex missing); amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|HANRE 329/2025]] ✅ (conditional-capacity tariffs). HANRE 443/2020 still not ingested.
+**Legal basis:** [[HANRE 355-2021 — preturi reglementate furnizare gaze (notă)|HANRE 355/2021]] ✅ (as amended by 540/2024). Gas TSO [[HANRE 535-2019 — Metodologie tarife transport gaze (notă)|535/2019]] ✅ → [[Concept — Consum tehnologic gaze]]; amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] ✅. Gas DSO [[HANRE 443-2020 — Metodologie tarife distributie gaze (notă)|443/2020]] ✅.
 
 ### 3.3 Uniform distribution tariff
 
@@ -159,7 +159,7 @@ $$\text{FD}_n = \sum_{t=1}^{12} \left[ V_t \times (P_t^{\text{act}} - P_t^{\text
 | ANRE delays annual recalculation despite >5% cost shift | Cash-flow crisis for regulated operators | Administrative action in obligation under [[Codul administrativ 116-2018 (notă)]]; CSJ cost-reflectivity precedent |
 | FD haircut in subsequent tariff period | Unrecovered FX/commodity losses | Document deviations with audited accounts; judicial review |
 | Binomial distribution tariff reform (2025) | Consumer bill structure change; industrial capacity charges | Model new tariff components before contract pricing |
-| Missing gas methodology parents in vault | Incomplete advice on gas DSO/supply / full TSO BAR | Ingest HANRE 535/2019 (329 amend ✅), 443/2020 |
+| Gas methodologies now largely in vault | Residual: 443 CTP annex tail / 422 QoS | Pull gas QoS 422/2019; confirm 443 annex ending |
 
 ---
 

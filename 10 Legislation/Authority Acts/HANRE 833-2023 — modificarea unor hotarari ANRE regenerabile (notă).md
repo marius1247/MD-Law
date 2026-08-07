@@ -94,3 +94,7 @@ legal_status: in_vigoare
 ## Sources
 
 [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)]] — legis.md `141264`.
+
+## Gap closed — Anexa nr. 5 body (2026-08-07h)
+
+The amending act’s “Se completează cu Anexa nr. 5” stub is now filled with the full prosumer purchase/settlement annex (also mirrored under [[HANRE 169-2019 — furnizarea energiei electrice (text)|169/2019]]).

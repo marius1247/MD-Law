@@ -43,3 +43,8 @@ Spre deosebire de tariful de transport, tariful de distribuție este diferenția
 ## Legături în Vault
 * **MOC Hub:** [[MOC — Tarife și metodologii ANRE]]
 * **Concepte Conexe:** [[Concept — Tarif de transport]], [[Concept — Baza activelor reglementate]], [[Concept — Devieri financiare]], [[Concept — Loc de consum]]
+
+## Metodologii
+* **Electricitate:** [[HANRE 64-2018 — Metodologie tarife distributie EE (notă)|HANRE 64/2018]]
+* **Gaze naturale:** [[HANRE 443-2020 — Metodologie tarife distributie gaze (notă)|HANRE 443/2020]] ✅ *(uniform tariff + equalisation)*
+* Hub: [[MOC — Tarife și metodologii ANRE]]

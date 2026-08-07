@@ -7,108 +7,49 @@ domeniu:
 - energie-electrică
 - rețele
 enabling_act: '[[Legea 164-2025 — energia electrica (text)]]'
-eu_directives: ENTSO-E grid code principles; Regulation (EU) 2019/943
+eu_directives: 'Reg. (EU) 2016/631 RfG · 2016/1447 HVDC · 2016/1388 DCC (EnC-adapted PHLG 2018/03–05)'
 analysis_tier: law-house
-tags:
-- act-note
-- analysis
-- energetică
-- rețele
-- ANRE
-- acte_normative
+tags: [act-note, analysis, energetică, rețele, ANRE]
 status: draft
 created: 2026-07-28
 updated: 2026-08-07
-domain: energie_electrica
 issuer: ANRE
 legal_status: in_vigoare
-last_amended: '2026-07-28'
+text_complet: true
 ---
-
 # HANRE nr. 423/2019 — Codul rețelelor electrice — Analysis
 
-**Raw text:** [[HANRE 423-2019 — Codul retelelor electrice (text)]] ⚠️ *decision only — parent annex consolidation still missing* · **Best in-vault substance:** [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|HANRE 656/2021]] (Parts I–V insert) · **Electricity law:** [[Legea 164-2025 — energia electrica (notă)]] · **Connection:** [[HANRE 311-2026 — racordarea la retelele electrice (notă)]] · **Hub:** [[MOC — Energetică]]
-
-> [!warning] Parent annex still not consolidated in vault
-> The approving decision of 423 is ingested; the standalone consolidated annex is not. **[[HANRE 656-2021 — modificare Codul retelelor electrice (text)|HANRE 656/2021]]** (ingested 2026-08-07) inserts the five-part ENTSO-E-style structure and is now the richest operative text in-vault. Still verify point numbers against the current legis.md consolidation (incl. later amendments such as HANRE 646/2025).
+**Raw text:** [[HANRE 423-2019 — Codul retelelor electrice (text)]] ✅ *connection code Titluri I–IV* · **Companion restructuring:** [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|656/2021]] Parts I–V · **Connection procedure:** [[HANRE 311-2026 — racordarea la retelele electrice (notă)|311/2026]] · **Hub:** [[MOC — Energetică]] · [[MOC — Racordare și acces la rețele]]
 
 > [!abstract] Executive summary & commercial impact
-> **Core purpose:** Mandatory technical operational requirements for system security — grid frequency, voltage stability, dispatch protocols, fault ride-through, and technical connection parameters across HV/MV/LV networks.
-> **Primary business risk:** Curtailment or immediate disconnection of generation facilities (especially renewables) for technical non-compliance; uncompensated emergency curtailment under broad TSO discretion.
+> **Core purpose:** Moldovan electricity **network code on connection** — technical requirements for connecting generating modules, demand facilities, and HVDC systems (RfG / DCC / HVDC as adapted for the Energy Community). Dump definitions already cite [[Legea 164-2025 — energia electrica (notă)|L164/2025]].
+> **Primary business risk:** Designing or commissioning plant against the wrong title/table (voltage bands, reactive power, fault-ride-through); failing to consolidate [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|656/2021]] operational Parts and later amendments (e.g. HANRE 646/2025 terminology).
+
+> [!tip] How to read with 656/2021
+> This upload is the **connection-focused** code (Titluri I–IV). [[HANRE 656-2021 — modificare Codul retelelor electrice (text)|656/2021]] remains the richest in-vault source for the five-part ENTSO-E-style operational restructuring. Always cross-check the live legis.md consolidation before hard technical citations.
 
 ---
 
-## 1. Statutory hierarchy & legal foundation
+## 1. Hierarchy
 
-* **Primary legal basis:** Originally issued under [[Legea 107-2016 — energia electrica (text)|L107/2016]] arts. 53(4) and 96(8); enabling basis now under [[Legea 164-2025 — energia electrica (text)|L164/2025]] network-code provisions.
-* **Procedural subordination:** Technical admission disputes → ANRE under [[Legea 174-2017 — energetica (notă)]] art. 18; judicial review → [[Codul administrativ 116-2018 (notă)]].
-* **EU acquis alignment:** Aligned with ENTSO-E grid code parameters and Regulation (EU) 2019/943 system-operation requirements.
-* **Inter-relation:** Works in tandem with [[HANRE 311-2026 — racordarea la retelele electrice (notă)]] for technical admission into operation after connection.
+* **Historical enabling:** L107/2016 arts. 53(4), 96(8) → now L164 network-code / connection articles.
+* **EU / EnC:** Reg. (EU) 2016/631, 2016/1447, 2016/1388 via PHLG-EnC Decisions 2018/03–05.
+* **Procedure neighbours:** [[HANRE 311-2026 — racordarea la retelele electrice (notă)|311/2026]] (connection process); [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)|283/2020]] (market); [[HANRE 316-2018 — dirijare dispecerat sistem electroenergetic (notă)|316/2018]] (dispatch).
 
----
+## 2. Architecture (Titluri I–IV)
 
-## 2. Practical legal mechanics & key provisions
+| Title | Substance (high level) |
+|---|---|
+| **I** | General requirements, definitions, scope of connection code |
+| **II–IV** | Detailed technical connection requirements for generation / demand / HVDC (incl. voltage withstand tables, reactive power Q/Pmax envelopes) |
 
-*Based on decision text and operational cross-references — verify against annex when available.*
+## 3. Checklist
 
-### A. Grid connection technical requirements
-
-* **Frequency & voltage tolerances:** Power plants must retain active power output during specified frequency variations.
-* **Fault ride-through (FRT):** Wind and solar facilities must withstand temporary voltage dips without disconnecting.
-* **Inverter compliance:** Solar inverters must meet certification standards referenced in the network code — international test certificates may be rejected if not explicitly aligned with ENTSO-E parameters.
-
-### B. Dispatching & operational management
-
-* **TSO dispatch instructions:** Î.S. Moldelectrica holds ultimate operational control for balancing and system restoration.
-* **Plants >1 MW:** Must follow TSO dispatch orders; non-compliance triggers disconnection.
-* **SCADA/telemetry:** Mandatory data links to TSO/DSO control centres before energisation.
-
-### C. Amendments
-
-* [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|HANRE 656/2021]] — major restructuring (Parts I–V; definitions; repeals 2007 norms 266/267). **Read this first** until a full 423 consolidation is ingested.
-* HANRE 646/2025 (in force 09.12.2025) amends the code — check current consolidation before relying on pre-2025 technical parameters.
-
----
-
-## 3. Legal ambiguities, vulnerabilities & risk matrix
-
-| Provision | Identified flaw / ambiguity | Practical risk | Recommended strategy |
-| :--- | :--- | :--- | :--- |
-| **Emergency curtailment** | Broad TSO discretion under "system emergency" declarations without clear compensation | Revenue loss for renewable operators without compensation mechanism | Log all TSO dispatch orders; verify against [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)]] market rules; challenge non-discriminatory curtailment via ANRE |
-| **Inverter certification** | Evolving compliance requirements during commissioning | Operational delay from rejection of international testing certificates | Pre-audit inverter documentation against ENTSO-E parameters referenced in code |
-| **Annex availability** | No clean 423 consolidation; 656 is amending text | Point-number drift vs current MO text | Use 656 for substance; verify on legis.md consolidation; still ingest full annex |
-| **L107 → L164 transition** | Code adopted under repealed electricity law | Currency risk for new market entrants post-August 2025 | Cross-check L164 network-code enabling articles; monitor ANRE re-adoption |
-
----
-
-## 4. Relevant jurisprudence & ANRE practice
-
-* **ANRE technical commission:** Oversees disputes regarding emergency curtailments; TSOs must provide SCADA log evidence justifying emergency disconnections.
-* **Grid connection practice:** ANRE holds that DSOs cannot impose off-site network reinforcement costs on single applicants unless under approved co-financing — technical standards in the network code must not be used to shift capital expenditure.
-
----
-
-## 5. Client action checklist / compliance roadmap
-
-- [ ] Prefer [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|656/2021]] for Parts I–V substance; still download a clean 423 consolidation from legis.md when available.
-- [ ] Audit inverter and protection relay settings against ENTSO-E grid code parameters before commissioning tests.
-- [ ] Establish telemetry and SCADA data links with TSO/DSO control centre before requesting energisation.
-- [ ] Log all TSO dispatch/curtailment orders with timestamps for potential imbalance or compensation disputes.
-- [ ] Pair technical compliance review with connection permit under [[HANRE 311-2026 — racordarea la retelele electrice (notă)]].
-
----
-
-## 6. Connections in the vault
-
-* **Electricity law:** [[Legea 164-2025 — energia electrica (notă)]]
-* **Major amendment:** [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)]]
-* **Connection regulation:** [[HANRE 311-2026 — racordarea la retelele electrice (notă)]]
-* **Market rules:** [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)]]
-* **Gas equivalent:** [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)]]
-* **Ingestion status:** [[Status ingestie — Energetica]]
-
----
+- [ ] Identify asset class (RfG type A–D / demand / HVDC) before applying tables
+- [ ] Diff against 656/2021 Parts and HANRE 646/2025 terminology substitutions
+- [ ] Align commissioning tests with [[HANRE 311-2026 — racordarea la retelele electrice (notă)|311/2026]] connection file
+- [ ] For renewables: check interaction with [[HG 599-2025 — limite capacitate regenerabile 2030 (notă)|HG 599]] / [[Concept — Facturare netă]]
 
 ## Sources
 
-[[HANRE 423-2019 — Codul retelelor electrice (text)]] — legis.md doc_id `151929`, decision only (`continut: doar-dispozitiv`, `text_complet: false`). Partial operative substance via [[HANRE 656-2021 — modificare Codul retelelor electrice (text)]] (`129504`).
+[[HANRE 423-2019 — Codul retelelor electrice (text)]] — legis.md doc_id `151929` · code upload `cod_423md_ea3e.md` (2026-08-07).

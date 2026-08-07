@@ -176,8 +176,50 @@ updated: 2026-08-07
 | `146623` | [`146623-146623_0d0d.pdf`](146623-146623_0d0d.pdf) · [`146623.txt`](146623.txt) | `10 Legislation/Government Decisions/HG 829-2024 — audit energetic intreprinderi mari (text).md` |
 | `146906` | [`146906-146906_1935.pdf`](146906-146906_1935.pdf) · [`146906.txt`](146906.txt) | `10 Legislation/Government Decisions/HG 26-2025 — PSO acces retea producatori regenerabile pret fix (text).md` |
 | `147068` | [`147068-147068_ffdc.pdf`](147068-147068_ffdc.pdf) · [`147068.txt`](147068.txt) | `10 Legislation/Government Decisions/HG 53-2025 — durabilitate biocarburanti emisii GES (text).md` |
-| `147296` | [`147296-147296_a54f.pdf`](147296-147296_a54f.pdf) · [`147296.txt`](147296.txt) | `10 Legislation/Government Decisions/HG 74-2025 — calcul consum energie regenerabila (text).md` *(dispositif only)* |
-| `147150` | [`147150-147150_341b.pdf`](147150-147150_341b.pdf) · [`147150.txt`](147150.txt) | `10 Legislation/Government Decisions/HG 76-2025 — cotizatii organizatii internationale 2025 (text).md` *(peripheral)* |
+| `147296` | [`147296-147296_a54f.pdf`](147296-147296_a54f.pdf) · [`147296.txt`](147296.txt) · [`upload-hg-74-2025-regulament.md`](upload-hg-74-2025-regulament.md) | `10 Legislation/Government Decisions/HG 74-2025 — calcul consum energie regenerabila (text).md` *(full regulation, 2026-08-07g)* |
+| `147150` | [`147150-147150_341b.pdf`](147150-147150_341b.pdf) · [`147150.txt`](147150.txt) · [`upload-hg-76-2025-lista.md`](upload-hg-76-2025-lista.md) | `10 Legislation/Government Decisions/HG 76-2025 — cotizatii organizatii internationale 2025 (text).md` *(list complete, 2026-08-07g)* |
 
 ## See also
 [[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]
+
+## Annex uploads — 2026-08-07e (no legis doc_id)
+
+| Raw file | Vault location |
+|---|---|
+| [`upload-hanre-537-2020-regulament.md`](upload-hanre-537-2020-regulament.md) | `10 Legislation/Authority Acts/HANRE 537-2020 — calitate servicii transport distributie EE (text).md` |
+| [`upload-hanre-535-2019-anexa-ctp.md`](upload-hanre-535-2019-anexa-ctp.md) | `10 Legislation/Authority Acts/HANRE 535-2019 — Metodologie tarife transport gaze (text).md` |
+| [`upload-hg-53-2025-anexa1-energie.md`](upload-hg-53-2025-anexa1-energie.md) · [`upload-hg-53-2025-anexa2-materii.md`](upload-hg-53-2025-anexa2-materii.md) | `10 Legislation/Government Decisions/HG 53-2025 — durabilitate biocarburanti emisii GES (text).md` |
+| [`upload-hg-677-2024-anexa1.md`](upload-hg-677-2024-anexa1.md) | `10 Legislation/Government Decisions/HG 677-2024 — plan sezon incalzire 2024-2025 (text).md` |
+| [`upload-hg-599-2025-anexa1.md`](upload-hg-599-2025-anexa1.md) | `10 Legislation/Government Decisions/HG 599-2025 — limite capacitate regenerabile 2030 (text).md` |
+| [`upload-hg-401-2021-anexa2.md`](upload-hg-401-2021-anexa2.md) | `10 Legislation/Government Decisions/HG 401-2021 — cote capacitate facturare neta (text).md` |
+| [`upload-hanre-23-2017-anexa1-contract.md`](upload-hanre-23-2017-anexa1-contract.md) | `10 Legislation/Authority Acts/HANRE 23-2017 — furnizarea energiei termice (text).md` |
+| [`upload-hg-620-2025-anexa-act.md`](upload-hg-620-2025-anexa-act.md) · [`upload-hg-620-2025-anexa1-lista.md`](upload-hg-620-2025-anexa1-lista.md) | `10 Legislation/Government Decisions/HG 620-2025 — transmitere bunuri Fond eficienta energetica (text).md` |
+| [`upload-hg-517-anexa3-nota.md`](upload-hg-517-anexa3-nota.md) | `10 Legislation/Government Decisions/HG 517 — constructia reconstructia centralelor electrice (text).md` |
+
+## Methodology uploads — 2026-08-07f
+
+| Raw file | Vault location |
+|---|---|
+| [`upload-hanre-535-2019-metodologie.md`](upload-hanre-535-2019-metodologie.md) | `10 Legislation/Authority Acts/HANRE 535-2019 — Metodologie tarife transport gaze (text).md` |
+| [`upload-hanre-355-2021-metodologie.md`](upload-hanre-355-2021-metodologie.md) | `10 Legislation/Authority Acts/HANRE 355-2021 — preturi reglementate furnizare gaze (text).md` |
+| [`upload-hanre-443-2020-metodologie.md`](upload-hanre-443-2020-metodologie.md) | `10 Legislation/Authority Acts/HANRE 443-2020 — Metodologie tarife distributie gaze (text).md` |
+| [`upload-hg-197-2025-metodologie.md`](upload-hg-197-2025-metodologie.md) | `10 Legislation/Government Decisions/HG 197-2025 — metodologie cogenerare inalta eficienta (text).md` |
+
+## Batch 2026-08-07g
+
+| Raw file | Vault location |
+|---|---|
+| [`upload-hanre-423-2019-cod.md`](upload-hanre-423-2019-cod.md) | `HANRE 423-2019 — Codul retelelor electrice (text).md` |
+| [`upload-hanre-422-2019-regulament.md`](upload-hanre-422-2019-regulament.md) | `HANRE 422-2019 — calitate servicii transport distributie gaze (text).md` |
+| [`upload-hanre-112-2019-anexa53.md`](upload-hanre-112-2019-anexa53.md) | `HANRE 112-2019 — racordarea la retelele de gaze (text).md` |
+| [`upload-hg-74-2025-regulament.md`](upload-hg-74-2025-regulament.md) | `HG 74-2025 — calcul consum energie regenerabila (text).md` |
+| [`upload-hg-76-2025-lista.md`](upload-hg-76-2025-lista.md) | `HG 76-2025 — cotizatii organizatii internationale 2025 (text).md` |
+| [`upload-hg-86-2025-pniec.md`](upload-hg-86-2025-pniec.md) | `HG 86-2025 — PNIEC 2025-2030 (text) — Index.md` (+ Secțiunea A/B/Anexe) |
+| [`upload-hg-517-anexa2.md`](upload-hg-517-anexa2.md) | `HG 517 — constructia reconstructia centralelor electrice (text).md` |
+| [`upload-hg-599-2025-anexa2.md`](upload-hg-599-2025-anexa2.md) | `HG 599-2025 — limite capacitate regenerabile 2030 (text).md` |
+| [`upload-hg-620-2025-anexa2.md`](upload-hg-620-2025-anexa2.md) | `HG 620-2025 — transmitere bunuri Fond eficienta energetica (text).md` |
+| [`upload-hg-677-2024-anexa2.md`](upload-hg-677-2024-anexa2.md) | `HG 677-2024 — plan sezon incalzire 2024-2025 (text).md` |
+| [`upload-hg-53-2025-anexa3.md`](upload-hg-53-2025-anexa3.md) | `HG 53-2025 — durabilitate biocarburanti emisii GES (text).md` |
+| [`upload-hanre-833-2019-anexa5-prosumator.md`](upload-hanre-833-2019-anexa5-prosumator.md) | `HANRE 833-2023…` + `HANRE 169-2019 — furnizarea energiei electrice (text).md` |
+| [`upload-hanre-112-2019-anexa52.md`](upload-hanre-112-2019-anexa52.md) | `HANRE 112-2019 — racordarea la retelele de gaze (text).md` |
+

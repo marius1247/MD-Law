@@ -28,7 +28,7 @@ A general, indirect consumption tax on the supply of goods and services and on i
 | Input deduction / e-Factura | [[Codul fiscal 1163-1997 — text — Titlul III#Articolul 102. Deducerea sumei T.V.A. pentru mărfurile,\|art. 102]] — **art. 102(18) abrogated 01.01.2026** (e-Factura deduction clamp removed) |
 | Exemptions / zero-rated | [[Codul fiscal 1163-1997 — text — Titlul III#Articolul 103. Scutirea de T.V.A\|arts. 103]]–[[Codul fiscal 1163-1997 — text — Titlul III#Articolul 104. Livrările scutite de T.V.A\|104]] |
 | Place of supply | [[Codul fiscal 1163-1997 — text — Titlul III#Articolul 110. Locul livrării mărfurilor\|arts. 110]]–[[Codul fiscal 1163-1997 — text — Titlul III#Articolul 111. Locul livrării serviciilor\|111]] |
-| **Registration / deregistration** | [[Codul fiscal 1163-1997 — text — Titlul III#Articolul 112. Înregistrarea subiectului impozabil\|arts. 112]]–[[Codul fiscal 1163-1997 — text — Titlul III#Articolul 113. Anularea înregistrării\|113]] — threshold **1.5 MDL m** (2026) |
+| **Registration / deregistration** | [[Codul fiscal 1163-1997 — text — Titlul III#Articolul 112. Înregistrarea subiectului impozabil\|arts. 112]]–[[Codul fiscal 1163-1997 — text — Titlul III#Articolul 113. Anularea înregistrării\|113]] — threshold **1.7 MDL m** after [[Legea 41-2026 — suport desfasurare afaceri (notă)\|L41/2026]] (was 1.5) |
 | Fiscal invoice | [[Codul fiscal 1163-1997 — text — Titlul III#Articolul 117. Factura fiscală\|art. 117]] |
 
 Horizon context: [[Fiscalitate & Contabilitate — horizon and gaps]].
@@ -52,7 +52,7 @@ Both mean no VAT is charged on the sale. They are opposite in effect:
 Clients routinely treat the two as equivalent. They are not.
 
 ## Registration — a genuine strategic decision
-Registration is **threshold-based** on taxable turnover (**1.5 MDL m** from 2026 — raised from 1.2), with **voluntary registration** available below the threshold. Re-verify the figure before advising.
+Registration is **threshold-based** on taxable turnover (**1.7 MDL m** after L41/2026 — was 1.5, earlier 1.2), with **voluntary registration** available below the threshold. Re-verify the figure before advising.
 
 Registering is not automatically good:
 - **Register** if customers are VAT-registered businesses (they recover the VAT) and if there is meaningful input VAT to recover.

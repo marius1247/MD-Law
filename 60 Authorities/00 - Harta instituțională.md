@@ -35,4 +35,4 @@ Who holds power and issues which acts. Grounded in **Titlul III** of the [[Const
 [[ANRE]], BNM, [[CNPF]] and [[Consiliul Concurenței]] are deliberately insulated from Government: fixed terms, exhaustive removal grounds, own funding, accountability to Parliament rather than to a minister. The reason is the same in each case — they take decisions (tariffs, monetary policy, fines against state bodies, state aid recovery) that a politically dependent body could not take. Independence is also an **EU acquis requirement**, not a domestic design preference. → [[Legea 174-2017 — energetica (notă)]] for the worked example.
 
 ## To expand
-Still to profile: **Ministerul Finanțelor**, **Ministerul Energiei**, **Serviciul Vamal**, **BNM**, **AGEPI**, **Agenția Achiziții Publice**, **ANSC**, **CNAS**/**CNAM**. Use [[Template — Authority]].
+Still to profile: **Ministerul Finanțelor**, **Ministerul Energiei**, **Serviciul Vamal**, **BNM**, **AGEPI**, **Agenția Achiziții Publice**, **ANSC**, **CNAS**. [[CNAM]] stub exists (AOAM). Use [[Template — Authority]].

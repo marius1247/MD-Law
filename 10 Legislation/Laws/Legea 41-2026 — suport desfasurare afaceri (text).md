@@ -1,0 +1,190 @@
+---
+title: "Legea 41-2026 — suport desfasurare afaceri (text)"
+type: act-text
+instrument: lege-organică
+act_type: lege-organică
+nr: "41"
+an: 2026
+domeniu:
+- fiscal
+- comercial
+- achizitii
+- societati
+domain: [fiscal, comercial, achizitii, societati]
+forta_juridica: 3
+in_force: true
+in_vigoare: true
+mo_publicare: "MO 143-144/27.03.2026 art. 114"
+legis_id: "153667"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=153667"
+version_date: 2026-08-07
+versiune_text: 2026-08-07
+continut: text-integral
+text_complet: true
+articole_numarate: 10
+tags: [act, text, acte_normative]
+created: 2026-08-07
+updated: 2026-08-07
+source_ingest: legis-html-upload
+issuer: Parlament
+legal_status: in_vigoare
+---
+# Legea 41-2026 — suport desfasurare afaceri
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md** HTML (doc_id [153667](https://www.legis.md/cautare/getResults?lang=ro&doc_id=153667)).
+> Articole normalizate ca `### Articolul N.` / `### Art. N.` pentru ancorare wikilink.
+> Analiză: [[Legea 41-2026 — suport desfasurare afaceri (notă)]].
+
+---
+
+**Republica Moldova** 
+
+
+
+# PARLAMENTUL 
+
+**LEGE** Nr. LP41/2026 din 26.03.2026 
+
+# **cu privire la modificarea unor acte normative (suport pentru desfășurarea afacerilor)** 
+
+Publicat : 27.03.2026 în MONITORUL OFICIAL Nr. 143-144 art. 114 Data intrării în vigoare 
+
+Parlamentul adoptă prezenta lege organică. 
+
+### Art. I. Codul fiscal nr. 1163/1997 (republicat în Monitorul Oficial al Republicii Moldova, ediție specială din 8 februarie 2007), cu modificările ulterioare, se modifică după cum urmează:
+
+1. La articolul 541 alineatul (3) litera a) și alineatul (31), textul „1,5 milioane” se substituie cu textul „1,7 milioane”. 
+
+2. La articolul 84 alineatul (6), textul „2023–2025” se substituie cu textul „2023–2026”. 
+
+3. La articolul 87 alineatul (11), enunțul „Nu se iau în considerare declarațiile corectate depuse după termenul respectiv dacă unul dintre scopurile corectării vizează modificarea opțiunii de aplicare a prezentului alineat.” se exclude. 
+
+4. La articolul 96 litera b) liniuța a doua, textul „la mărfurile înregistrate în Registrul de Stat al dispozitivelor medicale,” se exclude. 
+
+5. La articolul 197, alineatul (4) se completează cu textul „ , precum și pentru suma restanței contribuabilului care nu depășește cuantumul datoriei instituțiilor finanțate de la buget, în limitele alocațiilor aprobate pentru aceste scopuri pentru cheltuieli compensate de la buget prin finanțare directă ori cărora li s-au furnizat mărfuri, li s-au executat lucrări și/sau li s-au prestat servicii”. 
+
+6. Articolul 229 se completează cu alineatul (9) cu următorul cuprins: 
+
+„(9) Suspendarea operațiunilor la conturile bancare și/sau la conturile de plăți nu se aplică pentru suma restanței contribuabilului care nu depășește cuantumul datoriei instituțiilor finanțate de la buget, în limitele alocațiilor aprobate pentru aceste scopuri pentru cheltuieli compensate de la buget prin finanțare directă ori cărora li s-au furnizat mărfuri, li s-au executat lucrări și/sau li s-au prestat servicii.” 
+
+7. La articolul 260 alineatul (6), textul „se aplică o amendă de la 12% la 15% din suma nedeclarată (diminuată) a venitului impozabil” se substituie cu textul „se aplică o amendă de 
+
+la 1000 la 10000 de lei”. 
+
+### Art. II. Articolul 7 din Legea nr. 440/2001 cu privire la zonele economice libere (Monitorul Oficial al Republicii Moldova, 2001, nr. 108–109, art. 834), cu modificările ulterioare, se modifică după cum urmează:
+
+se completează cu alineatul (81) cu următorul cuprins: 
+
+„(81) La încetarea activității zonei (subzonei) libere, prin derogare de la prevederile alin. (8) din prezentul articol, ale art. 124 alin. (11) din Codul fiscal nr. 1163/1997, ale art. 113 alin. (1) și art. 192 alin. (2) din Codul vamal nr. 95/2021, precum și ale Codului vamal nr. 1149/2000, mărfurile supuse accizelor scoase din zona (subzona) liberă care și-a încetat activitatea pot fi puse în liberă circulație (import) cu scutire de la plata accizei, cu condiția rămânerii sau plasării acestora în antrepozit fiscal. 
+
+Obligația de calculare și achitare a accizei ia naștere în momentul expedierii (transportării) mărfurilor supuse accizei din antrepozitul fiscal, în conformitate cu prevederile Codului fiscal nr. 1163/1997.” 
+
+la alineatul (9), textul „edificii,” se substituie cu textul „construcții,”. 
+
+### Art. III. Articolul 471 din Legea nr. 135/2007 privind societățile cu răspundere limitată (Monitorul Oficial al Republicii Moldova, 2007, nr. 127–130, art. 548), cu modificările ulterioare, se modifică după cum urmează:
+
+articolul se completează cu alineatul (11) cu următorul cuprins: 
+
+„(11) În sensul prezentului articol, persoana care, la data depunerii notificării de retragere către societate, era înregistrată ca asociat în Registrul de stat al persoanelor juridice se prezumă a fi asociat, sarcina probei contrare revenind celui care contestă. Contestarea calității de asociat, excluderea și/sau radierea ori operarea altor modificări ulterior în registrul respectiv cu privire la persoana în cauză nu suspendă obligațiile societății prevăzute la alin. (3) și (5).” 
+
+alineatul (4) va avea următorul cuprins: 
+
+„(4) După depunerea notificării de retragere și eliberarea asociatului a certificatului privind valoarea de retragere, în termenul prevăzut la alin. (3), iar în cazul în care certificatul respectiv nu a fost eliberat – după pronunțarea hotărârii instanței de judecată, care ține loc de certificat privind valoarea de retragere, asociatul depune o cerere privind radierea sa către organul înregistrării de stat. Asociatul se consideră retras la data radierii acestuia din Registrul de stat al persoanelor juridice.” 
+
+### Art. IV. La articolul 3271 din Codul contravențional al Republicii Moldova nr. 218/2008 (republicat în Monitorul Oficial al Republicii Moldova, 2017, nr. 78–84, art. 100), cu modificările ulterioare, alineatul (4) va avea următorul cuprins:
+
+„(4) Restricționarea în orice formă a accesului operatorilor economici la procedurile de atribuire a contractelor de achiziții publice/contractelor de achiziții sectoriale prin 
+
+instituirea sau aplicarea unor criterii de calificare și selecție contrar prevederilor legislației în domeniul achizițiilor publice și al achizițiilor sectoriale 
+
+se sancționează cu amendă de la 60 la 200 de unități convenționale.” 
+
+### Art. V. Articolul 68 din Legea nr. 131/2015 privind achizițiile publice (republicată în Monitorul Oficial al Republicii Moldova, 2018, nr. 424–429, art. 666), cu modificările ulterioare, se modifică după cum urmează:
+
+alineatul (9) va avea următorul cuprins: 
+
+„(9) Autoritatea contractantă indică în documentația de atribuire cerințele față de emitent, cuantumul și alte condiții de bază ale garanției de bună execuție a contractului, fără a impune forma acesteia.” 
+
+articolul se completează cu alineatul (91) cu următorul cuprins: 
+
+„(91) Operatorul economic alege forma de constituire și depunere a garanției de bună execuție la semnarea contractului de achiziții publice, folosind una dintre următoarele: 
+
+a) scrisoare de garanție emisă de către o instituție bancară sau de către o societate de asigurare; 
+
+b) transfer pe un cont al autorității contractante; 
+
+c) cauțiune; 
+
+d) rețineri succesive din plata cuvenită pentru facturile înaintate, cu efectuarea transferului sumei respective pe un cont special deschis de operatorul economic la o bancă licențiată, agreată de ambele părți, și pus la dispoziția autorității contractante; 
+
+e) rețineri succesive directe din plata cuvenită pentru facturile înaintate.” 
+
+### Art. VI. Legea nr. 76/2021 cu privire la impozitarea specială a serviciilor realizate în cadrul activităților atribuite la secțiunea I a Clasificatorului activităților din economia Moldovei (Monitorul Oficial al Republicii Moldova, 2021, nr. 122–128, art. 157), cu modificările ulterioare, se abrogă.
+
+### Art. VII. Legea nr. 337/2022 privind Programul de rambursare a TVA pentru producătorii agricoli (Monitorul Oficial al Republicii Moldova, 2022, nr. 413–425, art. 764), cu modificările ulterioare, se modifică după cum urmează:
+
+1. Articolele 2 și 4 vor avea următorul cuprins: 
+
+- „ **Articolul 2.** Întreprinderile eligibile pentru 
+
+Programul de rambursare a TVA 
+
+În sensul prezentei legi, sunt eligibile pentru Programul de rambursare a TVA întreprinderile pentru care nu mai puțin de 70% din activitatea desfășurată pe parcursul 
+
+anului 2025 reprezintă una sau mai multe dintre activitățile incluse în grupele 01.1–01.6 din Clasificatorul activităților din economia Moldovei, aprobat de către Biroul Național de Statistică.” 
+
+„ **Articolul 4.** Condițiile Programului de rambursare a TVA 
+
+(1) Subiecții Programului de rambursare a TVA au dreptul la rambursarea sumelor TVA înregistrate spre deducere în perioada fiscală ulterioară, în condițiile prezentei legi. 
+
+(2) Suma TVA pasibilă rambursării constituie 40% din suma TVA spre deducere în perioada fiscală ulterioară, înregistrată în ultima declarație TVA depusă și care face parte din perioada Programului de rambursare a TVA, dar nu mai mult de 12% din valoarea totală a livrărilor efectuate la cota redusă a TVA în perioadele fiscale pentru care se solicită rambursarea. 
+
+(3) Pentru perioada fiscală în care este confirmată suma TVA spre rambursare, suma TVA ce urmează a fi raportată spre deducere din perioada fiscală precedentă se diminuează cu suma TVA confirmată spre rambursare.” 
+
+2. La articolul 5: 
+
+alineatul (2) va avea următorul cuprins: 
+
+„(2) Cererea poate fi depusă după prezentarea declarației privind TVA pentru perioadele pentru care se solicită rambursarea.” 
+
+la alineatul (3) prima liniuță, cuvintele „efectuarea controlului” se substituie cu cuvântul „verificarea”. 
+
+3. Articolul 6 va avea următorul cuprins: 
+
+„ **Articolul 6.** Perioada de rambursare a sumelor TVA 
+
+Rambursarea sumelor TVA conform prezentei legi se efectuează pentru perioadele fiscale începând cu luna martie a anului 2026 și până în luna decembrie a anului 2026 inclusiv.” 
+
+4. La articolul 7, textul „TVA în cazurile prevăzute de prezenta lege” se substituie cu textul „sumelor TVA”. 
+
+5. Articolul 8 se completează cu alineatul (3) cu următorul cuprins: 
+
+„(3) Cererile depuse și neexaminate de către Serviciul Fiscal de Stat până la data intrării în vigoare a Legii nr. 41/2026 cu privire la modificarea unor acte normative (suport pentru desfășurarea afacerilor) se examinează conform prevederilor în vigoare la data depunerii cererii respective.” 
+
+### Art. VIII. La articolul 54 alineatul (1) și (2) din Legea nr. 22/2025 privind concesiunile de lucrări și concesiunile de servicii (Monitorul Oficial al Republicii Moldova, 2025, nr. 154–156, art. 157), cu modificările ulterioare, cifrele „12” se substituie cu cifrele
+
+„24”. 
+
+### Art. IX. La articolul XIII din Legea nr. 318/2025 pentru modificarea unor acte normative (domeniul fiscal) (Monitorul Oficial al Republicii Moldova, 2025, nr. 659–661, art. 792), alineatul (3) se modifică după cum urmează:
+
+în partea introductivă, textul „precum și ale Codului vamal nr. 95/2021” se substituie cu textul „ale Codului vamal nr. 95/2021, precum și ale Codului contravențional nr. 218/2008”; 
+
+la litera a), textul „regimul vamal de admitere temporară poate fi închis contra unei plăți unice în cuantum de 40000 de lei pentru fiecare mijloc de transport,” se substituie cu textul „regimul vamal de admitere temporară poate fi încheiat contra unei plăți unice în cuantum de 40000 de lei pentru fiecare mijloc de transport, cu exonerare de răspundere contravențională,”; 
+
+la litera b), după cuvintele „în baza declarației pe propria răspundere” se introduce textul „privind distrugerea sau vânzarea la piese a mijloacelor de transport,” iar textul „și care au fost distruse sau vândute la piese (fapt confirmat prin documente justificative sau prin declarația pe propria răspundere a persoanei)” se exclude; alineatul se completează cu litera b1) cu următorul cuprins: 
+
+„b1) procedurile de executare a deciziilor de regularizare emise de către Serviciul Vamal, aferente mijloacelor de transport clasificate la poziția tarifară 8703 care au fost introduse pe teritoriul vamal al Republicii Moldova până la data de 1 iulie 2025, inclusiv declarate prin acțiune, al căror termen de 180 de zile de aflare sub regim vamal de admitere temporară a expirat, încetează în cazul în care persoana declară pe propria răspundere distrugerea sau vânzarea la piese a mijlocului de transport, iar suma deja încasată în baza deciziei de regularizare emise depășește cuantumul de 40000 de lei;” 
+
+la litera c), textul „drepturile de import și/sau majorările de întârziere (penalitățile)” se substituie cu textul „drepturile de import, amenzile și/sau majorările de întârziere (penalitățile)”. 
+
+### Art. X. (1) Prin derogare de la prevederile art. 56 alin. (2) din Legea nr. 100/2017 cu privire la actele normative, prezenta lege intră în vigoare la data publicării în Monitorul Oficial al Republicii Moldova, cu excepția prevederilor art. I pct. 4, care intră în vigoare la data de 1 mai 2026.
+
+(2) Prevederile art. I pct. 3 și 7 se aplică pentru perioadele fiscale în care contribuabilii aplică prevederile art. 87 alin. (11) din Codul fiscal nr. 1163/1997. 
+
+(3) Guvernul, în termen de 5 luni de la data publicării prezentei legi, va aduce actele sale normative în conformitate cu aceasta. 
+
+## **PREȘEDINTELE PARLAMENTULUI Igor GROSU** 
+
+**Nr. 41. Chișinău, 26 martie 2026.** 
+

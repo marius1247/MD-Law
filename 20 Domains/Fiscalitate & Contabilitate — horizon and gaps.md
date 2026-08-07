@@ -86,10 +86,12 @@ Verified against MF summaries and the vault’s CF consolidation (Aug 2026). Re-
 | ~~**HG 93/2013** VAT refund regulation~~ | ✅ ingested with [[HG 829-2025 — modificare acte fiscale vamale audit (notă)\|HG 829/2025]] | done |
 | **IT Park HG** resident-registration regulation (L77 + LP125 ✅ ingested 2026-08-07) | Onboarding procedure detail | **P1** |
 | **Double tax treaty texts** (at least RO, RO/UA corridors, NL, DE, US if used) | Withholding advice | **P1** |
-| **Statutory audit law** + oversight body acts | Who must be audited beyond L287 categories | **P2** |
+| ~~**Statutory audit law**~~ | ✅ [[Legea 271-2017 — auditul situatiilor financiare (notă)\|L271/2017]]; CSPA secondary acts / authority profile still open | done (primary) |
+| ~~**AOAM premiums operational act**~~ | ✅ [[Legea 1593-2002 — prime asigurare medicala obligatorie (notă)\|L1593/2002]] | done |
+| **Law 1585/1998** AOAM framework + annual AOAM funds laws | Benefit catalogue / fixed-sum amounts | **P1** |
 | **Individual SNC texts** (gateway [[OMF 118-2013 — Standardele Nationale de Contabilitate (notă)\|OMF 118/2013]] ✅) | Book vs tax depreciation, provisions | **P2** |
 | Parent **OMF 94/2020** IPC21 ([[OMF 128-2024 — modificare formular IPC21 (notă)\|128/2024]] ✅) | Full payroll-return field map | **P2** |
-| **Serviciul Vamal** authority note; **CNAS/CNAM** profiles | Procedure at border / payroll wedge | **P2** |
+| **Serviciul Vamal** authority note; **CNAS** profile ([[CNAM]] stub ✅) | Procedure at border / payroll wedge | **P2** |
 | **Transfer-pricing** secondary rules / SFS guides | Related-party adjustments | **P2** |
 
 ### B. Analysis still thin (deepen next)
@@ -108,6 +110,7 @@ Verified against MF summaries and the vault’s CF consolidation (Aug 2026). Re-
 - L287 + L86 — **ingested** with Law House notes  
 - Codul vamal — **ingested**  
 - HG 93/2013 + HG 829/2025 + L327/2025 — **ingested** (2026-08-07 PDF batch)  
+- L1593/2002 (AOAM) · L271/2017 (audit) · L41/2026 (business-support omnibus) — **ingested** (2026-08-07 HTML batch)  
 - Master CF note + two domain syntheses + MOC — **present**  
 
 ---

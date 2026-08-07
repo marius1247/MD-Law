@@ -78,10 +78,10 @@ Category is determined by not exceeding **two of three** criteria — total asse
 - **SNC** — approved by [[OMF 118-2013 — Standardele Nationale de Contabilitate (notă)|OMF 118/2013]] *(individual texts still open)*
 - **Codul fiscal Titlul II** — adjustments from accounting to taxable profit; art. 87(11) deferral
 - **Legea nr. 1134/1997** / **Legea nr. 135/2007** — approval and distribution
-- Statutory audit law *(horizon P2)*
+- [[Legea 271-2017 — auditul situatiilor financiare (notă)|L271/2017]] — statutory audit profession / PIE committee → [[Concept — Audit statutar]]
 
 ## Related
-[[Concept — Capital social]] · [[Concept — Adunarea generală]] · [[Concept — Administrator]] · [[Concept — Insolvabilitate]] · [[Concept — Impozit pe venit]] · [[Contabilitate & raportare financiară — synthesis]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Legea 287-2017 — contabilitate (notă)]] · [[SFS]]
+[[Concept — Capital social]] · [[Concept — Adunarea generală]] · [[Concept — Administrator]] · [[Concept — Insolvabilitate]] · [[Concept — Impozit pe venit]] · [[Concept — Audit statutar]] · [[Contabilitate & raportare financiară — synthesis]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Legea 287-2017 — contabilitate (notă)]] · [[Legea 271-2017 — auditul situatiilor financiare (notă)]] · [[SFS]]
 
 ## Notes / conclusions
 > Financial statements are where company law, tax law and insolvency law all read from the same page. The L287 → Titlul II bridge is the practitioner document; the 2027 L86 reset changes *reporting* load, not CIT rates.

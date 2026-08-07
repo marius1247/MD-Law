@@ -27,6 +27,9 @@ legis_id: "155453"
 > [!danger] Completeness
 > PDF dump ends mid-annex without the promulgation block. Article body through art. 57 appears present; **verify annex tables at legis.md** before relying on exclusion lists.
 
+> [!note] Older HTML dump archived, not applied
+> `99 Attachments/source-legis/152737.md` is an **older** consolidation (header MODIFICAT stops at LP327/LP335 IF 2027). Working vault text remains the newer PDF consol. doc_id `155453` (includes LP135/2026 EU-coordination limb). Do not overwrite.
+
 ---
 
 ## 1. Statutory hierarchy & legal foundation

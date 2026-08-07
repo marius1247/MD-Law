@@ -63,7 +63,7 @@ Taxable profit is **not** accounting profit. It is accounting profit adjusted, p
 Keep the reconciliation. It is the first document requested in a fiscal control. → [[Contabilitate & raportare financiară — synthesis]] · [[Concept — Situații financiare]]
 
 ## 4% SME / VAT interaction
-The **4% turnover regime** requires staying **outside VAT registration**. The 2026 VAT threshold is **1.5 MDL m**. Crossing the VAT line usually kills the 4% regime — model both decisions together, never sequentially. → [[Concept — TVA]]
+The **4% turnover regime** requires staying **outside VAT registration**. The VAT threshold is **1.7 MDL m** after [[Legea 41-2026 — suport desfasurare afaceri (notă)|L41/2026]]. Crossing the VAT line usually kills the 4% regime — model both decisions together, never sequentially. → [[Concept — TVA]]
 
 ## The structuring question this concept exists to answer
 How should an owner-manager extract value from the company?

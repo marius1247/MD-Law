@@ -5,7 +5,7 @@ domeniu: [fiscal, contabilitate]
 tags: [domain, analysis, contabilitate]
 status: reviewed
 created: 2026-07-23
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Accounting & financial reporting — synthesis
@@ -68,7 +68,7 @@ Roughly, in ascending order of size:
 - **Bookkeeping** — double-entry as the norm; simplified options for the smallest entities
 - **Financial statements** — abridged for micro and small entities; **complete statements under SNC** for medium and large; **IFRS** for public interest entities
 - **Management report** — from small/medium upward
-- **Statutory audit** — driven by category and by sector, and independently required for public interest entities
+- **Statutory audit** — driven by category and by sector, and independently required for public interest entities → [[Legea 271-2017 — auditul situatiilor financiare (notă)|L271/2017]] · [[Concept — Audit statutar]]
 - **Filing and publication** — annual submission; the state financial-reporting system is the collection point
 - **Consolidation** — large groups, and any group containing a public interest entity
 
@@ -82,13 +82,13 @@ Roughly, in ascending order of size:
 
 ## 6. Open threads
 
-**Ingested (do not re-list as missing):** [[Legea 287-2017 — contabilitate (notă)|L287/2017]] · [[Legea 86-2026 — modificare Legea contabilitatii (notă)|L86/2026]].
+**Ingested (do not re-list as missing):** [[Legea 287-2017 — contabilitate (notă)|L287/2017]] · [[Legea 86-2026 — modificare Legea contabilitatii (notă)|L86/2026]] · [[Legea 271-2017 — auditul situatiilor financiare (notă)|L271/2017]].
 
 **Still open** — point to [[Fiscalitate & Contabilitate — horizon and gaps#4. What you are missing (gap list)|horizon gaps]]:
 - Ingest **individual SNC texts** listed in [[OMF 118-2013 — Standardele Nationale de Contabilitate (notă)|OMF 118/2013]] — book vs tax depreciation, provisions · methodological cleanup [[OMF 73-2022 — modificare indicatii metodice contabilitate (notă)|OMF 73/2022]]
-- **Statutory audit law** + oversight body acts (who must be audited beyond L287 categories)
+- CSPA authority profile + secondary oversight acts under L271
 - Build the **accounting ↔ tax bridge** table (non-deductibles, depreciation, provisions, art. 87(11) deferral)
 - Verify headcount criterion / transitional practice for borderline entities under L86
 
 ## Related
-[[MOC — Fiscalitate & Contabilitate]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Fiscalitate — synthesis]] · [[Legea 287-2017 — contabilitate (notă)]] · [[Legea 86-2026 — modificare Legea contabilitatii (notă)]] · [[Concept — Situații financiare]] · [[Societăți & guvernanță — synthesis]] · [[SFS]]
+[[MOC — Fiscalitate & Contabilitate]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Fiscalitate — synthesis]] · [[Legea 287-2017 — contabilitate (notă)]] · [[Legea 86-2026 — modificare Legea contabilitatii (notă)]] · [[Legea 271-2017 — auditul situatiilor financiare (notă)]] · [[Concept — Situații financiare]] · [[Concept — Audit statutar]] · [[Societăți & guvernanță — synthesis]] · [[SFS]]

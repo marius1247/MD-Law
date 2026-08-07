@@ -26,7 +26,7 @@ The **national tax administration**, subordinated to the Ministry of Finance. Co
 - **Guidance** — generalised explanations and individual rulings
 - **Energy reverse-charge comerciant list** — under Titlul III art. **101⁷**, comercianți file a declaration on own responsibility with SFS (MF sets the modality); status drives whether EE/gas invoices carry VAT or the reverse-charge mention
 
-Customs duties and import VAT/excise sit with the **Serviciul Vamal**; social and health contributions with **CNAS** and **CNAM**, though these are administered in close coordination with SFS.
+Customs duties and import VAT/excise sit with the **Serviciul Vamal**; social contributions with **CNAS**; health premiums with **[[CNAM]]** / [[Legea 1593-2002 — prime asigurare medicala obligatorie (notă)|L1593]] — SFS collects and controls the **percentage AOAM** limb (and IT Park single-tax health split) under L1593 art. 17.
 
 ## The procedural sequence to know
 1. **Fiscal control** — desk or on-site
@@ -56,4 +56,4 @@ Most assessments are **evidential rather than substantive**: the transaction was
 - **Codul administrativ nr. 116/2018** — judicial review
 
 ## Related
-[[MOC — Fiscalitate & Contabilitate]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] · [[Concept — TVA]] · [[Concept — Parc IT]] · [[OMF 128-2024 — modificare formular IPC21 (notă)|IPC21 / OMF 128]] · [[Codul fiscal 1163-1997 (notă)]] · [[MOC — Proceduri]] · [[00 - Harta instituțională]]
+[[MOC — Fiscalitate & Contabilitate]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] · [[Concept — TVA]] · [[Concept — Prima AOAM]] · [[Concept — Parc IT]] · [[CNAM]] · [[Legea 1593-2002 — prime asigurare medicala obligatorie (notă)|L1593]] · [[Legea 41-2026 — suport desfasurare afaceri (notă)|L41/2026]] · [[OMF 128-2024 — modificare formular IPC21 (notă)|IPC21 / OMF 128]] · [[Codul fiscal 1163-1997 (notă)]] · [[MOC — Proceduri]] · [[00 - Harta instituțională]]

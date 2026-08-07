@@ -108,5 +108,15 @@ updated: 2026-08-07
 2. doc_ids `149085`, `149131`, `149593`, `149719`, `151444` — L144 + HANRE 535 (decision-only) new; L187/L308 notes deepened + PDF mirrors; Civil Code PDF mirror only
 3. doc_ids `155424`, `155453`, `155507`, `155511`, `155513` — L135/2026; L489/1999; HG 379/2026; HG 346/2026; L150/2026
 
+## HTML batch 2026-08-07 (payroll / audit / business-support)
+
+| doc_id | Raw file | Vault location |
+|---|---|---|
+| `152955` | [`152955.md`](152955.md) | `10 Legislation/Laws/Legea 1593-2002 — prime asigurare medicala obligatorie (text).md` |
+| `153011` | [`153011.md`](153011.md) | `10 Legislation/Laws/Legea 271-2017 — auditul situatiilor financiare (text).md` |
+| `153667` | [`153667.md`](153667.md) | `10 Legislation/Laws/Legea 41-2026 — suport desfasurare afaceri (text).md` |
+| `152862` | [`152862.md`](152862.md) | *refresh of existing CF dump — working Titluri already in vault* |
+| `152737` | [`152737.md`](152737.md) | *older L489/1999 consolidation — **not** used to replace working text from `155453`* |
+
 ## See also
-[[Conventions]] · [[Status ingestie — Energetica]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]
+[[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]

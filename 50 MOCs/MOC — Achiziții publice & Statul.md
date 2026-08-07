@@ -19,7 +19,8 @@ Public procurement, tenders, and working with the state.
 ## Primary legislation
 | Act | Status |
 |---|---|
-| **Legea nr. 131/2015** privind achizițiile publice | ❌ still to download |
+| **Legea nr. 131/2015** privind achizițiile publice | ❌ still to download · **Art. 68** performance-bond form-choice already amended by [[Legea 41-2026 — suport desfasurare afaceri (notă)\|L41/2026 Art. V]] |
+| [[Legea 41-2026 — suport desfasurare afaceri (text)\|Legea nr. 41/2026]] — Arts. IV–V, VIII (procurement access offence · bond forms · concessions clocks) | ✅ text + [[Legea 41-2026 — suport desfasurare afaceri (notă)\|notă]] · [[Concept — Garanție de bună execuție]] |
 | [[Legea 74-2020 — achizitii sectoriale (text)\|Legea nr. 74/2020]] — utilities/sectoral (energy, water, transport, postal) | ✅ text + [[Legea 74-2020 — achizitii sectoriale (notă)\|notă]] |
 | [[HG 773-2016 — Regulament achizitii interne (text)\|HG 773/2016]] — internal procurement regulation | ✅ text + notă |
 | [[Legea 179-2008 — parteneriat public-privat (text)\|Legea nr. 179/2008]] — PPP | ✅ text + notă |
@@ -36,8 +37,9 @@ Public procurement, tenders, and working with the state.
 > [!danger] Do not advise on HANRE 24 as live law
 > From 06.08.2021, energy/water/heat/gas licence-holder procurement is under **L74/2020**, not ANRE’s repealed regulation.
 
-## Concepts (to write)
-- [[Concept — Autoritate contractantă]] · [[Concept — Procedură de achiziție]] · [[Concept — Documentația de atribuire]] · [[Concept — Contestare (ANSC)]]
+## Concepts
+- [[Concept — Garanție de bună execuție]] ✅
+- Still to write: [[Concept — Autoritate contractantă]] · [[Concept — Procedură de achiziție]] · [[Concept — Documentația de atribuire]] · [[Concept — Contestare (ANSC)]]
 
 ## Authorities
 - **Agenția Achiziții Publice (AAP)** · **Agenția Națională pentru Soluționarea Contestațiilor (ANSC)** · **MTender** (e-procurement) · [[ANRE]] (sector regulator — no longer the procurement-procedure issuer for licence-holders)

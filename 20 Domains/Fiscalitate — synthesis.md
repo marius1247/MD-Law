@@ -25,7 +25,7 @@ One code, one administrator, one appeal route.
 - **Legea nr. 287/2017** — accounting and financial reporting; supplies the numbers the tax system taxes → [[Legea 287-2017 — contabilitate (notă)]] ✅
 - **Codul vamal nr. 95/2021** — customs duties and import VAT/excise at the border → [[Codul vamal 95-2021 (notă)]] ✅
 - **[[SFS]]** (Serviciul Fiscal de Stat) — administration, audit, collection, enforcement
-- **Serviciul Vamal** — the border; **CNAS** and **CNAM** — social and health contributions, which are *not* in the Fiscal Code but behave like payroll taxes
+- **Serviciul Vamal** — the border; **CNAS** and **[[CNAM]]** — social and health contributions, which are *not* in the Fiscal Code but behave like payroll taxes → [[Legea 489-1999 — sistemul public de asigurari sociale (notă)|L489]] · [[Legea 1593-2002 — prime asigurare medicala obligatorie (notă)|L1593]]
 
 **Watch item:** MF has a long-running **concept for rewriting the Fiscal Code and the Customs Code**, and a live **2027 fiscal-policy draft** (Estonian-style CIT). Neither is law. Track via [[Fiscalitate & Contabilitate — horizon and gaps]] — do not hard-wire advice to draft text.
 
@@ -57,7 +57,7 @@ Each Titlu is effectively a separate statute and lives as its own `— text` fil
 | **Small business regime** | **4%** | Turnover-based; for SMEs **not registered as VAT payers** meeting statutory criteria |
 | **IT Park residents** | **7% of turnover** | Single tax replacing most others — the flagship incentive |
 
-The **4% turnover regime** is the one most often missed. For a low-margin, non-VAT-registered SME it is a genuinely different tax position — and it interacts with the VAT registration decision (now at **1.5 MDL m**), so the two must be modelled together.
+The **4% turnover regime** is the one most often missed. For a low-margin, non-VAT-registered SME it is a genuinely different tax position — and it interacts with the VAT registration decision (now at **1.7 MDL m** after [[Legea 41-2026 — suport desfasurare afaceri (notă)|L41/2026]]), so the two must be modelled together.
 
 There is also **deferred CIT under art. 87(11)** for qualifying SMEs through **2026** — cash tax until distribution. See §4 below and [[Concept — Impozit pe venit]].
 
@@ -70,7 +70,7 @@ There is also **deferred CIT under art. 87(11)** for qualifying SMEs through **2
 - **Standard: 20%**
 - **Reduced: 8%** — bread and bakery, milk and dairy, **transport of natural gas**, certain agricultural products *(list amended almost annually)*
 - **0%** on exports and assimilated supplies; exemptions without credit for specified supplies
-- Registration threshold **1.5 MDL m** (2026), with voluntary registration available
+- Registration threshold **1.7 MDL m** after [[Legea 41-2026 — suport desfasurare afaceri (notă)|L41/2026 Art. I]] (was 1.5), with voluntary registration available
 
 Note the 8% rate on **natural gas transport** and the domestic **energy reverse charge (art. 101⁷)** — direct bridges to [[Energetică — synthesis]].
 
@@ -83,11 +83,11 @@ Note the 8% rate on **natural gas transport** and the domestic **energy reverse 
 |---|---|---|
 | **Impozit pe venit** | **12%** | Employee |
 | **CNAS** — social contributions | **24%** | **Employer**, on payroll |
-| **AOAM** — health insurance | **9%** | Employee |
+| **AOAM** — health insurance | **~9%** | Employee · [[Concept — Prima AOAM]] · [[Legea 1593-2002 — prime asigurare medicala obligatorie (notă)|L1593/2002]] |
 
 Personal exemptions apply before the 12%. The employer-side 24% sits **on top of** gross salary.
 
-→ [[Concept — Impozit pe venit]]
+→ [[Concept — Impozit pe venit]] · [[Concept — Prima AOAM]]
 
 ### Excise
 On alcohol, tobacco, fuel, and specified goods including vehicles. Rates are **specific** (per unit) far more often than ad valorem, and are indexed annually. → [[Concept — Accize]]
@@ -100,7 +100,7 @@ Verified against MF summaries and the vault CF consolidation (Aug 2026). Full ta
 
 | Theme | What changed | Anchor |
 |---|---|---|
-| **VAT registration threshold** | Raised to **1.5 MDL m** | Titlul III art. 112 area |
+| **VAT registration threshold** | Raised to **1.7 MDL m** ([[Legea 41-2026 — suport desfasurare afaceri (notă)\|L41/2026]]; was 1.5) | Titlul III art. 54¹ / 112 area |
 | **Energy reverse charge** | Domestic EE/gas to **comerciant**; also imports of energy + network services | Titlul III art. **101⁷** — declare comerciant status to [[SFS]] |
 | **VAT refund regulation update** | XI²/XI³ chapters + 45-day / staged-payout clocks; stock-option annex under HG 693/2018 | [[HG 829-2025 — modificare acte fiscale vamale audit (notă)\|HG 829/2025]] → [[HG 93-2013 — restituirea TVA (notă)\|HG 93/2013]] |
 | **e-Factura deduction clamp removed** | Art. **102(18) abrogated** 01.01.2026 | Titlul III art. 102 — paper/other formats no longer automatic denial vs mandatory e-Factura users |
@@ -149,7 +149,7 @@ Two practical points that decide outcomes more often than the substantive law:
 - Ingest the **annual fiscal-policy law** for the current year (and 2027 package when enacted)
 - Map the **double tax treaty** network — standing reference table
 - IT Park admission law ✅ [[Legea 77-2016 — parcuri tehnologia informatiei (notă)|L77/2016]] · [[Concept — Parc IT]] — still need HG resident-registration regulation
-- Map **individual SNC texts** (gateway [[OMF 118-2013 — Standardele Nationale de Contabilitate (notă)|OMF 118/2013]] ✅); statutory audit law; Serviciul Vamal / CNAS / CNAM profiles
+- Map **individual SNC texts** (gateway [[OMF 118-2013 — Standardele Nationale de Contabilitate (notă)|OMF 118/2013]] ✅); Serviciul Vamal / CNAS profiles; deepen [[CNAM]]; CSPA authority note under [[Legea 271-2017 — auditul situatiilor financiare (notă)|L271]] ✅
 - Track the **2027 Estonian-style draft** and the longer CF/Customs rewrite concept — contingency only until enacted
 - Dispute workflow note; accounting ↔ tax bridge table; energy × tax dossier
 

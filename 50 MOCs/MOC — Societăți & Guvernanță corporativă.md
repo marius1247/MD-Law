@@ -4,7 +4,7 @@ type: moc
 domeniu: societăți
 tags: [moc, index, societăți]
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-08-07
 status: draft
 ---
 
@@ -17,7 +17,7 @@ Domain hub for **company law and corporate governance**: how a company comes int
 
 ## Analysis layer
 - **[[Societăți & guvernanță — synthesis]]** — domain synthesis
-- Concepts: [[Concept — Capital social]] · [[Concept — Acțiune vs parte socială]] · [[Concept — Adunarea generală]] · [[Concept — Consiliul societății]] · [[Concept — Administrator]] · [[Concept — Insolvabilitate]]
+- Concepts: [[Concept — Capital social]] · [[Concept — Acțiune vs parte socială]] · [[Concept — Adunarea generală]] · [[Concept — Consiliul societății]] · [[Concept — Administrator]] · [[Concept — Insolvabilitate]] · [[Concept — Retragere asociat SRL]] · [[Concept — Audit statutar]]
 
 ## The layers of the law
 | Layer | Act | Role |
@@ -66,6 +66,8 @@ Domain hub for **company law and corporate governance**: how a company comes int
 | [[Codul civil 1107-2002 — text — Cartea I\|Codul civil — Cartea I]] | ✅ complete | [[Codul civil 1107-2002 (notă)]] |
 | [[Legea 845-1992 — antreprenoriat si intreprinderi (text)\|Legea nr. 845/1992]] (legacy entrepreneurship) | ✅ complete | [[Legea 845-1992 — antreprenoriat si intreprinderi (notă)]] |
 | [[Legea 330-2025 — modificare secret comercial (text)\|Legea nr. 330/2025]] (trade-secrets sweep) | ✅ complete | [[Legea 330-2025 — modificare secret comercial (notă)]] |
+| [[Legea 41-2026 — suport desfasurare afaceri (text)\|Legea nr. 41/2026]] Art. III (SRL withdrawal presumption) | ✅ complete | [[Legea 41-2026 — suport desfasurare afaceri (notă)]] · [[Concept — Retragere asociat SRL]] |
+| [[Legea 271-2017 — auditul situatiilor financiare (text)\|Legea nr. 271/2017]] (statutory audit / PIE committee) | ✅ complete | [[Legea 271-2017 — auditul situatiilor financiare (notă)]] · [[Concept — Audit statutar]] |
 
 ## Still open
 - Track the **new entrepreneurship law** replacing L845/1992 (project 345/MDED/2025)

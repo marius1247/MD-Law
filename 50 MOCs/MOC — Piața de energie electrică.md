@@ -134,15 +134,38 @@ Separate gate from licensing: **connection** ([[Concept — Racordare la rețea]
 
 ---
 
-## 8. Open threads for this hub
+## 8. Professional legal analysis (risk matrix)
+
+Lifted from [[Legea 164-2025 — energia electrica (notă)|L164 act-note]] §8 and hardened against operative text. Full segment-level advice: [[Energetică — segmente piață electricitate (notă)]] §E. Cross-vector rules: [[Energetică — architecture map]] §1.3.
+
+| Issue | Flaw / ambiguity | Practical risk | Advice rule |
+|---|---|---|---|
+| **FUO duration** | L164 art. **115(1)** — consumers entitled to last-resort supply for **≥ 6 months**; HANRE 169 pts. 7/67/71 still say **≤ 90 days** (cites repealed L107 art. 73) | Wrong consumer-exit / supplier takeover advice | **Apply L164**; treat 169 timings as stale until supply regulation re-adopted |
+| **US vs FUO** | Cleanly separated on L164 face (arts. 114–115): US = standing entitlement for households + micro/small; FUO = supplier-failure contingency | Conflating portfolios → wrong designation / procurement | Re-screen customer books against art. 114(1) perimeter; FUO is not a permanent industrial fallback |
+| **REMIT** | Outages / capacity / inside information; registration before wholesale trading; ANRE portal + investigation powers | Manipulation / failure-to-publish liability | REMIT SOP + registration **before** first trade — parallel to art. 18 licence ([[Energetică — licențiere cross-border și REMIT (notă)]]) |
+| **Flexible connection** | Art. 2 pt. 2 — limitation/control of injection built into connection | Bankability fights; curtailment unpriced | Price curtailment in PPA; operationalise via [[HANRE 311-2026 — racordarea la retelele electrice (notă)\|311]] · [[Concept — Racordare la rețea]] |
+| **FCEE sunset** | Art. **150(3)** RES→CfD ends FCEE buy/resell + supplier purchase; art. **150(4)** ANRE calendar for **urban CHP** exit (duty by 1 Jan 2026) | Stranded offtake assumptions | Cite art. 87(2) + 150(3)–(4); calendar ≠ automatic cut-off — [[Concept — Furnizor central de energie electrică]] |
+| **Tier-3 under L107** | 283 / 169 / 316 still L107-origin *temei* | Ultra vires / transitional uncertainty | Prefer post-L164 acts; where conflict, **statute wins** |
+| **L107 legacy projects** | Non-retroactivity + pre-19.08.2025 design rule | Wrong connection/plant law applied | Ask: admitted under L107? designed before cutover? |
+| **Capacity mechanism** | Arts. 49–51 toolbox only | Fake “capacity revenue” opinions | No live capacity market until HG + EnC opinion path |
+| **HANRE still expected** | Aggregation reg (120(9)), CEC register (125), energy sharing (123), supply-reg update (119) | Advising from silence | Statute-first; legacy HANRE only where non-conflicting |
+| **Procurement** | Market-based purchase incl. losses restored; HANRE 24 abrogated | Citing repealed procurement HANRE | Use [[Legea 74-2020 — achizitii sectoriale (notă)\|L74]] / market rules |
+
+**Four gates (never collapse):** licence (arts. 16–18) · connection (311) · support/eligibility (L10 / FCEE) · REMIT registration.
+
+---
+
+## 9. Open threads for this hub
 
 1. ✅ Segment briefs + licensing inventory — [[Energetică — segmente piață electricitate (notă)]]
 2. ✅ Dynamic-price / FCEE concepts + prosumer↔active-consumer boundary
-3. Currency: HANRE 283 *temei* still L107; track ANRE re-adoption
-4. ✅ Capacity: legal toolbox (arts. 49–51), **no live capacity market** until HG
-5. Watch for dedicated L164 licensing secondary act (do not use HANRE 286)
-6. ANRE regulations still expected: aggregation (art. 120(9)), CEC register (art. 125), energy sharing (art. 123), supply-reg update for art. 119
-7. Step 7: expand prosumer/active-consumer layer from the boundary note
+3. ✅ Professional risk matrix (§8) — FUO conflict, REMIT, flexible connection, FCEE art. 150 hardened
+4. Currency: HANRE 283 *temei* still L107; track ANRE re-adoption
+5. ✅ Capacity: legal toolbox (arts. 49–51), **no live capacity market** until HG
+6. Watch for dedicated L164 licensing secondary act (do not use HANRE 286)
+7. ANRE regulations still expected: aggregation (art. 120(9)), CEC register (art. 125), energy sharing (art. 123), supply-reg update for art. 119
+8. Step 7: expand prosumer/active-consumer layer from the boundary note
+9. Incomplete sources: HANRE 169 truncates past ~pt. 146; 423 parent annex incomplete (656 supplies Parts I–V); HG 820 annexes 1–2 missing
 
 ## Related
-[[Energetică — segmente piață electricitate (notă)]] · [[Energetică — prosumer vs consumator activ (notă)]] · [[Energetică — architecture map]] · [[Roadmap — Energy analysis architecture]] · [[MOC — Energetică]] · [[MOC — Racordare și acces la rețele]] · [[MOC — Tarife și metodologii ANRE]] · [[Energetică — sector electricitate ANRE (notă)]] · [[ANRE]]
+[[Energetică — segmente piață electricitate (notă)]] · [[Energetică — prosumer vs consumator activ (notă)]] · [[Energetică — architecture map]] · [[Roadmap — Energy analysis architecture]] · [[MOC — Energetică]] · [[MOC — Racordare și acces la rețele]] · [[MOC — Tarife și metodologii ANRE]] · [[Energetică — sector electricitate ANRE (notă)]] · [[Energetică — licențiere cross-border și REMIT (notă)]] · [[ANRE]]

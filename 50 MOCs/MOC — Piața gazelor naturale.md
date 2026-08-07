@@ -103,6 +103,7 @@ Doctrine: [[Concept — Licență în energetică]] (gas parallel under L108). S
 - QoS — [[HANRE 422-2019 — calitate servicii transport distributie gaze (notă)|HANRE 422]]
 - Network development — [[HANRE 138-2018 — dezvoltarea retelelor de distributie gaze (notă)|HANRE 138]]
 - Tariffs — [[MOC — Tarife și metodologii ANRE]] · [[Concept — Tarif de transport]] · [[Concept — Tarif de distribuție]] · [[Concept — Consum tehnologic gaze]] · [[Concept — Unbundling]]
+- **Land / gas servitude (art. 74)** — pipeline works on agricultural land; compensation procedure thin → pre-agree appraisals (see §8)
 
 ---
 
@@ -110,12 +111,13 @@ Doctrine: [[Concept — Licență în energetică]] (gas parallel under L108). S
 
 | Theme | Acts | Note |
 |---|---|---|
-| Industrial PSO withdrawal | L108 · watch list → 1 Apr 2026 | Live commercial cliff |
+| Industrial PSO withdrawal | L108 · HANRE 177 path · regulated prices 355/540 | Live cliff → **1 Apr 2026** — see §8 |
 | FUO / regulated retail prices | HANRE 113 · 355/540 | Narrowing toward households/small |
 | Storage obligation / security stocks | HG 365 · 364 · 677 | **≠** commercial storage product |
 | Energocom special statute | L234 / LP20 | Fiscal/customs + guarantee release |
 | Vulnerability fund | [[Legea 241-2022 — Fond reducere vulnerabilitate energetica (notă)\|L241]] | Social overlay |
 | Crisis governance | L248 · L101 · CNMC HGs | Distinct from electricity HG 820 |
+| REMIT (wholesale integrity) | L108 arts. **94¹–94⁶** | Parallel gate — [[Energetică — licențiere cross-border și REMIT (notă)]] |
 
 ---
 
@@ -127,14 +129,35 @@ Doctrine: [[Concept — Licență în energetică]] (gas parallel under L108). S
 
 ---
 
-## 8. Open threads
+## 8. Professional legal analysis (risk matrix)
+
+Lifted from [[Legea 108-2016 — gazele naturale (notă)|L108 act-note]] and segment practice. Cross-vector rules: [[Energetică — architecture map]] §1.3.
+
+| Issue | Flaw / ambiguity | Practical risk | Advice rule |
+|---|---|---|---|
+| **Package lag** | Gas still **third** package; electricity already **fourth** | Importing L164 actors (OPEED, aggregators, active consumers) into gas opinions | Cite L108/HANRE 534; forecast gas rewrite — do not invent fourth-package gas |
+| **Unbundling / TSO certification** | Incumbent history (Moldovagaz/Gazprom) vs Vestmoldtransgaz carve-out; certification is the concrete enforcement act | Foreclosure / TPA opinions that ignore current perimeter | Verify **current** TSO certification and corporate perimeter before any foreclosure opinion; watch EnC Secretariat reports |
+| **Industrial PSO cliff** | Withdrawal track Oct 2025 → target **1 Apr 2026** | Industrial contracts assuming regulated fallback | Re-paper **≥ 60 days** before cliff; confirm which HANRE 177 / 355–540 instruments actually withdrew protection; FUO ≠ permanent industrial PSO |
+| **Uniform DSO tariff reconciliation (arts. 2 & 99)** | Settlement delays / default by reconciliation entity | Regional DSO cash-flow deficits waiting for equalisation | Pre-litigation petition to ANRE demanding reconciliation audit; map cash-flow in tariff disputes |
+| **Art. 74 gas servitude** | Thin procedural rules for agricultural compensation | Landowner suits halt pipeline works | Pre-agreed voluntary compensation on certified agricultural appraisals |
+| **REMIT gas** | Arts. 94¹–94⁶ parallel to electricity | Trading without registration / inside-info SOP | Same four-gate discipline as electricity |
+| **SoS vs commercial storage** | HG 365/364/677 overlays ≠ storage licence product | Conflating obligation costs with market storage tariffs | Three questions: commercial access? 15% obligation? security stocks? |
+| **Transnistria overhang** | Consumption/debt not resolved by L108 | Political/SoS risk outside statute | Flag as commercial/political overhang — not a licensing defence |
+| **HANRE 535 annex** | Decision present; **methodology annex missing** in vault | Inventing entry-exit formula detail | Quote only what is ingested; pull official annex for tariff math |
+
+**Commercial hinge remains:** entry-exit capacity + [[Concept — Punct virtual de tranzacționare|PVT]] + daily imbalance (±10% cash-out) — not a PZU clone.
+
+---
+
+## 9. Open threads
 
 1. ✅ Hub + segment briefs (Step 3)
-2. Watch **gas equivalent of L164/2025** (fourth-package catch-up)
-3. Unbundling / TSO certification currency — verify before any foreclosure opinion
-4. Industrial PSO status after 1 Apr 2026 — confirm actual withdrawal instruments
+2. ✅ Professional risk matrix (§8) — unbundling, PSO cliff, reconciliation, servitude, REMIT
+3. Watch **gas equivalent of L164/2025** (fourth-package catch-up)
+4. Confirm industrial PSO withdrawal instruments after 1 Apr 2026
 5. Deepen gas PRE concept if mechanics diverge enough from electricity PRE note
 6. Cross-border capacity platforms (PRISMA etc.) — operational, not fully mapped in vault
+7. Ingest HANRE 535 methodology annex before tariff-formula advice
 
 ## Related
-[[Energetică — segmente piață gaze (notă)]] · [[Energetică — architecture map]] · [[Roadmap — Energy analysis architecture]] · [[MOC — Energetică]] · [[MOC — Piața de energie electrică]] · [[Energetică — sector gaze ANRE (notă)]] · [[ANRE]]
+[[Energetică — segmente piață gaze (notă)]] · [[Energetică — architecture map]] · [[Roadmap — Energy analysis architecture]] · [[MOC — Energetică]] · [[MOC — Piața de energie electrică]] · [[Energetică — sector gaze ANRE (notă)]] · [[Energetică — licențiere cross-border și REMIT (notă)]] · [[ANRE]]

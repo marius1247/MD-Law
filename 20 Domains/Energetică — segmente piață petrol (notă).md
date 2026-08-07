@@ -76,7 +76,7 @@ Step 4 for [[MOC — Piața produselor petroliere]]. Frame: [[Legea 461-2001 —
 | **What** | [[Concept — Situație de criză în domeniul petrolier]] + L248 alert/emergency |
 | **Who** | Market participants · CNMC · ANRE |
 | **Key rules** | Stock-out: non-standard main types may sell ≤ standard max (art. 4(2)); CNMC may temporarily derogate from art. 4 / Annex 2 (art. 6(7)) |
-| **Practice** | Keep a crisis playbook separate from ordinary price-cap compliance. **Do not** conflate with electricity [[Concept — Situație excepțională electroenergetică]] / HG 820. |
+| **Practice** | **Decision tree:** (1) Is petroleum crisis / L248 alert-emergency live? If **no** → ordinary daily max binds. (2) Are standard-type stocks exhausted? If **yes** → non-standard may sell **only ≤** standard max (art. 4(2)) — still a ceiling. (3) Has **CNMC** issued an art. 6(7) derogation? If **no** → do not invent price freedom. (4) Keep this playbook **separate** from electricity [[Concept — Situație excepțională electroenergetică]] / HG 820. |
 
 ---
 
@@ -105,7 +105,22 @@ Step 4 for [[MOC — Piața produselor petroliere]]. Frame: [[Legea 461-2001 —
 
 ---
 
-## D. Fill status (Step 4 — petroleum half)
+## D. Professional deepening — licence & formula traps
+
+| Trap | Rule |
+|---|---|
+| Petrol/diesel licence covers LPG | **No** — art. 12(a) vs 12(b) |
+| Depot minima are “optional working capital” | **No** — art. 14 security gates (1000 m³ / 150 m³) |
+| Wholesale also has daily ANRE max like retail | **Not** in the same art. 4 form — hard ceiling is **retail**; wholesale still inside licence + quality perimeter |
+| Invent Annex 2 components from vault OCR | **No** — legis.md / ANRE methodology PDF only |
+| Price-cap compliance = full retail compliance | **No** — ISS quality (art. 5) is a separate exposure |
+| *Plată regulatorie* | Annual regulatory payment on **importers** (art. 2) — budget for it in licence economics |
+
+Crisis tree → segment §7. Concept → [[Concept — Preț maxim ANRE produse petroliere]].
+
+---
+
+## E. Fill status (Step 4 — petroleum half)
 
 | Deliverable | Status |
 |---|---|
@@ -113,6 +128,7 @@ Step 4 for [[MOC — Piața produselor petroliere]]. Frame: [[Legea 461-2001 —
 | Segment briefs | ✅ |
 | [[Concept — Preț maxim ANRE produse petroliere]] | ✅ |
 | Coal gap stub | → [[Energetică — cărbune gap stub (notă)]] |
+| Professional deepening (crisis tree + traps) | ✅ |
 
 ## Related
 [[MOC — Piața produselor petroliere]] · [[Legea 461-2001 — piata produselor petroliere (notă)]] · [[Concept — Situație de criză în domeniul petrolier]] · [[Energetică — architecture map]] · [[Roadmap — Energy analysis architecture]] · [[ANRE]]

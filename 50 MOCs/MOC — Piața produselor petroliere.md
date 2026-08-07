@@ -91,10 +91,28 @@ Licence term **5 years** (art. 7(2)); L160 background. Annual regulatory payment
 ## 6. Open threads
 
 1. ✅ Hub + segment briefs (Step 4)
-2. Annex 2 pricing formula — prefer legis.md over noisy vault OCR
-3. Track ANRE petroleum pricing methodology act (secondary) if not yet as standalone vault note
-4. State material reserves (păcură/coal) — outside L461; flagged in [[Energetică — cărbune gap stub (notă)]]
-5. Biofuel blending / sustainability — Step 6 ([[HG 53-2025 — durabilitate biocarburanti emisii GES (notă)|HG 53]])
+2. ✅ Professional deepening — crisis decision tree + licence traps (§7)
+3. Annex 2 pricing formula — prefer legis.md / official ANRE methodology over noisy vault OCR
+4. Track ANRE petroleum pricing methodology act (secondary) if not yet as standalone vault note
+5. State material reserves (păcură/coal) — outside L461; flagged in [[Energetică — cărbune gap stub (notă)]]
+6. Biofuel blending / sustainability — Step 6 ([[HG 53-2025 — durabilitate biocarburanti emisii GES (notă)|HG 53]])
+
+---
+
+## 7. Professional legal analysis
+
+Cross-vector rules: [[Energetică — architecture map]] §1.3. Segment detail: [[Energetică — segmente piață petrol (notă)]] §E.
+
+| Issue | Doctrine | Advice rule |
+|---|---|---|
+| **Not a power/gas market** | Import→storage→wholesale→retail + daily ANRE max retail | Do not import PVT/PZU vocabulary or balancing analogies |
+| **Daily max-price compliance** | Art. 4 — publication each working day; ban on over-max retail | Diary-watch problem; price-cap concept → [[Concept — Preț maxim ANRE produse petroliere]] |
+| **Crisis decision tree** | Ordinary max binds → stock-out art. 4(2) allows non-standard ≤ standard max → L248 alert/emergency may unlock CNMC art. 6(7) derogations | Ask: is a crisis situation declared? Has CNMC issued a derogation? If no → ordinary art. 4 still binds |
+| **Licence class trap** | Art. 12(a) petrol/diesel ≠ 12(b) LPG | Separate licence; depot minima 1000 m³ / 150 m³ are **security gates**, not working-capital options |
+| **Quality / ISS (art. 5)** | Conformity controls outside ANRE price function | Retail compliance ≠ price-cap alone |
+| **Crisis ≠ electro crisis** | Petroleum L101/L248/CNMC ≠ HG 820 electricity | Separate playbooks |
+| **Formula source quality** | Annex 2 OCR noisy in vault | Quote legis.md / ANRE methodology PDF only — do not invent components |
+| **Tax in the formula** | Excise/VAT enter max-price math | Bridge [[Concept — Accize]] · [[Concept — TVA]] |
 
 ## Related
 [[Energetică — segmente piață petrol (notă)]] · [[Energetică — cărbune gap stub (notă)]] · [[Energetică — architecture map]] · [[Roadmap — Energy analysis architecture]] · [[MOC — Energetică]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[ANRE]]

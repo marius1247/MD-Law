@@ -69,7 +69,7 @@ Step 5 for [[MOC — Piața energiei termice]]. Frame: [[Legea 92-2014 — energ
 | **What** | Electricity half of CHP output sold / scheduled on the power market |
 | **Who** | CHP producer · OST/OSD · (transitional) [[Concept — Furnizor central de energie electrică\|FCEE]] for urban district-heating CHP |
 | **Key rules** | L92 art. 15 (network access; still cites L107 — read via L164) · L164 FCEE transitional exit · [[MOC — Piața de energie electrică]] |
-| **Practice** | Heat continuity can constrain plant dispatch; electricity settlement follows L164/HANRE 283 — **two statutes, one plant**. |
+| **Practice** | Heat continuity can constrain plant dispatch; electricity settlement follows L164/HANRE 283 — **two statutes, one plant**. L92 art. 15 still cites L107 — **apply L164**. Redispach: L164 prefers avoiding downward redispach of **urban CHP** in the cold season where heat continuity would be affected. FCEE offtake for urban CHP is transitional — art. **150(4)** calendar. HE status for GOs ≠ FCEE offtake right. |
 
 ### 7. Efficient SACET / RES / storage integration
 
@@ -78,7 +78,7 @@ Step 5 for [[MOC — Piața energiei termice]]. Frame: [[Legea 92-2014 — energ
 | **What** | Duty path for **efficient** centralised heat/cooling systems ≥ **20 MW** thermal, RES heat uptake, thermal storage, waste-to-energy heat |
 | **Who** | Unități termoenergetice · ANRE list of efficient systems (art. 15¹(6)) |
 | **Key rules** | Arts. 15¹–15³; criteria to **31 Dec 2029** / from **1 Jan 2030**; condominium RES heat right + *aviz de racordare* |
-| **Practice** | Investment planning + tariff recognition (storage / WtE after cost-benefit). Environment Agency authorisation for incineration (L209/2016). |
+| **Practice** | Investment planning + tariff recognition (storage / WtE after cost-benefit demonstrated to ANRE). Environment Agency authorisation for incineration (L209/2016). Condominium RES heat integration is a **heat-network aviz**, not an electricity connection under HANRE 311. |
 
 ### 8. Outside the commercial SACET perimeter
 
@@ -124,5 +124,26 @@ Step 5 for [[MOC — Piața energiei termice]]. Frame: [[Legea 92-2014 — energ
 | [[Concept — Cogenerare de înaltă eficiență]] | ✅ |
 | Geothermal gap stub | → [[Energetică — geotermal gap stub (notă)]] |
 
+---
+
+## E. Professional deepening — Cap. VI / Cap. VIII / dual statute
+
+### E.1 Cap. VI — land, networks, protection zones
+
+District heat is physically embedded in streets and buildings. Cap. VI (arts. 28–32): land-use rights, restriction of activities affecting heat infrastructure, expropriation, **protection zones**, restructuring/merger. A consumer or works dispute often has **both** contract and real-estate dimensions — route accordingly (ANRE for supply/tariff; property/local procedures for zones).
+
+### E.2 Cap. VIII + HANRE 23 — consumer operations
+
+Heat-supply contract, interruption/limitation, metering, disputes (arts. 39–44). Annex 1 contract is reliable for: parties (incl. condominium intermediary), delimitation point, disconnection notice patterns, uneconomic withdrawal (≥6 months before **15 Oct**), ANRE dispute channel. **Missing regulation body** blocks advice on season start/stop, connection procedure, flat-rate recalculation — flag the gap rather than inventing.
+
+### E.3 Dual-statute CHP checklist
+
+1. Heat activity licensed under L92 art. 19?
+2. Electricity activity / market participation under L164?
+3. HE status claimed? → annexes + HG 197 measurement pack
+4. Urban CHP still on FCEE offtake? → art. 87(2) + ANRE art. 150(4) calendar
+5. Cold-season redispach / heat-continuity constraint in play?
+6. Which HANRE are you citing — 23 (heat) vs 283 (electricity)?
+
 ## Related
-[[MOC — Piața energiei termice]] · [[Legea 92-2014 — energia termica si cogenerarea (notă)]] · [[HANRE 23-2017 — furnizarea energiei termice (notă)]] · [[HG 197-2025 — metodologie cogenerare inalta eficienta (notă)]] · [[Concept — Furnizor central de energie electrică]] · [[Energetică — architecture map]] · [[Roadmap — Energy analysis architecture]] · [[ANRE]]
+[[MOC — Piața energiei termice]] · [[Legea 92-2014 — energia termica si cogenerarea (notă)]] · [[HANRE 23-2017 — furnizarea energiei termice (notă)]] · [[HG 197-2025 — metodologie cogenerare inalta eficienta (notă)]] · [[Concept — Furnizor central de energie electrică]] · [[Concept — Cogenerare de înaltă eficiență]] · [[Energetică — architecture map]] · [[Roadmap — Energy analysis architecture]] · [[ANRE]]

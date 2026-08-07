@@ -91,6 +91,9 @@ Three thin synthesis notes (or MOCs if they grow):
 ### Step 8 — Synthesis rewrite
 Retune [[Energetică — synthesis]] so §1–2 point at the architecture map, § market design expands by vector, and open threads map to Steps 2–7 rather than only ingestion gaps.
 
+> [!note] Professional deepening pass *(2026-08-07)*
+> Steps 1–5 hubs received a **professional legal analysis** pass: architecture map §1.3 conflict themes; per-vector risk matrices on electricity / gas / petroleum / thermal MOCs; FCEE art. 150(3)–(4) hardened; FUO ≥6m vs HANRE 169 90d conflict surfaced; gas unbundling/PSO/reconciliation/servitude lifted from L108 note; petroleum crisis decision tree; thermal Cap. VI + dual-statute CHP checklist. Synthesis §4 updated. Incomplete sources remain flagged (HANRE 23 body, 201/2017, 535 annex, L461 Annex 2 OCR, HG 197 placeholders).
+
 ---
 
 ## Definition of done (per vector hub)

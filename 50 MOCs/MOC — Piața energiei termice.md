@@ -93,10 +93,10 @@ No day-ahead / balancing / VTP segments. Geothermal as standalone market → [[E
 
 - Tariffs — L92 art. 45 · [[Concept — Tarif reglementat]] · [[MOC — Tarife și metodologii ANRE]]
 - Two-component heat tariff possible: capacity + energy (art. 45(5))
-- Regulated **electricity production prices** from CHP also under art. 45(1) (same ANRE methodology lane)
+- Regulated **electricity production prices** from CHP also under art. 45(1) (same ANRE methodology lane — cost split art. 45(2)(h))
 - Network losses / technological consumption — methodology incentives (art. 45(2)(e)–(f)); supernormal losses excluded (art. 45(4))
-- Land / protection zones — Cap. VI (property + local-government intersection)
-- Connection of RES heat into SACET — art. 15¹(4) *aviz de racordare*
+- **Land / protection zones / expropriation — Cap. VI** (property + local-government intersection; see §7)
+- Connection of RES heat into SACET — art. 15¹(4) *aviz de racordare* (≠ electricity HANRE 311)
 
 ---
 
@@ -106,14 +106,35 @@ No day-ahead / balancing / VTP segments. Geothermal as standalone market → [[E
 
 ---
 
-## 7. Open threads
+## 7. Professional legal analysis
+
+Cross-vector rules: [[Energetică — architecture map]] §1.3 · Multi-law plant theme. Detail: [[Energetică — segmente piață termică (notă)]] §E.
+
+| Issue | Doctrine | Advice rule |
+|---|---|---|
+| **Public-service interpretive frame** | Art. 2(2) — production, distribution, supply through SACET are **public services of general interest** | Continuity, affordability, tariff regulation, consumer protection — not commodity trading |
+| **Do not import PZU/PVT** | No organised wholesale heat market | Advise from L92 + HANRE 23 + art. 45 — not electricity market rules |
+| **CHP dual-statute plant** | Heat half = L92; electricity half = L164 (art. 15 still cites L107 — **read via L164**); HE/GO = Cap. IV + HG 197; transitional FCEE = L164 art. 87(2)/150(4) | State which half you are advising on; heat continuity can constrain dispatch (L164 redispach preference for urban CHP in cold season) |
+| **FCEE urban CHP exit** | Art. 150(4) ANRE calendar duty | Calendar ≠ automatic cut-off — [[Concept — Furnizor central de energie electrică]] |
+| **Cap. VI land / zones** | Protection zones, access, expropriation, restructuring | Network works = property + municipal law; consumer disputes may have real-estate dimensions |
+| **Consumer ops / HANRE 23** | Cap. VIII + Annex 1 contract; uneconomic withdrawal ≥6 months before **15 Oct**; disconnection notice rules | **Cannot** advise season start/stop from contract annex alone — **regulation body missing** in vault |
+| **HE CHP → GO** | Annex thresholds + HG 197 math + HANRE 201 procedure | Measurement doctrine first; GO filing second; HANRE 201 **not ingested** — do not invent procedure |
+| **Efficient SACET ≥20 MW** | Art. 15¹ criteria to 2029/2030; storage/WtE after cost-benefit; condominium RES heat + *aviz* | Investment + tariff recognition path; Environment Agency for incineration (L209) |
+| **Licence term / LP227** | 25 years; art. 20 conditions rewritten IF **30.12.2025** | Check post-LP227 fitness/plant-ownership conditions |
+| **Geothermal** | No dedicated market — [[Energetică — geotermal gap stub (notă)]] | L10 RES / L92 if SACET / PM_DC25 watch |
+
+---
+
+## 8. Open threads
 
 1. ✅ Hub + segment briefs + HE-CHP concept + geothermal stub (Step 5)
-2. Ingest **HANRE 23** regulation body (season start/stop, connection, flat-rate recalculation) — only Annex 1 contract in vault
-3. Ingest **HANRE 201/2017** GO procedure
-4. Map live ANRE heat tariff methodology act(s) into [[MOC — Tarife și metodologii ANRE]] if not already linked
-5. Track FCEE urban-CHP exit calendar (L164 transitional → ANRE)
-6. Geothermal normative framework — PNIEC **PM_DC25** watch → [[Energetică — geotermal gap stub (notă)]]
+2. ✅ Professional risk matrix (§7) — public-service frame, Cap. VI, dual-statute CHP, FCEE exit
+3. Ingest **HANRE 23** regulation body (season rules, connection, flat-rate recalculation)
+4. Ingest **HANRE 201/2017** GO procedure
+5. Map live ANRE heat tariff methodology act(s) into [[MOC — Tarife și metodologii ANRE]]
+6. Track FCEE urban-CHP exit calendar (L164 art. 150(4))
+7. Geothermal normative framework — PNIEC **PM_DC25**
+8. HG 197 formula placeholders — verify against official PDF before certification math
 
 ## Related
 [[Energetică — segmente piață termică (notă)]] · [[Energetică — geotermal gap stub (notă)]] · [[Energetică — architecture map]] · [[Roadmap — Energy analysis architecture]] · [[MOC — Energetică]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[MOC — Piața produselor petroliere]] · [[ANRE]]

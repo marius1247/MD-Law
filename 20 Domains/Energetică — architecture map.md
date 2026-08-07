@@ -6,6 +6,7 @@ tags: [domain, analysis, energetică, architecture, inter-law, market-segmentati
 status: draft
 created: 2026-08-07
 updated: 2026-08-07
+deepening: professional-pass-1
 ---
 
 # Energy — architecture map
@@ -60,6 +61,24 @@ Sectoral laws do not sit in silos. They **call**, **defer**, **amend**, or **ove
 | Company law | L164 / L108 unbundling | Structural unbundling executed via SA/SRL reorganisation | [[Societăți & guvernanță — synthesis]] |
 
 **Reading rule for bridges:** when two laws both seem to answer the question, ask which one is *institutional* (L174), which is *sectoral market* (L164/L108/L92/L461), which is *support / climate / crisis*, and which is *operational HANRE*. Cite the lowest tier that actually binds, and the enabling article that authorised it.
+
+### 1.3 Conflict & transitional themes (practitioner rules)
+
+These recur across vectors. Each hub applies them; this section names the doctrines so silence is not mistaken for harmony.
+
+| Theme | Rule | Live exemplars |
+|---|---|---|
+| **Statute vs HANRE conflict** | Organic/ordinary law prevails over unreformed secondary acts. Apply the statute; treat conflicting HANRE text as **stale** until re-adopted | L164 art. **115 ≥6 months** FUO vs [[HANRE 169-2019 — furnizarea energiei electrice (notă)\|HANRE 169]] **90 days** (still cites L107 art. 73) |
+| **Tier-3 transitional legitimacy** | Many HANRE still rest on repealed L107 *temei*. Prefer post-L164 acts (311, 383, 261, 853). Pre-L164 HANRE remain operational specimens **only where they do not conflict** with L164 | Market rules 283; supply 169; dispatch 316 |
+| **L107 legacy projects** | L164 does not apply retroactively to installations already admitted under L107; projects **designed before 19.08.2025** continue under previously applicable rules | Connection / plant files straddling the cutover |
+| **Four distinct gates** | **Licence ≠ connection ≠ support/eligibility ≠ REMIT registration**. Clearing one never substitutes for another | Electricity B.3 checklist · gas REMIT 94¹–94⁶ · heat licences vs SACET *aviz* |
+| **Crisis instrument split** | Emergency overlays are **vector-specific**. Do not transplant remedies | Electricity [[HG 820-2024 — situatii exceptionale electroenergetic (notă)\|HG 820]] ≠ petroleum L101/L248/CNMC ≠ gas SoS storage HGs |
+| **REMIT as horizontal integrity** | Wholesale integrity layer on electricity **and** gas — not a market segment | L164 REMIT · L108 arts. 94¹–94⁶ · [[Energetică — licențiere cross-border și REMIT (notă)]] |
+| **Multi-law plants** | One physical asset can sit in three regimes at once | Urban CHP: heat = L92 public service; electricity = L164 (+ transitional FCEE); GOs/HE = L92 Cap. IV + HG 197 |
+| **Package asymmetry as forecast** | Electricity is one package ahead of gas → expect gas L164-equivalent rewrite | See §2 |
+| **Procurement restoration** | Market-based purchase (incl. network losses) restored; HANRE 24 abrogated → L74 sectoral | Synthesis §4 · L74 bridge |
+
+**Advice formula:** (1) name the vector and the gate; (2) cite the lowest tier that binds; (3) currency-check *temei* and any statute conflict; (4) check whether a crisis overlay is live; (5) for CHP/RES, state which half of the plant you are advising on.
 
 ---
 
@@ -199,6 +218,7 @@ Every energy vector is analysed with the **same columns**. Cells may be empty �
 | 3 | Gas market hub | **Done (2026-08-07)** — [[MOC — Piața gazelor naturale]] · [[Energetică — segmente piață gaze (notă)]] · [[Concept — Punct virtual de tranzacționare]] |
 | 4 | Petroleum + coal gap | **Done (2026-08-07)** — [[MOC — Piața produselor petroliere]] · [[Energetică — segmente piață petrol (notă)]] · [[Concept — Preț maxim ANRE produse petroliere]] · [[Energetică — cărbune gap stub (notă)]] |
 | 5 | Thermal / CHP + geothermal stub | **Done (2026-08-07)** — [[MOC — Piața energiei termice]] · [[Energetică — segmente piață termică (notă)]] · [[Concept — Cogenerare de înaltă eficiență]] · [[Energetică — geotermal gap stub (notă)]] |
+| — | **Professional deepening pass** (Steps 1–5) | **Done (2026-08-07)** — §1.3 conflict themes · per-vector risk matrices · FCEE/FUO/PSO hardened |
 | 6 | Biofuels / hydrogen | **Next: Step 6** |
 | 7 | Prosumers · incentives · ESG notes | Queued |
 | 8 | Synthesis retune to this spine | After Step 6–7 have substance |

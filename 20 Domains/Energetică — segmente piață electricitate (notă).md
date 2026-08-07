@@ -51,7 +51,7 @@ Step 2 deep fill for [[MOC — Piața de energie electrică]]. Spine: [[Energeti
 | **Operator** | OPEE today → **[[Concept — OPEED\|OPEED]]** for single DA coupling |
 | **Settlement logic** | Clearing (consolidation references **Euphemia**-compatible logic) → confirmed trades → nominations → delivery-day imbalance residual |
 | **Key sources** | L164 art. 2 pt. 100 · arts. 94–96 (CACM / OPEED) · HANRE 283 Titlul III |
-| **Practice** | Guarantees and contestation clocks are in the rules — miss them and the trade is not bankable. Coupling is the L164 end-state; do not assume it is live without the designation decision. |
+| **Practice** | Guarantees and contestation clocks are in the rules — miss them and the trade is not bankable. Coupling is the L164 end-state; do not assume it is live without the [[Concept — OPEED\|OPEED]] designation decision. **REMIT** applies to wholesale participants on this venue — registration + inside-information SOP before first trade ([[Energetică — licențiere cross-border și REMIT (notă)]]). |
 
 ### 4. Intraday (PI)
 
@@ -106,18 +106,18 @@ Step 2 deep fill for [[MOC — Piața de energie electrică]]. Spine: [[Energeti
 | **Operator** | Designated FCEE entity · ANRE price approval |
 | **Settlement logic** | Support price in; market sale out; differences are a regulated / PSO economics problem, not free retail margin |
 | **Key sources** | L164 art. 2 pt. 55 · [[Legea 10-2016 — surse regenerabile (notă)\|L10]] · HANRE 283 FCEE lane · [[HG 26-2025 — PSO acces retea producatori regenerabile pret fix (notă)\|HG 26/2025]] |
-| **Practice** | Bankability of eligible-producer PPAs is FCEE credit + BRP allocation + connection queue — not the support tariff alone. Watch CfD transition ending FCEE RES offtake. |
+| **Practice** | Art. **87(2)** is a **mandatory couple**: FCEE buys; suppliers **must** buy ANRE-allocated shares at regulated prices. Bankability = FCEE credit + BRP + connection queue + supplier-purchase continuity — not the support tariff alone. **Sunset:** art. **150(3)** ends RES FCEE offtake on CfD migration; art. **150(4)** requires ANRE **calendar** for urban CHP exit (duty by 1 Jan 2026 — calendar ≠ automatic cut-off). → [[Concept — Furnizor central de energie electrică]] |
 
 ### 9. Universal service & last-resort (retail PSO lanes)
 
 | | |
 |---|---|
 | **What** | Regulated retail continuity: **universal service** (standing) vs **FUO** (supplier failure contingency) — now separated on the face of L164 |
-| **Who** | Designated suppliers · household + micro/small company perimeter for US |
-| **Key sources** | L164 arts. 17, 114–115 · [[Concept — Furnizor de ultimă opțiune]] · [[HANRE 169-2019 — furnizarea energiei electrice (notă)\|HANRE 169]] *(currency conflicts — prefer L164 timings)* · [[Concept — Contract la prețuri dinamice]] (competitive retail products alongside PSO) |
-| **Practice** | Not wholesale segments, but they shape residual demand and procurement (incl. market-based purchase of volumes/losses). |
+| **Who** | Designated suppliers · household + **micro/small company** perimeter for US (art. 114(1)) |
+| **Key sources** | L164 arts. 17, **114–115** · [[Concept — Furnizor de ultimă opțiune]] · [[HANRE 169-2019 — furnizarea energiei electrice (notă)\|HANRE 169]] · [[Concept — Contract la prețuri dinamice]] |
+| **Practice** | **Conflict:** art. 115(1) entitles consumers to FUO for **≥ 6 months**; HANRE 169 still caps at **90 days** under repealed L107 art. 73. **Apply L164.** US is not industrial PSO forever — re-screen portfolios. US/FUO must procure on bilaterals / organised markets at lowest cost (art. 109 path); market-based purchase of volumes/losses restored → [[Legea 74-2020 — achizitii sectoriale (notă)\|L74]]. |
 
-### 10. Flexibility stack (aggregation / storage / active consumers)
+### 10. Flexibility stack (aggregation / storage / active consumers / flexible connection)
 
 Not a single organised venue — a **participation mode** across the segments above.
 
@@ -125,9 +125,10 @@ Not a single organised venue — a **participation mode** across the segments ab
 |---|---|---|
 | Active consumer | [[Concept — Consumator activ]] | Usually no supply licence; BRP duty; ANRE capacity cap by technology |
 | Prosumer (net billing) | [[Concept — Facturare netă]] | L10 overlay — see boundary note |
-| Independent aggregator | [[Concept — Agregator independent]] | Aggregation licence (10y); ANRE aggregation regulation still expected |
-| Storage operator | [[Concept — Stocare a energiei]] | Storage licence if ≥ 1 MW autonomous injection |
-| CEC | [[Concept — Comunitate de energie a cetățenilor]] | ANRE register + licences when thresholds hit |
+| Independent aggregator | [[Concept — Agregator independent]] | Aggregation licence (10y); ANRE aggregation regulation still expected (art. 120(9)) |
+| Storage operator | [[Concept — Stocare a energiei]] | Storage licence if ≥ 1 MW autonomous injection; SO ownership bans arts. 34/63 |
+| CEC | [[Concept — Comunitate de energie a cetățenilor]] | ANRE register (art. 125) + licences when thresholds hit |
+| Flexible connection | [[Concept — Racordare la rețea]] | L164 art. 2 pt. 2 — non-firm injection/withdrawal; price curtailment in PPA; HANRE 311 |
 
 **Boundary:** [[Energetică — prosumer vs consumator activ (notă)]]
 
@@ -181,7 +182,26 @@ Not a single organised venue — a **participation mode** across the segments ab
 | [[Energetică — prosumer vs consumator activ (notă)\|Prosumer ↔ active-consumer boundary]] | ✅ |
 | Per-segment deep annexes (offer types, guarantee formulas) | Deferred — only if client work demands |
 
-**Step 2 closed.** Next structuring work: Step 3 gas hub.
+**Step 2 closed.** Professional deepening: §E below. Next structuring work was Step 3 gas hub (done).
+
+---
+
+## E. Legal conflicts & advice rules (professional deepening)
+
+| Conflict / doctrine | Binding answer | Do not |
+|---|---|---|
+| FUO duration | L164 art. **115(1) ≥ 6 months** | Advise from HANRE 169 **90-day** cap |
+| US perimeter | Households + micro/small (art. 114(1)); designation arts. 114(2)–(3) | Assume all non-households remain on regulated US |
+| FCEE RES exit | Art. **150(3)** — ends on CfD migration under L10 | Assume perpetual central offtake |
+| FCEE urban CHP | Art. **150(4)** — ANRE must set **exit calendar** (duty ≤ 1 Jan 2026) | Invent a hard cut-off date the statute does not fix |
+| Supplier purchase of FCEE volumes | Art. **87(2)** mandatory by retail share | Treat as optional wholesale product |
+| Flexible vs firm connection | Art. 2 pt. 2 + HANRE 311 | Equate flexible *acord* with firm injection rights |
+| REMIT vs licence | Parallel gates | Trade on licence alone without REMIT registration |
+| Capacity revenue | Arts. 49–51 toolbox only | Sell “capacity market income” without HG |
+| L107-era HANRE | Operational until conflict; then statute wins | Cite 169/283 *temei* as if still L107 primary law |
+| Legacy plants | Non-retroactivity + pre-19.08.2025 design rule (L164 transitional) | Apply L164 blindly to every pre-cutover installation |
+
+Incomplete sources that block further depth: HANRE 169 truncation; HANRE 423 parent annex; HG 820 annexes 1–2.
 
 ## Related
-[[MOC — Piața de energie electrică]] · [[Energetică — prosumer vs consumator activ (notă)]] · [[Energetică — architecture map]] · [[Roadmap — Energy analysis architecture]] · [[Energetică — sector electricitate ANRE (notă)]] · [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)]] · [[Legea 164-2025 — energia electrica (notă)]] · [[ANRE]]
+[[MOC — Piața de energie electrică]] · [[Energetică — prosumer vs consumator activ (notă)]] · [[Energetică — architecture map]] · [[Roadmap — Energy analysis architecture]] · [[Energetică — sector electricitate ANRE (notă)]] · [[Energetică — licențiere cross-border și REMIT (notă)]] · [[HANRE 283-2020 — Regulile pietei energiei electrice (notă)]] · [[Legea 164-2025 — energia electrica (notă)]] · [[ANRE]]

@@ -37,14 +37,19 @@ Each stage carries a **regulated maximum time limit**. Missing them is the opera
 > [!important] Financial guarantee above 200 kW
 > Applicants for and **holders of** electricity connection permits for plants above **200 kW** must lodge a **financial guarantee** (amount set by ANRE) — queue-blocking remedy. Check transitional reach to pre-reform holders in L10 / L164 consolidations and [[HANRE 311-2026 — racordarea la retelele electrice (notă)]].
 
+## Flexible connection (L164)
+**acord de racordare în condiții flexibile** (L164 art. 2 pt. 2): connection on agreed terms that include **limitation and control of injection/withdrawal**. Answer to capacity scarcity from the other side of the guarantee reform — non-firm capacity with curtailment built into the contract, potentially available years earlier than firm queue position.
+
+**Bankability rule:** price curtailment risk in the PPA / financing model; check operationalisation in [[HANRE 311-2026 — racordarea la retelele electrice (notă)|HANRE 311]]. Do not treat a flexible connection as firm injection rights. Heat/SACET *aviz de racordare* under L92 art. 15¹ is a **different** instrument — do not conflate.
+
 ## Governing provisions
 - [[HANRE 311-2026 — racordarea la retelele electrice (notă)]] — **live** electricity connection
 - [[HANRE 168-2019 — racordarea la retelele electrice (notă)]] — **abrogated**; legacy only
 - [[HANRE 112-2019 — racordarea la retelele de gaze (notă)]] — gas connection ✅ *(complete; 328/2025 deadlines)*
 - [[HANRE 423-2019 — Codul retelelor electrice (notă)]] — technical requirements at the connection point
 - [[HANRE 420-2019 — Codul retelelor de gaze naturale (notă)]] — gas network operation / capacity ✅ *(annex complete; +310/2026)*
-- [[Legea 164-2025 — energia electrica (notă)|L164/2025]] — electricity enabling / connection chapter
+- [[Legea 164-2025 — energia electrica (notă)|L164/2025]] — electricity enabling / connection chapter · flexible connection art. 2 pt. 2
 - [[Legea 108-2016 — gazele naturale (notă)|L108/2016]] — gas enabling
 
 ## Related
-[[Concept — Licență în energetică]] · [[Concept — Producător eligibil]] · [[Concept — Tarif reglementat]] · [[Concept — Capacitate condiționată]] · [[Energetică — synthesis]]
+[[Concept — Licență în energetică]] · [[Concept — Producător eligibil]] · [[Concept — Tarif reglementat]] · [[Concept — Capacitate condiționată]] · [[Energetică — segmente piață electricitate (notă)]] · [[Energetică — synthesis]]

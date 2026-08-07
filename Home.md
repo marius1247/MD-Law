@@ -57,4 +57,4 @@ All hubs: [[00 - Index general]]. Concept index: [[00 Index Concepts]].
 > **Completeness:** automated ingestion stops at ~96–102 KB. Manual browser downloads (now in `99 Attachments/source-legis/`) bypass that. [[HANRE 423-2019 — Codul retelelor electrice (text)|HANRE 423/2019]] connection code Titluri I–IV now ingested (still cross-check [[HANRE 656-2021 — modificare Codul retelelor electrice (text)|656/2021]]). Details: [[Status ingestie — Energetica]] · [[Conventions]].
 
 ## Status *(2026-08-07)*
-Structuring Steps 1–5 ✅: electricity · gas · petroleum + [[Energetică — cărbune gap stub (notă)|coal gap]] · thermal / CHP + [[Energetică — geotermal gap stub (notă)|geothermal gap]] ([[Roadmap — Energy analysis architecture]] · [[Energetică — architecture map]]). Energy corpus + keystone texts otherwise as before — [[Status ingestie — Energetica]].
+Structuring Steps 1–5 ✅ + professional deepening pass on hubs ([[Roadmap — Energy analysis architecture]] · [[Energetică — architecture map]] §1.3). Next: biofuels / hydrogen (Step 6). Corpus map — [[Status ingestie — Energetica]].

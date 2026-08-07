@@ -101,7 +101,7 @@ Step 3 deep fill for [[MOC — Piața gazelor naturale]]. Spine: [[Energetică �
 | **What** | Public-service supply to protected categories + last-resort takeover on supplier failure |
 | **Who** | Designated suppliers · ANRE regulated prices (355/540) |
 | **Key sources** | L108 arts. 11, 89–90 · [[Concept — Furnizor de ultimă opțiune]] · HANRE 113 · [[HANRE 355-2021 — preturi reglementate furnizare gaze (notă)\|355]] / [[HANRE 540-2024 — modificare Metodologie preturi furnizare gaze (notă)\|540]] |
-| **Practice** | **Live cliff:** large industrial PSO withdrawal targeted **1 Apr 2026**. Re-paper industrial contracts; do not assume regulated fallback survives. FUO remains the contingency for supplier failure (HANRE 113: limited takeover window — verify current months against 177 patches). |
+| **Practice** | **Live cliff:** large industrial PSO withdrawal targeted **1 Apr 2026**. Checklist: (1) confirm category still protected under current HANRE 177 / L108 designation; (2) if exiting, secure market supplier **≥ 60 days** before cliff; (3) strip regulated-fallback clauses that will be void of object; (4) do not treat FUO as permanent industrial PSO — FUO is supplier-failure contingency. Regulated-price methodology 355/540 still binds designated retail — verify perimeter after cliff. |
 
 ---
 
@@ -135,7 +135,32 @@ Expect a gas rewrite mirroring L164. Until then, do not import electricity fourt
 
 ---
 
-## D. Fill status (Step 3)
+## D. Professional deepening — doctrines outside pure segments
+
+### D.1 Unbundling / TSO certification (the real market-opening doctrine)
+
+Gas market access is only as real as **TSO independence**. Historic Moldovagaz/Gazprom structure sat in tension with L108 unbundling (arts. 13–15 area). Transport carved to **Vestmoldtransgaz**; **certification** is the operative legal act. Before advising on refusal of access / foreclosure:
+1. Pull current certification decision and corporate perimeter (changes).
+2. Separate distribution unbundling issues from transmission.
+3. Treat Transnistrian consumption/debt as **political/SoS overhang**, not a statutory defence.
+
+→ [[Concept — Unbundling]] · [[MOC — Piața gazelor naturale]] §8
+
+### D.2 Uniform tariff reconciliation (arts. 2 & 99)
+
+Regional DSOs depend on equalisation under the uniform distribution tariff. Settlement delay or default by the reconciliation entity creates **cash-flow deficits** that look like tariff disputes but are reconciliation failures. Remedy path: ANRE petition for reconciliation audit before ordinary damages claims. Cross-read [[Energetică — metodologii tarifare (notă)]].
+
+### D.3 Art. 74 servitude / agricultural compensation
+
+Pipeline and network works on agricultural land: statutory servitude exists; **compensation procedure is thin**. Practical rule — lock voluntary compensation on certified agricultural appraisals before works; do not rely on post-hoc court quantum to keep construction on schedule.
+
+### D.4 REMIT (arts. 94¹–94⁶)
+
+Wholesale gas participants: registration + inside-information / manipulation prohibitions — same discipline as electricity. → [[Energetică — licențiere cross-border și REMIT (notă)]]
+
+---
+
+## E. Fill status (Step 3)
 
 | Deliverable | Status |
 |---|---|

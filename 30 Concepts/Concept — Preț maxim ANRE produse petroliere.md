@@ -32,3 +32,5 @@ The **daily ceiling** set by [[ANRE]] for retail sale of **standard-type main pe
 
 ## Notes / conclusions
 > This is a **retail price-cap market**, not an organised wholesale power-style market. Compliance is a daily publication-watch problem; crisis derogations are a separate overnight risk.
+
+**Crisis decision tree (advise in this order):** (1) Is petroleum crisis / L248 alert-emergency live? If no → ordinary art. 4 max binds. (2) Standard-type stocks exhausted? → non-standard may sell only ≤ standard max (art. 4(2)). (3) Has CNMC issued art. 6(7) derogation? If no → do not invent price freedom. (4) Keep separate from electricity HG 820.

@@ -47,7 +47,7 @@ L164 (framework) → HANRE 316 (dispatch regulation) → OST internal procedures
 | Scenario | Wrong frame | Correct frame |
 |---|---|---|
 | Generator curtailment without compensation | Supply contract only | Dispatch order + market rules + 316 operational duties |
-| Outage duration dispute | 169 SAIDI/SAIFI | 316 emergency/outage procedure + 537 QoS (not yet in vault) |
+| Outage duration dispute | 169 SAIDI/SAIFI | 316 emergency/outage procedure + [[HANRE 537-2020 — calitate servicii transport distributie EE (notă)|537/2020]] QoS *(annex missing)* |
 | Staff qualification challenge | Employment law | 316 professional-formation requirements |
 | Cross-border dispatch | 423 only | 316 + ENTSO-E coupling procedures (post-sync) |
 

@@ -74,7 +74,7 @@ Other newly relevant amendment/transition acts now present:
 |---|---|---|
 | [[HANRE 423-2019 — Codul retelelor electrice (text)]] | **decision-only; clean annex consolidation missing** (partial substance via [[HANRE 656-2021 — modificare Codul retelelor electrice (text)\|656/2021]]) | High for point-perfect citations |
 | HANRE **535/2019** gas TSO tariff methodology | parent not ingested; [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)\|329/2025]] ✅ | High for full tariff opinions |
-| HANRE **537/2020** QoS EE | not ingested; patched by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)\|833/2023]] | Medium |
+| HANRE **537/2020** QoS EE | **decision-only** ✅; annex still missing; patched by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)\|833/2023]] | Medium — need annex for SAIDI/SAIFI |
 | [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]] | likely annex/methodology completeness should be rechecked | Medium |
 | [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]] | likely annex/methodology completeness should be rechecked | Medium |
 | [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] | earlier flagged as detached-annex risk | Medium |
@@ -153,10 +153,20 @@ Individual **tariff decisions and licences** were *not* ingested. ANRE issues th
 | [[HANRE 138-2018 — dezvoltarea retelelor de distributie gaze (text)]] | `110790` | ✅ OCR full | Gas DSO network development |
 | [[HANRE 8-2023 — modificare racordare gaze si masurare gaze (text)]] | `135421` | ⚠️ OCR partial | Patches 112/2019 + 297/2022; annex tables verify at source |
 
+## ✅ Ingested 2026-08-07b — energy PDF OCR batch 2
+
+| Act | legis doc_id | Status | Notes |
+|---|---|---|---|
+| [[Legea 234-2022 — Energocom securitate furnizare gaze (text)]] | `141905` | ✅ OCR full | EBRD gas-security project exemptions |
+| [[Legea 20-2024 — modificare Legea 234-2022 Energocom (text)]] | `141890` | ✅ OCR full | Amends L234 agreement references |
+| [[HG 10-2024 — guvernanta energetica si actiuni climatice (text)]] | `142366` | ✅ OCR full (~112 pts) | PNIEC / EnC governance; Reg. 2018/1999 |
+| [[HANRE 297-2022 — masurare gaze naturale comerciale (text)]] | `135452` | ✅ OCR full (~136 pts) | Gas commercial metering; amended by [[HANRE 8-2023 — modificare racordare gaze si masurare gaze (text)|8/2023]] |
+| [[HANRE 537-2020 — calitate servicii transport distributie EE (text)]] | `141300` | ⚠️ decision-only | QoS EE; annex missing · patched by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)|833/2023]] · L107 currency |
+
 ## Current priorities
 
 1. **Manual download** remaining annexes (legis.md Cloudflare blocks automation): clean consolidation of [[HANRE 423-2019 — Codul retelelor electrice (text)]] (656 helps but is not a consolidation), finish [[HANRE 169-2019 — furnizarea energiei electrice (text)]] past pt. 146, [[HANRE 64-2018 — Metodologie tarife distributie EE (text)]], [[HANRE 375-2017 — Metodologie tarife regenerabile (text)]], [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] annexes — see [[Analysis backlog — texts without notes]].
-2. Ingest still-missing parents: ~~HANRE **853/2025**~~ ✅ · ~~Laws **461/2001** & **248/2025**~~ ✅ (2026-08-07b) · ~~**94/2019**, **316/2018**, **138/2018**, **414/2020**, **8/2023**~~ ✅ (2026-08-07 OCR batch) · **535/2019 methodology annex** (decision ✅ · [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] amend ✅) · **537/2020**, **422/2019**, **443/2020**, **297/2022** parent. CNMC layer: [[HG 346-2026 — Comisia Nationala Management Crize (notă)|HG 346/2026]] + [[Legea 150-2026 — modificare management situatii de criza (notă)|L150/2026]].
+2. Ingest still-missing parents: ~~HANRE **853/2025**~~ ✅ · ~~Laws **461/2001** & **248/2025**~~ ✅ (2026-08-07b) · ~~**94/2019**, **316/2018**, **138/2018**, **414/2020**, **8/2023**~~ ✅ (2026-08-07 OCR batch) · ~~**297/2022**, **HG 10/2024**, **L234/2022**~~ ✅ (2026-08-07b) · **535/2019 methodology annex** (decision ✅ · [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)|329/2025]] amend ✅) · **537/2020 annex** (decision ✅) · **422/2019**, **443/2020**. CNMC layer: [[HG 346-2026 — Comisia Nationala Management Crize (notă)|HG 346/2026]] + [[Legea 150-2026 — modificare management situatii de criza (notă)|L150/2026]].
 3. Re-check electricity HANRE acts for L164-based re-adoption/replacement.
 4. Watch for a gas equivalent of [[Legea 164-2025 — energia electrica (text)|L164/2025]].
 5. Keep amendment acts (177, 261, 383, 328, 310, **656**, **833**, **329**) linked from affected notes.

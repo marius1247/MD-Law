@@ -102,7 +102,8 @@ updated: 2026-08-07
 - `HANRE 169/2019` — electricity supply regulation (still truncated; source 148195 is a *different* act: HANRE 169/**2025** water/sewerage)
 - `HANRE 64/2018`, `HANRE 375/2017` — tariff methodology annexes
 - `HG 820/2024` — risk-preparedness annex
-- `HANRE 853/2025`, `HANRE 537/2020`, Law `461/2001` — still missing / incomplete
+- `HANRE 853/2025`, Law `461/2001` — resolved 2026-08-07b
+- **HANRE 537/2020** — decision ingested (`141300` OCR); **QoS annex still missing**; patched by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text)|833/2023]]
 - **HANRE 535/2019** — decision ingested (`149131`); **methodology annex still missing**; amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (text)|329/2025]] ✅
 - **Legea 248/2025** crisis management — parent still missing; implementing [[HG 346-2026 — Comisia Nationala Management Crize (text)|HG 346/2026]] + [[Legea 150-2026 — modificare management situatii de criza (text)|L150/2026]] now in vault
 - **Legea nr. 384/2023** privind protecția secretelor comerciale — pivot for [[Legea 330-2025 — modificare secret comercial (notă)]]; not yet dumped
@@ -133,6 +134,26 @@ updated: 2026-08-07
 | `155410` | [`155410.md`](155410.md) | `10 Legislation/Laws/Legea 76-2026 — ajustare legislatie institutii publice (text).md` |
 | `155526` | [`155526.md`](155526.md) · [`155526.pdf`](155526.pdf) | `10 Legislation/Laws/Legea 248-2025 — managementul situatiilor de criza (text).md` |
 | `155085` | [`155085.md`](155085.md) | *refresh — L101/2026 already in vault* |
+
+## OCR PDF batch 2026-08-07 — energy (batch 1)
+
+| doc_id | Raw file | Vault location |
+|---|---|---|
+| `124161` | [`124161-124161_4d55.pdf`](124161-124161_4d55.pdf) · [`124161.ocr.txt`](124161.ocr.txt) | `10 Legislation/Authority Acts/HANRE 94-2019 — dezvoltarea retelelor electrice de distributie (text).md` |
+| `124090` | [`124090-124090_c3b8.pdf`](124090-124090_c3b8.pdf) · [`124090.ocr.txt`](124090.ocr.txt) | `10 Legislation/Authority Acts/HANRE 414-2020 — modificare HANRE 94-2019 dezvoltare retele distributie EE (text).md` |
+| `112162` | [`112162-112162_6888.pdf`](112162-112162_6888.pdf) · [`112162.ocr.txt`](112162.ocr.txt) | `10 Legislation/Authority Acts/HANRE 316-2018 — dirijare dispecerat sistem electroenergetic (text).md` |
+| `110790` | [`110790-110790_901d.pdf`](110790-110790_901d.pdf) · [`110790.ocr.txt`](110790.ocr.txt) | `10 Legislation/Authority Acts/HANRE 138-2018 — dezvoltarea retelelor de distributie gaze (text).md` |
+| `135421` | [`135421-135421_18e5.pdf`](135421-135421_18e5.pdf) · [`135421.ocr.txt`](135421.ocr.txt) | `10 Legislation/Authority Acts/HANRE 8-2023 — modificare racordare gaze si masurare gaze (text).md` |
+
+## OCR PDF batch 2026-08-07b — energy (batch 2)
+
+| doc_id | Raw file | Vault location |
+|---|---|---|
+| `141905` | [`141905-141905_f7ca.pdf`](141905-141905_f7ca.pdf) · [`141905.ocr.txt`](141905.ocr.txt) | `10 Legislation/Laws/Legea 234-2022 — Energocom securitate furnizare gaze (text).md` |
+| `141890` | [`141890-141890_7091.pdf`](141890-141890_7091.pdf) · [`141890.ocr.txt`](141890.ocr.txt) | `10 Legislation/Laws/Legea 20-2024 — modificare Legea 234-2022 Energocom (text).md` |
+| `142366` | [`142366-142366_5eca.pdf`](142366-142366_5eca.pdf) · [`142366.ocr.txt`](142366.ocr.txt) | `10 Legislation/Government Decisions/HG 10-2024 — guvernanta energetica si actiuni climatice (text).md` |
+| `135452` | [`135452-135452_c62c.pdf`](135452-135452_c62c.pdf) · [`135452.ocr.txt`](135452.ocr.txt) | `10 Legislation/Authority Acts/HANRE 297-2022 — masurare gaze naturale comerciale (text).md` |
+| `141300` | [`141300-141300_eb1d.pdf`](141300-141300_eb1d.pdf) · [`141300.ocr.txt`](141300.ocr.txt) | `10 Legislation/Authority Acts/HANRE 537-2020 — calitate servicii transport distributie EE (text).md` *(decision-only)* |
 
 ## See also
 [[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]

@@ -51,8 +51,10 @@ Each ANRE act below names the exact article of the parent law it is issued under
 | [[Legea 92-2014 — energia termica si cogenerarea (text)]] | Thermal energy & cogeneration |
 | [[Legea 461-2001 — piata produselor petroliere (text)\|Legea nr. 461/2001]] | Petroleum products market — ANRE max prices, licensing, crisis hooks ✅ · [[Legea 461-2001 — piata produselor petroliere (notă)\|notă]] |
 | [[Legea 248-2025 — managementul situatiilor de criza (text)\|Legea nr. 248/2025]] | National crisis-management framework (alert / emergency / CNMC) ✅ · [[Legea 248-2025 — managementul situatiilor de criza (notă)\|notă]] |
+| [[Legea 234-2022 — Energocom securitate furnizare gaze (text)\|Legea nr. 234/2022]] | Energocom EBRD gas-security project — guarantee release + fiscal/customs exemptions ✅ · [[Legea 234-2022 — Energocom securitate furnizare gaze (notă)\|notă]] · amended [[Legea 20-2024 — modificare Legea 234-2022 Energocom (notă)\|LP20/2024]] |
 
 ## Tier 2 — Government acts (`10 Legislation/Government Decisions`)
+- [[HG 10-2024 — guvernanta energetica si actiuni climatice (text)]] — energy & climate governance / PNIEC ✅ *OCR full* · [[HG 10-2024 — guvernanta energetica si actiuni climatice (notă)|notă]] · transposes Reg. (EU) 2018/1999 (EnC-adapted)
 - [[HG 820-2024 — situatii exceptionale electroenergetic (text)]] — risk-preparedness; **transposes Regulation (EU) 2019/941** via Energy Community Decision 2021/13/MC-EnC · [[HG 820-2024 — situatii exceptionale electroenergetic (notă)|notă]] ⚠️ *annex missing*
 - [[HG 346-2026 — Comisia Nationala Management Crize (text)\|HG 346/2026]] — CNMC · [[HG 346-2026 — Comisia Nationala Management Crize (notă)\|notă]] · patched by [[HG 379-2026 — modificare HG 346-2026 crize (notă)\|HG 379/2026]]
 
@@ -79,12 +81,14 @@ Each ANRE act below names the exact article of the parent law it is issued under
 - [[HANRE 112-2019 — racordarea la retelele de gaze (text)]] — gas connection ✅ · [[HANRE 112-2019 — racordarea la retelele de gaze (notă)|notă]]
 - [[HANRE 113-2019 — furnizarea gazelor naturale (text)]] — gas supply ✅ · [[HANRE 113-2019 — furnizarea gazelor naturale (notă)|notă]] · amended by [[HANRE 177-2026 — modificarea unor hotarari ANRE (notă)|177/2026]]
 - [[HANRE 363-2020 — schimbarea furnizorului de gaze (text)]] — gas supplier switching ✅ · [[HANRE 363-2020 — schimbarea furnizorului de gaze (notă)|notă]] · amended by [[HANRE 177-2026 — modificarea unor hotarari ANRE (notă)|177/2026]]
-- [[HANRE 8-2023 — modificare racordare gaze si masurare gaze (text)]] — patches **112/2019** (pt. 60¹) + **297/2022** (pt. 116) ⚠️ *OCR; 297 parent not in vault* · [[HANRE 8-2023 — modificare racordare gaze si masurare gaze (notă)|notă]]
+- [[HANRE 297-2022 — masurare gaze naturale comerciale (text)]] — commercial gas metering ✅ *OCR (~136 pts)* · [[HANRE 297-2022 — masurare gaze naturale comerciale (notă)|notă]] · amended by [[HANRE 8-2023 — modificare racordare gaze si masurare gaze (notă)|8/2023]]
+- [[HANRE 8-2023 — modificare racordare gaze si masurare gaze (text)]] — patches **112/2019** (pt. 60¹) + **297/2022** (pt. 116) ⚠️ *OCR annex tables* · [[HANRE 8-2023 — modificare racordare gaze si masurare gaze (notă)|notă]]
 
 **Network development & system operation**
 - [[HANRE 94-2019 — dezvoltarea retelelor electrice de distributie (text)]] — electricity DSO development plans ✅ *OCR* · [[HANRE 94-2019 — dezvoltarea retelelor electrice de distributie (notă)|notă]] · amended by [[HANRE 414-2020 — modificare HANRE 94-2019 dezvoltare retele distributie EE (text)|414/2020]] ([[HANRE 414-2020 — modificare HANRE 94-2019 dezvoltare retele distributie EE (notă)|notă]]) ⚠️ *L107 currency*
 - [[HANRE 316-2018 — dirijare dispecerat sistem electroenergetic (text)]] — dispatch / SE operation ✅ *OCR (~286 pts)* · [[HANRE 316-2018 — dirijare dispecerat sistem electroenergetic (notă)|notă]] ⚠️ *L107 currency*
 - [[HANRE 138-2018 — dezvoltarea retelelor de distributie gaze (text)]] — gas DSO network development ✅ *OCR* · [[HANRE 138-2018 — dezvoltarea retelelor de distributie gaze (notă)|notă]]
+- [[HANRE 537-2020 — calitate servicii transport distributie EE (text)]] — electricity QoS ⚠️ *decision-only; annex missing* · [[HANRE 537-2020 — calitate servicii transport distributie EE (notă)|notă]] · patched by [[HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (notă)|833/2023]]
 
 **Tariff methodologies** — how regulated prices are actually computed
 - [[HANRE 626-2023 — Metodologie tarife transport EE (text)]] — electricity transmission ✅ *(replaces 486/2017)* · [[HANRE 626-2023 — Metodologie tarife transport EE (notă)|notă]] · amended by [[HANRE 261-2026 — modificare Metodologie tarife transport EE (text)|261/2026]] ([[HANRE 261-2026 — modificare Metodologie tarife transport EE (notă)|notă]])
@@ -114,12 +118,12 @@ Moldova is an **Energy Community** contracting party by [[Legea 117-2009 — ade
 3. **Still missing clean consolidation:** [[HANRE 423-2019 — Codul retelelor electrice (text)|HANRE 423/2019]] parent annex — partial substance now via [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|656/2021]].
 4. **Currency-check** remaining L107-based HANRE acts (esp. market rules 283/2020 even after 383/2026 amend).
 5. Watch for the **gas equivalent of L164/2025**.
-6. Remaining tier-3 downloads: parent gas tariff methodology **535/2019** annex (329/2025 amend ✅), **443/2020**, QoS **537/2020** (833 patches ✅), **422/2019**, gas metering parent **297/2022** (8/2023 amend ✅).
+6. Remaining tier-3 downloads: parent gas tariff methodology **535/2019** annex (329/2025 amend ✅), **443/2020**, QoS **537/2020** annex (decision ✅ · 833 patches ✅), **422/2019**. ✅ **2026-08-07b:** **297/2022** metering, **537/2020** stub, **HG 10/2024**, **L234/2022** + **LP20/2024**.
 
 ## Open threads
 - [[HANRE 535-2019 — Metodologie tarife transport gaze (text)\|HANRE 535/2019]] gas transmission tariff methodology — ⚠️ **decision-only** ([[HANRE 535-2019 — Metodologie tarife transport gaze (notă)\|notă]]); amending [[HANRE 329-2025 — modificare Metodologie tarife transport gaze (notă)\|329/2025]] ✅; **annex still missing**
 - Crisis governance (CNMC): [[Legea 248-2025 — managementul situatiilor de criza (notă)\|L248/2025]] ✅ · [[HG 346-2026 — Comisia Nationala Management Crize (notă)\|HG 346/2026]] · [[HG 379-2026 — modificare HG 346-2026 crize (notă)\|HG 379/2026]] · [[Legea 150-2026 — modificare management situatii de criza (notă)\|L150/2026]] · petroleum parent [[Legea 461-2001 — piata produselor petroliere (notă)\|L461]] ✅ · bridges [[HG 820-2024 — situatii exceptionale electroenergetic (notă)\|HG 820/2024]] · [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)\|L101/2026]]
-- Not yet ingested: gas tariff **443/2020**, quality-of-service (**422/2019**, **537/2020**), gas metering parent **297/2022** · ✅ **2026-08-07:** network development **94/2019** + **414/2020**, dispatch **316/2018**, gas DSO development **138/2018**, amend **8/2023**
+- Not yet ingested: gas tariff **443/2020**, QoS **422/2019**, **537/2020 annex** (decision ✅) · ✅ **2026-08-07:** network development **94/2019** + **414/2020**, dispatch **316/2018**, gas DSO development **138/2018**, amend **8/2023** · ✅ **2026-08-07b:** **297/2022**, **HG 10/2024**, **L234/2022** + **LP20/2024**
 - Licence-holder procurement: HANRE 24 **abrogated** — use [[Legea 74-2020 — achizitii sectoriale (notă)|L74/2020]] → [[MOC — Achiziții publice & Statul]]
 - **Live transitions:** L164/2025 changeover; gas PSO withdrawal for large industrials; market-based procurement of electricity including network losses.
 - Unbundling is executed through company law → [[Societăți & guvernanță — synthesis]] · [[Legea 135-2007 — SRL (notă)]] / [[Legea 1134-1997 — societati pe actiuni (notă)]]

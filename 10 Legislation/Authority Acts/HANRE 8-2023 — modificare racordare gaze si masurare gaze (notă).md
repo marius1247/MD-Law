@@ -15,7 +15,7 @@ legal_status: in_vigoare
 
 # HANRE nr. 8/2023 — amendare racordare + măsurare gaze — Analysis
 
-**Raw text:** [[HANRE 8-2023 — modificare racordare gaze si masurare gaze (text)]] ⚠️ *OCR — verify annex tables* · **Amends:** [[HANRE 112-2019 — racordarea la retelele de gaze (notă)|112/2019]] · **HANRE 297/2022** *(metering — parent not yet in vault)* · **Hub:** [[MOC — Energetică]]
+**Raw text:** [[HANRE 8-2023 — modificare racordare gaze si masurare gaze (text)]] ⚠️ *OCR — verify annex tables* · **Amends:** [[HANRE 112-2019 — racordarea la retelele de gaze (notă)|112/2019]] · [[HANRE 297-2022 — masurare gaze naturale comerciale (notă)|297/2022]] · **Hub:** [[MOC — Energetică]]
 
 > [!abstract] Executive summary
 > **Core purpose:** Omnibus patch inserting **non-household technological consumption & loss calculation** for gas installations (new pt. 60¹ in 112/2019) plus new **Annexes 5''/5'''**, and rewriting **pt. 116** of the commercial metering regulation (297/2022) for metering not at the delimitation point.
@@ -30,7 +30,7 @@ legal_status: in_vigoare
 
 ## 2. Gaps
 
-- **HANRE 297/2022** full text still **not ingested** — ingest parent for complete metering advice.
+- **HANRE 297/2022** parent now ingested ✅ — use [[HANRE 297-2022 — masurare gaze naturale comerciale (notă)|297 notă]] for consolidated metering advice (incl. amended pt. 116).
 - Annex **5''/5'''** formula tables: OCR partial — verify against PDF before tariff/billing opinions.
 
 ## 3. Client checklist

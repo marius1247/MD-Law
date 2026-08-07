@@ -1,0 +1,1328 @@
+---
+title: "HANRE 297-2022 — masurare gaze naturale comerciale (text)"
+type: act-text
+instrument: act-anre
+act_type: hotărâre-anre
+nr: "297"
+an: 2022
+domeniu:
+- energetică
+- gaze
+- metrologie
+domain: [energetică, gaze, metrologie]
+in_force: true
+in_vigoare: true
+mo_publicare: "MO 187-193/24.06.2022 art. 721"
+legis_id: "135452"
+legis_url: "https://www.legis.md/cautare/getResults?lang=ro&doc_id=135452"
+version_date: 2026-08-07
+versiune_text: 2026-08-07
+continut: text-integral
+text_complet: true
+puncte_numarate: 136
+articole_numarate: 0
+tags: [act, text, acte_normative, energetică]
+created: 2026-08-07
+updated: 2026-08-07
+source_ingest: pdf-ocr-upload
+issuer: ANRE
+legal_status: in_vigoare
+enabling_act: "[[Legea 108-2016 — gazele naturale (text)|L108/2016]] art. 8(1)(g), art. 69(2)"
+amended_by: "[[HANRE 8-2023 — modificare racordare gaze si masurare gaze (notă)|8/2023]]"
+---
+# HANRE 297-2022 — masurare gaze naturale comerciale
+
+> [!info] Sursă & versiune
+> Text preluat din **legis.md** PDF (doc_id [135452](https://www.legis.md/cautare/getResults?lang=ro&doc_id=135452)), OCR + structură ușoară.
+> Analiză: [[HANRE 297-2022 — masurare gaze naturale comerciale (notă)]].
+
+---
+
+Republica Moldova
+AGENȚIA NAȚIONALĂ PENTRU REGLEMENTARE ÎN ENERGETICĂ
+
+HOTĂRÂRE Nr. HANRE297/2022
+din 03.06.2022
+
+privind aprobarea Regulamentul
+privind măsurarea gazelor naturale
+în scopuri comerciale
+
+Publicat : 24.06.2022 în MONITORUL OFICIAL Nr. 187-193 art. 721 Data intrării în vigoare
+MODIFICAT
+
+HANREB din 13.01.23, MO31-34/03.02.23 art. 137; în vigoare 03.02.23
+
+ÎNREGISTRAT:
+
+Ministerul Justiţiei
+
+al Republicii Moldova
+
+nr. 1726 din 14 iunie 2022
+
+Ministru Sergiu LITVINENCO
+
+În temeiul art. 8 alin. (1), lit. g), art. 69 alin. (2) din Legea cu privire la gazele
+naturale nr. 108/2016 (Monitorul Oficial al Republicii Moldova, 2016, nr.193-203, art.415),
+
+cu modificările ulterioare, Consiliul de administraţie al Agenţiei Naţionale pentru
+Reglementare în Energetică
+
+HOTĂRĂȘTE:
+
+### Punctul 1. Se aprobă Regulamentul privind măsurarea gazelor naturale în scopuri comerciale
+(se anexează).
+
+### Punctul 2. Se abrogă Regulamentul cu privire la modul de măsurare a gazelor naturale în
+scopuri comerciale, aprobat prin Hotărârea Consiliului de administraţie al ANRE nr. 385 din
+12 august 2010 (Monitorul Oficial al Republicii Moldova, 2010, nr. 211-212, art.750),
+înregistrată la Ministerul Justiţiei cu nr. 777 din 18 octombrie 2010.
+
+### Punctul 3. Controlul asupra executării prezentei Hotărâri se pune în sarcina Departamentului
+gaze naturale şi energie termică.
+
+DIRECTOR GENERAL Veaceslav UNTILA
+
+
+Directori Eugen CARPOV
+Violina ȘPAC
+
+Alexei TARAN
+Nr. 297. Chişinău, 3 iunie 2022.
+
+Aprobat
+prin Hotărârea Consiliului
+de administraţie al ANRE
+
+nr. 297 din 3 iunie 2022
+
+REGULAMENTUL
+privind măsurarea gazelor naturale
+în scopuri comerciale
+## Capitolul 1
+DISPOZIŢII GENERALE
+### Secțiunea 1
+Scopul și domeniul de aplicare
+
+### Punctul 1. Regulamentul privind măsurarea gazelor naturale în scopuri comerciale (în
+continuare -Regulament), stabileşte condiţiile în care se realizează măsurarea gazelor
+naturale produse, transportate, distribuite, furnizate și consumate în punctele de măsurare
+comercială.
+
+### Punctul 2. Prevederile Regulamentului se aplică, în mod nediscriminatoriu raporturilor
+juridice la care participă producătorii, operatorii de sistem, furnizorii şi consumatorii finali,
+inclusiv la eliberarea avizelor de racordare la reţeaua de gaze naturale, proiectarea,
+montarea şi exploatarea echipamentelor de măsurare.
+
+### Punctul 3. Regulamentul se aplică la:
+
+1) stabilirea punctelor de măsurare și a cerințelor tehnice minime față de
+echipamentele de măsurare instalate în fiecare categorie de puncte de măsurare
+comercială;
+
+2) măsurarea gazelor naturale transportate, inclusiv în contextul schimburilor
+transfrontaliere, distribuite, furnizate sau consumate;
+
+
+3) definirea funcţiilor și a obligaţiilor producătorilor, operatorilor de sistem,
+furnizorilor și consumatorilor finali în legătură cu măsurarea gazelor naturale în scopuri
+comerciale;
+
+4) colectarea și prezentarea de către operatorii de sistem a datelor cu privire la
+echipamentele de măsurare și a indicaţiilor echipamentelor de măsurare, în scopul emiterii
+facturilor pentru serviciile prestate de operatori și penru gazele naturale utilizate de
+consumatorii finali;
+
+5) cerinţele privind funcţionarea și clasa de precizie a echipamentelor de măsurare;
+
+6) modul de colectare, procesare, stocare și prezentare a indicatiilor echipamentelor
+de măsurare solicitantilor, inclusiv operatorilor de sistem, furnizorilor și consumatorilor
+finali.
+
+### Secțiunea 2
+Noţiuni utilizate
+
+### Punctul 4. În sensul prezentului Regulament se utilizează termenii definiti în Legea nr.
+108/2016 cu privire la gazele naturale, Legea metrologiei nr. 19/2016 (în continuare - Legea
+nr. 19/2016), precum și următorii termeni și definiţii:
+
+activitate de măsurare a gazelor naturale - ansamblu de acţiuni (măsurarea propriu-
+zisă, citirea indicatiilor echipamentelor de măsurare, colectarea datelor cu privire la
+indicaţiile echipamentelor de măsurare, determinarea cantităților de gaze naturale,
+gestionarea bazei de date cu privire la echipamentele de măsurare şi prezentarea
+informaţiei ce ţine de măsurarea gazelor naturale) desfăşurate de operatorii de sistem, în
+legătură cu măsurarea şi înregistrarea cantităților de gaze naturale în scopuri comerciale;
+
+calculator de debit - dispozitiv de calcul al volumului sau al energiei integrate,
+pornind de la valoarea debitului în condiţii reale adusă la condiţii standard;
+
+caracteristici fizice şi chimice ale gazelor naturale - caracteristici prin care se
+determină calitatea gazelor naturale, valorile numerice ale cărora se utilizează pentru
+calcularea volumelor/cantitatilor de gaze naturale;
+
+clasă de precizie - caracteristică generalizată a echipamentului de măsurare a gazelor
+naturale, determinată de limitele erorilor de bază și suplimentare asmisibile, precum și de o
+serie de alte proprietăţi care afectează exactitatea măsurărilor, efectuate cu echipamentul
+de măsurare;
+
+condiţii standard - parametrii la care sunt convertite gazele naturale măsurate în
+condiţii de lucru (temperatura t = 20°C (293,15 OK); presiunea atmosferică Pa = 101,325
+kPa (1,01325 bar), 4760 mm col. mercur));
+
+condiţii normale - parametrii la care sunt convertite gazele naturale măsurate în
+condiţii de lucru (temperatura t,=0 oC {273,15 OK}, presiunea P,.=101,325 kPa {1,01325
+bar});
+
+
+convertor de volum (corector, calculator de debit) - dispozitiv electronic sau mecanic
+conectat/integrat în mecanismul de calcul al unui echipament de măsurare care transformă
+automat volumul de gaze naturale măsurat în condiţii de lucru (în funcție de parametrii reali
+ai gazelor naturale - presiunea şi temperatura de lucru) în volum de gaze naturale la
+condiţii standard;
+
+dispozitiv de conversie - dispozitiv montat pe un contor de gaze naturale care
+convertește automat cantitatea măsurată în condiţii de măsurare, într-o cantitate la condiţii
+standard;
+
+domeniu de debit - gama de debite de gaze naturale limitate de debitul maxim şi cel
+minim pentru care eroarea de măsurare a echipamentelor de măsurare este cuprinsă între
+limite specificate;
+
+domeniu de măsurare - ansamblu de valori ale măsurandului pentru care eroarea de
+măsurare a unui echipament de măsurare este presupusă că se află între limitele
+specificate;
+
+punct de măsurare comercială - locul în care este instalat echipamentul de măsurare
+şi în care gazele naturale sunt măsurate, predate/primite și după caz, trec din proprietatea
+unui participant al pieţei gazelor naturale în proprietatea altui participant la piața gazelor
+naturale;
+
+traductor - mijloc de măsurare (dispozitiv) care face ca unei mărimi de intrare să-i
+corespundă, conform unei legi determinate, o mărime de ieşire.
+
+### Secțiunea 3
+Drepturile și obligaţiile în legătură cu măsurarea
+în scopuri comerciale
+
+### Punctul 5. Măsurarea gazelor naturale în scopuri comerciale este efectuată de către
+operatorii de sistem. Producătorul este responsabil de măsurarea gazelor naturale la
+punctele de măsurare comercială instalate la ieșirea din instalaţia de producere.
+
+### Punctul 6. Consumatorul final este în drept să fie prezent la citirea indicatiilor, la controlul,
+verificarea și efectuarea constatării tehnico-stiintifice a echipamentelor de măsurare
+montate în punctul de măsurare comercială a gazelor naturale.
+
+### Punctul 7. Operatorul sistemului de transport (în continuare - OST) efectuează citirea
+indicatiilor echipamentelor de măsurare instalate în punctul de măsurare comercială la
+intrarea/ieșirea în/din reţeaua de transport al gazelor naturale.
+
+### Punctul 8. Indicaţiile echipamentelor de măsurare ale consumatorilor finali, instalaţiile de
+utilizare ale cărora sunt racordate la reţeaua de transport al gazelor naturale, se citesc de
+către OST la fata locului și/sau la distanță.
+
+### Punctul 9. În cazul în care Consumatorul final dispune o bază de date a echipamentului său de
+măsurare, acesta poate permite accesul operatorilor de sistem la aceasta, în baza unui
+
+
+acord încheiat între parti.
+
+### Punctul 10. Citirea indicatiilor echipamentelor de măsurare instalate în punctele de măsurare
+comercială amplasate la staţiile de predare (SP) la intrarea în rețeaua de distribuţie, se
+realizează de OST.
+
+### Punctul 11. Operatorul sistemului de distribuţie (în continuare - OSD) efectuează citirea
+indicatiilor echipamentelor de măsurare instalate în punctele de măsurare comercială
+amplasate în punctele de delimitare între OSD și la consumatorii finali instalaţiile de
+utilizare ale cărora sunt racordate la reţeaua de distribuţie a gazelor naturale.
+
+### Punctul 12. Consumatorul final este responsabil de integritatea echipamentului de măsurare
+și a sigiliilor aplicate lui, în cazul în care echipamentul de măsurare este instalat în limitele
+proprietății consumatorului final. Integritatea echipamentului de măsurare și a sigiliilor
+aplicate în cazul când echipamentul de măsurare este instalat în limita de proprietate sau în
+instalatiile/retelele operatorului de sistem este responsabilitatea operatorului de sistem.
+
+### Punctul 13. Pentru îndeplinirea activităţii de măsurare a gazelor naturale operatorii de
+sisitem şi consumatorul non-casnic, în conformitate cu prevederile prezentului Regulament,
+vor asigura:
+
+1) dotarea punctului de măsurare comercială aflat în responsabilitatea sa, cu
+echipamente de măsurare admise pentru utilizare în Republica Moldova, corespunzătoare
+proiectului și verificate metrologic;
+
+2) instalarea, exploatarea, configurarea și verificarea metrologică periodică a
+echipamentelor de măsurare;
+
+3) măsurarea parametrilor gazelor naturale (temperatură, presiune), necesari în
+funcţie de categoria punctului de măsurare comercială aflat în responsabilitatea sa;
+
+4) funcţionarea echipamentului de măsurare în clasa de precizie indicată pentru
+categoria pentru care a fost conceput;
+
+5) respectarea cerinţelor de securitate, în conformitate cu prevederile definite pentru
+fiecare echipament de măsurare;
+
+6) accesul părţii contractante la informaţiile din baza de date a echipamentelor de
+măsurare ale operatorului de sistem;
+
+7) accesul operatorului de sistem la echipamentul de măsurare pentru controlul,
+citirea indicatiilor la fata locului, verificarea schemei de conectare şi a sigiliilor;
+
+8) colectarea şi stocarea datelor din echipamentele de măsurare, inclusiv securitatea
+acestora.
+
+### Punctul 14. Repunerea în funcţiune sau înlocuirea echipamentului de măsurare ce-i aparţine
+operatorului de sistem şi pentru care s-a înregistrat un incident, se efectuează de către OST
+în termen de până la 24 ore, iar de către OSD - în termen de până la 72 ore. Termenele
+indicate se referă la zilele lucrătoare.
+
+
+### Punctul 15. În cazul ieşirii din funcţiune a echipamentului de măsurare instalat la
+consumatorii finali, instalaţiile de utilizare ale cărora sunt racordate la reţeaua de
+distribuţie a gazelor naturale, OSD va acţiona în conformitate cu Regulamentul privind
+racordarea la reţelele de gaze naturale şi prestarea serviciilor de transport şi de distribuţie
+a gazelor naturale, aprobat prin Hotărârea ANRE nr. 112/2019 (Regulamentul privind
+racordarea) și Regulamentul privind furnizarea gazelor naturale, aprobat prin Hotărârea
+ANRE nr. 113/2019 (Regulamentul privind furnizarea).
+
+### Punctul 16. Operatorul de sistem este obligat să prezinte la solicitarea furnizorilor informaţia
+cu privire la parametrii de calitate a gazelor naturale livrate, datele aferente echipamentelor
+de măsurare şi indicaţiile echipamentelor de măsurare instalate la consumatorii finali
+conform prevederilor contractului pentru prestarea serviciului de transport sau de
+distribuţie a gazelor naturale.
+
+### Punctul 17. Operatorii de sistem vor asigura măsurarea gazelor naturale utilizate pentru
+necesităţile tehnologice, în conformitate cu prezentul Regulament.
+
+### Punctul 18. Conversia volumelor de gaze naturale, măsurate în condiţii de lucru, la condiţii
+standard este obligatorie cu excepţia volumelor de gaze naturale livrate consumatorilor
+casnici.
+
+### Punctul 19. Condiţiile de prelevare a probelor de gaze naturale pentru determinarea
+caracteristicilor fizice şi chimice ale gazelor naturale, precum şi periodicitatea introducerii
+valorilor acestora în convertoarele de volum se stabilesc în acordul de
+operare/interconectare dintre operatorii de sistem iar pentru consumatorii noncasnici în
+acordul tehnic încheiate cu operatorul de sistem.
+
+### Punctul 20. În scopul transmiterii la distanţă a indicatiilor echipamentelor de măsurare
+(presiune, temperatură, debit instantaneu, volum de gaze naturale) operatorii de sistem,
+consumatorul final, asigură accesul în punctul de măsurare comercială celeilalte parti
+pentru instalarea echipamentelor (accesoriilor/dispozitivelor) necesare, fără a fi afectată
+corectitudinea măsurării.
+
+### Punctul 21. Consumatorul final este în drept să instaleze echipamente de măsurare de control
+cu aceeaşi clasă de precizie în scopul verificării funcţionării echipamentelor de măsurare ce
+servesc pentru măsurarea gazelor naturale în scopuri comerciale. Echipamentul de
+măsurare de control nu este opozabil echipamentului de măsurare ce serveşte pentru
+măsurarea gazelor naturale în scopuri comerciale.
+
+### Secțiunea 4
+Categoriile punctelor de măsurare comercială
+
+### Punctul 22. Regulamentul stabileşte următoarele categorii de puncte de măsurare comercială
+a gazelor naturale:
+
+1) Categoria A:
+
+a) puncte de măsurare comercială a gazelor naturale de la intrarea/ieșirea în/din
+
+
+reţeaua de transport al gazelor naturale în/din punctele de interconectare transfrontaliere,
+conform acordurilor de interconectare între OST;
+
+b) puncte de măsurare comercială a gazelor naturale de la intrarea/iesirea în/din
+reţeaua de transport al gazelor naturale în/din alte rețele de transport al gazelor naturale,
+conform acordurilor de interconectare/operare între OST.
+
+2) Categoria B:
+
+a) puncte de măsurare comercială a gazelor naturale de la ieșirea din staţia de
+predare spre reţeaua de distribuţie a gazelor naturale;
+
+b) puncte de măsurare comercială a gazelor naturale spre instalaţiile de utilizare ale
+consumatorilor finali racordati direct la reţeaua de transport a gazelor naturale;
+
+c) puncte de măsurare comercială a gazelor naturale livrate din reţeaua de distribuţie
+a gazelor naturale gestionată de un OSD în reţeaua de distribuţie a gazelor naturale
+gestionată de alt OSD;
+
+d) puncte de măsurare comercială a gazelor naturale livrate din instalaţiile de
+producere în reţelele de transport sau de distribuţie a gazelor naturale.
+
+3) Categoria C: puncte de măsurare comercială a gazelor naturale unde sunt
+montate conform proiectului echipamente de măsurare ale consumatorilor finali cu debit de
+consum > 50 m’*/h, ale căror instalaţii de utilizare sunt racordate la reţelele de distribuţie a
+gazelor naturale.
+
+4) Categoria D: puncte de măsurare comercială a gazelor naturale unde sunt
+montate conform proiectului, echipamentele de măsurare ale consumatorilor noncasnici cu
+debit de consum de la 25 m*/h până la 50 m“/h, ale căror instalaţii de utilizare sunt
+racordate la reţelele de distribuţie a gazelor naturale.
+
+5) Categoria E: puncte de măsurare comercială a gazelor naturale unde sunt
+montate conform proiectului, echipamente de măsurare ale consumatorilor noncasnici cu
+debit de consum * 25 m’/h, ale căror instalaţii de utilizare sunt racordate la reţelele de
+distribuţie a gazelor naturale.
+
+6) Categoria F: puncte de măsurare comercială a gazelor naturale unde sunt
+montate echipamente de măsurare ale consumatorilor casnici.
+
+## Capitolul II
+CERINȚELE FATA DE ECHIPAMENTELE
+DE MĂSURARE
+### Secțiunea 1
+
+Cerinţe generale
+
+
+### Punctul 23. Echipamentul de măsurare se instalează în punctul de măsurare comercială care
+se află în punctul de delimitare a proprietăţii părţilor. După caz, se admite instalarea
+echipamentului de măsurare în alt punct, în baza actelor/acordurilor încheiate între parti.
+
+### Punctul 24. Cheltuielile pentru instalarea, exploatarea, verificarea metrologică periodică,
+reparația şi înlocuirea echipamentului de măsurare între operatorii de sistem, vor fi
+suportate din contul operatorului de sistem rețelele de gaze naturale ale căruia urmează a fi
+sau sunt racordate la rețeaua de transport al gazelor naturale a altui OST, la reţeaua de
+distribuţie a gazelor naturale a altui OSD sau de operatorul de sistem proprietar al
+echipamentului de măsurare.
+
+### Punctul 25. Echipamentele de măsurare utilizate la măsurarea gazelor naturale, trebuie să fie
+legalizate, puse la dispoziţie pe piaţă și verificate metrologic în conformitate cu Legea
+metrologiei nr. 19/2016 (în continuare Legea metrologiei), Hotărârii Guvernului nr.
+1042/2016 cu privire la aprobarea Listei oficiale a mijloacelor de măsurare şi a măsurărilor
+supuse controlului metrologic legal și să fie incluse în Registrul de stat al mijloacelor de
+măsurare, conform Legii nr. 108/2016 cu privire la gazele naturale.
+
+### Punctul 26. Echipamentul de măsurare instalat în punctul de măsurare comercială de
+Categoria A-E trebuie să înregistreze și să memoreze valorile și parametrii necesari cel
+puţin 35 de zile, fără ca exactitatea de măsurare a acestuia să fie afectată şi trebuie să
+asigure citirea indicatiilor atât pe loc, cât şi de la distanţă prin sistemul automatizat de
+citire a datelor.
+
+### Punctul 27. Sursele de alimentare cu energie electrică a echipamentului de măsurare nu vor
+fi utilizate pentru alimentarea altor aparate şi sisteme. Echipamentul de măsurare poate fi
+utilizat numai pentru destinaţia prevăzută - măsurarea volumelor, cantităților şi
+parametrilor gazelor naturale.
+
+### Punctul 28. Montarea echipamentelor de măsurare se îndeplineşte în conformitate cu
+proiectele coordonate cu OSD/OST, iar la punerea în funcţiune se întocmeşte procesul-
+verbal de dare în exploatare a echipamentului de măsurare, conform modelului stabilit în
+Regulamentul privind racordarea.
+
+### Punctul 29. Echipamentele de măsurare utilizate trebuie să corespundă parametrilor fluxului
+de gaze (debit, presiune, temperatură) şi mediului în care acestea sunt montate şi
+exploatate, precum şi posibilităţii de a fi conectate la sistemul automatizat de citire a
+datelor la distanță al OST, OSD şi/sau al consumatorului final.
+
+### Punctul 30. La măsurarea gazelor naturale utilizate pentru necesităţile tehnologice în
+instalaţiile şi edificiile ce aparţin operatorilor de sistem, vor fi folosite echipamente de
+măsurare ce corespund cerinţelor stabilite pentru punctul de măsurare comercială de
+categoria respectivă, conform pct. 22.
+
+### Secțiunea 2
+Cerinţe tehnice pentru echipamentul
+
+de măsurare de Categoria A
+
+
+### Punctul 31. Caracteristicile tehnice şi parametrii echipamentului de măsurare ce va fi instalat
+în punctul de măsurare comercială de categoria A se stabilesc de comun acord de către
+operatorii de sistem, inclusiv operatori sistemelor de transport din țările vecine, în baza
+acordurilor de operare/interconectare în conformitate cu prevederile Codului reţelelor de
+gaze naturale aprobat prin Hotărârea ANRE nr. 420/2019, cu respectarea cerinţelor faţă de
+clasa de precizie necesară a echipamentului de măsurare.
+
+### Punctul 32. OST este obligat să instaleze echipamente de măsurare cu posibilitatea măsurării
+și înregistrării orare a gazelor naturale, care asigură:
+
+1) măsurarea volumelor de gaze naturale în condiţii de lucru şi conversia acestora la
+condiţii standard;
+
+2) determinarea calităţii gazelor naturale în flux, înregistrarea automată şi arhivarea
+parametrilor gazelor naturale (presiunea, temperatura de lucru şi parametrii fizico-chimici);
+
+3) posibilitatea conectării echipamentului de măsurare la sistemul automatizat de
+citire la distanţă a indicatiilor şi a parametrilor gazelor naturale (presiunea, temperatura
+gazelor natuale);
+
+4) înregistrarea timpului defectării echipamentului de măsurare şi a timpului
+depăşirii parametrilor metrologici normati;
+
+5) stocarea datelor/informatiilor pe parcursul a cel putin 35 zile.
+
+### Punctul 33. OST este responsabil de integritatea echipamentelor de măsurare şi a sigiliilor
+aplicate, de instalarea, de exploatarea, de verificarea metrologică periodică, de repararea şi
+de înlocuirea echipamentulelor de măsurare instalate la punctele de interconectare
+transfrontaliere.
+
+### Secțiunea 3
+Cerinţe tehnice pentru echipamentul
+de măsurare de categoria B
+
+### Punctul 34. Parametrii, cerinţele fata clasa de precizie şi caracteristicile tehnice ale
+echipamentului de măsurare ce va fi instalat în punctul de măsurare comercială de
+categoria B se stabilesc de OST sau de OSD şi se indică în avizul de racordare.
+
+### Punctul 35. Solicitantul este obligat să instaleze echipament de măsurare cu posibilitatea
+măsurării și înregistrării orare a gazelor naturale care asigură:
+
+1) măsurarea volumelor de gaze naturale în condiţii de lucru şi conversia acestora la
+condiţii standard;
+
+2) înregistrarea automată şi arhivarea parametrilor de lucru ai gazelor naturale
+(presiunea, temperatura gazelor naturale);
+
+3) posibilitatea conectării echipamentului din sistemul de măsurare la sistemul
+
+
+automatizat de citire la distanţă a indicatiilor şi a parametrilor (presiune, temperatura)
+gazelor naturale;
+
+4) înregistrarea timpului funcţionării în afara domeniului de măsurare a diferitor
+parametri (temperatură, presiune, debit) și stocarea în alt registru de memorie a volumului
+necorectat înregistrat în aceste perioade;
+
+5) stocarea datelor pe parcursul a cel puţin 35 zile.
+
+### Punctul 36. OSD, reţelele căruia sunt racordate la reţelele de distribuţie a gazelor naturale
+ale altui OSD, este responsabil de integritatea echipamentului de măsurare şi a sigiliilor
+aplicate de ambele părţi.
+
+Consumatorii finali, instalaţiile de utilizare ale cărora sunt racordate la reţeaua de
+transport al gazelor naturale, sunt responsabili de integritatea echipamentului de măsurare
+şi a sigiliilor aplicate. Producătorii instalaţiile cărora sunt racordate la rețeaua de gaze
+naturale, sunt responsabili de integritatea echipamentului de măsurare şi a sigiliilor
+aplicate.
+
+### Secțiunea 4
+Cerinţe tehnice pentru echipamentul
+de măsurare de categoriile C, D și E
+
+### Punctul 37. Parametrii, cerinţele fata de clasa de precizie şi caracteristicile tehnice ale
+echipamentului de măsurare ce va fi instalat în punctul de măsurare comercială de
+categoriile C, D şi E se stabilesc de către OSD şi se indică solicitantului în avizul de
+racordare la reţeaua de distribuţie a gazelor naturale.
+
+### Punctul 38. Pentru punctele de măsurare comercială de categoria C și D solicitantul este
+obligat să instaleze echipamentul de măsurare conform avizului de racordare cu
+posibilitatea măsurării și înregistrării orare a gazelor naturale.
+
+### Punctul 39. Echipamentul de măsurare instalat în punctul de măsurare comercială de
+categoriile C, D şi E dotat cu contor cu pistoane rotative, cu turbină, cu ultrasunet, cu
+element deprimogen, ce va include convertorul de volum cu posibilitatea măsurării și
+înregistrării orare a gazelor naturale, va asigura:
+
+1) măsurarea volumelor, cantităților de gaze naturale în condiţii de lucru şi conversia
+acestora prin dispozitiv încorporat sau prin convertor de volum, la condiţii standard;
+
+2) înregistrarea automată şi arhivarea parametrilor de lucru a gazelor naturale
+(presiunea, temperatura gazelor naturale);
+
+3) posibilitatea conectării echipamentului de măsurare la sistemul automatizat de
+citire la distanţă a indicatiilor şi a parametrilor gazelor naturale;
+
+4) stocarea datelor (temperatura, presiune, debit, volum ș.a) pe parcursul a cel puţin
+35 zile;
+
+
+5) înregistrarea timpului funcţionării în afara domeniului de măsurare a unor
+parametri (debit) și stocarea în alt registru de memorie a volumului necorectat înregistrat în
+aceste perioade.
+
+### Punctul 40. Echipamentul de măsurare instalat în punctul de măsurare comercială de
+categoria C, dotat cu contor cu pereţi deformabili, ce va include convertor de volum cu
+posibilitatea măsurării și înregistrării orare a gazelor naturale va asigura:
+
+1) măsurarea volumelor de gaze naturale în condiţii de lucru şi conversia acestora la
+condiţii standard;
+
+2) înregistrarea automată şi arhivarea datelor privind temperatura, presiunea, debitul
+gazelor naturale;
+
+3) posibilitatea conectării echipamentului de măsurare la sistemul automatizat de
+citire la distanţă a indicatiilor echipamentului de măsurare și parametrilor gazelor naturale;
+
+4) stocarea datelor (temperatura, presiune, debit, volum ș.a) pe parcursul a cel puţin
+35 zile;
+
+5) înregistrarea timpului funcţionării în afara domeniului de măsurare a unor
+parametri (debit) și stocarea în alt registru de memorie a volumului necorectat înregistrat în
+aceste perioade.
+
+### Punctul 41. Echipamentul de măsurare instalat în punctul de măsurare comercială de
+categoria D şi E, dotat cu contor cu pereţi deformabili, va asigura:
+
+1) măsurarea volumelor de gaze naturale în condiţii de lucru şi conversia
+temperaturii, prin dispozitiv încorporat sau prin convertor de volum, la condiţii standard;
+
+2) posibilitatea conectării echipamentului de măsurare, la sistemul automatizat de
+citire la distanţă a indicatiilor şi a parametrilor gazelor naturale.
+
+### Secțiunea 5
+Cerinţe tehnice pentru echipamentul
+de măsurare de categoria F
+
+### Punctul 42. Parametrii, cerinţele fata de clasa de precizie necesară şi caracteristicile tehnice
+ale echipamentului de măsurare, ce va fi instalat în punctul de măsurare comercială de
+categoria F, se stabilesc de către OSD şi se indică în avizul de racordare la reţeaua de
+distribuţie a gazelor naturale.
+
+### Punctul 43. OSD este responsabil de instalarea, exploatarea, întreţinerea şi verificarea
+metrologică periodică a EM instalat în PM de categoria F, cu excepţia cazurilor cînd
+consumatorul casnic a solicitat instalarea unui echipament de măsurare inteligent, care
+permite înregistrarea orară a cantităților (volumelor) de gaze naturale consumate.
+
+### Punctul 44. Cheltuielile legate de procurarea, instalarea, sigilarea, verificarea metrologică,
+
+
+întreţinerea, repararea și înlocuirea echipamentelor de măsurare instalate în punctele de
+măsurare comercială de categoria F se suportă de către OSD, cu excepţia situațiilor în care
+consumatorul casnic solicită instalarea unui echipament inteligent, care permite
+înregistrarea orară a cantităților de gaze naturale consumate. În acest din urmă caz,
+consumatorul casnic respectiv suportă cheltuielile de procurare, întreținere și înlocuire a
+echipamentului de măsurare respectiv.
+
+## Capitolul III
+CARACTERISTICI METROLOGICE ALE
+ECHIPAMENTELOR DE MĂSURARE UTILIZATE
+PE PIAŢA GAZELOR NATURALE
+### Secțiunea 1
+Echipamentele de măsurare cu element deprimogen
+
+### Punctul 45. Echipamentul de măsurare cu element deprimogen este alcătuit din următoarele
+componente:
+
+1) tronsoane de conducte în amonte şi în aval;
+2) element primar:
+
+3) element deprimogen de tipul:
+
+a) diafragmă cu prize de presiune în unghi;
+
+b) diafragmă cu prize de presiune la flanşe;
+
+c) diafragmă cu prize de presiune la L, şi L, (diafragmele se pot monta în dispozitive
+port-diafragmă).
+
+4) elemente auxiliare, care sunt ţevi de impuls pentru preluarea parametrilor gazelor
+naturale;
+
+5) elemente secundare (traductoare), care pot fi:
+a) traductoare de presiune;
+
+b) traductoare de presiune diferenţială;
+
+c) traductoare de temperatură (termorezistenta);
+d) traductoare multivariabile sau de densitate.
+
+### Punctul 46. Elementele secundare din sistem, respectiv traductoarele de presiune, de
+presiune diferenţială, multivariabile sau de densitate, nu trebuie să depăşească o eroare
+maximă:
+
+
+1) de + 0,1 % şi de temperatură + 0,35" C la măsurarea gazelor naturale în reţelele
+de transport pentru punctele de măsurare comercială de categoria A;
+
+2) de +0,25 % şi de temperatură + 0,5° C pentru măsurarea gazelor naturale la
+punctele de măsurare comercială de categoriile B, C, D, E).
+
+### Punctul 47. Calculatorul de debit al echipamentului de măsurare cu element deprimogen
+(incluzând toate traductoarele) va avea eroarea maximă admisă de calculare a volumului
+corectat de + 0,5 % valoare care include şi erorile măsurării temperaturii şi a presiunii
+diferenţiale.
+
+### Secțiunea 2
+Echipamentul de măsurare compus din contor
+de gaze naturale cu pistoane rotative sau cu turbină
+
+### Punctul 48. Echipamentul de măsurare constituit din contor cu pistoane rotative sau cu
+turbine, poate fi de două configurații:
+
+1) configuraţia I;
+
+a) contor cu pistoane rotative sau contor cu turbină;
+b) convertor de volum care poate fi de două tipuri:
+
+- complet (cu traductoare integrate);
+
+- cu traductoare externe;
+
+2) configuraţia II;
+
+a) contor cu pistoane rotative sau contor cu turbină;
+b) traductoare:
+
+- de presiune şi de temperatură;
+
+- de densitate;
+
+c) convertor de volum.
+
+### Punctul 49. Convertoarele de volum trebuie să fie conforme prevederilor SM EN 12405
+Contoare de gaz. Dispozitive de conversie Partea 1: Conversia volumului de gaz.
+
+### Punctul 50. Conform NML 3-11:2018 cu referire la SM EN 12480:2018 „Contoare de gaz.
+Contoare de gaz cu pistoane rotative”, aprobat prin Hotărârea Institutului de Standardizare
+din Moldova nr.234 din 22.08.2018, erorile admise la verificarea metrologică iniţială pentru
+contoarele cu pistoane rotative sau cu turbină sunt:
+
+1) Quin) < Q < Qy, eroarea maximă este de + 2 %;
+
+
+2) pentru pentru Q,, < Q < Quay, eroarea maximă este de + 1 %,
+unde:
+
+Qinax) - debitul maxim la care echipamentul furnizează indicaţii care satisfac cerinţele
+cu privire la erorile maxime admise;
+
+Qin - debitul minim la care echipamentul furnizează indicaţii care satisfac cerinţele
+cu privire la erorile maxime admis
+
+Qi) - debitul de tranzit este debitul care desparte domeniul de debit în două zone
+distincte având erori maxime admise diferite.
+
+3) Q u - valoarea debitului de tranzit în funcţie de raportul Qinav/Qimin, se redă în tabela
+de mai jos.
+
+Contoare cu turbină Contoare cu pistoane rotative
+Raport Qn /Qan e Raport Qos) / Qi  Q;
+
+10:1 0,20 Qin) << 20:10 0,20 Qian
+20:1 0,20 Qin) 3021 0,15 Qian
+30:1 0,15 Qin) 5021 0,10 Qenax
+50:1 0,10 Qinaxy > 5021 0,05 Qtnan
+
+### Secțiunea 3
+Echipamentul de masurare compus din contor
+de gaze naturale cu ultrasunet
+
+### Punctul 51. Echipamentul de măsurare ultrasonic din punctul de măsurare comercială care
+are în componenţă contor cu ultrasunet este alcătuit din:
+
+1) contor cu ultrasunete;
+
+2) traductoare, care pot fi:
+
+a) de presiune şi de temperatură;
+b) de densitate;
+
+3) convertor de volum.
+
+### Punctul 52. Sistemul ultrasonic de măsurare este reglementat de ISO 17089-1:2018
+Măsurarea debitului fluidelor în conducte închise. Contoare cu ultrasunet pentru gaz.
+
+Partea 1: Contoare pentru tranzacţii comerciale şi distribuţie”
+Contoarele de gaze naturale cu ultrasunet nu trebuie să depășească eroarea maximă:
+
+1) 0,7% la măsurarea gazelor naturale în reţelele de transport la punctele de
+măsurare comercială de categoria A;
+
+2) la măsurarea gazelor naturale la punctele de măsurare comercială de categoriile B,
+
+
+C, D și E conform tabelului:
+
+Debit,m*/h Erori maxim tolerate:
+
+Verificarea initiala/ după reparare Verificare periodică
+
+Clasa de precizie Clasa de precizie
+
+1,0 1,5 1,0 1,5
+QminsQ <Q.<q.q +2,0% +3,0% +4,0% +6,0%
+QESQ <Qnec<Ceig +1,0% +1,5% 22,0% 3,0%
+
+### Secțiunea 4
+Echipamentul de măsurare compus din contor
+de gaze naturale cu pereţi deformabili
+
+### Punctul 53. Sistemul de măsurare care este compus din contor de gaze naturale cu pereţi
+deformabili şi din convertor de volum mecanic sau electronic, care transformă în regim
+automat volumul de gaze naturale măsurat în condiţii de lucru în volum de gaze naturale la
+condiţii standard şi sunt utilizate la măsurarea gazelor naturale furnizate consumatorilor
+non-casnici urmează să corespundă prevederilor SM SR EN 1359:2011/A1:2011).
+
+Sectinea 5
+Calculatoare de debit și convertoare de volum
+
+### Punctul 54. Factorul de compresibilitate Z se va calcula în conformitate cu EN ISO 12213-1,
+EN ISO 12213-2 și EN ISO 12213-3. Calcul pe baza analizei compoziţiei molare.
+
+### Punctul 55. Convertorul de volum trebuie să afişeze volumul corectat fără utilizarea unor
+echipamente adiţionale. Afişarea volumului corectat trebuie sa se facă de regulă la nivel de
+unitate de volum. Prin acordul părţilor implicate, la măsurarea gazelor naturale, pentru
+indicarea volumului corectat se pot utiliza afişaje de tipul 10n unităţi de volum.
+
+### Punctul 56. Convertorul nu trebuie să influenţeze funcţionarea corectă a contorului.
+
+### Punctul 57. Convertorul trebuie să sesizeze funcţionarea în afara domeniului de măsurare a
+diferitor parametri (temperatură, presiune, debit). În acest caz echipamentul de măsurare
+va opri calcularea volumului corectat şi va stoca în alt registru de memorie volumul
+necorectat înregistrat de contor sau corectat cu valori de presiune şi temperatură de
+substituție prestate. Valorile de presiune şi temperatură de substituție vor fi precizate de
+către operatorul de sistem care predă gazele naturale şi vor fi coordonate de către
+beneficiar.
+
+### Punctul 58. Bateria de alimentare a convertorului trebuie să aibă o durată de funcţionare de
+cel puţin cinci ani sau convertorul de volum poate să fie conectat la o sursă de electricitate.
+La descărcarea bateriei de alimentare la nivel de 90 % din capacitatea ei, convertorul
+trebuie să afişeze un semnal de avertizare vizibil pe ecran.
+
+### Punctul 59. Convertoarele de volum şi mecanismele indicatoare ale contoarelor cu pistoane
+rotative sau cu turbină trebuie să aibă un grad de protecţie la impurități lichide şi solide de
+minimum IP65.
+
+
+### Punctul 60. Convertoarele de volum pot fi echipate cu imprimantă în vederea tipăririi
+declaraţiei de configurare, a consumurilor sau a parametrilor de livrare a gazelor naturale
+ori să dispună de o interfaţă care, prin conectare la un calculator, va da posibilitatea citirii
+indicatorilor menţionaţi.
+
+### Punctul 61. Calculatoarele de debit vor afişa toate alarmele sau, separat, consumul
+înregistrat în timpul alarmelor.
+
+### Punctul 62. Pentru a asigura continuitatea alimentării cu energie electrică a echipamentelor
+de măsurare electronice acestea vor fi prevăzute cu surse neîntreruptibile de energie cu
+autonomie de cel puţin 24 ore. În cazul în care sistemul de măsurare este echipat cu grup
+electrogen automat, autonomia sursei neîntreruptibile de energie trebuie sa fie de cel puţin
+12 ore.
+
+### Secțiunea 6
+Traductoare
+
+### Punctul 63. Pentru a evita erorile introduse de variaţia presiunii atmosferice pentru
+măsurarea presiunii se vor utiliza traductoare de presiune absolută. Pentru presiuni
+absolute ale gazelor naturale de peste 21 bar (2,1 MPa) se pot utiliza şi traductoare de
+presiune relativă, presiunea atmosferică considerând-o ca o constantă egală cu 1 bar (0,1
+MPa).
+
+### Punctul 64. Elementul sensibil al termorezistentei trebuie sa fie alcătuit din metale pure.
+Termorezistenta va fi de tip cu cel putin 3 fire conform cerințelor stipulate in SM SR EN
+60751:2012.
+
+## Capitolul IV
+PROIECTAREA, MONTAREA, EXPLOATAREA,
+VERIFICAREA METROLOGICĂ ȘI REPARATIA
+
+ECHIPAMENTELROR DE MĂSURARE
+### Secțiunea 1
+Proiectarea echipamentelor de măsurare
+
+### Punctul 65. Echipamentul de măsurare trebuie să corespundă cerințelor stabilite în avizul de
+racordare/ condițiilor tehnice de interconectare și proiectului care se coordonează cu
+operatorul de sistem.
+
+### Punctul 66. Montarea echipamentului de măsurare va fi realizată conform proiectului astfel
+încât să fie asigurată funcţionarea corectă a acestuia pentru întregul domeniu de debit,
+presiuni şi temperaturi specificate în avizul de racordare și/sau condiţiilor tehnice de
+interconectare. Pentru cazul in care sunt prezente impurități solide şi lichide în gazele
+naturale, la proiectare se vor prevedea separatoare şi filtre adecvate la echipamentele de
+măsurare a gazelor naturale astfel încât să asigure continuitatea furnizării în condiţii de
+
+
+siguranţă, inclusiv în timpul efectuării operaţiunilor de întreţinere. În cazuri extreme
+trebuie să fie posibilă separarea echipamentului de măsurare de conducta situată în amonte
+şi în aval prin robinete de sectionare cu închidere rapidă în condiţii de siguranţă.
+
+### Punctul 67. Pentru cazurile in care este posibilă curgerea bidirectionala a gazelor naturale
+prin echipamentul de măsurare şi acest lucru este de natură să afecteze măsurarea corectă,
+este obligatorie montarea unei clapete de sens unic. La nodurile de măsurare bidirectionale
+a gazelor naturale la punctele de măsurare comercială de categoria A, la care schimbarea
+direcției fluxului spre măsurare se îndeplinește cu ajutorul închiderii sau deschiderii
+robinetelor stabilite în o ordine specială toate robinetele se dublează, pentru excluderea
+curgerii gazelor naturale ocolind echipamentul de măsurare și pentru asigurarea
+posibilității verificării etanseitatii lor.
+
+### Punctul 68. În cazul în care un singur echipament de măsurare nu poate acoperi întreg
+domeniul de debit, pentru respectivul consumator final se vor alege două sau mai multe
+echipamene de măsurare, instalate în aşa mod încât să se poată utiliza simultan sau
+alternativ în funcţie de debitul solicitat de consumatorul final în anumite perioade, astfel
+încât înregistrarea consumului de gaze naturale furnizate să nu fie afectată de debitele
+extreme.
+
+### Punctul 69. La proiectarea staţiei de predare, diametrul interior al conductelor situate în
+amonte de elementul de reglare a presiunii se va calcula astfel încât viteza de curgere a
+gazelor naturale să fie de maximum 30 m/s. Excepţie fac echipamentele de măsurare din
+punctele de măsurare comercială amplasate în sistemul de distribuţie, unde viteza de
+curgere a gazelor naturale trebuie să fie de maximum 20 m/s. Pentru determinarea
+diametrului interior al conductelor situate în aval de elementul de reglare se va lua în calcul
+o viteză de maximum 20 m/s.
+
+Excepţie de la această regulă vor face conductele situate în amonte şi în aval de
+elementul deprimogen sau de contorul de gaze naturale, prin care, indiferent dacă se află
+înaintea sau după elementul de reglare a presiunii, se limitează viteza maximă la 20 m/s.
+
+### Punctul 70. Robinetele aflate în amonte şi în aval de echipamentul de măsurare vor fi cu
+deschidere completă la dimensiunea diametrului interior al conductelor. Această condiţie nu
+este obligatorie în cazul utilizării contoarelorcu pistoane rotative.
+
+### Punctul 71. În cazul proiectării mai multor linii de măsurare a gazelor naturale, numărul
+acestora trebuie să fie ales astfel încât debitul maxim în punctul de măsurare comercială a
+gazelor naturale să poată fi măsurat cu o linie închisă şi cu celelalte linii funcţionând în
+condiţiile specificate.
+
+### Punctul 72. Odorizarea gazelor naturale nu trebuie să influenţeze performanţele
+echipamentului de măsurare. Amplasarea instalaţiei de odorizare se va face în aval de
+echipamentul de măsurare.
+
+### Punctul 73. Orice mijloc de măsurare care se conectează la echipamentul de măsurare nu
+trebuie să influenţeze exactitatea măsurării.
+
+### Secțiunea 2
+
+
+Montarea și darea în exploatare
+a echipamentului de măsurare
+
+### Punctul 74. Se admite instalarea doar a echipamentelor de măsurare admise pentru utilizare
+pe teritoriul Republicii Moldova conform Legii metrologiei nr. 19/2016.
+
+### Punctul 75. La scara blocului locativ, la blocul locativ sau la un grup de blocuri locative poate
+fi utilizat, în scopul măsurării gazelor naturale consumate, doar echipament de măsurare
+care corespunde cerinţelor tehnice stabilite, verificat metrologic, verificarea fiind
+confirmată prin buletinul de verificare metrologică. Echipament de măsurare trebuie să fie
+sigilat cu sigiliul OSD şi, după caz, cu sigiliul administratorului blocului locativ.
+
+### Punctul 76. La punerea în funcţiune a echipamentului de măsurare se întocmeşte procesul
+verbal de dare în exploatare a echipamentului de măsurare. Operatorul de sistem, furnizorul
+au acces la echipamentul de măsurare care se află pe teritoriul consumatorului final
+instalaţia de utilizare a căruia este racordată la reţeaua de gaze naturale.
+
+### Secțiunea 3
+Condiţii de montare a echipamentelor de măsurare
+
+### Punctul 77. Montarea echipamentului de măsurare se realizează conform proiectului,
+cerinţelor prezentului Regulament şi ale altor documente normativ-tehnice în domeniu.
+Montarea se efectuează de către organizatiile/persoanele autorizate să efectueze astfel de
+lucrări conform Legii nr. 116/2012 privind securitatea industrială a obiectelor industriale
+periculoase.
+
+### Punctul 78. Echipamentul de măsurare se montează în încăpere, dulap sau cutie, asigurând
+posibilitatea citirii indicatiilor şi a deservirii tehnice a acestora. Este permisă montarea
+echipamentului de măsurare în aer liber într-o cutie închisă sau dulap, cu condiţia că o
+astfel de instalare va asigura conversia la condiţii standard a volumelor de gaze naturale
+măsurate şi nu va influenţa la exactitatea măsurărilor.
+
+### Punctul 79. La echipamentele de măsurare cu element deprimogen se recomandă respectarea
+condiţiilor de montare pentru elementul primar. Elementele secundare se vor monta astfel
+încât să poată fi izolate de proces pentru a fi examinate (controlate) pe teren sau
+transportate la laboratorul metrologic şi supuse verificării metrologice.
+
+### Punctul 80. La echipamentele de măsurare cu contoare cu pistoane rotative, cu turbină şi/sau
+ultrasonice, pentru a asigura un profil uniform al curgerii (fluxului) gazelor naturale, se
+prevăd porţiuni de conductă rectilinii, fără obstacole, deviații, prize de presiune în amonte si
+în aval de contor. Cerinţele către lungimile tronsoanelor aflate în amonte şi în aval de contor
+prezentate în documentele normativ-tehnice corespunzătoare sunt obligatorii pentru
+executare.
+
+Lungimile rectilinii pot fi reduse prin montarea dispozitivelor de uniformizare a
+curgerii (fluxului) gazelor naturale, în conformitate cu standardele aplicabile fiecărei
+metode de măsurare.
+
+
+### Secțiunea 4
+Montarea traductoarelor de temperatură, de
+presiune statică și diferenţială, multivariabile
+și de densitate
+
+### Punctul 81. Traductoarele electronice de temperatură, de presiune statică, de presiune
+diferenţială, multivariabile şi de densitate se pot monta în cutii termostate pentru a asigura
+o temperatură de lucru corespunzătoare exactitatii indicatiilor, dacă prin aprobarea de
+model nu se specifică altfel.
+
+### Punctul 82. Traductoarele de temperatură se montează în conformitate cu cerinţele
+documentelor normativ-tehnice pentru fiecare tip de echipament de măsurare. De preferinţă
+locul montării acestora se alege în aval de contor.
+
+### Punctul 83. Pentru asigurarea măsurării corecte a temperaturii, traductorul de temperatură
+trebuie sa pătrundă în interiorul conductei la o adâncime de 0,3-0,7 D. Teaca pentru
+traductorul de temperatură se va monta conform prevederilor cerinţelor tehnice specifice
+fiecărui tip de contor.
+
+### Punctul 84. Traductoarele de temperatură, de presiune statică, de presiune diferenţială şi
+multivariabile se montează astfel încât să poată fi izolate de proces, pentru a fi verificate şi
+calibrate. Robinetele de izolare trebuie să aibă posibilitatea de sigilare pentru a se
+preîntâmpina închideri accidentale care pot afecta calitatea măsurării.
+
+### Punctul 85. În cazul în care se utilizează un alt echipament de măsurare decât cel cu element
+deprimogen, mostra de gaze naturale pentru traductorul de densitate trebuie prelevată de
+la priza de presiune a contorului, marcată. Conducta de legătură între punctul de prelevare
+şi traductorul de densitate trebuie sa fie izolată termic pentru a minimiza efectul
+temperaturii exterioare.
+
+### Punctul 86. În cazul în care se utilizează traductoare de densitate care se montează în
+conductă, acestea se vor monta numai în aval de contor/sistem sau echipament de măsurare
+pentru a se evita deformarea profilului curgerii (fluxului) gazelor naturale. Această condiţie
+nu este obligatorie în cazul contoarelor cu pistoane rotative.
+
+### Punctul 87. Recepţia în exploatare a echipamentului de măsurare se face în prezenţa
+personalului părţilor aflate în relaţii contractuale, cu întocmirea şi semnarea de către părţi a
+procesului-verbal de dare în exploatare.
+
+### Secțiunea 5
+Deservirea tehnică a echipamentelor de măsurare
+
+### Punctul 88. Deservirea tehnică a echipamentelor de măsurare se execută de către persoane
+calificate, responsabile de deservirea şi repararea utilajelor de gaze naturale, conform
+prevederilor documentelor normativ-tehnice în domeniul securităţii industriale. Lucrările
+
+
+date se execută de către proprietarul echipamentului de măsurare, iar după caz, acestea pot
+fi executate de către terțe persoane, în baza de contract.
+
+### Punctul 89. Concomitent cu deservirea tehnică a echipamentului de măsurare se va efectua şi
+controlul vizual al echipamentului de măsurare privind:
+
+1) integritatea contorului (defecţiuni mecanice);
+
+2) prezenţa sigiliilor, starea şi corespunderea lor amprentei indicate în procesul-
+verbal de dare în exploatare a echipamentului de măsurare;
+
+3) corespunderea datelor indicate pe echipamentul de măsurare cu datele din
+paşaport (tip, numărul contorului, anul fabricaţiei ş. a.);
+
+4) prezenţa indicatiei pe contor a sensului curgerii fluxului de gaze naturale;
+
+5) prezenţa amprentelor (semnelor) de intervenţie din partea consumatorului final în
+mecanismul echipamentului de măsurare sau de deconectare a lui de la conducta de gaze
+naturale;
+
+6) corespunderea schemei de conectare cu schema de proiect.
+
+### Punctul 90. Pentru contoarele cu pereţi deformabili, cu ocazia citirii indicatiilor, se va efectua
+controlul vizual al echipamentului de măsurare în vederea constatării deteriorărilor sau a
+degradării protecţiei anticorosive.
+
+### Punctul 91. Controlul corectitudinii indicaţiilor contorului de gaze naturale cu pereţi
+deformabili se face, de regulă, pornind (la sarcină minim posibilă) un arzător de la aragaz şi
+urmărind dacă se schimbă uniform indicatia contorului (a treia cifră după virgulă). În acest
+scop, pornirea arzătorului respectiv este efectuată de către consumatorul final sau de
+reprezentantul consumatorului final.
+
+### Punctul 92. La contoarele cu pistoane rotative este necesară instalarea unui dispozitiv pentru
+urmărirea valorii căderii de presiune pe contor. Creşterea acesteia peste valoarea normală
+dată de producător semnifică apariţia unei defecţiuni mecanice sau a unui blocaj.
+Responsabilul pentru măsurare este obligat să sesizeze operatorul de sistem privind faptul
+respectiv, astfel încât să fie întreprinse măsuri de urgenţă pentru stabilirea motivului. În
+acest caz, părţile vor decide dacă este necesară examinarea pe stand a contorului.
+
+### Punctul 93. În cazul în care în rezultatul expertizei metrologice s-a constatat că echipamentul
+de măurare nu corespunde cerinţelor, acesta se reapară sau se înlocuiește cu un alt
+echipament de măsurare.
+
+### Punctul 94. Operatorul de sistem, furnizorul, consumatorul final sunt în drept să iniţieze
+efectuarea verificării metrologice de expertiză a echipamentului de măsurare.
+
+### Punctul 95. În funcţie de condiţiile concrete, în special cu privire la calitatea gazelor naturale
+(impurități lichide şi solide), la echipamentele de măsurare cu element deprimogen se vor
+verifica şi următoarele:
+
+
+1) diametrul „d” al diafragmei;
+2) integritatea şi ascutisul muchiilor diafragmei;
+
+3) existenţa depunerilor în conductele din amonte şi din aval de elementul
+deprimogen şi pe feţele diafragmei;
+
+4) concentricitatea diafragmei cu conductele din amonte şi din aval.
+### Secțiunea 6
+Verificarea metrologica și reparația
+echipamentelor de măsurare
+
+### Punctul 96. Verificarea metrologică a echipamentelor de măsurare se efectuează în
+laboratoarele desemnate de Institutul Naţional de Metrologie, în conformitate cu
+prevederile Legii metrologiei nr. 19/2016. Consumatorul noncasnic suportă cheltuielile
+pentru reparația şi verificarea metrologică periodică a echipamentului de măsurare. Pentru
+consumatorii casnici cheltuielile pentru verificarea metrologică se suportă de OSD.
+
+### Punctul 97. În cazul în care deteriorarea/defectarea echipamentului de măsurare are loc din
+vina consumatorului casnic, acesta suportă cheltuielile de demontare, reparare, verificare
+metrologică, montare sau înlocuire a echipamentului de măsurare deteriorat, şi este obligat
+să achite contravaloarea consumului recalculat de gaze naturale. În cazul în care
+echipamentul de măsurare nu se poate repara, consumatorul casnic achită operatorului de
+sistem contravaloarea echipamentului de măsurare deteriorat din vina lui. Operatorul de
+sistem instalează un echipament de măsurare la locul de consum al consumatorului casnic
+în termen de cel mult 1 zi lucrătoare din data înregistrării cererii consumatorului casnic.
+
+### Punctul 98. Periodicitatea verificării metrologice a echipamentelor de măsurare este stabilită
+în Lista oficială a mijloacelor de măsurare şi a măsurărilor supuse controlului metrologic
+legal (Categoriile și sortimentele mijloacelor de măsurare supuse controlului metrologic
+legal), aprobată prin Hotărârea Guvernului nr. 1042 /2016 cu privire la aprobarea Listei
+oficiale a mijloacelor de măsurare şi a măsurărilor supuse controlului metrologic legal.
+
+### Punctul 99. În cazul expirării termenului de valabilitate al verificării iniţiale CE (din momentul
+acordării ei, pînă la finele anului următor celui în care a fost aplicat marcajul de verificare
+iniţială CE), deteriorării mărcii de verificare metrologică sau al punerii în exploatare a
+echipamentului de măsurare după o depozitare îndelungată (mai mult de jumătate din
+termenul dintre două verificări metrologice), echipamentul de măsurare se prezintă la
+expertiză metrologică.
+
+### Punctul 100. Părţile contractante pot iniţia expertiza metrologică a echipamentului de
+măsurare înainte de expirarea intervalului maxim de timp admis între 2 verificări
+metrologice succesive, în cazul în care una dintre părţi are reclamaţii. Dacă în urma
+expertizei metrologice reclamatia se confirma, OSD efectuează recalculări.
+
+### Punctul 101. Expertiza metrologică a echipamentului de măsurare, la solicitarea
+
+
+consumatorului final sau a furnizorului, se efectuează de către un laborator metrologic
+independent, autorizat.
+
+### Punctul 102. În cazul consumatorilor casnici, în locul echipamentului de măsurare demontat
+pentru expertiză metrologică, OSD instalează alt contor din fondul de rulment sau, în lipsa
+acestuia, instalează o punte de conexiune.
+
+### Punctul 103. În cazul instalării unei punți, volumul de gaze naturale, consumate în perioada
+de la instalarea punţii şi până la instalarea echipamentului de măsurare, va fi calculat în
+conformitate cu prevederile stabilite în pct. 120 din Regulament.
+
+## Capitolul V
+CONVERSIA VOLUMELOR DE GAZE NATURALE
+ÎN UNITĂŢI DE ENERGIE
+### Secțiunea 1
+Prevederi generale
+
+### Punctul 104. Conversia volumelor de gaze naturale în unităţi de energie se efectuiază
+aplicând formula:
+
+E=V,xH,
+unde:
+E - energia gazelor naturale, exprimată in kWh;
+V, - volumul de gaze naturale convertit la condiţii standard, exprimat în ms;
+H, - puterea calorifică superioară exprimată in kWh/m’.
+
+### Punctul 105. Determinarea puterii calorifice superioare se efectuează cu utilizarea
+cromatografelor şi higrometrelor online sau de laborator.
+
+### Punctul 106. Aparatele utilizate la determinarea puterii calorifice superioare trebuie să
+îndeplinească prevederile stabilite în Lista oficială a mijloacelor de măsurare și a
+măsurărilor supuse controlului metrologic legal, aprobată prin Hotărârea Guvernului nr.
+1042/2016.
+
+### Punctul 107. Determinarea puterii calorifice superioare este obligaţia OST.
+
+### Punctul 108. În cazul utilizării cromatografelor pentru analiza compoziţiei gazelor naturale,
+se pot lua în considerare prevederile seriei de standarde SR EN ISO 6974 Gaze naturale.
+Determinarea compoziţiei cu o incertitudine definită prin cromatografie în faza gazoasă, iar
+calculul puterii calorifice superioare se poate face în conformitate cu prevederile SR ISO
+6976+C2.
+
+
+### Punctul 109. În situaţia în care se utilizează cromatografe care determină puterea calorifică
+superioară la o temperatură de combustie de 0*C sau 25*C, valoarea puterii calorifice
+superioare astfel determinată se corectează ţinând cont de factorul de corecție specificat în
+SM EN ISO 13443: 2014 Gaz natural - Condiţii standard de referinţă.
+
+### Punctul 110. OST are obligaţia de a publica zilnic pe pagina sa electronică valorile puterii
+calorifice superioare pentru fiecare punct de ieşire din rețeaua de transport a gazelor
+naturale.
+
+### Punctul 111. Furnizorii au obligaţia de informa consumatorii finali prin intermediul facturilor
+lunare, despre informaţiile legate de consumul de gaze naturale exprimat în metri cubi,
+valoarea puterii calorifice superioare folosită la facturare şi cantitatea totală de energie
+consumată.
+
+## Capitolul VI
+ÎNREGISTRAREA INDICATIILOR ECHIPAMENTELOR
+DE MĂSURARE, EVIDENŢA COMERCIALĂ
+ȘI SECURITATEA MĂSURĂRILOR
+### Secțiunea 1
+Documente și înregistrări
+
+### Punctul 112. OST, OSD, după caz, este obligat să posede o arhivă care să conţină informaţii
+cu privire la fiecare punct de măsurare comercială, cu referire la următoarele documente:
+
+1) cartea tehnică a instalaţiei;
+
+2) procese-verbale privind darea în exploatare a echipamentului de măsurare;
+3) acte de configurare; acte de calibrare;
+
+4) registru de înregistrări lunare;
+
+5) registru de avarii;
+
+6) rapoarte de neconformitate întocmite cu ocazia controlului (tehnic, metrologic)
+efectuat;
+
+7) procese-verbale întocmite cu ocazia lichidării neconformitatilor.
+
+### Punctul 113. Pentru fiecare echipament de măsurare OSD/OST păstrează evidenţa
+următoarele date:
+
+1) anul de producere, denumirea echipamentului de măsurare, sigiliile aplicate;
+
+2) numărul şi seria tuturor echipamentelor de măsurare instalate;
+
+
+3) data şi ora înlocuirii elementelor defecte ale echipamentului de măsurare, citirea
+ultimelor indicaţii de pe mecanismele integratoare ale acestora, după caz;
+
+4) data şi ora de început şi de sfârşit a calibrărilor (ajustărilor) şi/sau a verificărilor
+efectuate;
+
+5) rezultatele verificărilor şi/sau ale calibrărilor efectuate;
+
+6) data şi ora la care s-au efectuat modificări în setarea convertoarelor de volum şi
+care sunt acestea;
+
+7) data, ora şi motivul apariţiei alarmelor; data şi ora dispariţiei alarmelor.
+
+### Punctul 114. Toate rapoartele de întreţinere şi de control ale echipamentului de măsurare vor
+fi semnate de persoana care a efectuat operaţiunile respective.
+
+### Secțiunea 2
+Evidenţa comercială a gazelor naturale
+### Punctul 115. Evidenţa gazelor naturale se efectuează pentru:
+
+1) determinarea cantitatilor/volumelor de gaze naturale transportate, distribuite,
+furnizate, utilizate;
+
+2) facturarea şi achitările între părţile contractante.
+
+### Punctul 116. În cazul în care echipamentul de măsurare la consumatorul noncasnic nu este
+instalat în punctul de delimitare, volumul de gaze naturale furnizat se va calcula luându-se
+în considerare consumurile tehnologice și pierderile de gaze naturale în instalația de gaze
+naturale a consumatorului noncasnic, calculate conform Regulamentului privind racordarea
+la reţelele de gaze naturale şi prestarea serviciilor de transport şi de distribuţie a gazelor
+naturale, aprobat prin Hotărârea Consiliului de administraţie al ANRE nr. 112/2019.
+
+[Pct.116 în redacţia HANRE8 din 13.01.23, MO31-34/03.02.23 art.137; în vigoare
+03.02.23]
+
+### Punctul 117. Volumul de gaze naturale furnizat se calculează în baza:
+1) indicatiilor înregistrate de echipamentul de măsurare;
+
+2) consumurilor tehnologice și pierderilor de gaze naturale calculate conform
+Regulamentului privind racordarea la reţelele de gaze naturale şi prestarea serviciilor de
+transport şi de distribuţie a gazelor naturale, aprobat prin Hotărârea Consiliului de
+administraţie al ANRE nr. 112 /2019;
+
+[Pct.117 subpct.2) în redacţia HANRE8 din 13.01.23, MO31-34/03.02.23 art.137; in
+vigoare 03.02.23]
+
+3) contractului încheiat de părţi.
+
+
+### Punctul 118. Domeniul de măsurare a echipamentului de măsurare trebuie să corespundă
+debitului de măsurare minim (Q,,,,) şi debitului de măsurare maxim (Q,,,,). În cazul depistării
+debitului de consum al gazelor naturale mai jos de limita minimă admisă (Qmin) a
+echipamentului de măsurare, volumul de gaze naturale se calculează conform valorii limitei
+minime admise a echipamentului de măsurare.
+
+### Punctul 119. În cazul depistării debitului de consum al gazelor naturale mai mare decât limita
+maximă admisă (Qmax) a echipamentului de măsurare, volumul de gaze naturale se
+calculează de OSD luând în consideraţie indicii corecti de facturare, coeficientul depășirii
+capacităţii de măsurare a limitei maxime admise (Qmax) a echipamentului de măsurare și
+după caz sistemul paușal prin adunarea produselor (Wmax* N), unde Wmax este debitul
+maxim de consum al aparatelor de utilizare nesigilate şi N - numărul de ore de utilizare a
+utilajului nesigilat, stabilite în contract.
+
+ct
+
+### Punctul 120. Pentru perioada verificarii metrologice periodice a echipamentului de masurare
+instalate în punctele de măsurare comercială de categoria F, volumul de gaze naturale
+consumate se va determina în baza consumului mediu zilnic de gaze naturale înregistrat de
+echipamentul de măsurare pe parcursul perioadei calendaristice similare anterioare, cu
+aplicarea după caz coeficienţi de corecție în cazul in care condiţiile meteorologice diferă, iar
+în cazul punctelor de măsuare comercială de categoriile B, C, D și E, volumul de gaze
+naturale se va calcula conform prevederilor contractului de furnizare a gazelor naturale.
+
+### Punctul 121. Lunar, în termen de cinci zile lucrătoare după perioada de facturare OST/OSD şi
+consumatorii non-casnici, întocmesc acte privind volumul gazelor naturale distribuite sau
+transportate.
+
+### Punctul 122. Până la soluţionarea definitivă a divergenţelor dintre OST/OSD şi consumatorul
+final, volumul gazelor naturale furnizate se va determina conform clauzelor contractului de
+furnizare a gazelor naturale.
+
+### Punctul 123. Părţile contractante se vor instiinta reciproc în scris, cu cel putin 3 zile înainte,
+despre intenţia de a efectua lucrările ce ţin de evidenţa gazelor naturale (schimbarea,
+revizia diafragmelor, deconectarea contoarelor precum şi schimbarea bazei de date în EM).
+
+### Punctul 124. În cazul ieşirii din funcţie a echipamentului de măsurare fără vina
+consumatorului final, volumele de gaze naturale furnizate se vor calcula conform
+prevederilor pct. 120 din prezentul Regulament. În celelalte cazuri ale ieşirii din funcţie a
+echipamentului de măsurare, volumele de gaze naturale consumate se vor calcula conform
+Regulamentului privind furnizarea gazelor naturale.
+
+### Secțiunea 3
+Securitatea măsurărilor
+
+### Punctul 125. În vederea asigurării securităţii măsurării, echipamentele de măsurare vor fi
+sigilate de OSD, OST în conformitate cu Legea metrologiei nr. 19/2016 și Regulamentul
+privind racordarea. Sigilarea echipamentelor de măsurare se efectuează de către OSD, OST.
+
+### Punctul 126. Consumatorul final asigură accesul reprezentanţilor furnizorului, ai operatorului
+
+
+de sistem la echipamentul de măsurare pentru efectuarea controlului, a citirii indicatiilor
+acestuia şi asigură accesul la instalaţii de utilizare, conform contractului de furnizare a
+gazelor naturale.
+
+### Punctul 127. Accesul la echipamentul de măsurare se va permite reprezentanţilor OSD și
+furnizorului la prezentarea legitimatiei de serviciu şi în prezenţa consumatorului final sau a
+reprezentantului acestuia.
+
+### Punctul 128. Echipamentele de măsurare aflate în rezervă vor fi izolate etanş prin închiderea
+şi sigilarea robinetelor. La echipamentele de măsurare automatizate, poziţia
+„închis”/„deschis” a robinetelor va fi indicată vizual pe sistemul de monitorizare. Absența
+curgerii fluxului de gaze naturale va fi controlată prin indicaţiile „0” ale unui manometru de
+control, instalat pe sectorul respectiv între robinete.
+
+### Punctul 129. Armatura de închidere din amonte şi din aval de echipamentul de măsurare aflat
+în funcţiune, la care modificarea (micșorarea) ariei sectiunei transversale a conductei
+rectilinii poate denatura indicatiile/functionarea echipamentelor de măsurare instalate
+(sisteme de măsurare cu element deprimogen, în baza contoarelor cu pistoane rotative, cu
+turbină sau cu ultrasunet), se vor sigila în poziţia complet deschisă. La echipamentele de
+măsurare automatizate poziţia ,,inchis”/,deschis” a robinetelor va fi indicată vizual pe
+sistemul de monitorizare.
+
+### Punctul 130. Pentru teletransmisia datelor înregistrate de echipamentele de măsurare se
+stabilesc următoarele condiţii:
+
+1) securitatea şi integritatea transmisiilor de date va fi asigurată în conformitate cu
+prevederile legale aplicabile în domeniu;
+
+2) datele înregistrate vor fi protejate prin parole software;
+
+3) valorile preluate ale parametrilor de proces prin convertoare, calculatoare de debit
+trebuie să fie de tip „numai citire”, fără a putea fi modificate prin intervenţii pe oricare din
+căile de acces (locală sau de la distantă);
+
+4) imposibilitatea influenţei exterioare asupra echipamentelor electronice de
+măsurare, inclusiv şi prin intermediul programelor software, trebuie să fie indicată de către
+producătorul acestora.
+
+Sectiuena 4
+Solutionarea reclamatiilor și neînțelegerilor
+
+### Punctul 131. Reclamatiile şi neînțelegerile referitoare la măsurarea gazelor naturale, care pot
+apărea între părţi, se soluţionează în conformitate cu Legea cu privire la gazele naturale,
+Regulamentul pentru furnizarea, prezentul Regulament şi potrivit prevederilor contractelor
+de prestare a serviciilor de transport și de distribuţie a gazelor naturale, de furnizare a
+gazelor naturale și acordurilor tehnice semnate de consumatorii noncasnici și operatorii de
+sistem.
+
+
+### Punctul 132. Furnizorul va examina reclamatiile şi contestaţiile consumatorilor finali
+referitoare la măsurarea gazelor naturale, în termenenele şi conform procedurii prevăzute
+de lege şi va întreprinde măsuri concrete pentru soluţionarea problemelor abordate.
+
+### Punctul 133. Consumatorul final este în drept să asiste la efectuarea expertizei metrologice a
+echipamentului de măsurare sau, după caz, la efectuarea constatării tehnico-stiintifice.
+
+## Capitolul VII
+DISPOZIŢII SPECIALE
+
+### Punctul 134. Echipamentele de măsurare aflate în funcţiune la data intrării în vigoare a
+prezentului Regulament şi care nu îndeplinesc cerinţele acestuia, se pot utiliza numai
+pentru punctele de măsurare comercială de categoriile C, D şi E, pe durata normată de
+exploatare.
+
+### Punctul 135. Echipamentele de măsurare instalate în orice punct de măsurare comercială,
+după modificare sau înlocuire, trebuie să corespundă cerinţelor prezentului Regulament.
+
+### Punctul 136. Operatorii de sistem sunt obligaţi să accepte propunerile consumatorilor
+noncasnici de a instala echipamente de măsurare cu caracteristici tehnice mai bune decât
+cele stabilite în prezentul Regulament, costurile aferente fiind suportate de consumatorii
+noncasnici.

@@ -102,4 +102,14 @@ Audit of standalone working texts under `10 Legislation/` that lacked a companio
 | [[HANRE 138-2018 — dezvoltarea retelelor de distributie gaze (text)]] | [[HANRE 138-2018 — dezvoltarea retelelor de distributie gaze (notă)]] |
 | [[HANRE 8-2023 — modificare racordare gaze si masurare gaze (text)]] | [[HANRE 8-2023 — modificare racordare gaze si masurare gaze (notă)]] ⚠️ annex OCR |
 
-Optional next: recover HANRE **535/2019 methodology annex** + **537/2020** QoS + **297/2022** metering parent; water/utilities MOC if the water corpus grows.
+## Batch 8 — energy PDF OCR (2026-08-07b) ✅
+
+| Act | Note |
+|---|---|
+| [[Legea 234-2022 — Energocom securitate furnizare gaze (text)]] | [[Legea 234-2022 — Energocom securitate furnizare gaze (notă)]] |
+| [[Legea 20-2024 — modificare Legea 234-2022 Energocom (text)]] | [[Legea 20-2024 — modificare Legea 234-2022 Energocom (notă)]] |
+| [[HG 10-2024 — guvernanta energetica si actiuni climatice (text)]] | [[HG 10-2024 — guvernanta energetica si actiuni climatice (notă)]] |
+| [[HANRE 297-2022 — masurare gaze naturale comerciale (text)]] | [[HANRE 297-2022 — masurare gaze naturale comerciale (notă)]] |
+| [[HANRE 537-2020 — calitate servicii transport distributie EE (text)]] | [[HANRE 537-2020 — calitate servicii transport distributie EE (notă)]] ⚠️ decision-only |
+
+Optional next: recover HANRE **535/2019 methodology annex** + **537/2020 QoS annex** + **422/2019**; water/utilities MOC if the water corpus grows.

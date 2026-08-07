@@ -88,6 +88,17 @@ Other newly relevant amendment/transition acts now present:
 | [[HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (text)\|HG 596/2025]] | ✅ complete | Patches 1037/517/26 |
 | [[HANRE 422-2019 — calitate servicii transport distributie gaze (text)\|HANRE 422/2019]] | ⚠️ decision-only | Gas QoS annex missing |
 
+## ✅ Ingested 2026-08-07g — CNED / thermal / quotas / plant auth / gas DSO tariff
+
+| Act | Status | Notes |
+|---|---|---|
+| [[HG 1060-2023 — organizare functionare CNED (text)\|HG 1060/2023]] | ⚠️ annex 4 may truncate | CNED org · [[CNED]] |
+| [[HG 620-2025 — transmitere bunuri Fond eficienta energetica CNED (text)\|HG 620/2025]] | ⚠️ form annexes | FEE asset transfer |
+| [[HG 599-2025 — limite cote capacitate regenerabile pana 2030 (text)\|HG 599/2025]] | ⚠️ annexes missing | Abrogates HG 401 · to 2030 |
+| [[HG 517-2024 — Regulament constructie reconstructie centrale electrice (text)\|HG 517/2024]] | ✅ | >20 MW authorisation |
+| [[HANRE 23-2017 — furnizarea energiei termice (text)\|HANRE 23/2017]] | ⚠️ form annexes | Thermal supply body ✅ |
+| [[HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (text)\|HANRE 785/2025]] | ✅ | Uniform DSO tariff IF 1.01.2026 |
+
 ## ❌ Still incomplete / decision-only
 
 | Act | Problem | Priority |
@@ -103,7 +114,9 @@ Other newly relevant amendment/transition acts now present:
 | [[HG 197-2025 — metodologie cogenerare inalta eficienta garantii origine (text)\|HG 197/2025]] | **methodology annex missing** (HG 297 tables OK) | High for HE-CHP GO certification |
 | HG **1059/2023** security PSO | parent not ingested; [[HG 156-2025 — modificare HG 1059-2023 PSO securitate EE (text)\|156/2025]] ✅ | Medium |
 | [[HANRE 422-2019 — calitate servicii transport distributie gaze (text)\|HANRE 422/2019]] | **decision-only; QoS annex missing** | Medium — gas compensation |
-| [[HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile (text)\|HG 329/2025]] | **annex 2 missing**; parent HG 401/2021 ❌ | High for net-billing sizing |
+| [[HG 329-2025 — modificare HG 401-2021 cote capacitate regenerabile (text)\|HG 329/2025]] | Historic — parent **abrogated** by [[HG 599-2025 — limite cote capacitate regenerabile pana 2030 (text)\|HG 599]] | Low |
+| [[HG 599-2025 — limite cote capacitate regenerabile pana 2030 (text)\|HG 599/2025]] | **annexes 1–2 missing** (quota/ceiling numbers) | **High** for RES/net-billing advice |
+| HANRE **443/2020** gas DSO methodology | parent not ingested; [[HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (text)\|785/2025]] ✅ | High for 2026 DSO tariffs |
 | HG **668/2022** security stocks parent | not ingested; [[HG 302-2025 — modificare HG 668-2022 stocuri securitate gaze (text)\|302/2025]] ✅ (50 mcm) | Medium |
 
 ## Electricity transition map — L107 to L164

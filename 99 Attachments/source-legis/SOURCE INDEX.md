@@ -30,6 +30,12 @@ updated: 2026-08-07
 | `149130` | [`149130-149130_5fcb.pdf`](149130-149130_5fcb.pdf) · [`149130.txt`](149130.txt) | `10 Legislation/Authority Acts/HANRE 422-2019 — calitate servicii transport distributie gaze (text).md` *(decision-only)* |
 | `150581` | [`150581-150581_da5b.pdf`](150581-150581_da5b.pdf) · [`150581.txt`](150581.txt) | `10 Legislation/Laws/Legea 227-2025 — optimizarea actelor permisive (text).md` |
 | `150831` | [`150831-150831_eeb7.pdf`](150831-150831_eeb7.pdf) · [`150831.txt`](150831.txt) | `10 Legislation/Government Decisions/HG 596-2025 — infrastructura transport EE autorizare centrale echilibrare (text).md` |
+| `150832` | [`150832-150832_b5ff.pdf`](150832-150832_b5ff.pdf) · [`150832.txt`](150832.txt) | `10 Legislation/Government Decisions/HG 599-2025 — limite cote capacitate regenerabile pana 2030 (text).md` *(annexes missing)* |
+| `150858` | [`150858-150858_cc59.pdf`](150858-150858_cc59.pdf) · [`150858.txt`](150858.txt) | `10 Legislation/Government Decisions/HG 517-2024 — Regulament constructie reconstructie centrale electrice (text).md` |
+| `150977` | [`150977-150977_a64d.pdf`](150977-150977_a64d.pdf) · [`150977.txt`](150977.txt) | `10 Legislation/Government Decisions/HG 620-2025 — transmitere bunuri Fond eficienta energetica CNED (text).md` *(form annexes missing)* |
+| `152035` | [`152035-152035_cba8.pdf`](152035-152035_cba8.pdf) · [`152035.txt`](152035.txt) | `10 Legislation/Government Decisions/HG 1060-2023 — organizare functionare CNED (text).md` *(annex 4 may truncate)* |
+| `152132` | [`152132-152132_8972.pdf`](152132-152132_8972.pdf) · [`152132.txt`](152132.txt) | `10 Legislation/Authority Acts/HANRE 23-2017 — furnizarea energiei termice (text).md` *(form annexes missing)* |
+| `152152` | [`152152-152152_f7c1.pdf`](152152-152152_f7c1.pdf) · [`152152.txt`](152152.txt) | `10 Legislation/Authority Acts/HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (text).md` |
 | `121240` | [`121240.md`](121240.md) | `10 Legislation/Laws/Legea 183-2012 — concurenta (text).md` |
 | `140021` | [`140021.md`](140021.md) | `10 Legislation/Authority Acts/HANRE 486-2017 — Metodologie tarife transport EE (text).md` |
 | `142654` | [`142654.md`](142654.md) | `10 Legislation/Laws/Legea 235-2006 — principii reglementare intreprinzator (text).md` |
@@ -211,5 +217,16 @@ updated: 2026-08-07
 | `148399` | [`148399-148399_4415.pdf`](148399-148399_4415.pdf) · [`148399.txt`](148399.txt) | `10 Legislation/Laws/Legea 88-2025 — utilitate publica LEA 400 kV Balti-Suceava (text).md` |
 | `148535` | [`148535-148535_1749.pdf`](148535-148535_1749.pdf) · [`148535.txt`](148535.txt) | `10 Legislation/Government Decisions/HG 302-2025 — modificare HG 668-2022 stocuri securitate gaze (text).md` |
 
+## PDF batch 2026-08-07g — energy (batch 7)
+
+| doc_id | Raw file | Vault location |
+|---|---|---|
+| `152035` | [`152035-152035_cba8.pdf`](152035-152035_cba8.pdf) · [`152035.txt`](152035.txt) | `10 Legislation/Government Decisions/HG 1060-2023 — organizare functionare CNED (text).md` *(annex 4 may truncate)* |
+| `152132` | [`152132-152132_8972.pdf`](152132-152132_8972.pdf) · [`152132.txt`](152132.txt) | `10 Legislation/Authority Acts/HANRE 23-2017 — furnizarea energiei termice (text).md` *(form annexes missing)* |
+| `152152` | [`152152-152152_f7c1.pdf`](152152-152152_f7c1.pdf) · [`152152.txt`](152152.txt) | `10 Legislation/Authority Acts/HANRE 785-2025 — modificare Metodologie tarife distributie gaze 443-2020 (text).md` |
+| `150832` | [`150832-150832_b5ff.pdf`](150832-150832_b5ff.pdf) · [`150832.txt`](150832.txt) | `10 Legislation/Government Decisions/HG 599-2025 — limite cote capacitate regenerabile pana 2030 (text).md` *(annexes 1–2 missing)* |
+| `150858` | [`150858-150858_cc59.pdf`](150858-150858_cc59.pdf) · [`150858.txt`](150858.txt) | `10 Legislation/Government Decisions/HG 517-2024 — Regulament constructie reconstructie centrale electrice (text).md` |
+| `150977` | [`150977-150977_a64d.pdf`](150977-150977_a64d.pdf) · [`150977.txt`](150977.txt) | `10 Legislation/Government Decisions/HG 620-2025 — transmitere bunuri Fond eficienta energetica CNED (text).md` *(form annexes missing)* |
+
 ## See also
-[[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — PDF batch 2026-08-07 (4)]] · [[Status ingestie — PDF batch 2026-08-07 (5)]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]
+[[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — PDF batch 2026-08-07 (4)]] · [[Status ingestie — PDF batch 2026-08-07 (5)]] · [[Status ingestie — PDF batch 2026-08-07 (6)]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]

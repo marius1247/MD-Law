@@ -58,6 +58,8 @@ SORT file.name ASC
 * [[Energetică — architecture map]] — inter-law + market taxonomy
 * [[MOC — Piața de energie electrică]]
 * [[MOC — Piața gazelor naturale]]
+* [[MOC — Piața produselor petroliere]]
+* [[Energetică — cărbune gap stub (notă)]]
 * [[MOC — Racordare și acces la rețele]]
 * [[MOC — Tarife și metodologii ANRE]]
 * [[Roadmap — Energy analysis architecture]]
@@ -70,3 +72,8 @@ SORT file.name ASC
 ## Added 2026-08-07 (analysis architecture Step 3 — gas)
 - [[Concept — Punct virtual de tranzacționare]] — gas VTP / wholesale delivery point (HANRE 534)
 - Gas hub: [[MOC — Piața gazelor naturale]] · [[Energetică — segmente piață gaze (notă)]]
+
+## Added 2026-08-07 (analysis architecture Step 4 — petroleum / coal)
+- [[Concept — Preț maxim ANRE produse petroliere]] — daily retail price cap (L461 art. 4)
+- Petroleum hub: [[MOC — Piața produselor petroliere]] · [[Energetică — segmente piață petrol (notă)]]
+- Coal: [[Energetică — cărbune gap stub (notă)]] — no dedicated ANRE coal market

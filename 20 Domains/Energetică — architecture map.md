@@ -144,8 +144,8 @@ Every energy vector is analysed with the **same columns**. Cells may be empty �
 |---|---|---|
 | **Electricity** | ✅ Steps 1–2 | L164 · HANRE 283/383 · 853 · 311 · 423/656 · tariffs |
 | **Gas** | ✅ Step 3 | L108 · HANRE 534 · 420/328/310 · 112/113/177 · 535/443/355 · HG 365 |
-| **Petroleum** | ⏳ Step 4 | L461 · L101 · L248 |
-| **Coal** | ⏳ Step 4 stub | Gap analysis first |
+| **Petroleum** | ✅ Step 4 | L461 · L101 · L248/CNMC |
+| **Coal** | ✅ Step 4 stub | [[Energetică — cărbune gap stub (notă)]] — no dedicated market law |
 | **Thermal / CHP** | ⏳ Step 5 | L92 · HANRE 23 · HG 197 |
 | **Geothermal** | ⏳ Step 5 stub | Classify under L10 / L92 / absent |
 | **Biofuels** | ⏳ Step 6 | HG 53 · L10 bridges |
@@ -169,9 +169,10 @@ Every energy vector is analysed with the **same columns**. Cells may be empty �
 | [[MOC — Energetică]] | Master act inventory by tier |
 | [[MOC — Piața de energie electrică]] | **Axis B hub — electricity** (segments, actors, activities) |
 | [[MOC — Piața gazelor naturale]] | **Axis B hub — gas** (PVT, entry-exit, balancing, PSO exit) |
-| [[Energetică — segmente piață electricitate (notă)]] | Electricity segment briefs |
-| [[Energetică — segmente piață gaze (notă)]] | Gas segment briefs |
-| [[MOC — Racordare și acces la rețele]] | Monopoly / connection slice (cross-vector) |
+| [[MOC — Piața produselor petroliere]] | **Axis B hub — petroleum** (price-cap retail, licensing, crisis) |
+| [[Energetică — segmente piață petrol (notă)]] | Petroleum segment briefs |
+| [[Energetică — cărbune gap stub (notă)]] | Coal — no dedicated ANRE market |
+| [[Energetică — prosumer vs consumator activ (notă)]] | Electricity prosumer boundary |
 | [[MOC — Tarife și metodologii ANRE]] | Monopoly / tariff slice |
 | [[Energetică — sector electricitate ANRE (notă)]] | Operational dossier — feeds the electricity hub |
 | [[Energetică — sector gaze ANRE (notă)]] | Operational dossier — feeds the gas hub |
@@ -188,11 +189,12 @@ Every energy vector is analysed with the **same columns**. Cells may be empty �
 | 1 | This map + electricity market MOC rewrite | **Done (2026-08-07)** |
 | 2 | Electricity deep fill (segment briefs + missing concepts) | **Done (2026-08-07)** — [[Energetică — segmente piață electricitate (notă)]] · actor/retail/FCEE concepts · [[Energetică — prosumer vs consumator activ (notă)]] |
 | 3 | Gas market hub | **Done (2026-08-07)** — [[MOC — Piața gazelor naturale]] · [[Energetică — segmente piață gaze (notă)]] · [[Concept — Punct virtual de tranzacționare]] |
-| 4–6 | Petroleum/coal · thermal/geothermal · biofuels/hydrogen | **Next: Step 4** |
+| 4 | Petroleum + coal gap | **Done (2026-08-07)** — [[MOC — Piața produselor petroliere]] · [[Energetică — segmente piață petrol (notă)]] · [[Concept — Preț maxim ANRE produse petroliere]] · [[Energetică — cărbune gap stub (notă)]] |
+| 5–6 | Thermal/geothermal · biofuels/hydrogen | **Next: Step 5** |
 | 7 | Prosumers · incentives · ESG notes | Queued |
-| 8 | Synthesis retune to this spine | After Step 4–5 have substance |
+| 8 | Synthesis retune to this spine | After Step 5 has substance |
 
-**Immediate next work (Step 4):** petroleum products hub from [[Legea 461-2001 — piata produselor petroliere (notă)|L461]] + coal gap stub.
+**Immediate next work (Step 5):** thermal / CHP hub from [[Legea 92-2014 — energia termica si cogenerarea (notă)|L92]] + geothermal classification stub.
 
 
 ## Related

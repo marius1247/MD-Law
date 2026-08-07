@@ -32,5 +32,6 @@ Parent acts now in vault:
 
 ## Related
 - [[Concept — Situație excepțională electroenergetică]] — electricity risk-preparedness (different instrument: [[HG 820-2024 — situatii exceptionale electroenergetic (notă)]])
+- [[Concept — Preț maxim ANRE produse petroliere]] · [[MOC — Piața produselor petroliere]] · [[Energetică — segmente piață petrol (notă)]]
 - [[Legea 461-2001 — piata produselor petroliere (notă)]] · [[Legea 248-2025 — managementul situatiilor de criza (notă)]] · [[HG 346-2026 — Comisia Nationala Management Crize (notă)]] · [[Legea 150-2026 — modificare management situatii de criza (notă)]]
 - [[MOC — Energetică]] · [[Guvernul RM]]

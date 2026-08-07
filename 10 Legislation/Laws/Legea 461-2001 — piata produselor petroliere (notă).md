@@ -94,7 +94,7 @@ During **alert or emergency** under L248, CNMC may temporarily derogate from art
 
 ## 6. Connections
 
-[[Energetică — synthesis]] · [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)]] · [[Legea 248-2025 — managementul situatiilor de criza (notă)]] · [[ANRE]] · [[Concept — Situație de criză în domeniul petrolier]]
+[[MOC — Piața produselor petroliere]] · [[Energetică — segmente piață petrol (notă)]] · [[Concept — Preț maxim ANRE produse petroliere]] · [[Energetică — synthesis]] · [[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)]] · [[Legea 248-2025 — managementul situatiilor de criza (notă)]] · [[ANRE]] · [[Concept — Situație de criză în domeniul petrolier]] · [[Energetică — cărbune gap stub (notă)]]
 
 ## Sources
 

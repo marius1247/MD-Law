@@ -82,8 +82,8 @@ Mirror Step 1–2 pattern under a new `MOC — Piața gazelor naturale`:
 
 ### Step 7 — Cross-cutting layers
 Three thin synthesis notes (or MOCs if they grow):
-1. **Prosumers & active consumers** — L10 net billing · L164 consumator activ / CEC · HANRE 311 / 169 / 833 · [[Concept — Facturare netă]]
-2. **Incentives & support** — eligible producers, fixed tariff / auctions, FCEE, FEE/CNED, vulnerability fund L241
+1. **Prosumers & active consumers** — seed already: [[Energetică — prosumer vs consumator activ (notă)]] · L10 net billing · L164 consumator activ / CEC · HANRE 311 / 169 / 833 · [[Concept — Facturare netă]]
+2. **Incentives & support** — eligible producers, fixed tariff / auctions, [[Concept — Furnizor central de energie electrică|FCEE]], FEE/CNED, vulnerability fund L241
 3. **ESG / climate governance** — HG 10/2024 · PNIEC HG 86/2025 · L139 efficiency · non-financial reporting bridge in accounting law · biofuel GHG
 
 ### Step 8 — Synthesis rewrite

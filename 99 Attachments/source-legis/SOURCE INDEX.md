@@ -57,19 +57,16 @@ updated: 2026-08-07
 | `155279` | [`155279.md`](155279.md) | `10 Legislation/Laws/Legea 74-2020 — achizitii sectoriale (text).md` |
 | `155438` | [`155438.md`](155438.md) | `10 Legislation/Laws/Legea 220-2007 — inregistrarea de stat (text).md` |
 | `95607` | [`95607.md`](95607.md) | `10 Legislation/Laws/Legea 23-2008 — arbitraj (text).md` |
-<<<<<<< HEAD
 | `127246` | [`127246-HANRE-305-2021.pdf`](127246-HANRE-305-2021.pdf) | `10 Legislation/Authority Acts/HANRE 305-2021 — abrogare HANRE 24-2017 achizitii titulari (text).md` |
 | `127268` | [`127268-HANRE-24-2017.pdf`](127268-HANRE-24-2017.pdf) | `10 Legislation/Authority Acts/HANRE 24-2017 — achizitii titulari de licenta (abrogata) (text).md` *(abrogated; annexes named only)* |
 | `129504` | [`129504-HANRE-656-2021.pdf`](129504-HANRE-656-2021.pdf) | `10 Legislation/Authority Acts/HANRE 656-2021 — modificare Codul retelelor electrice (text).md` |
-| `141264` | [`141264-HANRE-833-2023.pdf`](141264-HANRE-833-2023.pdf) | `10 Legislation/Authority Acts/HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text).md` |
-| `149100` | [`149100-HANRE-329-2025.pdf`](149100-HANRE-329-2025.pdf) | `10 Legislation/Authority Acts/HANRE 329-2025 — modificare Metodologie tarife transport gaze (text).md` |
-=======
-| `143443` | [`143443-Legea-77-2016.pdf`](143443-Legea-77-2016.pdf) | `10 Legislation/Laws/Legea 77-2016 — parcuri tehnologia informatiei (text).md` |
-| `143425` | [`143425-Legea-125-2024.pdf`](143425-Legea-125-2024.pdf) | `10 Legislation/Laws/Legea 125-2024 — modificare parc IT si tranzitii vamale (text).md` |
-| `131868` | [`131868-OMF-118-2013.pdf`](131868-OMF-118-2013.pdf) | `10 Legislation/Authority Acts/OMF 118-2013 — Standardele Nationale de Contabilitate (text).md` *(approving order; individual SNC texts separate)* |
 | `131855` | [`131855-OMF-73-2022.pdf`](131855-OMF-73-2022.pdf) | `10 Legislation/Authority Acts/OMF 73-2022 — modificare indicatii metodice contabilitate (text).md` |
+| `131868` | [`131868-OMF-118-2013.pdf`](131868-OMF-118-2013.pdf) | `10 Legislation/Authority Acts/OMF 118-2013 — Standardele Nationale de Contabilitate (text).md` *(approving order; individual SNC texts separate)* |
+| `141264` | [`141264-HANRE-833-2023.pdf`](141264-HANRE-833-2023.pdf) | `10 Legislation/Authority Acts/HANRE 833-2023 — modificarea unor hotarari ANRE regenerabile (text).md` |
+| `143425` | [`143425-Legea-125-2024.pdf`](143425-Legea-125-2024.pdf) | `10 Legislation/Laws/Legea 125-2024 — modificare parc IT si tranzitii vamale (text).md` |
+| `143443` | [`143443-Legea-77-2016.pdf`](143443-Legea-77-2016.pdf) | `10 Legislation/Laws/Legea 77-2016 — parcuri tehnologia informatiei (text).md` |
 | `145617` | [`145617-OMF-128-2024.pdf`](145617-OMF-128-2024.pdf) | `10 Legislation/Authority Acts/OMF 128-2024 — modificare formular IPC21 (text).md` |
->>>>>>> origin/cursor/ingest-tax-accounting-uploads-1dfd
+| `149100` | [`149100-HANRE-329-2025.pdf`](149100-HANRE-329-2025.pdf) | `10 Legislation/Authority Acts/HANRE 329-2025 — modificare Metodologie tarife transport gaze (text).md` |
 
 ## Intentionally unused duplicates
 

@@ -176,8 +176,8 @@ updated: 2026-08-07
 | `146623` | [`146623-146623_0d0d.pdf`](146623-146623_0d0d.pdf) · [`146623.txt`](146623.txt) | `10 Legislation/Government Decisions/HG 829-2024 — audit energetic intreprinderi mari (text).md` |
 | `146906` | [`146906-146906_1935.pdf`](146906-146906_1935.pdf) · [`146906.txt`](146906.txt) | `10 Legislation/Government Decisions/HG 26-2025 — PSO acces retea producatori regenerabile pret fix (text).md` |
 | `147068` | [`147068-147068_ffdc.pdf`](147068-147068_ffdc.pdf) · [`147068.txt`](147068.txt) | `10 Legislation/Government Decisions/HG 53-2025 — durabilitate biocarburanti emisii GES (text).md` |
-| `147296` | [`147296-147296_a54f.pdf`](147296-147296_a54f.pdf) · [`147296.txt`](147296.txt) | `10 Legislation/Government Decisions/HG 74-2025 — calcul consum energie regenerabila (text).md` *(dispositif only)* |
-| `147150` | [`147150-147150_341b.pdf`](147150-147150_341b.pdf) · [`147150.txt`](147150.txt) | `10 Legislation/Government Decisions/HG 76-2025 — cotizatii organizatii internationale 2025 (text).md` *(peripheral)* |
+| `147296` | [`147296-147296_a54f.pdf`](147296-147296_a54f.pdf) · [`147296.txt`](147296.txt) · [`upload-hg-74-2025-regulament.md`](upload-hg-74-2025-regulament.md) | `10 Legislation/Government Decisions/HG 74-2025 — calcul consum energie regenerabila (text).md` *(full regulation, 2026-08-07g)* |
+| `147150` | [`147150-147150_341b.pdf`](147150-147150_341b.pdf) · [`147150.txt`](147150.txt) · [`upload-hg-76-2025-lista.md`](upload-hg-76-2025-lista.md) | `10 Legislation/Government Decisions/HG 76-2025 — cotizatii organizatii internationale 2025 (text).md` *(list complete, 2026-08-07g)* |
 
 ## See also
 [[Conventions]] · [[Status ingestie — Energetica]] · [[Status ingestie — HTML batch 2026-08-07]] · [[Roadmap]] · [[Analysis backlog — texts without notes]]

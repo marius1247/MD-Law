@@ -4,27 +4,29 @@ type: project
 tags: [project, roadmap, methodology, vault]
 created: 2026-08-08
 updated: 2026-08-08
-status: draft
+status: active
 ---
 
 # Playbook — replicate the energy analysis architecture
 
 What worked for [[Roadmap — Energy analysis architecture|energy Steps 1–8]], generalised for other Obsidian hubs. Energy reference spine: [[Energetică — architecture map]] · [[Energetică — synthesis]] · [[Energetică — audit analysis layer (notă)]].
 
+**First replication in progress:** [[Roadmap — Fiscalitate & Contabilitate analysis architecture]] — Step **1 ✅** ([[Fiscalitate & Contabilitate — architecture map]] · [[MOC — Impozit pe venit]]).
+
 ---
 
 ## 1. Pattern (do not skip steps)
 
-| Step | Deliverable | Energy exemplar |
-|---|---|---|
-| 0 | Honest **ingestion/currency map** before structuring | [[Status ingestie — Energetica]] |
-| 1 | **Architecture map** — vertical cascade + horizontal bridges + conflict rules | architecture map §1–3 |
-| 2 | **Segmentation spine** — same columns per “market” or problem area | §4 taxonomy |
-| 3–N | Fill **one hub at a time** (MOC + segment briefs + 1–2 concepts) | electricity → gas → … |
-| Stub | Thin/absent areas as **gap stubs** — never fake markets | coal · geothermal · H₂ |
-| Cross-cut | Layers that span hubs (consumer status, incentives, ESG/disclosure) | Step 7 notes |
-| Synthesis | Short narrative pointing at map + hubs — **not** a catalogue | [[Energetică — synthesis]] |
-| Audit | Completeness vs DoD + actuality dates | [[Energetică — audit analysis layer (notă)]] |
+| Step | Deliverable | Energy exemplar | Fiscalitate exemplar |
+|---|---|---|---|
+| 0 | Honest **ingestion/currency map** before structuring | [[Status ingestie — Energetica]] | [[Fiscalitate & Contabilitate — horizon and gaps]] |
+| 1 | **Architecture map** — vertical cascade + horizontal bridges + conflict rules | architecture map §1–3 | [[Fiscalitate & Contabilitate — architecture map]] §1–3 ✅ |
+| 2 | **Segmentation spine** — same columns per “market” or problem area | §4 taxonomy | architecture map §4 (tax/regime columns) ✅ |
+| 3–N | Fill **one hub at a time** (MOC + segment briefs + 1–2 concepts) | electricity → gas → … | income ✅ → VAT → excise → payroll → … |
+| Stub | Thin/absent areas as **gap stubs** — never fake markets | coal · geothermal · H₂ | 2027 Estonian CIT draft (Step 8) |
+| Cross-cut | Layers that span hubs (consumer status, incentives, ESG/disclosure) | Step 7 notes | accounting↔tax · energy×tax · DTT · digital (Step 10) |
+| Synthesis | Short narrative pointing at map + hubs — **not** a catalogue | [[Energetică — synthesis]] | [[Fiscalitate — synthesis]] (retune Step 11) |
+| Audit | Completeness vs DoD + actuality dates | [[Energetică — audit analysis layer (notă)]] | Step 11 audit note |
 
 **Sequencing rule:** one navigable hub beats seven empty folders. Prefer expanding existing notes over parallel duplicate MOCs.
 
@@ -34,7 +36,7 @@ What worked for [[Roadmap — Energy analysis architecture|energy Steps 1–8]],
 
 | Hub | Why next | What to build first |
 |---|---|---|
-| **1. Fiscalitate & Contabilitate** | Densest non-energy corpus; annual rate risk; already has synthesis + horizon note | Architecture map (Titluri cascade + SFS/Vamal/CNAS bridges); “segment” hubs by tax (income, VAT, excise, payroll); currency calendar tied to annual fiscal-policy law; gap stub for 2027 CIT draft |
+| **1. Fiscalitate & Contabilitate** | Densest non-energy corpus; annual rate risk; synthesis + horizon already present | **In progress** — Step 1 ✅ map + [[MOC — Impozit pe venit]]; next Step 2 income deep fill → plan [[Roadmap — Fiscalitate & Contabilitate analysis architecture]] |
 | **2. Societăți & guvernanță** | Unbundling / corporate execution already bridges energy | Map Civil Code ↔ SA/SRL ↔ L220 registration; hubs for formation, organs/capital, reorganisation/insolvency exit; watch L845 repeal project |
 | **3. Drept comercial** | Authorisations + competition touch every sector | Architecture: L235 principles + L160 permits list + competition; hubs for permits, unfair competition, insolvency-as-exit; link [[Concept — Autorizarea activității de întreprinzător]] |
 | **4. Achiziții / Statul** | Energy already depends on L74 sectoral | Split **sectoral** (L74 — filled seed) vs **general** procurement (still thin); architecture for thresholds, remedies, utilities |
@@ -68,4 +70,4 @@ What worked for [[Roadmap — Energy analysis architecture|energy Steps 1–8]],
 ---
 
 ## 5. Related
-[[Home]] · [[00 Inbox/Roadmap]] · [[Roadmap — Energy analysis architecture]] · [[MOC — Fiscalitate & Contabilitate]] · [[MOC — Societăți & Guvernanță corporativă]] · [[MOC — Drept comercial]] · [[MOC — Achiziții publice & Statul]] · [[MOC — Proceduri]] · [[MOC — Drept civil]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Conventions]]
+[[Home]] · [[00 Inbox/Roadmap]] · [[Roadmap — Energy analysis architecture]] · [[Roadmap — Fiscalitate & Contabilitate analysis architecture]] · [[Fiscalitate & Contabilitate — architecture map]] · [[MOC — Impozit pe venit]] · [[MOC — Fiscalitate & Contabilitate]] · [[MOC — Societăți & Guvernanță corporativă]] · [[MOC — Drept comercial]] · [[MOC — Achiziții publice & Statul]] · [[MOC — Proceduri]] · [[MOC — Drept civil]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Conventions]]

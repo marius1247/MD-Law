@@ -28,7 +28,7 @@ See [[Conventions]] for the full skeleton, naming, frontmatter, and ingestion wo
 |---|---|
 | [[MOC — Energetică]] | [[Energetică — synthesis]] · [[Energetică — architecture map]] · [[Energetică — audit analysis layer (notă)]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[MOC — Piața produselor petroliere]] · [[MOC — Piața energiei termice]] · [[MOC — Biocarburanți și combustibili din biomasă]] |
 | [[MOC — Societăți & Guvernanță corporativă]] | [[Societăți & guvernanță — synthesis]] |
-| [[MOC — Fiscalitate & Contabilitate]] | [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] |
+| [[MOC — Fiscalitate & Contabilitate]] | [[Fiscalitate & Contabilitate — architecture map]] · [[MOC — Impozit pe venit]] · [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Roadmap — Fiscalitate & Contabilitate analysis architecture]] |
 | [[MOC — Drept comercial]] | [[Drept comercial — synthesis]] |
 | [[MOC — Achiziții publice & Statul]] | [[Legea 74-2020 — achizitii sectoriale (notă)]] *(sectoral; general procurement still pending)* |
 | [[MOC — Proceduri]] | [[Codul administrativ 116-2018 (notă)]] |
@@ -57,4 +57,4 @@ All hubs: [[00 - Index general]]. Concept index: [[00 Index Concepts]].
 > **Completeness:** automated ingestion stops at ~96–102 KB. Manual browser downloads (now in `99 Attachments/source-legis/`) bypass that. [[HANRE 423-2019 — Codul retelelor electrice (text)|HANRE 423/2019]] connection code Titluri I–IV now ingested (still cross-check [[HANRE 656-2021 — modificare Codul retelelor electrice (text)|656/2021]]). Details: [[Status ingestie — Energetica]] · [[Conventions]].
 
 ## Status *(2026-08-08)*
-Energy architecture Steps **1–8 ✅** (hubs + cross-cutting + synthesis rewrite + audit). Spine: [[Energetică — architecture map]] · audit [[Energetică — audit analysis layer (notă)]] · plan [[Roadmap — Energy analysis architecture]]. Other domains: [[Playbook — Domain analysis architecture (other hubs)]]. Corpus — [[Status ingestie — Energetica]].
+Energy architecture Steps **1–8 ✅**. Fiscalitate & Contabilitate architecture **Step 1 ✅** — spine [[Fiscalitate & Contabilitate — architecture map]] · hub [[MOC — Impozit pe venit]] · plan [[Roadmap — Fiscalitate & Contabilitate analysis architecture]]. Energy residual = remediation backlog in [[Energetică — audit analysis layer (notă)]]. Other domains: [[Playbook — Domain analysis architecture (other hubs)]]. Corpus — [[Status ingestie — Energetica]].

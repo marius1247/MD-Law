@@ -4,7 +4,7 @@ type: moc
 domeniu: fiscal
 tags: [moc, index, fiscal]
 created: 2026-07-22
-updated: 2026-08-07
+updated: 2026-08-08
 status: reviewed
 ---
 
@@ -15,15 +15,26 @@ Domain hub for **taxation and accounting** — deliberately paired, because acco
 ## Start here
 
 > [!tip] Read order
-> 1. **[[Fiscalitate — synthesis]]** — tax architecture, live rates, procedure  
-> 2. **[[Contabilitate & raportare financiară — synthesis]]** — L287 tiers and the 2027 threshold reset  
-> 3. **[[Fiscalitate & Contabilitate — horizon and gaps]]** — 2026 live reforms, 2027 pipeline, ingest gaps  
-> 4. Relevant **Titlu** / act note → concept → [[SFS]]
+> 1. **[[Fiscalitate & Contabilitate — architecture map]]** — inter-law cascade, bridges, conflict rules, hub taxonomy  
+> 2. **[[Fiscalitate — synthesis]]** — tax architecture, live rates, procedure  
+> 3. **[[Contabilitate & raportare financiară — synthesis]]** — L287 tiers and the 2027 threshold reset  
+> 4. **[[Fiscalitate & Contabilitate — horizon and gaps]]** — 2026 live reforms, 2027 pipeline, ingest gaps  
+> 5. Tax hub (start with [[MOC — Impozit pe venit]]) → Titlu / act note → concept → [[SFS]]
 
 > [!warning] Everything numeric here is time-stamped
 > Figures verified **July / August 2026**. The Fiscal Code is amended by the annual fiscal-policy law effective 1 January, every year. Re-verify at [SFS](https://sfs.md) / [Ministerul Finanțelor](https://mf.gov.md) before use. **Do not cite the 2027 Estonian-style CIT draft as enacted.**
 
 ---
+
+## Analysis architecture *(structuring track)*
+
+| Note | Role |
+|---|---|
+| [[Fiscalitate & Contabilitate — architecture map]] | Spine — cascade, bridges, conflict themes, segmentation taxonomy |
+| [[MOC — Impozit pe venit]] | **Axis B hub — income tax** (Step 1 ✅) |
+| [[Roadmap — Fiscalitate & Contabilitate analysis architecture]] | Steps 0–11 plan (VAT → payroll → procedure → accounting → cross-cuts) |
+
+Later hubs (roadmap): TVA · Accize & vamă · Salarizare & contribuții · Administrare fiscală · Contabilitate & raportare · regimuri speciale · Titluri VI–IX.
 
 ## Syntheses
 
@@ -34,7 +45,7 @@ Domain hub for **taxation and accounting** — deliberately paired, because acco
 
 ## Horizon
 
-**[[Fiscalitate & Contabilitate — horizon and gaps]]** — structure already in the vault · reforms live in 2026 · advancing 2027 / EU package · gap list (acts + analysis) · client horizon checklist.
+**[[Fiscalitate & Contabilitate — horizon and gaps]]** — structure already in the vault · reforms live in 2026 · advancing 2027 / EU package · gap list (acts + analysis) · client horizon checklist. Serves as **Step 0** currency map for the architecture track.
 
 Key watch: Government **politica fiscală 2027** draft proposes Estonian-style distributed-profit CIT and progressive PIT — **project only, not law**.
 
@@ -99,6 +110,8 @@ Key watch: Government **politica fiscală 2027** draft proposes Estonian-style d
 ## Concepts
 
 [[Concept — Impozit pe venit]] · [[Concept — TVA]] · [[Concept — Accize]] · [[Concept — Rezident fiscal]] · [[Concept — Situații financiare]] · [[Concept — Parc IT]] · [[Concept — Prima AOAM]] · [[Concept — Audit statutar]]
+
+Tax hub (architecture Step 1): **[[MOC — Impozit pe venit]]**.
 
 ## Authorities
 

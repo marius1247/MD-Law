@@ -5,12 +5,12 @@ domeniu: [fiscal]
 tags: [domain, analysis, fiscal]
 status: reviewed
 created: 2026-07-23
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 # Taxation — synthesis
 
-The reasoning layer for tax. Act inventory: [[MOC — Fiscalitate & Contabilitate]]. Accounting side: [[Contabilitate & raportare financiară — synthesis]]. Horizon / reforms / gaps: [[Fiscalitate & Contabilitate — horizon and gaps]].
+The reasoning layer for tax. **Architecture spine:** [[Fiscalitate & Contabilitate — architecture map]]. Act inventory: [[MOC — Fiscalitate & Contabilitate]]. First tax hub: [[MOC — Impozit pe venit]]. Accounting side: [[Contabilitate & raportare financiară — synthesis]]. Horizon / reforms / gaps: [[Fiscalitate & Contabilitate — horizon and gaps]]. Build plan: [[Roadmap — Fiscalitate & Contabilitate analysis architecture]].
 
 > [!warning] Rates and thresholds move every single year
 > The figures below were **verified in July / August 2026**. The Fiscal Code is amended by the annual fiscal-policy law effective 1 January, without exception. **Never quote a rate from this note without re-checking** [SFS](https://sfs.md) or [Ministerul Finanțelor](https://mf.gov.md). Treat every number here as a starting point for verification, not as an answer.
@@ -19,7 +19,7 @@ The reasoning layer for tax. Act inventory: [[MOC — Fiscalitate & Contabilitat
 
 ## 1. The architecture
 
-One code, one administrator, one appeal route.
+One code, **several** administrators, one primary appeal route — full cascade and bridges in [[Fiscalitate & Contabilitate — architecture map]] §1.
 
 - **Codul fiscal nr. 1163/1997** — the substantive law, organised by **Titluri**, each a self-contained tax → [[Codul fiscal 1163-1997 (notă)]] ✅ ingested (Titluri I–X)
 - **Legea nr. 287/2017** — accounting and financial reporting; supplies the numbers the tax system taxes → [[Legea 287-2017 — contabilitate (notă)]] ✅
@@ -28,6 +28,8 @@ One code, one administrator, one appeal route.
 - **Serviciul Vamal** — the border; **CNAS** and **[[CNAM]]** — social and health contributions, which are *not* in the Fiscal Code but behave like payroll taxes → [[Legea 489-1999 — sistemul public de asigurari sociale (notă)|L489]] · [[Legea 1593-2002 — prime asigurare medicala obligatorie (notă)|L1593]]
 
 **Watch item:** MF has a long-running **concept for rewriting the Fiscal Code and the Customs Code**, and a live **2027 fiscal-policy draft** (Estonian-style CIT). Neither is law. Track via [[Fiscalitate & Contabilitate — horizon and gaps]] — do not hard-wire advice to draft text.
+
+Income-tax regimes (standard CIT · SME 4% · art. 87(11) · IT Park · independent entrepreneurs · WHT): **[[MOC — Impozit pe venit]]**.
 
 ## 2. The Fiscal Code by Titlu — the map
 
@@ -154,4 +156,4 @@ Two practical points that decide outcomes more often than the substantive law:
 - Dispute workflow note; accounting ↔ tax bridge table; energy × tax dossier
 
 ## Related
-[[MOC — Fiscalitate & Contabilitate]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Contabilitate & raportare financiară — synthesis]] · [[Codul fiscal 1163-1997 (notă)]] · [[Concept — Impozit pe venit]] · [[Concept — TVA]] · [[Concept — Accize]] · [[Concept — Rezident fiscal]] · [[SFS]]
+[[Fiscalitate & Contabilitate — architecture map]] · [[MOC — Impozit pe venit]] · [[Roadmap — Fiscalitate & Contabilitate analysis architecture]] · [[MOC — Fiscalitate & Contabilitate]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Contabilitate & raportare financiară — synthesis]] · [[Codul fiscal 1163-1997 (notă)]] · [[Concept — Impozit pe venit]] · [[Concept — TVA]] · [[Concept — Accize]] · [[Concept — Rezident fiscal]] · [[SFS]]

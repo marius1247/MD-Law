@@ -5,15 +5,15 @@ domeniu: [fiscal, contabilitate]
 tags: [domain, analysis, fiscal, contabilitate, horizon, gaps]
 status: reviewed
 created: 2026-08-06
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 # Fiscalitate & Contabilitate — structure, horizon, gaps
 
-Hub: [[MOC — Fiscalitate & Contabilitate]] · Tax reasoning: [[Fiscalitate — synthesis]] · Accounting reasoning: [[Contabilitate & raportare financiară — synthesis]]
+Hub: [[MOC — Fiscalitate & Contabilitate]] · Architecture spine: [[Fiscalitate & Contabilitate — architecture map]] · Tax reasoning: [[Fiscalitate — synthesis]] · Accounting reasoning: [[Contabilitate & raportare financiară — synthesis]] · Structuring plan: [[Roadmap — Fiscalitate & Contabilitate analysis architecture]]
 
 > [!summary] How to use this note
-> **Structure** = what is already in the vault and how to navigate it. **Horizon** = reforms already live in 2026 or advancing for 2027 / EU accession. **Gaps** = what you are still missing before courtroom or structuring advice is complete.
+> **Structure** = what is already in the vault and how to navigate it. **Horizon** = reforms already live in 2026 or advancing for 2027 / EU accession. **Gaps** = what you are still missing before courtroom or structuring advice is complete. This note is **Step 0** of the analysis-architecture roadmap (currency & ingestion map).
 
 ---
 
@@ -21,9 +21,11 @@ Hub: [[MOC — Fiscalitate & Contabilitate]] · Tax reasoning: [[Fiscalitate —
 
 ```
 MOC — Fiscalitate & Contabilitate
+├── Architecture map                 (cascade + bridges + taxonomy) ← Step 1
+├── MOC — Impozit pe venit           (first Axis-B hub) ← Step 1
 ├── Fiscalitate — synthesis          (system architecture + rates)
 ├── Contabilitate — synthesis        (L287 tiers + 2027 reset)
-├── Horizon & gaps (this note)
+├── Horizon & gaps (this note)       ← Step 0
 ├── Primary acts
 │   ├── Codul fiscal 1163/1997       (Titluri I–X + master notă)
 │   ├── Legea 287/2017 + Legea 86/2026
@@ -32,17 +34,18 @@ MOC — Fiscalitate & Contabilitate
 │   └── Legea 327/2025               (public-finance management; staged IF)
 ├── Concepts
 │   ├── Impozit pe venit · TVA · Accize · Rezident fiscal
-│   └── Situații financiare
+│   └── Situații financiare · Parc IT · Prima AOAM · Audit statutar
 └── Authority: SFS
 ```
 
 **Read order for most files**
 
-1. [[Fiscalitate — synthesis]] / [[Contabilitate & raportare financiară — synthesis]] — orientation  
-2. Relevant **Titlu** of [[Codul fiscal 1163-1997 (notă)|Codul fiscal]] or [[Legea 287-2017 — contabilitate (notă)|L287]]  
-3. [[Codul fiscal 1163-1997 — text — Titlul V]] if dispute / control  
-4. [[Codul vamal 95-2021 (notă)]] if goods cross the border  
-5. This horizon note — for whether a 2026/2027 reform changes the answer  
+1. [[Fiscalitate & Contabilitate — architecture map]] — how acts talk + which hub  
+2. [[Fiscalitate — synthesis]] / [[Contabilitate & raportare financiară — synthesis]] — orientation  
+3. Tax hub ([[MOC — Impozit pe venit]] first) or relevant **Titlu** of [[Codul fiscal 1163-1997 (notă)|Codul fiscal]] / [[Legea 287-2017 — contabilitate (notă)|L287]]  
+4. [[Codul fiscal 1163-1997 — text — Titlul V]] if dispute / control  
+5. [[Codul vamal 95-2021 (notă)]] if goods cross the border  
+6. This horizon note — for whether a 2026/2027 reform changes the answer  
 
 ---
 
@@ -52,7 +55,7 @@ Verified against MF summaries and the vault’s CF consolidation (Aug 2026). Re-
 
 | Theme | What changed | Vault anchor | Commercial bite |
 |---|---|---|---|
-| **VAT registration threshold** | Raised **1.2 → 1.5 MDL m** | Titlul III art. 112 area | More room to stay outside VAT / stay in 4% SME regime |
+| **VAT registration threshold** | Raised to **1.7 MDL m** ([[Legea 41-2026 — suport desfasurare afaceri (notă)\|L41/2026]]; was 1.5) | Titlul III art. 54¹ / 112 area | More room to stay outside VAT / stay in 4% SME regime |
 | **Energy reverse charge** | Domestic EE/gas to **comerciant**; also imports of energy + network services | Titlul III art. **101⁷** | Energy traders: invoice without VAT + self-account; declare comerciant status to SFS |
 | **VAT refund / ESOP package** | HG 93 refund chapters XI²/XI³; stock-option plan annex; payroll benefit valuation tweak | [[HG 829-2025 — modificare acte fiscale vamale audit (notă)\|HG 829/2025]] (IF 1 Jan 2026) · [[HG 93-2013 — restituirea TVA (notă)\|HG 93/2013]] | Reverse-charge refund math + staged gas payout; GMS ESOP plans must meet 3-year vesting / 25% cap |
 | **e-Factura deduction clamp removed** | Art. 102(18) **abrogated** 01.01.2026 | Titlul III art. 102 | Paper/other formats no longer automatic denial vs mandatory e-Factura users |
@@ -119,10 +122,10 @@ Verified against MF summaries and the vault’s CF consolidation (Aug 2026). Re-
 
 - [ ] Confirm whether advice is under **live 2026 CF** or must model **2027 Estonian-style draft** as contingency only.  
 - [ ] Energy wholesale: comerciant declaration + reverse-charge invoicing (art. 101⁷).  
-- [ ] Near VAT/SME boundary: remodel at **1.5 MDL m** threshold.  
+- [ ] Near VAT/SME boundary: remodel at **1.7 MDL m** threshold (L41/2026).  
 - [ ] Entities near L287 size lines: model **1 Jan 2027** L86 reclassification now.  
 - [ ] Public contractors: watch e-invoicing law (IF = EU accession) and e-Factura re-engineering.  
 - [ ] Do not cite draft 2027 rates (15% CIT / progressive PIT) as enacted.
 
 ## Related
-[[MOC — Fiscalitate & Contabilitate]] · [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] · [[Codul fiscal 1163-1997 (notă)]] · [[Legea 86-2026 — modificare Legea contabilitatii (notă)]] · [[SFS]] · [[Energetică — synthesis]]
+[[Fiscalitate & Contabilitate — architecture map]] · [[MOC — Impozit pe venit]] · [[Roadmap — Fiscalitate & Contabilitate analysis architecture]] · [[MOC — Fiscalitate & Contabilitate]] · [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] · [[Codul fiscal 1163-1997 (notă)]] · [[Legea 86-2026 — modificare Legea contabilitatii (notă)]] · [[SFS]] · [[Energetică — synthesis]]

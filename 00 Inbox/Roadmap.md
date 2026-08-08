@@ -65,8 +65,8 @@ Superscript "bis" articles (art. 36¹ etc.) that pdftotext flattens were reconst
 
 ## Next — highest value first
 
-### 0. Energy analysis architecture *(structuring track — 2026-08-07)*
-Reorganise synthesis around **inter-law communication** and **market segmentation**. Plan: [[Roadmap — Energy analysis architecture]]. Spine: [[Energetică — architecture map]]. Steps 1–7 ✅. Optional Step 8: fuller synthesis rewrite.
+### 0. Energy analysis architecture *(structuring track — Steps 1–8 ✅ 2026-08-08)*
+Reorganise synthesis around **inter-law communication** and **market segmentation**. Plan: [[Roadmap — Energy analysis architecture]]. Spine: [[Energetică — architecture map]]. Audit: [[Energetică — audit analysis layer (notă)]]. Other hubs: [[Playbook — Domain analysis architecture (other hubs)]]. Residual energy work = remediation backlog in the audit note, not new architecture steps.
 
 ### 1. Re-verify the remaining pre-L164 HANRE layer
 [[HANRE 283-2020 — Regulile pietei energiei electrice (text)|HANRE 283/2020]] still rests on L107 enabling articles (even though amended 2026). [[HANRE 423-2019 — Codul retelelor electrice (text)|HANRE 423/2019]] still lacks a clean consolidation — [[HANRE 656-2021 — modificare Codul retelelor electrice (notă)|656/2021]] now supplies Parts I–V substance. Check [ANRE › Hotărâri](https://anre.md/acte-normative-3-18) for re-adoptions under L164.

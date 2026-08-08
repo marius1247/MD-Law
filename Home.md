@@ -26,7 +26,7 @@ See [[Conventions]] for the full skeleton, naming, frontmatter, and ingestion wo
 ## Domain maps (your focus areas)
 | Hub | Read the synthesis first |
 |---|---|
-| [[MOC — Energetică]] | [[Energetică — synthesis]] · [[Energetică — architecture map]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[MOC — Piața produselor petroliere]] · [[MOC — Piața energiei termice]] · [[MOC — Biocarburanți și combustibili din biomasă]] |
+| [[MOC — Energetică]] | [[Energetică — synthesis]] · [[Energetică — architecture map]] · [[Energetică — audit analysis layer (notă)]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[MOC — Piața produselor petroliere]] · [[MOC — Piața energiei termice]] · [[MOC — Biocarburanți și combustibili din biomasă]] |
 | [[MOC — Societăți & Guvernanță corporativă]] | [[Societăți & guvernanță — synthesis]] |
 | [[MOC — Fiscalitate & Contabilitate]] | [[Fiscalitate — synthesis]] · [[Contabilitate & raportare financiară — synthesis]] |
 | [[MOC — Drept comercial]] | [[Drept comercial — synthesis]] |
@@ -56,5 +56,5 @@ All hubs: [[00 - Index general]]. Concept index: [[00 Index Concepts]].
 > **Currency:** [[Legea 107-2016 — energia electrica (text)|L107/2016]] was repealed in August 2025 by [[Legea 164-2025 — energia electrica (text)|L164/2025]]. [[HANRE 168-2019 — racordarea la retelele electrice (text)|HANRE 168/2019]] was abrogated by [[HANRE 311-2026 — racordarea la retelele electrice (text)|HANRE 311/2026]]. [[HANRE 486-2017 — Metodologie tarife transport EE (text)|HANRE 486/2017]] was abrogated by [[HANRE 626-2023 — Metodologie tarife transport EE (text)|HANRE 626/2023]].
 > **Completeness:** automated ingestion stops at ~96–102 KB. Manual browser downloads (now in `99 Attachments/source-legis/`) bypass that. [[HANRE 423-2019 — Codul retelelor electrice (text)|HANRE 423/2019]] connection code Titluri I–IV now ingested (still cross-check [[HANRE 656-2021 — modificare Codul retelelor electrice (text)|656/2021]]). Details: [[Status ingestie — Energetica]] · [[Conventions]].
 
-## Status *(2026-08-07)*
-Structuring Steps 1–7 ✅ (market hubs + cross-cutting prosumers / incentives / ESG). Spine: [[Energetică — architecture map]] · plan [[Roadmap — Energy analysis architecture]]. Optional Step 8: fuller synthesis rewrite. Corpus — [[Status ingestie — Energetica]].
+## Status *(2026-08-08)*
+Energy architecture Steps **1–8 ✅** (hubs + cross-cutting + synthesis rewrite + audit). Spine: [[Energetică — architecture map]] · audit [[Energetică — audit analysis layer (notă)]] · plan [[Roadmap — Energy analysis architecture]]. Other domains: [[Playbook — Domain analysis architecture (other hubs)]]. Corpus — [[Status ingestie — Energetica]].

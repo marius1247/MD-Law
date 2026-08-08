@@ -4,13 +4,13 @@ type: moc
 domeniu: energetică
 tags: [moc, index, energetică]
 created: 2026-07-22
-updated: 2026-08-07
+updated: 2026-08-08
 status: draft
 ---
 
 # MOC — Energetică
 
-Domain hub for the **energy sector**. 22 acts across three tiers. Core primary laws now carry **full consolidated text**; read [[Status ingestie — Energetica]] before citing — some ANRE acts remain partial, and one major act (L107/2016) was repealed in 2025.
+Domain hub for the **energy sector**. 22 acts across three tiers. Core primary laws now carry **full consolidated text**; read [[Status ingestie — Energetica]] before citing — some ANRE acts remain partial, and one major act (L107/2016) was repealed in 2025. Architecture Steps **1–8 ✅** — layer audit: [[Energetică — audit analysis layer (notă)]].
 
 > [!danger] The electricity law changed on 19 August 2025
 > **[[Legea 164-2025 — energia electrica (text)|Legea nr. 164/2025]] repealed [[Legea 107-2016 — energia electrica (text)|L107/2016]] in full.** Moldova moved from the EU third package to the **fourth** — plus **REMIT** and **CACM**. New regulated activities: **storage, aggregation, trading**. New actors: active consumers, citizen energy communities, independent aggregators, OPEED. Every ANRE act below was issued under the repealed law and is living on transitional provisions. → [[Legea 164-2025 — energia electrica (notă)]]
@@ -21,10 +21,11 @@ Domain hub for the **energy sector**. 22 acts across three tiers. Core primary l
 ## Analysis layer
 - **[[Energetică — synthesis]]** — the domain synthesis
 - **[[Energetică — architecture map]]** — inter-law bridges + market taxonomy · plan: [[Roadmap — Energy analysis architecture]]
+- **[[Energetică — audit analysis layer (notă)]]** — completeness & actuality audit (Step 8) + remediation backlog
 - **Market hubs:** [[MOC — Piața de energie electrică]] *(Steps 1–2 ✅)* · [[MOC — Piața gazelor naturale]] *(Step 3 ✅)* · [[MOC — Piața produselor petroliere]] *(Step 4 ✅)* · [[MOC — Piața energiei termice]] *(Step 5 ✅)* · [[MOC — Biocarburanți și combustibili din biomasă]] *(Step 6 ✅)* · [[Energetică — cărbune gap stub (notă)|coal gap]] · [[Energetică — geotermal gap stub (notă)|geothermal gap]] · [[Energetică — hidrogen gap stub (notă)|hydrogen gap]] · [[Energetică — segmente piață electricitate (notă)|EE briefs]] · [[Energetică — segmente piață gaze (notă)|gas briefs]] · [[Energetică — segmente piață petrol (notă)|petrol briefs]] · [[Energetică — segmente piață termică (notă)|thermal briefs]] · [[Energetică — segmente piață biocarburanți (notă)|biofuel briefs]] · [[Energetică — prosumatori și consumatori activi (notă)|prosumers layer]] · [[Energetică — incentives și scheme de sprijin (notă)|incentives]] · [[Energetică — ESG și guvernanță climatică (notă)|ESG]] · [[Energetică — prosumer vs consumator activ (notă)|prosumer↔active consumer]]
 - **Law House dossiers (cross-act):** [[Energetică — metodologii tarifare (notă)]] · [[Energetică — licențiere cross-border și REMIT (notă)]] · [[Energetică — contencios administrativ și precedente (notă)]]
 - **Sector dossiers:** [[Energetică — sector gaze ANRE (notă)]] · [[Energetică — sector electricitate ANRE (notă)]] · [[Energetică — tarife regenerabile si utilitati (notă)]]
-- **Vault audit:** [[Audit vault — Law House Knowledge Engine — 2026-07-28]] · [[Status ingestie — Uploads]]
+- **Vault audit:** [[Energetică — audit analysis layer (notă)]] · [[Audit vault — Law House Knowledge Engine — 2026-07-28]] · [[Status ingestie — Uploads]]
 - Act companions: **[[Legea 164-2025 — energia electrica (notă)|L164/2025]]** *(the law in force)* · [[Legea 108-2016 — gazele naturale (notă)|L108/2016]] · [[Legea 174-2017 — energetica (notă)|L174/2017]] · [[Legea 10-2016 — surse regenerabile (notă)|L10/2016]] · **[[Legea 139-2018 — eficienta energetica (notă)|L139/2018]]** · [[Legea 117-2009 — aderarea la Tratatul Comunitatii Energetice (notă)|L117/2009]] · **[[Legea 101-2026 — consolidarea mecanismelor de interventie in situatii de criza (notă)|L101/2026]]** · **[[HG 820-2024 — situatii exceptionale electroenergetic (notă)|HG 820/2024]]** · [[Codul administrativ 116-2018 (notă)|CA 116/2018]] · [[Legea 107-2016 — energia electrica (notă)|L107/2016]] *(superseded)*
 - Concepts: [[Concept — Tarif reglementat]] · [[Concept — Licență în energetică]] · [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă opțiune]] · [[Concept — Furnizor central de energie electrică]] · [[Concept — Producător eligibil]] · [[Concept — Facturare netă]] · [[Concept — Parte responsabilă de echilibrare]] · [[Concept — Furnizor de servicii de echilibrare]] · [[Concept — OPEED]] · [[Concept — Consumator activ]] · [[Concept — Agregator independent]] · [[Concept — Stocare a energiei]] · [[Concept — Comunitate de energie a cetățenilor]] · [[Concept — Contract la prețuri dinamice]] · [[Concept — Punct virtual de tranzacționare]] · [[Concept — Capacitate condiționată]] · [[Concept — Consum tehnologic gaze]] · [[Concept — Preț maxim ANRE produse petroliere]] · [[Concept — Situație de criză în domeniul petrolier]] · [[Concept — Audit energetic]] · [[Concept — Contract de performanță energetică]] · [[Concept — Parte obligată (eficiență energetică)]] · [[Concept — Eficiența energetică înainte de toate]] · [[Concept — Situație excepțională electroenergetică]] · [[Concept — Piața organizată a contractelor bilaterale]] · [[Concept — Indicatori de calitate SAIDI SAIFI]]
 - Analysis backlog (annex/parent gaps): [[Analysis backlog — texts without notes]]

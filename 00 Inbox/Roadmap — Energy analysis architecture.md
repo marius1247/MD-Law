@@ -3,8 +3,8 @@ title: "Roadmap — Energy analysis architecture"
 type: project
 tags: [project, roadmap, energetică, analysis]
 created: 2026-08-07
-updated: 2026-08-07
-status: in-progress
+updated: 2026-08-08
+status: complete
 ---
 
 # Roadmap — Energy analysis architecture
@@ -13,8 +13,11 @@ Reorganise the energy **analysis layer** so a practitioner can navigate by **(A)
 
 Corpus status and ingestion remain tracked in [[Status ingestie — Energetica]] and [[00 Inbox/Roadmap|the main vault roadmap]]. This note is the **structuring** track only.
 
+> [!success] Steps 1–8 complete (2026-08-08)
+> Spine filled. Residual work = remediation backlog in [[Energetică — audit analysis layer (notă)]] (currency + missing secondaries), not new architecture steps. Cross-domain: [[Playbook — Domain analysis architecture (other hubs)]].
+
 > [!tip] Entry point for the new layer
-> **[[Energetică — architecture map]]**. Electricity: [[MOC — Piața de energie electrică]]. Gas: [[MOC — Piața gazelor naturale]]. Petroleum: [[MOC — Piața produselor petroliere]] · coal gap [[Energetică — cărbune gap stub (notă)]]. Thermal: [[MOC — Piața energiei termice]] · geothermal gap [[Energetică — geotermal gap stub (notă)]]. Biofuels: [[MOC — Biocarburanți și combustibili din biomasă]] · hydrogen gap [[Energetică — hidrogen gap stub (notă)]].
+> **[[Energetică — architecture map]]**. Electricity: [[MOC — Piața de energie electrică]]. Gas: [[MOC — Piața gazelor naturale]]. Petroleum: [[MOC — Piața produselor petroliere]] · coal gap [[Energetică — cărbune gap stub (notă)]]. Thermal: [[MOC — Piața energiei termice]] · geothermal gap [[Energetică — geotermal gap stub (notă)]]. Biofuels: [[MOC — Biocarburanți și combustibili din biomasă]] · hydrogen gap [[Energetică — hidrogen gap stub (notă)]]. Audit: [[Energetică — audit analysis layer (notă)]].
 
 ---
 
@@ -88,13 +91,16 @@ Keep [[Energetică — synthesis]] as the short practitioner narrative. Do **not
 2. [[Energetică — incentives și scheme de sprijin (notă)]] — eligible producer · FCEE · FEE/CNED · L241 · biofuel ceilings
 3. [[Energetică — ESG și guvernanță climatică (notă)]] — HG 10 · PNIEC · L139 · biofuel GHG · disclosure bridge
 
-### Step 8 — Synthesis rewrite
-Retune [[Energetică — synthesis]] so §1–2 point at the architecture map, § market design expands by vector, and open threads map to Steps 2–7 rather than only ingestion gaps. *(Partial retune already done in deepening + Steps 5–7 pointers in §4.)*
+### Step 8 — Synthesis rewrite + audit ✅ *(2026-08-08)*
+- Rewrite [[Energetică — synthesis]] as architecture entry (§1–2 → map; §4 vector table; open threads → audit/ingestion)
+- Completeness & actuality audit: [[Energetică — audit analysis layer (notă)]]
+- Cross-domain replication guide: [[Playbook — Domain analysis architecture (other hubs)]]
 
 > [!note] Professional deepening pass *(2026-08-07)*
-> Steps 1–5 hubs received a **professional legal analysis** pass: architecture map §1.3 conflict themes; per-vector risk matrices on electricity / gas / petroleum / thermal MOCs; FCEE art. 150(3)–(4) hardened; FUO ≥6m vs HANRE 169 90d conflict surfaced; gas unbundling/PSO/reconciliation/servitude lifted from L108 note; petroleum crisis decision tree; thermal Cap. VI + dual-statute CHP checklist. Synthesis §4 updated. Incomplete sources remain flagged (HANRE 23 body, 201/2017, 535 annex, L461 Annex 2 OCR, HG 197 placeholders).
+> Steps 1–5 hubs received a **professional legal analysis** pass: architecture map §1.3 conflict themes; per-vector risk matrices on electricity / gas / petroleum / thermal MOCs; FCEE art. 150(3)–(4) hardened; FUO ≥6m vs HANRE 169 90d conflict surfaced; gas unbundling/PSO/reconciliation/servitude lifted from L108 note; petroleum crisis decision tree; thermal Cap. VI + dual-statute CHP checklist. Incomplete sources remain flagged in the Step 8 audit (HANRE 23 body, 201/2017, L461 Annex 2 OCR, etc.).
 
 ---
+
 
 ## Definition of done (per vector hub)
 
@@ -115,4 +121,4 @@ A market hub is “filled” when it has:
 **Do not open Step N+1 until Step N has a navigable stub.** Prefer one complete hub over seven empty folders. Electricity first because the corpus and concepts are densest; gas second because the package lag is the live legislative story.
 
 ## Related
-[[Energetică — architecture map]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[MOC — Piața produselor petroliere]] · [[MOC — Piața energiei termice]] · [[MOC — Biocarburanți și combustibili din biomasă]] · [[Energetică — prosumatori și consumatori activi (notă)]] · [[Energetică — incentives și scheme de sprijin (notă)]] · [[Energetică — ESG și guvernanță climatică (notă)]] · [[Energetică — segmente piață electricitate (notă)]] · [[Energetică — segmente piață gaze (notă)]] · [[Energetică — segmente piață petrol (notă)]] · [[Energetică — segmente piață termică (notă)]] · [[Energetică — segmente piață biocarburanți (notă)]] · [[Energetică — cărbune gap stub (notă)]] · [[Energetică — geotermal gap stub (notă)]] · [[Energetică — hidrogen gap stub (notă)]] · [[Energetică — synthesis]] · [[MOC — Energetică]] · [[00 Inbox/Roadmap]]
+[[Energetică — architecture map]] · [[Energetică — audit analysis layer (notă)]] · [[Playbook — Domain analysis architecture (other hubs)]] · [[MOC — Piața de energie electrică]] · [[MOC — Piața gazelor naturale]] · [[MOC — Piața produselor petroliere]] · [[MOC — Piața energiei termice]] · [[MOC — Biocarburanți și combustibili din biomasă]] · [[Energetică — prosumatori și consumatori activi (notă)]] · [[Energetică — incentives și scheme de sprijin (notă)]] · [[Energetică — ESG și guvernanță climatică (notă)]] · [[Energetică — segmente piață electricitate (notă)]] · [[Energetică — segmente piață gaze (notă)]] · [[Energetică — segmente piață petrol (notă)]] · [[Energetică — segmente piață termică (notă)]] · [[Energetică — segmente piață biocarburanți (notă)]] · [[Energetică — cărbune gap stub (notă)]] · [[Energetică — geotermal gap stub (notă)]] · [[Energetică — hidrogen gap stub (notă)]] · [[Energetică — synthesis]] · [[MOC — Energetică]] · [[00 Inbox/Roadmap]]

@@ -91,4 +91,4 @@ Roughly, in ascending order of size:
 - Verify headcount criterion / transitional practice for borderline entities under L86
 
 ## Related
-[[MOC — Fiscalitate & Contabilitate]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Fiscalitate — synthesis]] · [[Legea 287-2017 — contabilitate (notă)]] · [[Legea 86-2026 — modificare Legea contabilitatii (notă)]] · [[Legea 271-2017 — auditul situatiilor financiare (notă)]] · [[Concept — Situații financiare]] · [[Concept — Audit statutar]] · [[Societăți & guvernanță — synthesis]] · [[SFS]]
+[[MOC — Fiscalitate & Contabilitate]] · [[Fiscalitate & Contabilitate — architecture map]] · [[MOC — Impozit pe venit]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Fiscalitate — synthesis]] · [[Legea 287-2017 — contabilitate (notă)]] · [[Legea 86-2026 — modificare Legea contabilitatii (notă)]] · [[Legea 271-2017 — auditul situatiilor financiare (notă)]] · [[Concept — Situații financiare]] · [[Concept — Audit statutar]] · [[Societăți & guvernanță — synthesis]] · [[SFS]]

@@ -5,12 +5,14 @@ domeniu: [fiscal]
 tags: [concept, fiscal]
 status: reviewed
 created: 2026-07-23
-updated: 2026-08-06
+updated: 2026-08-08
 ---
 
 # Concept — Impozit pe venit
 
 **RO:** impozit pe venit · **EN:** income tax (corporate and personal)
+
+**Hub:** [[MOC — Impozit pe venit]] · Architecture: [[Fiscalitate & Contabilitate — architecture map]]
 
 ## Definition
 The tax on income, governed by **Titlul II of the Codul fiscal nr. 1163/1997**. Moldova uses **one Titlu for both** corporate and personal income tax, with common rules on source, residence and deductions and separate rate schedules.
@@ -89,11 +91,11 @@ Payments to non-residents — dividends, interest, royalties, certain services �
 - **Codul fiscal, Titlul II** — income tax (anchors above)
 - **Codul fiscal, Titlul V** — administration, control, appeals
 - **Codul fiscal, Titlul X** + [[Legea 77-2016 — parcuri tehnologia informatiei (notă)|L77/2016]] — IT Park single tax → [[Concept — Parc IT]]
-- Annual fiscal-policy law — **ingest still open**
+- Annual fiscal-policy law — [[Legea 318-2025 — modificare acte fiscale (notă)|L318/2025]] ✅; successors when enacted
 - **Legea nr. 287/2017** — the accounting base
 
 ## Related
-[[Concept — TVA]] · [[Concept — Rezident fiscal]] · [[Concept — Situații financiare]] · [[Fiscalitate — synthesis]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Codul fiscal 1163-1997 (notă)]] · [[Societăți & guvernanță — synthesis]] · [[SFS]]
+[[MOC — Impozit pe venit]] · [[Fiscalitate & Contabilitate — architecture map]] · [[Concept — TVA]] · [[Concept — Rezident fiscal]] · [[Concept — Situații financiare]] · [[Concept — Parc IT]] · [[Fiscalitate — synthesis]] · [[Fiscalitate & Contabilitate — horizon and gaps]] · [[Codul fiscal 1163-1997 (notă)]] · [[Societăți & guvernanță — synthesis]] · [[SFS]]
 
 ## Notes / conclusions
 > The headline 12% is not the number that matters. What matters is the **combination**: which regime applies, what the base is (profit or turnover), whether art. 87(11) deferral is available, and what the extraction route costs on top. Never treat the 2027 Estonian draft as current law.

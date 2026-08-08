@@ -24,7 +24,7 @@ last_amended: '2026-08-06'
 
 # Codul fiscal nr. 1163/1997 — Master analysis
 
-**Raw text index:** [[Codul fiscal 1163-1997 (text) — Index]] ✅ *complete by Titlu* · **Hub:** [[MOC — Fiscalitate & Contabilitate]] · **Synthesis:** [[Fiscalitate — synthesis]] · **Horizon:** [[Fiscalitate & Contabilitate — horizon and gaps]] · **Administrator:** [[SFS]]
+**Raw text index:** [[Codul fiscal 1163-1997 (text) — Index]] ✅ *complete by Titlu* · **Hub:** [[MOC — Fiscalitate & Contabilitate]] · **Income hub:** [[MOC — Impozit pe venit]] · **Architecture:** [[Fiscalitate & Contabilitate — architecture map]] · **Synthesis:** [[Fiscalitate — synthesis]] · **Horizon:** [[Fiscalitate & Contabilitate — horizon and gaps]] · **Administrator:** [[SFS]]
 
 > [!warning] Rates, thresholds and exemptions are time-sensitive
 > The Fiscal Code is amended every year through the fiscal-policy package, typically effective 1 January. The rates and thresholds mentioned here are a July / August 2026 orientation only. **Before quoting any number, re-check the current consolidation, [[SFS]] guidance and Ministry of Finance materials.** Do not cite the 2027 Estonian-style CIT draft as enacted.
